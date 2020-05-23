@@ -1,0 +1,76 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_GoronsRock_Desc"
+msgid ""
+"Bladon's brother Gonguron should have been\n"
+"back by now...\n"
+"\n"
+"It sounds like he went to <1.se_co>Gorko Tunnel<2.re_co>,\n"
+"southwest of Gorko Lake, to dig up the\n"
+"secret of the hero."
+msgstr ""
+
+msgctxt "QL_GoronsRock_Finish"
+msgid ""
+"Gonguron ate the deliciously grilled rock roast,\n"
+"giving him the energy he needed to break the\n"
+"wall covering an ancient shrine.\n"
+"\n"
+"Bladon beamed with pride to see how strong\n"
+"Gonguron had become."
+msgstr ""
+
+msgctxt "QL_GoronsRock_Name"
+msgid "A Brother's Roast"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_GoronsRock_Step005"
+msgid ""
+"Now that Bladon knows what his brother\n"
+"Gonguron was really up to, he wants you to\n"
+"find and bring him a <1.se_co>rock roast<2.re_co>.\n"
+"\n"
+"<3.se_co>Rock roasts<4.re_co> can be found around Gortram Cliff,\n"
+"down the hill ahead of Gorko Tunnel."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_GoronsRock_Step010"
+msgid ""
+"Now that Bladon knows what his brother\n"
+"Gonguron was really up to, he wants you to\n"
+"find and bring him a <1.se_co>rock roast<2.re_co>.\n"
+"\n"
+"Bring a <3.se_co>rock roast <4.re_co>to Bladon and his brother,\n"
+"who are waiting at Gorko Tunnel."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_GoronsRock_Step020"
+msgid ""
+"Now that Bladon knows what his brother\n"
+"Gonguron was really up to, he wants you to\n"
+"find and bring him a <1.se_co>rock roast<2.re_co>.\n"
+"\n"
+"Bring a <3.se_co>rock roast <4.re_co>to Bladon and his brother,\n"
+"who are waiting at Gorko Tunnel."
+msgstr ""
+
+msgctxt "QL_GoronsRock_Step030"
+msgid "NOT USED * REPORT IF IT APPEARS"
+msgstr ""
+
+msgctxt "QL_GoronsRock_Step040"
+msgid "NOT USED * REPORT IF IT APPEARS"
+msgstr ""
+

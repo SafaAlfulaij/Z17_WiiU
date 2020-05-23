@@ -1,0 +1,82 @@
+#. 1: sound2
+msgctxt "DekuTree_A_01_Talk000"
+msgid ""
+"<1.so>If you hope to extract the sword, you'll\n"
+"need to summon a hero's strength.\n"
+"\n"
+"Let us see how brightly your life force\n"
+"burns.\n"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "DekuTree_A_01_Talk010"
+msgid ""
+"<1.so>The sword cares not for your physical\n"
+"might. It is moved by what lies within.\n"
+"\n"
+"It cuts through bravado and superficial\n"
+"enhancements. Only true strength can\n"
+"draw it from its resting place.\n"
+"The only way to know if you have what\n"
+"it takes...<2.pa>is to try."
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: sound2
+msgctxt "DekuTree_A_01_Talk020"
+msgid ""
+"<1.so>When used against Calamity Ganon or\n"
+"those tinged with its Malice, the\n"
+"<2.se_co>Master Sword <3.re_co>will shroud itself in light.\n"
+"It is then that the true power of the\n"
+"sword will manifest.<4.pa> But you cannot rely\n"
+"solely on the power of the blade.\n"
+"If you swing it about recklessly, it will\n"
+"forget its purpose and be rendered\n"
+"powerless for a time.\n"
+"Should this happen, you must wait for\n"
+"the sword to recover.\n"
+"\n"
+"It would be foolish to rely on the sword\n"
+"alone if you mean to defeat Ganon.\n"
+"\n"
+"You should also consider freeing the\n"
+"Divine Beasts in order to improve your\n"
+"position.\n"
+"<5.so>I would most like to see her smiling face\n"
+"again... The lost princess."
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: sound2
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (long)
+msgctxt "DekuTree_A_01_Talk030"
+msgid ""
+"<1.so>When used against Calamity Ganon or\n"
+"those tinged with its Malice, the\n"
+"<2.se_co>Master Sword <3.re_co>will shroud itself in light.\n"
+"It is then that the true power of the\n"
+"sword will manifest.<4.pa> But you cannot rely\n"
+"solely on the power of the blade.\n"
+"If you swing it about recklessly, it will\n"
+"forget its purpose and be rendered\n"
+"powerless for a time.\n"
+"Should this happen, you must wait for\n"
+"the sword to recover.\n"
+"\n"
+"<5.so>The <6.se_co>Master Sword <7.re_co>waited for you for\n"
+"100 years. Wield it with respect.<8.pa> Wield it\n"
+"to save the one who waits for you.\n"
+"I would most like to see her smiling face\n"
+"again... The lost princess."
+msgstr ""
+

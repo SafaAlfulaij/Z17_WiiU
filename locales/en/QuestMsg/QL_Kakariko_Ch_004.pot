@@ -1,0 +1,32 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Kakariko_Ch_004_Desc"
+msgid ""
+"Kakariko Village is famous for its fireflies.\n"
+"Watching their faint glow in the night air is\n"
+"a bit like gazing at the night sky.\n"
+"\n"
+"Lasli, the clothes-shop barker, is a huge firefly\n"
+"fan. But she's under strict orders from her\n"
+"grandmother not to walk outside late at night.\n"
+"\n"
+"\"<1.se_co>If only the fireflies came to play here so I could\n"
+"still see them...<2.re_co>\" Can you make Lasli's wish\n"
+"come true?"
+msgstr ""
+
+msgctxt "QL_Kakariko_Ch_004_Finish"
+msgid ""
+"Kakariko Village is famous for its fireflies.\n"
+"Watching their faint glow in the night air is\n"
+"a bit like gazing at the night sky.\n"
+"\n"
+"Lasli, the clothes-shop barker, is a huge firefly\n"
+"fan. Now that she can see her favorite sight\n"
+"from the comfort of home, she's happy again."
+msgstr ""
+
+msgctxt "QL_Kakariko_Ch_004_Name"
+msgid "By Firefly's Light"
+msgstr ""
+

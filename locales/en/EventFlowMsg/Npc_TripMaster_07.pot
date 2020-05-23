@@ -1,0 +1,70 @@
+#. 1: sound2
+msgctxt "ClearTerrorEnemy"
+msgid "<1.so>Phew..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "ClearTerrorGuardian"
+msgid "<1.so>That was scary..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near"
+msgid "<1.so>♪I also buy stuff!♪"
+msgstr ""
+
+msgctxt "TerrorAnimal"
+msgid "Get back!"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Please stop!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "WHOA NOW!"
+msgstr ""
+
+msgctxt "TerrorEnemy"
+msgid "Eeeeeeeeek!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "Haaaaeeeeee!"
+msgstr ""
+
+msgctxt "TerrorFire"
+msgid "I don't like fire!"
+msgstr ""
+
+msgctxt "TerrorGuardian"
+msgid "Hyeeeeeeehh!"
+msgstr ""
+
+msgctxt "TerrorHorse"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorImpulse"
+msgid "Ohhh!"
+msgstr ""
+
+msgctxt "TerrorInsect"
+msgid "NOT BEES! AHHHH!"
+msgstr ""
+
+msgctxt "TerrorLightning"
+msgid "AHHH!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Owww!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_03"
+msgid ""
+"<1.so>Whooooa! You made it all the way here?!\n"
+"You're almost as crazy as Beedle!"
+msgstr ""
+

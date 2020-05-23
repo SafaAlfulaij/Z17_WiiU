@@ -1,0 +1,58 @@
+msgctxt "Near_Raimei_001"
+msgid "Ah, the Thunder Helm!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (longer)
+msgctxt "Talk00"
+msgid ""
+"<1.so>Thanks to your break-in at the bandits'\n"
+"hideout, they spread their forces thin\n"
+"looking for you.\n"
+"It was just the opening I needed to bust\n"
+"out and return here. <2.pa>I owe you my life!<3.ra><4.so>Seriously... "
+"<5.pa>If you hadn't shown up...<6.pa>\n"
+"Best case scenario, I'd have been\n"
+"doomed to an all-banana diet."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+msgctxt "Talk01"
+msgid ""
+"<1.so>It WAS you who saved me, right?\n"
+"I'm not mistaken?<2.ra>I was so frustrated after being captured\n"
+"that your face didn't quite register with\n"
+"me, but I definitely remember your voice.\n"
+"<3.so>You have no idea how embarrassed I am\n"
+"for getting an outsider caught up in our\n"
+"business.\n"
+"After the stern talking-to I got from my\n"
+"captain, I think I'll stay on my best\n"
+"behavior for a while."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: sound
+#. 5: sound
+#. 6: text_size
+#. 7: pause (short)
+#. 8: text_size
+msgctxt "Talk02"
+msgid ""
+"<1.so>Hmm... <2.pa>Aren't you the one who broke\n"
+"into the Yiga Clan's hideout?<3.ra><4.so>They spread their forces so thin"
+" looking\n"
+"for you that I managed to bust out and\n"
+"return here. I owe you my life!\n"
+"<5.so><6.te_si>Don't worry, I won't tell anyone you're voe.<7.pa>\n"
+"It's the least I can do.<8.te_si>"
+msgstr ""
+

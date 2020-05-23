@@ -1,0 +1,71 @@
+msgctxt "0000"
+msgid "I love adventure..."
+msgstr ""
+
+msgctxt "0001"
+msgid "I guess."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_0001"
+msgid ""
+"<1.so>Ugh, why do some people equate the\n"
+"unnecessary pursuit of power with\n"
+"some childish dream of adventure?\n"
+"That sword may be good for slaying\n"
+"monsters, sure, but it's not like a\n"
+"sword alone makes a hero. Ya know?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk_0002"
+msgid ""
+"<1.so>Huh?<2.pa> Oh, I guess you did venture all the\n"
+"way out to a stable in the mountains,\n"
+"didn't you..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk_0003"
+msgid ""
+"<1.so>If the <2.se_co>sword that seals the darkness<3.re_co>\n"
+"or whatever it's called really exists...\n"
+"\n"
+"I hope a kind swordsman like you will be\n"
+"the one to wield it."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_1000"
+msgid ""
+"<1.so>I've got to clean while it's still dark...\n"
+"Must clean..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: raw
+msgctxt "talk_2000"
+msgid ""
+"<1.so>Welcome to <2.se_co>Snowfield Stable<3.re_co>!<4.ra>If you're "
+"planning to head deeper into\n"
+"the snow, I recommend resting in one\n"
+"of our soft beds first."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_5000"
+msgid ""
+"<1.so>I overheard what you and Danton were\n"
+"talking about.\n"
+"\n"
+"I can't do much to help, but...I'll keep\n"
+"this stable clean and tidy, so please\n"
+"come rest here when you need to."
+msgstr ""
+

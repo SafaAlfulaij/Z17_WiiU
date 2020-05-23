@@ -1,0 +1,57 @@
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Talk_03"
+msgid ""
+"<1.so><2.te_si>Hey, hey, hey!!<3.te_si>\n"
+"\n"
+"\n"
+"Only someone who has proven\n"
+"themselves may touch that ancient item!\n"
+"\n"
+"Don't for a moment think you can just\n"
+"walk up and touch it anytime you like!\n"
+"It's not for you!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: pause (long)
+#. 5: text_size
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "Talk_04"
+msgid ""
+"<1.so><2.te_si>Hey, hey!<3.pa> Hey, hey, hey!<4.pa> Hey!!!<5.te_si>\n"
+"\n"
+"\n"
+"That item is only for those who have\n"
+"proven themselves in the <6.se_co>sand-seal\n"
+"races<7.re_co>! <8.pa>Hands off!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Talk_05"
+msgid ""
+"<1.so><2.te_si>Hey, hey! Hey, hey! <3.te_si>\n"
+"\n"
+"\n"
+"That <4.se_co>sand-seal race<5.re_co> trophy is obviously\n"
+"only for those who've proven themselves\n"
+"worthy!\n"
+"Cool it with the grabby grabby!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_06"
+msgid ""
+"<1.so>Is that any way to treat a fragile old\n"
+"woman!"
+msgstr ""
+

@@ -1,0 +1,218 @@
+msgctxt "0000"
+msgid "I'm a humble traveler."
+msgstr ""
+
+msgctxt "0001"
+msgid "..."
+msgstr ""
+
+msgctxt "0002"
+msgid "I'm the best!"
+msgstr ""
+
+msgctxt "0003"
+msgid "No, not at all."
+msgstr ""
+
+msgctxt "0004"
+msgid "Legendary sword?"
+msgstr ""
+
+msgctxt "0005"
+msgid "I'm not interested."
+msgstr ""
+
+msgctxt "0006"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0007"
+msgid "No."
+msgstr ""
+
+msgctxt "0008"
+msgid "It's legendary."
+msgstr ""
+
+msgctxt "0009"
+msgid "It's a fake."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk00"
+msgid "<1.so>Heyo. Who are you?!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk01"
+msgid "<1.so>*tsk*<2.pa> Ignoring me, I see."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk02"
+msgid "<1.so>Hmph. <2.pa>Show-off."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk04"
+msgid ""
+"<1.so>Traveling alone to a place like this?<2.pa>\n"
+"You must be a man who sets his mind\n"
+"on something and then gets it done!<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Your modesty is overwhelming..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: choice
+msgctxt "talk06"
+msgid ""
+"<1.so>That's why I thought, if I can get that\n"
+"<2.se_co>legendary sword<3.re_co>,<4.pa> maybe a new path\n"
+"will open up for me! <5.pa>Whaddaya think?<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk07"
+msgid ""
+"<1.so>That's right!\n"
+"\n"
+"\n"
+"I finally figured out that it's near\n"
+"<2.se_co>Death Mountain<3.re_co>. However...<4.pa>it doesn't\n"
+"seem to be in this direction.\n"
+"<5.so>Maybe it's on the opposite side,\n"
+"closer to the <6.se_co>Woodland Stable<7.re_co>..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid ""
+"<1.so>I was really into sword fighting,\n"
+"but I'm in a bit of a rut with it.\n"
+"\n"
+"Doesn't help that the sword I'm using\n"
+"right now is way too blunt."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk09"
+msgid ""
+"<1.so>Whoa. <2.pa>That <3.se_co>sword<4.re_co> you have there.\n"
+"Could it be...<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid "<1.so>Anyway..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid "<1.so>Hmm?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk12"
+msgid "<1.so>Oh. <2.pa>It's you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk13"
+msgid ""
+"<1.so>I take it you're looking for<2.pa> the fabled\n"
+"<3.se_co>sword of legend<4.re_co> too?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk14"
+msgid ""
+"<1.so>Well, I'm not lettin' you have it!\n"
+"\n"
+"\n"
+"<2.so>In fact, I think I'll just go ahead and\n"
+"mosey over to the <3.se_co>Woodland Stable<4.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid "<1.so>Then get outta my face!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk16"
+msgid ""
+"<1.so>Hmm... <2.pa>Maybe I'll just mosey over to\n"
+"the <3.se_co>Woodland Stable<4.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk17"
+msgid "<1.so>HA! <2.pa>You must be joking!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk18"
+msgid "<1.so>Right?!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "talk20"
+msgid ""
+"<1.so>I hear the <2.se_co>legendary sword<3.re_co> is hidden\n"
+"deep in a forest.<4.pa> But no one has ever\n"
+"returned from that forest..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk21"
+msgid "<1.so>How could a twig like you find it?!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk22"
+msgid ""
+"<1.so>I'm gonna go after that <2.se_co>legendary sword<3.re_co>,<4.pa>\n"
+"so just stay outta my way!"
+msgstr ""
+

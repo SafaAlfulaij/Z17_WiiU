@@ -1,0 +1,12 @@
+msgctxt "QL_MiniGame_ParasailRide_Finish"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_MiniGame_ParasailRide_Flying"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_MiniGame_ParasailRide_WaitToTakeOff"
+msgid "<NO_STRING>"
+msgstr ""
+

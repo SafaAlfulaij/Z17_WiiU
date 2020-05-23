@@ -1,0 +1,42 @@
+msgctxt "0000"
+msgid "Enter."
+msgstr ""
+
+msgctxt "0001"
+msgid "Quit."
+msgstr ""
+
+msgctxt "Npc_DungeonPriest_talk000"
+msgid ""
+"To the one who approaches this\n"
+"Divine Beast... In the name of the\n"
+"Goddess Hylia, I offer this trial."
+msgstr ""
+
+msgctxt "Npc_DungeonPriest_talk100"
+msgid ""
+"In exchange for Naboris's Emblems...\n"
+"you will be granted the chance to\n"
+"tread through the realm of memories."
+msgstr ""
+
+msgctxt "Npc_DungeonPriest_talk101"
+msgid ""
+"Those who lack determination will find\n"
+"this trial unforgiving.\n"
+"\n"
+"Do not take this place lightly, nor dismiss\n"
+"it as merely a world within your mind.\n"
+"The truth is much deeper than you know."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "Npc_DungeonPriest_talk200"
+msgid ""
+"Courageous hero... Dare you confront a\n"
+"realm of illusion and memory... Dare you\n"
+"enter the <1.se_co>Divine Beast Vah Naboris<2.re_co>?<3.ch>"
+msgstr ""
+

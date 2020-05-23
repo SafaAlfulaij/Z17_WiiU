@@ -1,0 +1,53 @@
+msgctxt "Demo119_0_Text004"
+msgid "... Hm."
+msgstr ""
+
+msgctxt "Demo119_0_Text005"
+msgid "After all these years, I simply must admit the truth..."
+msgstr ""
+
+msgctxt "Demo119_0_Text006"
+msgid ""
+"Even without the power of flight,\n"
+"Link made his way to this Divine Beast..."
+msgstr ""
+
+msgctxt "Demo119_0_Text007"
+msgid "And accomplished something that even I could not..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo119_0_Text008"
+msgid "Guess I was wrong about...<1.ra>how lucky he would be."
+msgstr ""
+
+msgctxt "Demo119_0_Text010"
+msgid "Medoh's sights are now set."
+msgstr ""
+
+msgctxt "Demo119_0_Text012"
+msgid "Now we wait for that perfect moment..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo119_0_Text013"
+msgid "I hope that luck holds out, Link...<1.ra>For everyone's sake."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo119_0_Text014"
+msgid ""
+"You'll have a precise bead on Ganon\n"
+"from this vantage point. <1.ra>And when the time is right,\n"
+"give him everything you've got!"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo119_0_Text015"
+msgid ""
+" <1.ra>Medoh, we've been artfully patient\n"
+"for the last 100 years.<2.ra>I doubt you'll suffer a feather\n"
+"over a few more moments..."
+msgstr ""
+

@@ -1,0 +1,31 @@
+#. 1: pause (43f)
+#. 2: pause (73f)
+#. 3: pause (105f)
+msgctxt "Demo706_0_Text000"
+msgid ""
+"Well, well, well...<1.pa>\n"
+"\n"
+"\n"
+"You sure do know how to keep a\n"
+"woman waiting.<2.pa>\n"
+"\n"
+"I can't wait to see you take Naboris back\n"
+"from Ganon!<3.pa>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: pause (128f)
+msgctxt "Demo706_0_Text001"
+msgid ""
+"Head over to that <1.se_co>Guidance Stone <2.re_co>over\n"
+"there. Sounds easy, right?<3.pa>"
+msgstr ""
+
+#. 1: pause (131f)
+msgctxt "Demo706_0_Text002"
+msgid ""
+"One thing at a time. You'll need a map\n"
+"to find your way around.<1.pa>"
+msgstr ""
+

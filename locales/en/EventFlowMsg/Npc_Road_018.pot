@@ -1,0 +1,443 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>*pant<2.pa> pant* <3.pa>\n"
+"Frankly, I thought I was done for..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "Atacked01"
+msgid ""
+"<1.so>Shh! <2.pa>Looks like there are still some\n"
+"monsters about...<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed00"
+msgid "<1.so>Ouch, this scratch...<2.pa> I hope it'll heal..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Ow! Owowowow... <2.pa>What a terrible thing\n"
+"to have happen to me..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Guardian00"
+msgid ""
+"<1.so>We've got to run!<2.pa> There's a <3.se_co>Guardian<4.re_co>\n"
+"coming this way!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: sound
+msgctxt "MSG_Futa_00"
+msgid ""
+"<1.so>Hmm... I don't know how interested\n"
+"you'd be to hear about this, really...\n"
+"\n"
+"<2.so>Oh, what the heck!<3.pa> I wanted to talk about\n"
+"gems!<4.pa> Still interested? Maybe not, but...\n"
+"\n"
+"<5.so>What would you say if I told you that you\n"
+"can sell gems at ridiculously high prices!\n"
+"Interested now?"
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Futa_00_1"
+msgid ""
+"<1.so>Even if the sight of gems doesn't spur\n"
+"you to action, I'm sure the sight of what\n"
+"they sell for will!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+msgctxt "MSG_Futa_01"
+msgid ""
+"<1.so>...Have you ever been to the\n"
+"Dueling Peaks?\n"
+"\n"
+"Those mountains are really rich in ore!\n"
+"I want to get out there with a trusty\n"
+"hammer and really mine up a fortune!\n"
+"<2.so>I can see it now...<3.pa> Big piles of gems\n"
+"stacked neatly as far as the eye can see.\n"
+"A buyer giving me tons of rupees...\n"
+"<4.so>Oh! Sorry...<5.pa> When I think about gems,\n"
+"I just get so excited..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Futa_01_1"
+msgid ""
+"<1.so>You can dig up a bunch of ore on \n"
+"Dueling Peaks!<2.pa> Now that I think about it,\n"
+"I should use a hammer to mine that ore!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "MSG_Futa_02"
+msgid ""
+"<1.so>You wouldn't happen to be heading to\n"
+"<2.se_co>Kakariko Village<3.re_co>, would you?\n"
+"\n"
+"If you are, just follow the roads north.\n"
+"\n"
+"\n"
+"<4.so>That village is one of the places I\n"
+"sell ore at, so I know the way\n"
+"really well!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "MSG_Futa_02_1"
+msgid ""
+"<1.so>To get to <2.se_co>Kakariko Village<3.re_co>, follow the\n"
+"roads north."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (short)
+#. 11: pause (long)
+#. 12: sound
+#. 13: pause (long)
+msgctxt "MSG_Futa_03"
+msgid ""
+"<1.so>...<2.pa>\n"
+"\n"
+"\n"
+"<3.so>Oh, yikes! I'm sorry!<4.pa> I was having such a\n"
+"beautiful daydream, I was completely\n"
+"zoned out...\n"
+"Thinking about<5.pa> <6.se_co>rubies<7.re_co> and "
+"<8.se_co>sapphires<9.re_co>...\n"
+"\n"
+"\n"
+"Those two gems can be sold at really\n"
+"high prices!<10.pa> They're some of the best\n"
+"gems to sell for serious money!!<11.pa>\n"
+"<12.so>...Sorry.<13.pa> I just get so carried away when\n"
+"it comes to gems..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "MSG_Futa_03_1"
+msgid ""
+"<1.so>The best way to realize a gem's true\n"
+"value is by selling it!<2.pa> <3.se_co>Rubies<4.re_co> and\n"
+"<5.se_co>sapphires<6.re_co> sell for a high price!\n"
+"Better to sell than to hold on to them\n"
+"until you're old and gray!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "MSG_Futa_04"
+msgid ""
+"<1.so>A gem's value lies in its beauty... I was\n"
+"just thinking about all the wonderful\n"
+"gems I've seen!\n"
+"And I was thinking about the glee I've\n"
+"felt when I consider all the money one\n"
+"can sell a beautiful gem for!\n"
+"<2.so>Not to brag, but I just made a few sales\n"
+"and am feeling full of glee at\n"
+"the moment..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "MSG_Futa_04_1"
+msgid ""
+"<1.so>Physically owning something as\n"
+"beautiful as a gem is important, but...<2.pa>\n"
+"money is nice, too."
+msgstr ""
+
+msgctxt "Near00"
+msgid "♪Morn'n diamonds.♪"
+msgstr ""
+
+msgctxt "Near01"
+msgid "♪Sun rays of topaz.♪"
+msgstr ""
+
+msgctxt "Near02"
+msgid "♪Rupees over rubies.♪"
+msgstr ""
+
+msgctxt "Near03"
+msgid "♪Stars are sapphires.♪"
+msgstr ""
+
+msgctxt "Near04"
+msgid "♪It's raining opals.♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (long)
+msgctxt "Rest_00"
+msgid ""
+"<1.so>You've got a nice pouch for carrying\n"
+"things,<2.pa> but are you carrying a lot of ore?\n"
+"\n"
+"If you're just carrying it around,<3.pa> you're\n"
+"missing out on a chance to make a\n"
+"killing!<4.pa> Ore is valuable!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+msgctxt "Rest_01"
+msgid ""
+"<1.so>When it's pouring rain, the fuses on\n"
+"bomb arrows will go out, so they\n"
+"won't explode.\n"
+"<2.so>What's with that look?<3.pa> Am I not allowed\n"
+"to talk about something besides ore?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>...<2.pa>\n"
+"\n"
+"\n"
+"Honestly, I don't feel much like talking\n"
+"when it's all rainy out..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: sound
+msgctxt "RetMSG_Futa_00"
+msgid ""
+"<1.so>I love pretty much everything that\n"
+"sparkles...<2.pa> Stars in the night sky... <3.pa>The\n"
+"shimmer off a lake...<4.pa> Gems...\n"
+"Oh, gems, I'd pick you over everything\n"
+"else!\n"
+"\n"
+"<5.so>...Because I can sell you at a high price\n"
+"and be rolling in money!\n"
+"\n"
+"*sigh* I love things that sparkle so much."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "RetMSG_Futa_00_1"
+msgid ""
+"<1.so>I love the way a gem sparkles in the right\n"
+"light, but the profits selling a gem can\n"
+"bring also sparkle something wonderful.\n"
+"<2.so>I guess I just really love things\n"
+"that sparkle."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "RetMSG_Futa_01"
+msgid ""
+"<1.so>I know this may seem a little random, but\n"
+"have you got a hammer?<2.pa> It'll be helpful\n"
+"to have one if you're gonna collect ore.\n"
+"Some people use explosives instead,\n"
+"though...<3.pa> It's really dangerous, but they\n"
+"still do it.\n"
+"Just... <4.pa>Please don't use explosives near\n"
+"me, OK?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Futa_01_1"
+msgid ""
+"<1.so>Some people use bombs...<2.pa> \n"
+"But hammers are the best for mining."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: sound
+msgctxt "RetMSG_Futa_02"
+msgid ""
+"<1.so>You're lost, aren't you?<2.pa> Oh, no, it's OK!\n"
+"Everyone gets lost from time to time.\n"
+"\n"
+"The <3.se_co>Dueling Peaks Stable<4.re_co> is to the south,\n"
+"and <5.se_co>Hateno Village<6.re_co> is to the east.<7.pa> If you\n"
+"have a map, look at it as you travel.\n"
+"<8.so>It's too bad there isn't a map to life,\n"
+"you know?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "RetMSG_Futa_02_1"
+msgid ""
+"<1.so>The <2.se_co>Dueling Peaks Stable<3.re_co> is to the south,\n"
+"and <4.se_co>Hateno Village<5.re_co> is to the east.<6.pa> Make\n"
+"use of your map while you're traveling."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "RetMSG_Futa_03"
+msgid ""
+"<1.so>Have you got some experience handling\n"
+"dangerous items?<2.pa> Like...bombs?\n"
+"\n"
+"There's a ton of high-quality ore around\n"
+"here, and bombs can be used to mine it\n"
+"quickly. Plus, there'll be a cool explosion!\n"
+"<3.so>Just... <4.pa>Don't set the bombs off near\n"
+"me, OK?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "RetMSG_Futa_03_1"
+msgid ""
+"<1.so>There's a lot of high-quality ore around\n"
+"here...<2.pa> How about using a bomb to make\n"
+"an exciting <3.se_co>explosion<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "RetMSG_Futa_04"
+msgid ""
+"<1.so>I can't think about anything else... <2.pa>\n"
+"It's just ore and gems and making money\n"
+"all the time...\n"
+"Maybe I should try thinking about things\n"
+"that can help others and not just my\n"
+"wallet...\n"
+"<3.so>For example... Did you know you can put\n"
+"a <4.se_co>bird egg<5.re_co> into a hot spring and you'll\n"
+"make a hard-boiled egg? That's helpful!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "RetMSG_Futa_04_1"
+msgid ""
+"<1.so>My stomach is rumbling...<2.pa>\n"
+"Maybe I'll put a <3.se_co>bird egg <4.re_co>into a \n"
+"hot spring to make a hard-boiled egg..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_00"
+msgid "<1.so>The monsters are gone, right? <2.pa>Right?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Phew... <2.pa>I managed to get away\n"
+"somehow..."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>I thought for sure I was done for, but I\n"
+"somehow managed to narrowly\n"
+"escape death!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>Wow, you're really powerful!<2.pa> I'll never\n"
+"forget that I owe you my life!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_00"
+msgid "<1.so>I owe you my life!<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>If you hadn't shown up when you did,<2.pa>\n"
+"right now I'd probably be... Well..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Thanks00"
+msgid "<1.so>This is to show my thanks!"
+msgstr ""
+

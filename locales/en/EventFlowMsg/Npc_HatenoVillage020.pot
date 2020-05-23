@@ -1,0 +1,116 @@
+msgctxt "near00"
+msgid "Wow, really?!"
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "near01"
+msgid "...No clothes? <1.pa>Really?"
+msgstr ""
+
+msgctxt "near03"
+msgid "Zzzzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk00"
+msgid ""
+"<1.so>What do you have there?<2.pa>\n"
+"Um, that's really dangerous.\n"
+"You shouldn't run around with that."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>That thing you're holding...<2.pa>\n"
+"It's dangerous! So put it away!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "talk02"
+msgid "<1.so>...Whozat? <2.te_si>Zzzzzrrmblle...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk04"
+msgid ""
+"<1.so>I'm waiting for someone. <2.pa>\n"
+"And it's not you. Can you go away?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk05"
+msgid "<1.so>Um...<2.pa> Would you mind not following me?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk06"
+msgid ""
+"<1.so>Hey! Captain Snoop!<2.pa> You want to get out\n"
+"of my personal space or what?<3.pa>\n"
+"\n"
+"Ever heard of the concept of a PRIVATE\n"
+"conversation?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk07"
+msgid ""
+"<1.so>I'm trying to have a decent gossip here!<2.pa>\n"
+"And I don't need you! Now go away!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk12"
+msgid ""
+"<1.so>Hm?<2.pa> I could've sworn someone just\n"
+"called out to me..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "talk13"
+msgid "<1.te_si><2.so>Urk...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk14"
+msgid ""
+"<1.so>Excuse me, but I'm going to bed.<2.pa>\n"
+"Can you please get out of my way?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk15"
+msgid ""
+"<1.so>Some of us have things to do, y'know?<2.pa>\n"
+"Would you mind leaving me alone?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk16"
+msgid "<1.so>...What?<2.pa> Go hassle someone else."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk17"
+msgid ""
+"<1.so>I have stuff I need to do now.<2.pa> \n"
+"Could you stop following me?"
+msgstr ""
+

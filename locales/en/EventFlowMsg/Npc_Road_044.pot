@@ -1,0 +1,764 @@
+msgctxt "0000"
+msgid "I want to buy."
+msgstr ""
+
+msgctxt "0001"
+msgid "I want to sell."
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "5500"
+msgid "Yes."
+msgstr ""
+
+msgctxt "5501"
+msgid "No."
+msgstr ""
+
+msgctxt "5502"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "5508"
+msgid "All of 'em."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>URP!<2.pa> Yeesh, holding my breath isn't\n"
+"working at all..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Atacked01"
+msgid ""
+"<1.so>Monsters!<2.pa> Maybe I should try throwing\n"
+"a hard ingredient at them..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_00"
+msgid "<1.so>What would you like to sell me?"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_01"
+msgid "Hmm... <1.pa>I can offer you <2.se_co><3.va> rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02"
+msgid "<1.so>Thanks!<2.pa> Got anything else?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02b"
+msgid ""
+"<1.so>Thanks! <2.pa>If you have anything else,\n"
+"let me know and I'll buy it."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02c"
+msgid ""
+"<1.so>Thanks!<2.pa> I can buy more, if you want.\n"
+"So how about it?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02d"
+msgid ""
+"<1.so>You're a great customer!<2.pa> If there's \n"
+"anything else you wanna sell,\n"
+"just say the word."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_04"
+msgid "<1.so>I see, I see."
+msgstr ""
+
+msgctxt "Com_Talk_05"
+msgid "I'll buy anything!"
+msgstr ""
+
+msgctxt "Com_Talk_05b"
+msgid "Did you want me to buy something?"
+msgstr ""
+
+msgctxt "Com_Talk_05c"
+msgid "Do you have anything you wanna sell?"
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "Com_Talk_05d"
+msgid "I'll buy anything!<1.pa> Really, I mean it!"
+msgstr ""
+
+msgctxt "Com_Talk_06"
+msgid "What do you want to buy?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Com_Talk_07"
+msgid "<1.so>Oh...<2.pa> Sorry!<3.pa> I'm all out at the moment."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Com_Talk_08"
+msgid ""
+"<1.so>HUH? <2.pa>Rupees...<3.pa> You don't seem to \n"
+"have enough of them."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_09"
+msgid ""
+"<1.so>Your pouch is full.<2.pa> You'll have to sell or\n"
+"discard some of your stuff."
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_10"
+msgid "Excellent choice! So wanna buy it?<1.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11"
+msgid "<1.so>Thank you!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11b"
+msgid "<1.so>Thanks!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_11c"
+msgid "<1.so>Thank you!<2.pa> Really!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11d"
+msgid "<1.so>Thank you so much."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_12"
+msgid ""
+"<1.so>Take a good look! <2.pa>Every item is\n"
+"top of the line!"
+msgstr ""
+
+#. 1: pause (long)
+#. 2: choice
+msgctxt "Com_Talk_13"
+msgid ""
+"I'd love to buy that!<1.pa> How many will you\n"
+"sell me?<2.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: pause (long)
+#. 3: text_size
+#. 4: set_colour (red)
+#. 5: variable (ShopTradePrice)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"Let's go with<1.te_si><2.pa> <3.te_si><4.se_co><5.va> rupees<6.re_co>.\n"
+"That OK?<7.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_15"
+msgid "<1.so>Oh...<2.pa> Sorry, I can't buy that!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>I'm happy to buy clothes from you but...\n"
+"not ones you're currently wearing."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Com_Talk_20"
+msgid ""
+"<1.so>When the weather's bad, I gotta sell my\n"
+"best goods to make up for it...<2.pa> Like this!\n"
+"<3.se_co>Goron spice <4.re_co>is super rare!"
+msgstr ""
+
+#. 1: variable (Shop_TradeItemNum)
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_30"
+msgid "So...<1.va>?<2.pa> That'll be <3.se_co><4.va> rupees<5.re_co>.<6.ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_31"
+msgid "Great choice! How many?<1.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_33"
+msgid "Only one?<1.pa> How about <2.se_co><3.va> rupees<4.re_co>?<5.ch>"
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: pause (short)
+#. 3: variable (Shop_TradeItemNum)
+#. 4: set_colour (red)
+#. 5: variable (ShopTradePrice)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Com_Talk_34"
+msgid ""
+"All of them?!<1.pa> Of course!<2.pa>\n"
+"So for <3.va>, that'll be\n"
+"<4.se_co><5.va> rupees<6.re_co>.<7.ch>"
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"You're gonna sell all of 'em?!<1.pa>\n"
+"OK, so for <2.va>, that'll be\n"
+"<3.se_co><4.va> rupees<5.re_co>!<6.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Com_Talk_36"
+msgid ""
+"<1.so>Whoa! I'm all sold out!<2.pa>\n"
+"Glad you like my ingredients!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: choice
+msgctxt "Com_Talk_37"
+msgid ""
+"<1.so>Oh, sorry! <2.pa>I'm actually closed for the day.<3.pa>\n"
+"If you want, I can show you the list of\n"
+"ingredients I'm looking to restock.<4.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_56"
+msgid "Only one?<1.pa> That'll be <2.se_co><3.va> rupees<4.re_co>!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Failed00"
+msgid ""
+"<1.so>You... <2.pa>Are you OK?<3.pa> I just about died\n"
+"of fright out there."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Failed01"
+msgid "<1.so>I'm so scared I could cry!<2.pa> Goodness!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>I'm the traveling chef! <2.pa>And don't you\n"
+"forget it!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Guardian00"
+msgid "<1.so>It's after us! Ruuuun!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "MSG_Ichika_00"
+msgid ""
+"<1.so>Are you looking for the traveling chef\n"
+"called Stamm?<2.pa> It's your lucky day!<3.pa>\n"
+"He is me! Ha ha ha!\n"
+"I'm currently looking for the ultimate\n"
+"ingredients <4.pa>from <5.se_co>South Akkala Stable<6.re_co>\n"
+"to <7.se_co>Tarrey Town<8.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "MSG_Ichika_00_1"
+msgid ""
+"<1.so>I'm looking for the ultimate ingredients<2.pa>\n"
+"from <3.se_co>South Akkala Stable <4.re_co>to <5.se_co>Tarrey "
+"Town<6.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "MSG_Ichika_01"
+msgid ""
+"<1.so>When people call for the traveling chef,\n"
+"Stamm appears!! <2.pa>Whoopsie, did I just\n"
+"call for myself? Ha ha ha!\n"
+"What I'm trying to do is create a dish\n"
+"that anyone would desperately crave\n"
+"whether they know it or not.\n"
+"For example, if they're feeling sluggish,<3.pa>\n"
+"courser bee honey and an apple are just\n"
+"the ticket."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Ichika_01_1"
+msgid ""
+"<1.so>If you're feeling sluggish,<2.pa>\n"
+"courser bee honey and an\n"
+"apple are just the ticket."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "MSG_Ichika_02"
+msgid ""
+"<1.so>I'm the traveling chef,<2.pa> Stamm!\n"
+"\n"
+"\n"
+"Meat dishes give you loads of energy!<3.pa>\n"
+"And fish dishes are just plain special!\n"
+"\n"
+"Take advantage of each ingredient when \n"
+"cooking so you can make what your body\n"
+"needs most!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (longer)
+msgctxt "MSG_Ichika_02_1"
+msgid ""
+"<1.so>Meat dishes are a great pick-me-up! <2.pa>\n"
+"Fish dishes are yummy and special!<3.pa>\n"
+"These are good things to keep in mind!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "MSG_Ichika_03"
+msgid ""
+"<1.so>You're an adventurer, aren't you?<2.pa>\n"
+"Well then! You need to stock up\n"
+"on some healthy foods! \n"
+"Think about it—<3.pa>when you're in the\n"
+"middle of nowhere, there aren't a lot of\n"
+"shops selling quality ingredients.\n"
+"I'm willing to guess you don't have\n"
+"cooks that follow you around making you\n"
+"tasty treats. Nail on the head, hm?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "MSG_Ichika_03_1"
+msgid ""
+"<1.so>If you were my kid, I'd worry endlessly\n"
+"about your health. <2.pa>Oh, but one glance at\n"
+"your face tells me how you're doing...\n"
+"You're so-so right now.<3.pa> But you can\n"
+"do better! Ha ha ha!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (long)
+msgctxt "MSG_Ichika_04"
+msgid ""
+"<1.so>I'm the traveling chef, Stamm! I may\n"
+"sound a tad arrogant,<2.pa> but I'm very\n"
+"important, so what can be done?\n"
+"They say that hunger is the best sauce...<3.pa>\n"
+"or is it love? I forget.\n"
+"\n"
+"<4.so>But that means us cooks will never be\n"
+"better than a starving chef or a fool\n"
+"in love. <5.pa>I think that's bogus!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Ichika_04_1"
+msgid ""
+"<1.so>They say that hunger is the best sauce...<2.pa>\n"
+"or it might have been love, I dunno.\n"
+"\n"
+"Regardless, I intend to make people say\n"
+"nothing can compete with Stamm's food!\n"
+"I won't stop until I succeed!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>Mushrooms for aroma..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near01"
+msgid "<1.so>Meat for power..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near02"
+msgid "<1.so>Fish for nutrition..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near03"
+msgid "<1.so>Fruit for dessert..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "I don't wanna get wet..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Rest_00"
+msgid ""
+"<1.so>To make the ultimate dish, I'm looking for\n"
+"the best ingredients.<2.pa> \n"
+"\n"
+"That's why I go back and forth between \n"
+"<3.se_co>South Akkala Stable <4.re_co>and <5.se_co>Tarrey Town<6.re_co>!\n"
+"I sell stuff too, so hit me up anytime!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Rest_01"
+msgid ""
+"<1.so>The rain helps grow lots of green plants!\n"
+"Green plants help animals, and all of\n"
+"that helps me too!\n"
+"<2.so>My dishes help people, and the money\n"
+"I get from selling them helps me more!\n"
+"It's a beautiful world, ha ha ha!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>I don't want to get my ingredients wet...<2.pa>\n"
+"Maybe I'll just stay here until the rain \n"
+"clears up!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound2
+msgctxt "RetMSG_Ichika_00"
+msgid ""
+"<1.so>I'm the traveling chef, Stamm! I believe\n"
+"everything is an ingredient waiting\n"
+"to happen.\n"
+"However, in reality, it's not always that\n"
+"simple.<2.pa> If I tried to stew a leather shoe\n"
+"and serve it, I bet it wouldn't go well.\n"
+"<3.so>Even so, I'm not giving up! "
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "RetMSG_Ichika_00_1"
+msgid ""
+"<1.so>When you use bugs and monster parts\n"
+"to cook, what you end up with are elixirs.\n"
+"\n"
+"Chefs don't usually deal with bugs.<2.pa>\n"
+"That's perfect for someone like me\n"
+"who's terrified of them!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: sound
+#. 6: pause (short)
+#. 7: pause (long)
+#. 8: sound2
+msgctxt "RetMSG_Ichika_01"
+msgid ""
+"<1.so>Just south of this road, you'll find\n"
+"<2.se_co>Lake Akkala<3.re_co>! It's great!<4.pa><5.so> Oh, whoa.<6.pa>\n"
+"I'm not talking about the view.\n"
+"I'm talking about the ingredients that are\n"
+"swimming in the lake. I mean, come on.\n"
+"You can't eat a view, right?<7.pa><8.so> Ha ha ha!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "RetMSG_Ichika_01_1"
+msgid ""
+"<1.so><2.se_co>Lake Akkala <3.re_co>has great ingredients just\n"
+"swimming around in all their glory\n"
+"and deliciousness!<4.pa>\n"
+"There are also ingredients that grow\n"
+"there, and those that have fallen there,\n"
+"and those that fly around there...\n"
+"To me, the world is a giant market!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (long)
+#. 9: sound2
+msgctxt "RetMSG_Ichika_02"
+msgid ""
+"<1.so>I'm the traveling chef, but...<2.pa>\n"
+"I'm not always traveling.\n"
+"\n"
+"There are times when I need to take a\n"
+"break from life on the road.\n"
+"\n"
+"<3.so>Taking a nap at <4.se_co>Lake Akkala <5.re_co>to the east\n"
+"sounds nice...but I have customers\n"
+"waiting at <6.se_co>South Akkala Stable<7.re_co>!<8.pa><9.so> Ha ha ha!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "RetMSG_Ichika_02_1"
+msgid ""
+"<1.so>Today I go from <2.se_co>Lake Akkala <3.re_co>to the east\n"
+"to <4.se_co>South Akkala Stable<5.re_co>, to the west!<6.pa>\n"
+"Such is the life of a traveling chef!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (longer)
+#. 4: sound
+#. 5: pause (short)
+#. 6: sound
+#. 7: pause (long)
+#. 8: pause (long)
+msgctxt "RetMSG_Ichika_03"
+msgid ""
+"<1.so>I can't seem to make the dishes I picture\n"
+"in my head...<2.pa> Blah, what happened to\n"
+"my inspiration?!\n"
+"At times like this, I always say...<3.pa>\n"
+"nothing beats eating a delicious meal!\n"
+"\n"
+"<4.so>It not only heals your heart and soul,<5.pa>\n"
+"it can also make you heat, cold, shock,\n"
+"or fire resistant! Or even stealthier!\n"
+"<6.so>Dishes are the best!<7.pa> Thanks to cooking,\n"
+"I can move forward in life! I'm so glad I\n"
+"became a cook in this crazy world. <8.pa>Ha!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+msgctxt "RetMSG_Ichika_03_1"
+msgid ""
+"<1.so>When you don't know what to do,\n"
+"just eat!<2.pa> Oh, and also eat when you're\n"
+"hungry. That's important too.\n"
+"It not only heals your heart and soul,<3.pa>\n"
+"it can also make you heat, cold, shock,\n"
+"or fire resistant!\n"
+"<4.so>Wow, the dishes that exist in this world\n"
+"are really amazing!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "RetMSG_Ichika_04"
+msgid ""
+"<1.so>I'm the traveling chef, Stamm!\n"
+"\n"
+"\n"
+"I'm hunting for ingredients from north of\n"
+"<2.se_co>Lake Akkala <3.re_co>to the <4.se_co>South Akkala "
+"Stable<5.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "RetMSG_Ichika_04_1"
+msgid ""
+"<1.so>I'm selling the ingredients I find when\n"
+"I go back and forth from north of\n"
+"<2.se_co>Lake Akkala <3.re_co>to <4.se_co>South Akkala "
+"Stable<5.re_co>!<6.pa>\n"
+"They're all top quality ingredients!\n"
+"Naturally!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_00"
+msgid "<1.so>Wow!<2.pa> Thanks for the help!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_01"
+msgid "<1.so>Thanks for helping me!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Wow!<2.pa> Thanks for the help!<3.pa>\n"
+"Really, thanks so much!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>Monsters are too scary!<2.pa> Thank you for\n"
+"helping me!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_00"
+msgid "<1.so>I barely made it out alive!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>How dare those nasty monsters come\n"
+"after my ingredients!<2.pa> Thanks to you,\n"
+"my livelihood is safe!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Talk01"
+msgid ""
+"<1.so>Hey now! Why not take a quick look\n"
+"at the ingredients I've gathered, eh?<2.pa>\n"
+"They're all fresh!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk02"
+msgid "<1.so>Do you need anything else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Thanks00"
+msgid ""
+"<1.so>Consider this a thank-you. Go on,\n"
+"no need to be modest!"
+msgstr ""
+

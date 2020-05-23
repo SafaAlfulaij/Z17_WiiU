@@ -1,0 +1,49 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_HatenoMini_CameraBoy_Desc"
+msgid ""
+"The Sheikah Sensor + can detect anything\n"
+"already registered in the Hyrule Compendium.\n"
+"To demonstrate the possibilities, Symin gave\n"
+"you some fieldwork.\n"
+"\n"
+"Use the Camera to register a <1.se_co>sunshroom<2.re_co>\n"
+"behind the Hateno Ancient Tech Lab, and then\n"
+"report back to Symin."
+msgstr ""
+
+msgctxt "QL_HatenoMini_CameraBoy_Finish"
+msgid ""
+"You gave Symin the three sunshrooms he\n"
+"requested.\n"
+"\n"
+"Symin helped you see how valuable registering\n"
+"things to your Hyrule Compendium can be.\n"
+"If you have an item registered in your\n"
+"compendium, it's easy to find with the\n"
+"Sheikah Sensor +."
+msgstr ""
+
+msgctxt "QL_HatenoMini_CameraBoy_Name"
+msgid "Sunshroom Sensing"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "QL_HatenoMini_CameraBoy_Shot"
+msgid ""
+"Now that you've registered a sunshroom in the\n"
+"Hyrule Compendium, the Sheikah Sensor + can\n"
+"detect sunshrooms wherever you are.\n"
+"\n"
+"Go north of Hateno Village to <1.se_co>Retsam Forest<2.re_co>,\n"
+"and find <3.se_co>three<4.re_co> wild <5.se_co>sunshrooms<6.re_co> there."
+"\n"
+"When you have all three, turn them over\n"
+"to Symin."
+msgstr ""
+

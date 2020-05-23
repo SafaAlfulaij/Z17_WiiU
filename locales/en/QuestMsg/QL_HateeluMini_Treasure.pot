@@ -1,0 +1,31 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_HateeluMini_Treasure_Desc"
+msgid ""
+"\"An ancient hero spoke these words:\n"
+"'One day I'll return to fight evil.\n"
+"My cache is at <1.se_co>17 of 24<2.re_co>,\n"
+"This rock will point toward its retrieval.'\"\n"
+"\n"
+"The ancient verse you heard from Kass\n"
+"points to something, but what?"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_HateeluMini_Treasure_Finish"
+msgid ""
+"\"An ancient hero spoke these words:\n"
+"'One day I'll return to fight evil.\n"
+"My cache is at <1.se_co>17 of 24<2.re_co>,\n"
+"This rock will point toward its retrieval.'\"\n"
+"\n"
+"You've solved the riddle of the ancient verse\n"
+"that Kass recited and earned a gold rupee\n"
+"for your trouble."
+msgstr ""
+
+msgctxt "QL_HateeluMini_Treasure_Name"
+msgid "The Hero's Cache"
+msgstr ""
+

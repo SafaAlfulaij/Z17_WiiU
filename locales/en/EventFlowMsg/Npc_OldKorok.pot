@@ -1,0 +1,725 @@
+msgctxt "0000"
+msgid "Weapon stash!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Bow stash!"
+msgstr ""
+
+msgctxt "0002"
+msgid "Shield stash!"
+msgstr ""
+
+msgctxt "0003"
+msgid "Nothing right now."
+msgstr ""
+
+msgctxt "0004"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "0005"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "0006"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "0007"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0008"
+msgid "Nope, just me."
+msgstr ""
+
+msgctxt "near00"
+msgid "I must dance!"
+msgstr ""
+
+msgctxt "near01"
+msgid "♪La dah dee!♪"
+msgstr ""
+
+msgctxt "near02"
+msgid "♪Dah dee dah!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: pause (longer)
+#. 8: pause (short)
+#. 9: sound
+#. 10: set_colour (blue)
+#. 11: reset_colour
+msgctxt "talk00"
+msgid ""
+"<1.so><2.te_si>♪Shalaka!♪<3.te_si>\n"
+"\n"
+"\n"
+"<4.so>It's you! <5.pa>We meet again!\n"
+"\n"
+"\n"
+"What's with the silent treatment?<6.pa>\n"
+"Don't you remember me?<7.pa> I'm the\n"
+"musician of Korok Forest,<8.pa> Hestu!\n"
+"I'm impressed you found your way\n"
+"through the Lost Woods and made it\n"
+"here...\n"
+"<9.so>So have you brought me any\n"
+"<10.se_co>Korok seeds<11.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: raw
+msgctxt "talk01"
+msgid ""
+"<1.so>If you'll return my lost <2.se_co>Korok seeds<3.re_co> to\n"
+"me,<4.pa> I'll <5.se_co>expand<6.re_co> the size of your "
+"<7.se_co>inventory<8.re_co>.\n"
+"Which stash do you want another slot in?<9.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk05"
+msgid "<1.so>Shaka... <2.pa>How sad..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: sound
+#. 5: text_size
+#. 6: pause (short)
+#. 7: pause (longer)
+msgctxt "talk07"
+msgid ""
+"<1.so><2.te_si>Shaka! Shakaka!<3.pa>\n"
+"You are nekkid!\n"
+"\n"
+"<4.so>I am nekkid!<5.te_si><6.pa>\n"
+"We are united in exposure!<7.pa>\n"
+"♪Nekky nokky nakey!♪"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: pause (longer)
+msgctxt "talk08"
+msgid ""
+"<1.te_si><2.so><3.te_si>♪Nakey nakey!♪<4.pa>\n"
+"♪Nekky nokky nakey!♪"
+msgstr ""
+
+#. 1: animation
+#. 2: sound
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+msgctxt "talk12"
+msgid ""
+"<1.an><2.so>...Shakalo?!<3.pa> You've enlarged all of your\n"
+"<4.se_co>stashes<5.re_co>!\n"
+"\n"
+"<6.so>♪Naaaaaaice!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (longer)
+#. 7: pause (short)
+#. 8: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>You enlarged all of your <2.se_co>inventories<3.re_co>!<4.pa>\n"
+"Shakala!\n"
+"\n"
+"<5.so>Thanks to you, my maracas sound so...\n"
+"<6.pa>♪shakey<7.pa>-shake<8.pa> SHAKETY!♪\n"
+"\n"
+"But there may still be some children of\n"
+"the forest out there. I'm sure they'd\n"
+"still love to meet you."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk22"
+msgid "<1.so>Let the expansion begin!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk23"
+msgid ""
+"<1.so>Do you want me to expand a different\n"
+"stash?<2.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: sound
+#. 5: single_choice
+#. 6: text_size
+#. 7: animation
+#. 8: sound
+#. 9: pause (longer)
+#. 10: text_size
+#. 11: sound
+msgctxt "talk24"
+msgid ""
+"<1.te_si><2.so>Hey! Guess what!<3.te_si>\n"
+"\n"
+"\n"
+"All of the forest children returned to\n"
+"Korok Forest!\n"
+"\n"
+"<4.so>You must have had an army of people\n"
+"searching for them, huh?<5.si_ch>\n"
+"\n"
+"<6.te_si><7.an><8.so>NO WAY! <9.pa>Fwahahahaha!<10.te_si>\n"
+"\n"
+"\n"
+"<11.so>♪NAAAAAAAAICE!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: text_size
+#. 6: text_size
+msgctxt "talk25"
+msgid ""
+"<1.so>Expand-a-band-band...<2.se_co>weapon stash<3.re_co>!<4.pa>\n"
+"<5.te_si>Shakala!<6.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: text_size
+#. 6: text_size
+msgctxt "talk26"
+msgid ""
+"<1.so>Expand-a-band-band...<2.se_co>bow stash<3.re_co>!<4.pa>\n"
+"<5.te_si>Shakala!<6.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: text_size
+#. 6: text_size
+msgctxt "talk27"
+msgid ""
+"<1.so>Expand-a-band-band...<2.se_co>shield stash<3.re_co>!<4.pa>\n"
+"<5.te_si>Shakala!<6.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk28"
+msgid ""
+"<1.so>Shakalo...<2.pa> I can expand your\n"
+"<3.se_co>weapon stash <4.re_co>no further."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk29"
+msgid ""
+"<1.so>Shakalo...<2.pa> I can expand your\n"
+"<3.se_co>bow stash <4.re_co>no further."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk30"
+msgid ""
+"<1.so>Shakalo...<2.pa> I can expand your\n"
+"<3.se_co>shield stash <4.re_co>no further."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: raw
+msgctxt "talk31"
+msgid ""
+"<1.so>So then-a-den-den...do you want to\n"
+"expand another <2.se_co>stash<3.re_co>?<4.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk32"
+msgid "<1.so>Shakala!<2.pa> Come back again!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk33"
+msgid "<1.so>♪Saw-reeeeee!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: raw
+msgctxt "talk34"
+msgid "<1.so>Shalaka!<2.pa> Which <3.se_co>stash <4.re_co>shall I expand?<5.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk46"
+msgid ""
+"<1.so>In that case, I'll give you my treasure,<2.pa>\n"
+"but let's expand your <3.se_co>inventory <4.re_co>first."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (longer)
+msgctxt "talk53"
+msgid ""
+"<1.so>If you find any <2.se_co>Korok seeds<3.re_co>,<4.pa> bring them\n"
+"by. <5.pa>I'll expand the size of your\n"
+"inventory as thanks!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk57"
+msgid ""
+"<1.so>You've maxed all of your <2.se_co>stashes<3.re_co>!<4.pa>\n"
+"So let me give you this!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk58"
+msgid ""
+"<1.so>It's amazing that you found all the\n"
+"children of the forest. \n"
+"\n"
+"♪Humm-aaaaaaa-mazing!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+msgctxt "talk59"
+msgid ""
+"<1.so>So?<2.pa> Do you like it?\n"
+"\n"
+"\n"
+"<3.so>I hope you'll still visit me. You can watch\n"
+"me dance whenever you want!\n"
+"\n"
+"♪Shalaka!♪"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk60"
+msgid "<1.so>♪Shaka-kala!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: choice
+msgctxt "talk61"
+msgid ""
+"<1.so>If you have <2.se_co>Hestu's gift<3.re_co>,<4.pa> dance with me!\n"
+"\n"
+"\n"
+"<5.so>What dance should we do?<6.ch>"
+msgstr ""
+
+msgctxt "talk62"
+msgid "♪DANCE PARTY!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk63"
+msgid ""
+"<1.so>Shala-laka!<2.pa>\n"
+"So then..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk64"
+msgid "<1.so>Shalaka!<2.pa> Working up a nice sweat here!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk65"
+msgid "<1.so>Shaka!<2.pa> Did you like my dance?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk66"
+msgid "<1.so>Shakala!<2.pa> That was fun!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk67"
+msgid "<1.so>Shakalay!<2.pa> That felt great!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk68"
+msgid "<1.so>Hmmkay then.<2.pa> Buh-bye."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk69"
+msgid ""
+"<1.so>It looks like you have no\n"
+"<2.se_co>Korok seeds <3.re_co>at all."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk70"
+msgid "<1.so>I sure hope so!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk71"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>one<4.re_co> <5.se_co>Korok "
+"seed<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk72"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>two<4.re_co> <5.se_co>Korok "
+"seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk73"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>three<4.re_co> <5.se_co>Korok"
+" seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk74"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>five<4.re_co> <5.se_co>Korok "
+"seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk75"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>eight<4.re_co> <5.se_co>Korok"
+" seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk76"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>12<4.re_co> <5.se_co>Korok "
+"seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk77"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>17<4.re_co> <5.se_co>Korok "
+"seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk78"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>25<4.re_co> <5.se_co>Korok "
+"seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk79"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>35<4.re_co> <5.se_co>Korok "
+"seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk80"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>45<4.re_co> <5.se_co>Korok "
+"seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk81"
+msgid ""
+"<1.so>Shokay!<2.pa> I'll just need <3.se_co>55<4.re_co> <5.se_co>Korok "
+"seeds<6.re_co>.\n"
+"Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+#. 4: animation
+#. 5: sound
+#. 6: text_size
+#. 7: text_size
+#. 8: sound
+#. 9: pause (short)
+#. 10: pause (longer)
+#. 11: sound
+#. 12: pause (longer)
+#. 13: set_colour (red)
+#. 14: reset_colour
+#. 15: pause (longer)
+msgctxt "talk83"
+msgid ""
+"<1.so>Hm?<2.pa><3.pa> Fwah?!\n"
+"\n"
+"\n"
+"<4.an><5.so><6.te_si>Fwahahahaha!<7.te_si>\n"
+"\n"
+"\n"
+"<8.so>I...<9.pa> I think I remember<10.pa> how to get back to\n"
+"Korok Forest!\n"
+"\n"
+"<11.so>Maybe I'll head back now.<12.pa> I bet <13.se_co>Grandpa<14.re_co>"
+"\n"
+"is waiting for me.\n"
+"\n"
+"Thanks for the Korok seeds!<15.pa> I'm off to\n"
+"Korok Forest!\n"
+"\n"
+"Come visit me there sometime!"
+msgstr ""
+
+#. 1: text_size
+#. 2: pause (8f)
+#. 3: pause (16f)
+#. 4: pause (6f)
+#. 5: text_size
+msgctxt "talk84"
+msgid "<1.te_si><2.pa>♪Dah-<3.pa>na-na-na-<4.pa>naaaaaaaa!♪<5.te_si>"
+msgstr ""
+
+#. 1: animation
+#. 2: sound
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (longer)
+msgctxt "talk85"
+msgid ""
+"<1.an><2.so>Phwahh!<3.pa> You don't have enough\n"
+"<4.se_co>Korok seeds<5.re_co>.<6.pa> You should learn how\n"
+"to count good!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk86"
+msgid ""
+"<1.so>Hmmkay then!<2.pa> I'll just need <3.se_co>four<4.re_co> "
+"<5.se_co>Korok\n"
+"seeds <6.re_co>from you. Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk87"
+msgid ""
+"<1.so>Hmmkay then!<2.pa> I'll just need <3.se_co>10<4.re_co> "
+"<5.se_co>Korok\n"
+"seeds <6.re_co>from you. Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk88"
+msgid ""
+"<1.so>Hmmkay then!<2.pa> I'll just need <3.se_co>15<4.re_co> "
+"<5.se_co>Korok\n"
+"seeds <6.re_co>from you. Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk89"
+msgid ""
+"<1.so>Hmmkay then!<2.pa> I'll just need <3.se_co>20<4.re_co> "
+"<5.se_co>Korok\n"
+"seeds <6.re_co>from you. Deal?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (longer)
+#. 7: pause (short)
+#. 8: pause (long)
+#. 9: text_size
+#. 10: sound
+#. 11: text_size
+msgctxt "talk90"
+msgid ""
+"<1.so><2.te_si>♪Shalaka!♪<3.te_si>\n"
+"\n"
+"\n"
+"<4.so>We meet again!\n"
+"\n"
+"\n"
+"Why so quiet? <5.pa> Don't you remember me?<6.pa>\n"
+"Hestu?<7.pa> The famed musician of\n"
+"Korok Forest?\n"
+"I've got to hand it to you—it's not easy\n"
+"to find this place.<8.pa> They don't call them\n"
+"the Lost Woods for nothing!\n"
+"<9.te_si><10.so>Oh right!<11.te_si>"
+msgstr ""
+

@@ -1,0 +1,331 @@
+#. 1: sound
+msgctxt "Atacked00"
+msgid "<1.so>*huff* *gasp* *wheeze*"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid "<1.so>M-m-m-monster..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>I may have sprained my ankle... Hope it's\n"
+"not too bad."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Failed01"
+msgid ""
+"<1.so>And now my favorite outfit is dirty! <2.pa>Ah\n"
+"well, it's also my only outfit, so...what\n"
+"is one to do?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Guardian00"
+msgid "<1.so>Run! <2.se_co>Guardian<3.re_co> coming this way!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "MSG_Kyu_00"
+msgid ""
+"<1.so>So what are you searching for on your\n"
+"journey? <2.pa>Mine is about finding a certain\n"
+"creature said to exist in Hyrule.\n"
+"There are actually three of these long,\n"
+"legendary creatures...\n"
+"\n"
+"<3.so>I must find them on my own!\n"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Kyu_00_1"
+msgid ""
+"<1.so>So what are you searching for on your\n"
+"journey? <2.pa>Mine is about finding a certain\n"
+"creature said to exist in Hyrule.\n"
+"There are actually three of these long,\n"
+"legendary creatures...I need to find them\n"
+"on my own!\n"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+msgctxt "MSG_Kyu_01"
+msgid ""
+"<1.so>Had any memorable experiences during\n"
+"your travels? \n"
+"\n"
+"<2.so>I'm looking for a legendary creature,\n"
+"some have called it a dragon.\n"
+"\n"
+"<3.so>There's a legend about a dragon that\n"
+"remains near a sacred spring..."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Kyu_01_1"
+msgid ""
+"<1.so>I have a feeling that I will soon find this\n"
+"dragon I am searching for...\n"
+"\n"
+"The legend says that one remains near a\n"
+"sacred spring!"
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Kyu_02"
+msgid ""
+"<1.so>I'm looking for a legendary dragon... One\n"
+"said to be so large that its body blocks\n"
+"out the sun when it rises into the sky."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Kyu_02_1"
+msgid ""
+"<1.so>I'm looking for a legendary dragon...one\n"
+"thought to be of immense size."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+msgctxt "MSG_Kyu_03"
+msgid ""
+"<1.so>Have you ever seen a dragon of legend\n"
+"flying through the sky?\n"
+"\n"
+"<2.so>Why do I still ask people this...<3.pa>\n"
+"I seriously doubt you have."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Kyu_03_1"
+msgid ""
+"<1.so>I wonder if anyone in Hyrule has actually\n"
+"ever seen a dragon..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+msgctxt "MSG_Kyu_04"
+msgid ""
+"<1.so>Hey there, fellow traveler! You happen\n"
+"to know anything about a sacred spring?\n"
+"\n"
+"<2.so>Supposedly there's a legend about a\n"
+"dragon and a spring, but...I don't know.<3.pa>\n"
+"People just like to talk."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Kyu_04_1"
+msgid ""
+"<1.so>There's an unfounded rumor that there's\n"
+"a dragon who likes to hang out near a\n"
+"sacred spring...\n"
+"Unfounded as of right now, anyway."
+msgstr ""
+
+msgctxt "Near00"
+msgid "DINAYROSH!"
+msgstr ""
+
+msgctxt "Near01"
+msgid "Somewhere in the sky?"
+msgstr ""
+
+msgctxt "Near02"
+msgid "I swear to..."
+msgstr ""
+
+msgctxt "Near03"
+msgid "With my own eyes..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "I can see clearly..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Rest_00"
+msgid "<1.so>I need to see a dragon. I NEED to!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Rest_01"
+msgid ""
+"<1.so>I'm gonna rest until the rain stops. You\n"
+"can only ride a horse so hard."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>This rain... It feels like a harbinger of...\n"
+"\n"
+"\n"
+"<2.so>Eh. <3.pa>It's probably just regular old, non-\n"
+"harbinger rain."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "RetMSG_Kyu_00"
+msgid ""
+"<1.so>Can you believe it? It's supposed to be\n"
+"the length of 200 people! <2.pa>Like, lying\n"
+"down, not standing up...\n"
+"Don't tell me you've never heard of this\n"
+"creature?! It's the stuff of legend! A\n"
+"real dragon!"
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Kyu_00_1"
+msgid ""
+"<1.so>Legend speaks of a dragon the length\n"
+"of 200 people lying head to toe!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "RetMSG_Kyu_01"
+msgid ""
+"<1.so>My neck hurts from staring up at the sky\n"
+"all the time.\n"
+"\n"
+"<2.so>But I can't risk missing a dragon flying\n"
+"across the sky. I can't!"
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Kyu_01_1"
+msgid ""
+"<1.so>These dragons of legend that I keep\n"
+"hearing about... Do they live in the sky\n"
+"or down here with us?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "RetMSG_Kyu_02"
+msgid ""
+"<1.so>According to legend, I need the blessing\n"
+"of the Goddess Hylia before I can see\n"
+"this legendary dragon.\n"
+"<2.so>It all sounds like a fairy tale..."
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Kyu_02_1"
+msgid ""
+"<1.so>It's said that in order for me to come\n"
+"face to face with a real, live dragon, I\n"
+"need the blessing of the Goddess Hylia."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "RetMSG_Kyu_03"
+msgid ""
+"<1.so>You might think I'm a real weirdo<2.pa>\n"
+"if I tell you about this, but I say a little\n"
+"prayer I made up every morning.\n"
+"It's an incantation to pray that I'll<3.pa>\n"
+"be able to meet the legendary creature."
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Kyu_03_1"
+msgid ""
+"<1.so>I recite a prayer every morning in the\n"
+"hope that I might be able to actually see\n"
+"this legendary dragon!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "RetMSG_Kyu_04"
+msgid ""
+"<1.so>To the north and to the south, I've made\n"
+"the journey countless times...<2.pa>\n"
+"And now, I shall head south again.\n"
+"<3.so>All the while, keeping my ear to the\n"
+"ground for any rumblings on any\n"
+"dragon sightings!\n"
+"Now to <4.se_co>Serenne Stable<5.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "RetMSG_Kyu_04_1"
+msgid ""
+"<1.so>I'm heading south once again to\n"
+"<2.se_co>Serenne Stable<3.re_co>. Hopefully I can get some\n"
+"dragon information on the way there."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>Thank you so much for driving off that\n"
+"vile monster!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Did you actually fight it? <2.pa>Sorry, I had my\n"
+"back turned...y'know, running away as\n"
+"I was."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>I thought I had a good method of\n"
+"avoiding monsters, but alas..."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_01"
+msgid "<1.so>I owe my life to you."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>You notice that there seem to be a lot\n"
+"more monsters around these parts..."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_01"
+msgid "<1.so>I narrowly escaped. Thank you!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Thanks00"
+msgid "<1.so>I can't thank you enough! Take this."
+msgstr ""
+

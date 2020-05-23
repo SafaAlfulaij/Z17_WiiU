@@ -1,0 +1,25 @@
+msgctxt "0000"
+msgid "Morning."
+msgstr ""
+
+msgctxt "0001"
+msgid "Noon."
+msgstr ""
+
+msgctxt "0002"
+msgid "Night."
+msgstr ""
+
+msgctxt "0003"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "Demo007_1_Text000"
+msgid "You can pass time by the fire."
+msgstr ""
+
+#. 1: choice
+msgctxt "Demo007_1_Text001"
+msgid "Sit by the fire until...<1.ch>"
+msgstr ""
+

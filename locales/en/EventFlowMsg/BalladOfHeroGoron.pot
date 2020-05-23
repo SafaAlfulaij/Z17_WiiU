@@ -1,0 +1,947 @@
+msgctxt "0000"
+msgid "Tell me about Daruk."
+msgstr ""
+
+msgctxt "0001"
+msgid "Where's Yunobo?"
+msgstr ""
+
+msgctxt "0002"
+msgid "See ya."
+msgstr ""
+
+msgctxt "0003"
+msgid "Tell me somethin'."
+msgstr ""
+
+msgctxt "0004"
+msgid "Legendary sword?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Boulder Breaker?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Where's Rudania?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Tell me about Daruk."
+msgstr ""
+
+msgctxt "0008"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0009"
+msgid "Tell me somethin'."
+msgstr ""
+
+msgctxt "0010"
+msgid "Umm..."
+msgstr ""
+
+msgctxt "0011"
+msgid "Rudania?"
+msgstr ""
+
+msgctxt "0012"
+msgid "Daruk's Protection?"
+msgstr ""
+
+msgctxt "0013"
+msgid "Where's Bludo?"
+msgstr ""
+
+msgctxt "0014"
+msgid "Training journal?"
+msgstr ""
+
+msgctxt "0015"
+msgid "...Why?"
+msgstr ""
+
+msgctxt "0020"
+msgid "Daruk's turf?"
+msgstr ""
+
+msgctxt "Npc_Gaman01_DLC2nd_Near00"
+msgid "Lord Daruk trained here..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: set_colour (blue)
+#. 14: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk00"
+msgid ""
+"<1.so>Do ya know why <2.se_co>Champion<3.re_co> <4.se_co>Daruk<5.re_co>\n"
+"chose this place to train, brother?\n"
+"\n"
+"...Neither do we! But us Goron Blood\n"
+"Brothers are gonna find out by\n"
+"completing the training ourselves!\n"
+"<6.so>I'm sure this is some part of <7.se_co>Lord<8.re_co> "
+"<9.se_co>Daruk<10.re_co>'s\n"
+"secret Goron champ training. Intense!\n"
+"\n"
+"We're gonna do all we can to be mighty\n"
+"Gorons just like <11.se_co>Lord<12.re_co> <13.se_co>Daruk<14.re_co>!\n"
+"\n"
+"It's the only possible path for the\n"
+"Goron Blood Brothers!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Gaman01_DLC2nd_Talk01"
+msgid "<1.so>PUMP IT UP, BROTHER!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk02"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.te_si><5.so>Oh! It's the "
+"fourth Goron Blood Brother!\n"
+"The one who beat both the <6.se_co>contest of\n"
+"endurance<7.re_co> and our <8.se_co>Gut Check Challenge<9.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk03"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.te_si><5.so>Hey there! It's "
+"the little man who\n"
+"survived the <6.se_co>contest of endurance<7.re_co>!\n"
+"Welcome back!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk04"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.te_si><5.so>Ah! It's the "
+"fourth Goron Blood Brother!\n"
+"He who somehow survived our famous\n"
+"<6.se_co>Gut Check Challenge<7.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk05"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.te_si><5.so>Hm? Aren't you "
+"the little man who's\n"
+"training for the <6.se_co>contest of endurance<7.re_co>\n"
+"and <8.se_co>Gut Check Challenge<9.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "Npc_Gaman01_DLC2nd_Talk06"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.te_si>Hey, you're the little "
+"man that gave up in\n"
+"the middle of the <5.se_co>contest of endurance<6.re_co>!<7.pa>\n"
+"Didn't think I'd see YOUR tiny face again."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk07"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.te_si><5.so>Aren't you the "
+"little man who's in the\n"
+"middle of training for our <6.se_co>Gut Check\n"
+"Challenge<7.re_co>? This an off day, or what?"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (red)
+#. 11: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk08"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.te_si><5.so>Some say "
+"<6.se_co>Lord<7.re_co> <8.se_co>Daruk <9.re_co>would howl while\n"
+"<10.se_co>standing on lava<11.re_co>. It somehow helped\n"
+"sharpen his skills."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+#. 5: sound
+#. 6: raw
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk09"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.te_si><5.so>What happened "
+"here?!<6.ra>I look away for one blasted second,\n"
+"and the <7.se_co>glowing ring<8.re_co> disappears!\n"
+"\n"
+"Now I can't try that epic training!\n"
+"Woe is me, brother."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk10"
+msgid ""
+"<1.so>Do ya know why Champion <2.se_co>Daruk<3.re_co>\n"
+"chose this place to train, brother?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: raw
+msgctxt "Npc_Gaman01_DLC2nd_Talk12"
+msgid ""
+"<1.so>No wonder <2.se_co>Lord Daruk<3.re_co> chose\n"
+"this spot. It's hard-core, brother!\n"
+"\n"
+"This training is gonna be rough.<4.pa>\n"
+"I can almost taste the gains!<5.ra>Time to strategize, brothers!"
+msgstr ""
+
+#. 1: pause (long)
+msgctxt "Npc_Gaman01_DLC2nd_Talk13"
+msgid ""
+"...Neither do we! But us Goron Blood\n"
+"Brothers are gonna find out by\n"
+"completin' the training...<1.pa>ourselves..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: raw
+#. 4: text_size
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "Npc_Gaman01_DLC2nd_Talk14"
+msgid ""
+"<1.te_si><2.so>What happened, brother?!<3.ra><4.te_si>I look away for one"
+" blasted second,\n"
+"and the <5.se_co>glowing ring<6.re_co> disappears!"
+msgstr ""
+
+msgctxt "Npc_Gaman02_DLC2nd_Near00"
+msgid "Intense training..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_Gaman02_DLC2nd_Talk00"
+msgid "<1.so><2.te_si>FEEL THE BURN, BROTHER!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_Gaman02_DLC2nd_Talk01"
+msgid "<1.so><2.te_si>FEEL THE BURN, BROTHER!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Gaman02_DLC2nd_Talk02"
+msgid ""
+"<1.so><2.te_si>FEEL THE BURN, BROTHER!<3.ra><4.so><5.te_si>There's a "
+"<6.se_co>glowing ring<7.re_co> in that boiling\n"
+"hot lava. Standing there is...intense\n"
+"training. Only for the hardest of core!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: pause (long)
+#. 10: sound
+#. 11: pause (short)
+#. 12: raw
+#. 13: set_colour (blue)
+#. 14: reset_colour
+msgctxt "Npc_Gaman02_DLC2nd_Talk03"
+msgid ""
+"<1.te_si><2.so>FEEL THE BURN, BROTHER!<3.ra><4.so><5.te_si>The "
+"<6.se_co>glowing ring<7.re_co> is gone.<8.pa> Does that\n"
+"mean...<9.pa> Has someone completed\n"
+"the training?!\n"
+"<10.so>N-no...<11.pa> Not possible.<12.ra>The only one who could complete"
+"\n"
+"training like that is <13.se_co>Lord Daruk<14.re_co>...\n"
+"or one of us brothers!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Gaman02_DLC2nd_Talk04"
+msgid ""
+"<1.so><2.te_si>FEEL THE BURN, BROTHER!<3.ra><4.so><5.te_si>Hey! The "
+"<6.se_co>glowing ring<7.re_co> is gone!\n"
+"I wasn't done trainin' with it..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: pause (long)
+#. 8: sound
+#. 9: text_size
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: text_size
+msgctxt "Npc_Gaman02_DLC2nd_Talk05"
+msgid ""
+"<1.te_si><2.so><3.te_si>You see that <4.se_co>glowing ring<5.re_co> in "
+"the lava?<6.pa>\n"
+"Think of it as a target, and...<7.pa>\n"
+"\n"
+"<8.so><9.te_si><10.se_co>stand on the lava, brother<11.re_co>!<12.te_si>"
+msgstr ""
+
+msgctxt "Npc_Gaman03_DLC2nd_Near00"
+msgid "That fire in your eyes..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: raw
+#. 5: text_size
+#. 6: raw
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (short)
+msgctxt "Npc_Gaman03_DLC2nd_Talk00"
+msgid ""
+"<1.so><2.te_si>So sweaty... <3.pa>Brother...<4.ra><5.te_si>Even Gorons "
+"can't walk on lava...<6.ra>I wonder if <7.se_co>Lord Daruk "
+"<8.re_co>really\n"
+"did this training... <9.pa>Not that I\n"
+"doubt him, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+msgctxt "Npc_Gaman03_DLC2nd_Talk01"
+msgid "<1.so><2.te_si>So sweaty... <3.pa>Brother...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: raw
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Gaman03_DLC2nd_Talk02"
+msgid ""
+"<1.so><2.te_si>So sweaty... "
+"<3.pa>Brother...<4.te_si><5.ra><6.se_co>Standing on lava<7.re_co> is "
+"impossible!\n"
+"No one could train THAT intensely..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: raw
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Gaman03_DLC2nd_Talk03"
+msgid ""
+"<1.so><2.te_si>So sweaty... <3.pa>Brother...<4.te_si><5.ra>The "
+"<6.se_co>glowing ring<7.re_co> is gone. Now I don't\n"
+"have to do that crazy training.\n"
+"Thank goodness..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: raw
+#. 5: text_size
+#. 6: raw
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "Npc_Gaman03_DLC2nd_Talk04"
+msgid ""
+"<1.so><2.te_si>So sweaty... <3.pa>Brother...<4.ra><5.te_si>I'm OK with "
+"how things turned out...<6.ra>I'm not quite ready for <7.se_co>lava "
+"training<8.re_co>...\n"
+"Brother..."
+msgstr ""
+
+msgctxt "Npc_Goron006_Near00"
+msgid "*grumble*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Npc_Goron006_Talk00"
+msgid "<1.so>So... <2.pa>Did ya need somethin'?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: sound
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: set_colour (blue)
+#. 15: reset_colour
+#. 16: set_colour (blue)
+#. 17: pause (short)
+#. 18: reset_colour
+#. 19: set_colour (blue)
+#. 20: reset_colour
+#. 21: set_colour (blue)
+#. 22: pause (short)
+#. 23: reset_colour
+#. 24: single_choice
+msgctxt "Npc_Goron006_Talk01"
+msgid ""
+"<1.so>Ya wanna know about <2.se_co>Daruk<3.re_co>?<4.pa>\n"
+"Huh. <5.pa>Popular subject these days.\n"
+"\n"
+"Not too long ago, a Rito bard came by\n"
+"wantin' to know all about him. I told him\n"
+"about all kinds of things.<6.pa> For example...\n"
+"<7.so>About the <8.se_co>Boulder Breaker<9.re_co>, "
+"<10.se_co>Daruk<11.re_co>'s\n"
+"weapon of choice. I told him how heavy\n"
+"it is and how its power is unmatched.\n"
+"You know the valley at <12.se_co>Gortram Cliff<13.re_co>,\n"
+"southwest of <14.se_co>Gorko Tunnel<15.re_co>?\n"
+"\n"
+"It was made by <16.se_co>Daruk <17.pa><18.re_co>with his\n"
+"<19.se_co>Boulder Breaker<20.re_co> <21.se_co><22.pa><23.re_co>in one "
+"night!<24.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: sound
+#. 10: set_colour (blue)
+#. 11: reset_colour
+msgctxt "Npc_Goron006_Talk02"
+msgid ""
+"<1.so><2.se_co>Yunobo<3.re_co>?<4.pa> I saw him starin' off\n"
+"into the distance on top of the\n"
+"entrance gate. Typical.\n"
+"<5.so>Actually, it seems to me that <6.se_co>Yunobo<7.re_co><8.pa>\n"
+"is actin' more accomplished and\n"
+"confident these days.\n"
+"<9.so>Maybe he's finally realized what it means\n"
+"to be a descendant of the Great <10.se_co>Daruk<11.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Goron006_Talk03"
+msgid "<1.so>It's another scorcher today."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Goron006_Talk04"
+msgid "<1.so>Was there somethin' else ya needed?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Goron006_Talk06"
+msgid "<1.so>Do ya need somethin'?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Goron006_Talk07"
+msgid "<1.so>Was there somethin' else ya needed?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Goron006_Talk08"
+msgid "<1.so>What do ya wanna hear about?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: sound
+#. 10: set_colour (blue)
+#. 11: reset_colour
+msgctxt "Npc_Goron006_Talk10"
+msgid ""
+"<1.so><2.se_co>Yunobo<3.re_co>?<4.pa> I saw him starin' off into the\n"
+"distance on top of the entrance gate\n"
+"earlier. He's probably in bed by now.\n"
+"<5.so>Actually, it seems to me that <6.se_co>Yunobo<7.re_co><8.pa>\n"
+"is actin' more accomplished and\n"
+"confident these days.\n"
+"<9.so>Maybe he's finally realized what it means\n"
+"to be a descendant of the Great <10.se_co>Daruk<11.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: sound
+#. 5: animation
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Npc_Goron006_Talk11"
+msgid ""
+"<1.so>Why?! Why do ya think?<2.pa> To make it\n"
+"easier for us Gorons to get all that\n"
+"tasty rock roast!\n"
+"<3.so>That Rito fella seemed to like the other\n"
+"story I told him better, though.\n"
+"\n"
+"<4.so><5.an>...I'm not a big fan of that one.<6.pa>\n"
+"The heroic and exciting stories of\n"
+"<7.se_co>Daruk <8.re_co>capture him much better!"
+msgstr ""
+
+msgctxt "Npc_Goron020_2_Near00"
+msgid "Beautiful view, goro..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Npc_Goron020_2_Talk01"
+msgid "<1.so>Oh! <2.pa>Did ya need somethin', goro?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: sound
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound
+#. 10: pause (short)
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: sound
+#. 14: single_choice
+msgctxt "Npc_Goron020_2_Talk02"
+msgid ""
+"<1.so>About <2.se_co>Lord Daruk<3.re_co>, goro?<4.pa>\n"
+"\n"
+"\n"
+"<5.so>...Oh!<6.pa> That reminds me of somethin'!\n"
+"I found <7.se_co>Lord Daruk's training journal<8.re_co>!\n"
+"\n"
+"<9.so>He must have been a big eater.\n"
+"He sure talks about delicious rocks\n"
+"a bunch.\n"
+"What else...<10.pa> Oh, <11.se_co>Lord Daruk<12.re_co> also had a\n"
+"good friend who liked to eat as much\n"
+"as he did.\n"
+"<13.so>I don't have much of an appetite myself,\n"
+"so I'm pretty scrawny, goro...\n"
+"\n"
+"I'm gonna have to start eatin' lots so\n"
+"I can become as strong as those two!<14.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Goron020_2_Talk03"
+msgid "<1.so>See ya later, goro."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Goron020_2_Talk04"
+msgid "<1.so>You need somethin', goro?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Goron020_2_Talk05"
+msgid "<1.so>What do ya wanna know about, goro?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Goron020_2_Talk06"
+msgid "<1.so>Anything else you wanna know, goro?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Npc_Goron020_2_Talk07"
+msgid ""
+"<1.so>I think the <2.se_co>Boss <3.re_co>is at his home, goro.\n"
+"Just go down the road down below\n"
+"and you'll find it.\n"
+"<4.so>The <5.se_co>Boss <6.re_co>sure knows a lot about my\n"
+"ancestors. I'd love to have him tell\n"
+"me all about 'em sometime, goro."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Goron020_2_Talk08"
+msgid "<1.so>Do ya need anything, goro?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: reset_colour
+msgctxt "Npc_Goron020_2_Talk10"
+msgid ""
+"<1.so>That's right!<2.pa> I found it when I was\n"
+"cleanin' out the <3.se_co>Abandoned North\n"
+"Mine <4.re_co>where we met.\n"
+"<5.se_co>Lord<6.re_co> <7.se_co>Daruk's<8.re_co> <9.se_co>training "
+"journal<10.re_co> is at\n"
+"<11.se_co>my house <12.re_co>now, goro."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Npc_Goron020_2_Talk11"
+msgid ""
+"<1.so>That's right!<2.pa> I found it when I was\n"
+"cleanin' out the <3.se_co>Abandoned North\n"
+"Mine <4.re_co>where we met.\n"
+"I left <5.se_co>Lord Daruk's training journal<6.re_co>\n"
+"on the <7.se_co>desk <8.re_co>over there, goro."
+msgstr ""
+
+msgctxt "Npc_Goron022_Near00"
+msgid "Lord Daruk..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: sound
+#. 12: pause (short)
+#. 13: set_colour (red)
+#. 14: reset_colour
+msgctxt "Npc_Goron022_Talk00"
+msgid ""
+"<1.so>That's right. I'm followin' the\n"
+"Great <2.se_co>Daruk<3.re_co>'s footsteps too!\n"
+"\n"
+"In fact, I hear <4.se_co>Lord Daruk<5.re_co> <6.pa>defeated a\n"
+"<7.se_co>huge monster<8.re_co> at <9.se_co>Lake Darman<10.re_co>.\n"
+"\n"
+"<11.so>I wonder<12.pa> what the <13.se_co>monster <14.re_co>looked like..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (short)
+msgctxt "Npc_Goron022_Talk01"
+msgid ""
+"<1.so>They say <2.se_co>Lord Daruk<3.re_co> defeated a\n"
+"<4.se_co>huge monster<5.re_co> somewhere nearby!\n"
+"\n"
+"<6.so>Apparently <7.se_co>Daruk<8.re_co>'s battle cry was\n"
+"so fierce<9.pa>, no one could tell if it was\n"
+"him or the monster howling!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Goron022_Talk02"
+msgid "<1.so>Hey there!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Npc_Goron022_Talk03"
+msgid "<1.so>Hey there. <2.pa>Nice morning, eh?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Npc_Goron022_Talk04"
+msgid "<1.so>Hey there. <2.pa>It's hot today. <3.pa>How great!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Npc_Goron022_Talk05"
+msgid ""
+"<1.so>Hey there. <2.pa>How are ya handlin' the heat,\n"
+"little guy? Don't expect it to cool off\n"
+"even when the sun sets."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_Goron022_Talk06"
+msgid ""
+"<1.so>I'm thinkin' of leavin' <2.se_co>Champion Daruk<3.re_co>'s\n"
+"turf for a spell.\n"
+"\n"
+"Maybe I'll bring home some tasty rocks\n"
+"to keep for souvenirs... Mmm..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: raw
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Npc_Goron022_Talk08"
+msgid ""
+"<1.so>Hey! <2.pa>You're the little one I met at\n"
+"<3.se_co>Lord Daruk<4.re_co>'s turf!<5.ra>Since then, I've been wanderin'"
+" around\n"
+"a bunch <6.pa>and thinkin' about how brave\n"
+"<7.se_co>Lord Daruk<8.re_co> was."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_Goron022_Talk09"
+msgid ""
+"<1.so>I recently spent some time near\n"
+"<2.se_co>Champion Daruk<3.re_co>'s turf.\n"
+"\n"
+"Apparently it's where <4.se_co>Lord Daruk<5.re_co> \n"
+"defeated a huge monster. He's a\n"
+"Goron among Gorons!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+#. 5: pause (short)
+#. 6: raw
+#. 7: sound
+#. 8: raw
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: sound
+#. 12: pause (short)
+msgctxt "Npc_Goron022_Talk10"
+msgid ""
+"<1.so>Truth is...<2.pa>I've had this strange feelin'\n"
+"in my gut since I returned.\n"
+"\n"
+"<3.so>It sounds nuts, but...<4.pa>ever since I've been\n"
+"explorin' the Champ's turf...<5.pa><6.ra><7.so>I feel reinvigorated! Like"
+" I could take\n"
+"on the whole world!<8.ra>Do ya think maybe <9.se_co>Lord Daruk<10.re_co> "
+"shared\n"
+"some of his secret Champion\n"
+"mojo with me?\n"
+"<11.so>Oh! Speakin' of gifts...<12.pa> I picked this up as\n"
+"a souvenir of sorts. Go ahead and take it!\n"
+"Think of it as a keepsake."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Goron022_Talk11"
+msgid ""
+"<1.so>That souvenir's all yours, little guy.\n"
+"My tastes're too refined to eat that junk.\n"
+"Maybe it'll remind you of your travels!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_Goron022_Talk12"
+msgid ""
+"<1.so>Huh.<2.pa> Your pouch is full, so I can't give ya\n"
+"this <3.se_co>amber<4.re_co>. Some other time!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_Goron022_Talk13"
+msgid ""
+"<1.so>I found this in the far reaches of\n"
+"<2.se_co>Champion Daruk<3.re_co>'s turf. Take it!\n"
+"It's a foul snack but a nice keepsake."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+msgctxt "Npc_Goron022_Talk14"
+msgid ""
+"<1.so>By the way...<2.pa> You came at\n"
+"a good time!\n"
+"\n"
+"<3.so>Ever since that lizard monster lurking on\n"
+"<4.se_co>Death Mountain <5.re_co>was tamed, it's safe\n"
+"again. That means you can take it easy!\n"
+"<6.so>Then again, it may be safe, but it's still\n"
+"pretty darn hot..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Npc_Goron022_Talk15"
+msgid "<1.so>Anyway...<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: single_choice
+msgctxt "Npc_Goron022_Talk16"
+msgid ""
+"<1.so>A Hylian? Here?<2.pa> Does this mean...\n"
+"Are ya goin' to visit <3.se_co>Lord Daruk<4.re_co>'s turf?<5.si_ch>"
+msgstr ""
+

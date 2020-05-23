@@ -1,0 +1,152 @@
+msgctxt "0000"
+msgid "Common Locations"
+msgstr ""
+
+msgctxt "0001"
+msgid "Common Locations"
+msgstr ""
+
+msgctxt "0002"
+msgid "Properties"
+msgstr ""
+
+msgctxt "0003"
+msgid "Additional Effects"
+msgstr ""
+
+msgctxt "0010"
+msgid "None"
+msgstr ""
+
+msgctxt "0011"
+msgid "No restorative effect"
+msgstr ""
+
+msgctxt "0012"
+msgid "None"
+msgstr ""
+
+msgctxt "0020"
+msgid "Greater Hyrule"
+msgstr ""
+
+msgctxt "0021"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "0022"
+msgid "Sheikah Slate data is damaged."
+msgstr ""
+
+msgctxt "0023"
+msgid "Faron"
+msgstr ""
+
+msgctxt "0024"
+msgid "Kakariko Village"
+msgstr ""
+
+msgctxt "0025"
+msgid "Treasures"
+msgstr ""
+
+msgctxt "0026"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "0027"
+msgid "Hyrule Field"
+msgstr ""
+
+msgctxt "0028"
+msgid "Hyrule Castle"
+msgstr ""
+
+msgctxt "0029"
+msgid "Eldin Mountains"
+msgstr ""
+
+msgctxt "0030"
+msgid "Tabantha Frontier"
+msgstr ""
+
+msgctxt "0031"
+msgid "Mount Lanayru"
+msgstr ""
+
+msgctxt "0032"
+msgid "Lake Hylia"
+msgstr ""
+
+msgctxt "0033"
+msgid "Lake Floria"
+msgstr ""
+
+msgctxt "0034"
+msgid "Divine Beast Vah Naboris"
+msgstr ""
+
+msgctxt "0035"
+msgid "Divine Beast Vah Rudania"
+msgstr ""
+
+msgctxt "0036"
+msgid "Divine Beast Vah Ruta"
+msgstr ""
+
+msgctxt "0037"
+msgid "Divine Beast Vah Medoh"
+msgstr ""
+
+msgctxt "Pa_ChallengeCategory_00-T_CatName_00"
+msgid "Creatures"
+msgstr ""
+
+msgctxt "Pa_ChallengeCategory_01-T_CatName_00"
+msgid "Monsters"
+msgstr ""
+
+msgctxt "Pa_ChallengeCategory_02-T_CatName_00"
+msgid "Materials"
+msgstr ""
+
+msgctxt "Pa_ChallengeCategory_03-T_CatName_00"
+msgid "Equipment"
+msgstr ""
+
+msgctxt "Pa_ChallengeCategory_04-T_CatName_00"
+msgid "Treasure"
+msgstr ""
+
+msgctxt "Pa_Info_00-T_SubTitleB_00"
+msgid "Description"
+msgstr ""
+
+msgctxt "Pa_Info_00-T_SubTitleC_00"
+msgid "Recoverable Materials"
+msgstr ""
+
+msgctxt "Pa_Info_00-T_SubTitleD_00"
+msgid "Cooking Effects"
+msgstr ""
+
+msgctxt "Pa_Info_00-T_SubTitleE_00"
+msgid "Hearts Recovered"
+msgstr ""
+
+msgctxt "Pa_Page_00-Pa_Btn_00-T_New_00"
+msgid "New"
+msgstr ""
+
+msgctxt "Pa_SensorIcon_00-T_Ancient_00"
+msgid "SheikahSensor"
+msgstr ""
+
+msgctxt "Pa_SensorIcon_00-T_Off_00"
+msgid "Off"
+msgstr ""
+
+msgctxt "Pa_SensorIcon_00-T_SensorOn_00"
+msgid "Shrine"
+msgstr ""
+

@@ -1,0 +1,25 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Solitary_Maze_Desc"
+msgid ""
+"When you approached the curious ruins on\n"
+"the island in the Akkala Sea, you heard a\n"
+"voice speak to you.\n"
+"\n"
+"It told you that you will be granted a blessing\n"
+"if you <1.se_co>travel through the island maze<2.re_co>."
+msgstr ""
+
+msgctxt "QL_Solitary_Maze_Finish"
+msgid ""
+"The labyrinth on the solitary island was\n"
+"difficult, but you prevailed.\n"
+"\n"
+"When you reached the end of the maze,\n"
+"you found an ancient shrine waiting for you."
+msgstr ""
+
+msgctxt "QL_Solitary_Maze_Name"
+msgid "Trial of the Labyrinth"
+msgstr ""
+

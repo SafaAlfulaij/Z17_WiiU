@@ -1,0 +1,104 @@
+msgctxt "0000"
+msgid "Your brother?"
+msgstr ""
+
+msgctxt "0001"
+msgid "How's the shoulder?"
+msgstr ""
+
+msgctxt "0002"
+msgid "You're welcome."
+msgstr ""
+
+msgctxt "Near00"
+msgid "Hrnghhh..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk00"
+msgid ""
+"<1.so>Oh! You! You're the one who helped my\n"
+"little brother!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: sound
+#. 6: sound
+msgctxt "Talk01"
+msgid ""
+"<1.so>Even though we all thought it was just\n"
+"a child's fairy tale, my brother actually\n"
+"dug up the <2.se_co>secret of the hero<3.re_co>.\n"
+"<4.so>Now he's so into digging, he'll pretty\n"
+"much dig anywhere, anytime.\n"
+"\n"
+"I'm proud, but I'm also his big brother.\n"
+"I can't let him beat me! I'll have to stop\n"
+"skippin' leg day and train harder!\n"
+"<5.so>As a fellow Goron, of course I'm\n"
+"thrilled about it...\n"
+"\n"
+"<6.so>But as a brother, I'm mostly just worried\n"
+"our house is gonna get all dug up\n"
+"between the two of us..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: text_size
+#. 12: sound
+#. 13: text_size
+msgctxt "Talk02"
+msgid ""
+"<1.so>My shoulder? Huh?<2.pa>\n"
+"...Ah! That's right!\n"
+"\n"
+"<3.so>Well, the shock of seeing the <4.se_co>secret of\n"
+"the hero<5.re_co> dug up totally cured me!\n"
+"\n"
+"<6.so>The<7.se_co> secret of the hero <8.re_co>is amazing!\n"
+"Unbelievable!<9.se_co><10.re_co>\n"
+"\n"
+"<11.te_si><12.so>Although, it looks just like the shrine we have\n"
+"near the city...<13.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Talk03"
+msgid ""
+"<1.so>I'll never forget the debt I owe you for\n"
+"all this, brother. Not in my entire life!\n"
+"\n"
+"We'll pass down stories about it.\n"
+"Not just of the <2.se_co>secret of the hero<3.re_co>,\n"
+"but of you too!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk10"
+msgid ""
+"<1.so>I'm happy to see my little brother so\n"
+"motivated and all, but...\n"
+"\n"
+"I'm worried he's gonna end up digging\n"
+"the house to pieces!"
+msgstr ""
+
+msgctxt "Talk30"
+msgid "Hrnghhh... Grrrghh..."
+msgstr ""
+

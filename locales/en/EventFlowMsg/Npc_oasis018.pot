@@ -1,0 +1,147 @@
+msgctxt "0000"
+msgid "Yup, I can see them."
+msgstr ""
+
+msgctxt "0001"
+msgid "I can't see them."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk_01"
+msgid ""
+"<1.so>The nighttime is really nice.<2.pa>\n"
+"I can't believe how much people move\n"
+"around in the heat of the afternoon.\n"
+"I guess I could get a drink to wake\n"
+"myself up..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_02"
+msgid ""
+"<1.so>Phew!<2.pa> This is really the only thing\n"
+"that can wake me up."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_04"
+msgid ""
+"<1.so>My vaba often said to never eat a\n"
+"hearty durian while drinking...\n"
+"\n"
+"I don't really know why, but since she\n"
+"said it so much, there must be a\n"
+"good reason."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_05"
+msgid ""
+"<1.so>I think I'll look for something to\n"
+"drink and maybe some snacks..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Talk_06"
+msgid ""
+"<1.so>My mom often said that dishes with\n"
+"mushrooms were good for nursing\n"
+"serious headaches.\n"
+"So...<2.pa>when I'm feeling tired, I always make\n"
+"<3.se_co>fragrant mushroom sauté<4.re_co>.\n"
+"I love that curry flavor!\n"
+"It's a simple dish that you can make if\n"
+"you have some <5.se_co>Goron spice<6.re_co> and\n"
+"<7.se_co>mushrooms<8.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_07"
+msgid ""
+"<1.so>It's gonna get hot soon, so I think I'm\n"
+"going to head to bed."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_08"
+msgid ""
+"<1.so>Ugh, what is it? I prefer to rest\n"
+"and relax until night..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_09"
+msgid ""
+"<1.so>Mushrooms that only beautiful people\n"
+"can see? Not like I'll fall for that.\n"
+"\n"
+"Wait, you're not seriously saying you can\n"
+"see them, are you?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+msgctxt "Talk_10"
+msgid ""
+"<1.so>Oh, wow, really?\n"
+"\n"
+"\n"
+"<2.so>And I just thought it was all some kind\n"
+"of joke that Ardin came up with to trick\n"
+"her customers when she's all out...\n"
+"<3.so>Well, I don't care if I can see them or\n"
+"not. I could have seen them when I was\n"
+"younger—that much I know."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_11"
+msgid ""
+"<1.so>Oh, well, if someone as pretty as you\n"
+"can't see them, that means...\n"
+"\n"
+"Then Ardin must have made up another\n"
+"silly lie. She tells really weird ones\n"
+"sometimes."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_12"
+msgid "<1.so>Sold out? Ugh, that's the worst..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_13"
+msgid ""
+"<1.so>A Hylian vai, huh...<2.pa>\n"
+"Sav'otta..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_14"
+msgid ""
+"<1.so>A Hylian vai, huh...<2.pa>\n"
+"Sav'aaq..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_15"
+msgid ""
+"<1.so>A Hylian vai, huh...<2.pa>\n"
+"Sav'saaba..."
+msgstr ""
+

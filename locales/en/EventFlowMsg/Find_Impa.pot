@@ -1,0 +1,324 @@
+msgctxt "0002"
+msgid "Aren't you cold?"
+msgstr ""
+
+msgctxt "0004"
+msgid "You're drenched!"
+msgstr ""
+
+msgctxt "0005"
+msgid "OK."
+msgstr ""
+
+msgctxt "0006"
+msgid "Yiga Clan?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Good-bye."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk07"
+msgid ""
+"<1.so>Lady Impa is waiting.\n"
+"Please hurry inside."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk08"
+msgid ""
+"<1.so>Metallic objects attract lightning.\n"
+"Please be careful on rainy days."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (red)
+#. 12: reset_colour
+#. 13: pause (short)
+msgctxt "Talk09"
+msgid ""
+"<1.so>We of the Sheikah tribe have long been\n"
+"heralded as a people of great wisdom.\n"
+"\n"
+"Our technology became the key to\n"
+"sealing <2.se_co>Ganon <3.re_co>away during the Great\n"
+"Calamity,<4.pa> some ten thousand years ago.\n"
+"At one point, our technology was praised\n"
+"as the power of the gods...<5.pa>but eventually\n"
+"the people turned on it. Turned on us.\n"
+"Our creations came to be viewed as a\n"
+"threat to the kingdom. The Sheikah\n"
+"became outcasts, forced into exile.\n"
+"Some, like us, chose to cast off our\n"
+"technological advances and strove\n"
+"to live normal lives.\n"
+"Others fostered a hatred toward the\n"
+"kingdom that shunned them.<6.pa> These sad\n"
+"souls swore their allegiance to <7.se_co>Ganon<8.re_co>.\n"
+"They now call themselves the <9.se_co>Yiga Clan<10.re_co>.\n"
+"\n"
+"\n"
+"Their sole mission is to eliminate all who\n"
+"stand against <11.se_co>Ganon<12.re_co>.<13.pa> Please, dear hero...\n"
+"be careful out there."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk10"
+msgid "<1.so>Please forgive us for behaving so rudely.<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk11"
+msgid ""
+"<1.so>You there! Who are you?! How dare you\n"
+"trespass upon <2.se_co>Lady Impa<3.re_co>'s abode!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "Talk12"
+msgid ""
+"<1.so>Though it was simple ignorance, I must\n"
+"apologize again for my actions.\n"
+"\n"
+"Lately the <2.se_co>Yiga Clan<3.re_co> has been stirring up\n"
+"trouble. We are all on high alert. Still...<4.pa>\n"
+"That is no excuse for my behavior.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: choice
+msgctxt "Talk13"
+msgid ""
+"<1.so>Though it was simple ignorance, I must\n"
+"apologize again for my actions.\n"
+"\n"
+"Lately the <2.se_co>Yiga Clan<3.re_co> has been stirring up\n"
+"trouble. We are all on high alert. Still...<4.pa>\n"
+"That is no excuse for my behavior.\n"
+"In any case, <5.se_co>Lady Impa<6.re_co> is waiting.<7.pa>\n"
+"Please come inside.<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk14"
+msgid ""
+"<1.so>No need to worry yourself.<2.pa> Upon my\n"
+"person, I bear the traditional Sheikah\n"
+"tribe garb.\n"
+"It is designed to withstand any condition\n"
+"so that we may always fulfill our duties.\n"
+"Rain like this is no concern at all."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk15"
+msgid ""
+"<1.so>Lady Impa has been waiting on you for a\n"
+"long time.\n"
+"\n"
+"There is much I would like to tell you\n"
+"as well... But first, please hurry and see\n"
+"what Lady Impa has to say."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk16"
+msgid ""
+"<1.so>Lady Impa has been waiting on you for a\n"
+"long time.\n"
+"\n"
+"You are the lone hope of the \n"
+"Sheikah tribe... Please, hero.\n"
+"Hurry to Lady Impa's side.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "Talk17"
+msgid ""
+"<1.so>Ha!<2.pa> Is that how I appear?\n"
+"\n"
+"\n"
+"<3.so>You know... The Sheikah tribe was once\n"
+"renowned for its technological ingenuity.\n"
+"\n"
+"There were even those who believed\n"
+"we had the power of the gods at our\n"
+"command.\n"
+"This outfit I wear was specially designed\n"
+"using that very technology.\n"
+"\n"
+"It was made to withstand any condition,\n"
+"including all types of weather. Even a\n"
+"lightning strike poses no threat.\n"
+"It may look sopping wet and heavy with\n"
+"rain, but I assure you, it is dry as a bone\n"
+"and light beyond reason."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: text_size
+msgctxt "Talk18"
+msgid "<1.so><2.te_si>A man?!<3.pa><4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (longer)
+#. 7: pause (short)
+#. 8: pause (short)
+msgctxt "Talk19"
+msgid ""
+"<1.so>AHHHH!<2.pa>\n"
+"\n"
+"\n"
+"Master...<3.pa>Master Link!<4.pa> You...<5.pa>you're very\n"
+"close to me right now!<6.pa> I just...\n"
+"\n"
+"My...<7.pa>my grandmother is waiting for you\n"
+"at her abode.<8.pa> Please hurry to her!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (long)
+msgctxt "Talk21"
+msgid ""
+"<1.so>Oh, it's not that I forgot...I'm just bad\n"
+"with speaking.<2.pa> As for me, my name is\n"
+"Pa... <3.pa>Paaa... <4.pa>Paaay...<5.pa>\n"
+"Oh! <6.pa>My name is Paya!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk22"
+msgid "<1.so>Huh? <2.pa>Is that—?!<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (long)
+#. 9: pause (short)
+msgctxt "Talk23"
+msgid ""
+"<1.so>Hm? <2.pa>\n"
+"\n"
+"\n"
+"<3.so>Is that...<4.pa>a <5.se_co>Sheikah Slate<6.re_co>?\n"
+"\n"
+"\n"
+"<7.so>But that would mean you are...<8.pa>\n"
+"No, it's not possible. <9.pa>Can it be?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "Talk25"
+msgid ""
+"<1.so>Of course we have heard the legends\n"
+"from Lady Impa herself. <2.pa>Please, friend...<3.pa>\n"
+"Go ahead and step inside."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Talk26"
+msgid "<1.so>It's...<2.pa>a <3.se_co>Sheikah Slate<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "Talk27"
+msgid ""
+"<1.so>Could you be the hero my grandmother\n"
+"told me about? What was his name?<2.pa>\n"
+"Li... <3.pa>Lin... <4.pa>Ummm...<5.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "Talk28"
+msgid ""
+"<1.so>I know I should be able to say that easily,<2.pa>\n"
+"seeing as how it's my own name and all.\n"
+"\n"
+"<3.so>I'm so...<4.pa>sorry.\n"
+"\n"
+"\n"
+"Anyway, my grandmother's been awaiting\n"
+"your return ever since I was little.\n"
+"\n"
+"Plea...<5.pa>please hurry inside. "
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (long)
+#. 4: text_size
+msgctxt "Talk29"
+msgid "<1.so>Phew! <2.te_si><3.pa><4.te_si>I got it out..."
+msgstr ""
+
+msgctxt "near00"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "near01"
+msgid "Huh?!"
+msgstr ""
+
+msgctxt "near03"
+msgid "Waaaaah..."
+msgstr ""
+

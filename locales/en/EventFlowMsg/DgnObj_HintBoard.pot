@@ -1,0 +1,21 @@
+msgctxt "Talk_CDungeon_022"
+msgid ""
+"Look to the stars for guidance.\n"
+"The constellations are the key."
+msgstr ""
+
+msgctxt "Talk_CDungeon_023"
+msgid ""
+"An offering of ice is the only way for\n"
+"you to reveal your path forward."
+msgstr ""
+
+msgctxt "Talk_CDungeon_Futago_00"
+msgid ""
+"The shrines atop these peaks share a\n"
+"connection—their memory the answer to\n"
+"the other's question.\n"
+"Commit to memory before you start,\n"
+"lest, a failure, you will depart."
+msgstr ""
+

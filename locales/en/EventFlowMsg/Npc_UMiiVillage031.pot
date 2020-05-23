@@ -1,0 +1,866 @@
+msgctxt "0000"
+msgid "Who are you again?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "I remember!"
+msgstr ""
+
+msgctxt "0003"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Good idea!"
+msgstr ""
+
+msgctxt "0005"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Enough what?"
+msgstr ""
+
+msgctxt "0007"
+msgid "I'll help out!"
+msgstr ""
+
+msgctxt "0008"
+msgid "I don't mind!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "0012"
+msgid "I brought them!"
+msgstr ""
+
+msgctxt "0013"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "0014"
+msgid "Sure!"
+msgstr ""
+
+msgctxt "0015"
+msgid "Nope! Bye!"
+msgstr ""
+
+msgctxt "0016"
+msgid "No way!!"
+msgstr ""
+
+msgctxt "0017"
+msgid "To who?"
+msgstr ""
+
+msgctxt "0018"
+msgid "Congratulations!"
+msgstr ""
+
+msgctxt "0019"
+msgid "What a surprise!"
+msgstr ""
+
+msgctxt "0020"
+msgid "Guests?"
+msgstr ""
+
+msgctxt "0021"
+msgid "I see."
+msgstr ""
+
+msgctxt "0022"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "0023"
+msgid "You're a cute couple!"
+msgstr ""
+
+msgctxt "0024"
+msgid "Wait a second."
+msgstr ""
+
+msgctxt "0025"
+msgid "Are you crying?"
+msgstr ""
+
+msgctxt "0026"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0027"
+msgid "No."
+msgstr ""
+
+msgctxt "0091"
+msgid "Where are they?"
+msgstr ""
+
+msgctxt "0092"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "0094"
+msgid "Physical strength?"
+msgstr ""
+
+msgctxt "0095"
+msgid "Tailoring?"
+msgstr ""
+
+msgctxt "0096"
+msgid "So a traveling trader?"
+msgstr ""
+
+msgctxt "0097"
+msgid "Priest-like, huh..."
+msgstr ""
+
+msgctxt "near00"
+msgid "Yo!"
+msgstr ""
+
+msgctxt "near01"
+msgid "Hoh!"
+msgstr ""
+
+msgctxt "near02"
+msgid "Hmph!"
+msgstr ""
+
+msgctxt "near03"
+msgid "Yah!"
+msgstr ""
+
+msgctxt "near04"
+msgid "..."
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk00"
+msgid "<1.so>Well, next is...<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk01"
+msgid "<1.so>We meet again.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk02"
+msgid ""
+"<1.so>I'm one of the Bolson Construction\n"
+"contractors.<2.pa> The name's Hudson.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk03"
+msgid "<1.so>Me too.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk04"
+msgid ""
+"<1.so>Since I've been transferred here, I've\n"
+"decided to build a village from scratch.\n"
+"\n"
+"Every village needs a name, though.\n"
+"I think I'll call it...<2.pa><3.se_co>Tarrey Town<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk05"
+msgid "<1.so>However...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk06"
+msgid ""
+"<1.so>I built a house to store the village\n"
+"supplies in,<2.pa> but there just isn't enough...<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk07"
+msgid ""
+"<1.so>Enough anything...<2.pa> People...\n"
+"<3.pa>Money... <4.pa>Stuff...<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>But why?<2.pa> There's nothing in it\n"
+"for you.<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid "<1.so>You're a lifesaver..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk10"
+msgid ""
+"<1.so>Well...<2.pa>I suppose to get started, we'll\n"
+"need houses for people to live in. We\n"
+"can't invite them until we have homes.\n"
+"Do you think you can bring me\n"
+"<3.se_co>10 bundles of wood<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid ""
+"<1.so>If you bring me that, I can combine\n"
+"it with what I've already got and get\n"
+"started on new houses."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk12"
+msgid "<1.so>Did you bring the <2.se_co>10 bundles of wood<3.re_co>?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk13"
+msgid "<1.so>Excellent! Can I have them?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk14"
+msgid ""
+"<1.so>Hurry up and bring me <2.se_co>10 bundles of\n"
+"wood<3.re_co>, will you? I want to get to building."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid ""
+"<1.so>I haven't got enough supplies in the\n"
+"storehouse to build houses yet."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk16"
+msgid ""
+"<1.so>Yeah, if we're talking about <2.se_co>brute\n"
+"physical strength<3.re_co>, and we are, a <4.se_co>Goron<5.re_co>\n"
+"would be my first choice..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: single_choice
+msgctxt "talk17"
+msgid ""
+"<1.so>These boulders are driving me nuts.\n"
+"I want to move them out of the way so\n"
+"we can develop the land underneath.\n"
+"It'd really help me out if you could find\n"
+"someone with enough <2.se_co>brute physical\n"
+"strength <3.re_co>to bust them apart.<4.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk18"
+msgid "<1.so>Oh, and one last wrinkle..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk19"
+msgid ""
+"<1.so>Yeah, in accordance with the official\n"
+"<2.se_co>Bolson Construction<3.re_co> policy, that\n"
+"someone's name must end in \"son.\"\n"
+"If you run into anyone that fits with what\n"
+"I've said, send them here to\n"
+"<4.se_co>Tarrey Town <5.re_co>for me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (longer)
+msgctxt "talk21"
+msgid ""
+"<1.so>You sent some Gorons back here.<2.pa>\n"
+"That's perfect. The brute strength of a\n"
+"Goron is undeniable.\n"
+"Those boulders don't stand a chance\n"
+"against them... And with names like\n"
+"Greyson and Pelison, they'll fit right in.\n"
+"Also, Pelison started selling the <3.se_co>ore<4.re_co>\n"
+"found within the boulders.<5.pa>\n"
+"You should go say hello again."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk22"
+msgid ""
+"<1.so>So before more people can move here,\n"
+"we need homes for them to live in.<2.pa>\n"
+"Can you bring me <3.se_co>20 bundles of wood<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk23"
+msgid "<1.so>Did you bring the <2.se_co>20 bundles of wood<3.re_co>?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk24"
+msgid ""
+"<1.so>Hurry up and bring me <2.se_co>20 bundles of\n"
+"wood<3.re_co>, will you? I want to get to building."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "talk25"
+msgid ""
+"<1.so>If we're talking about <2.se_co>tailoring<3.re_co>...<4.pa>\n"
+"there could be someone among the\n"
+"<5.se_co>Gerudo<6.re_co> who's good at that."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: single_choice
+msgctxt "talk26"
+msgid ""
+"<1.so>Working such long hours every day really\n"
+"wears on my clothes.\n"
+"\n"
+"Could you look for <2.se_co>someone who's got a\n"
+"gift for tailoring<3.re_co> for me?<4.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk27"
+msgid ""
+"<1.so>Karson and President Bolson \n"
+"just arrived. I can only imagine how tired\n"
+"they are from their long journey.\n"
+"We should hold the ceremony on\n"
+"another day."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk28"
+msgid ""
+"<1.so>You should take today to rest, too.\n"
+"\n"
+"\n"
+"If you need a place to stay, talk to\n"
+"Kapson.<2.pa> He'll probably let you stay for\n"
+"free."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk29"
+msgid ""
+"<1.so>Think of how tired the <2.se_co>big boss <3.re_co>and\n"
+"Karson must be.<4.pa> Let's have the\n"
+"ceremony on another day."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "talk30"
+msgid ""
+"<1.so>If we're looking for a people\n"
+"devout enough to have a <2.se_co>priest-like\n"
+"person<3.re_co>...<4.pa>I'd suggest the <5.se_co>Zora<6.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "talk31"
+msgid ""
+"<1.so>You found someone from the Gerudo.\n"
+"<2.pa>Thank you.\n"
+"\n"
+"She was able to patch every last hole in\n"
+"my work clothes before I could blink.\n"
+"She's pretty...er, amazing!\n"
+"And since her name is Rhondson, I have\n"
+"no objections.\n"
+"\n"
+"I hear she's decided to continue putting\n"
+"her skills to use by opening a <3.se_co>clothing\n"
+"shop<4.re_co>.<5.pa> You should stop by and say hello."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk32"
+msgid ""
+"<1.so>So before more people can move here,\n"
+"we need more homes for them to live in.<2.pa>\n"
+"Can you bring me <3.se_co>30 bundles of wood<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk33"
+msgid "<1.so><2.so>Did you bring the <3.se_co>30 bundles of wood<4.re_co>?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk34"
+msgid ""
+"<1.so>Hurry up and bring me <2.se_co>30 bundles of\n"
+"wood<3.re_co>, will you? I want to get to building."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "talk35"
+msgid ""
+"<1.so>Oh, that's a good thought...<2.pa>\n"
+"<3.se_co>Rito<4.re_co> can fly around<5.pa>, so they should be\n"
+"able to retrieve and deliver supplies."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: single_choice
+msgctxt "talk36"
+msgid ""
+"<1.so>It's finally starting to look like a town\n"
+"around here.<2.pa> Which is exactly why we\n"
+"need to set up some distribution.\n"
+"I'd like to get a general store up and\n"
+"running, but there's no one with the\n"
+"connections and qualifications to run it.\n"
+"Do you think you could keep an eye out\n"
+"for someone who knows about\n"
+"<3.se_co>distribution<4.re_co> and <5.se_co>can run a general "
+"store<6.re_co>?<7.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk37"
+msgid ""
+"<1.so>Good luck! You'll need it... This seems\n"
+"like a real long shot."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk38"
+msgid "<1.so>Thank you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk39"
+msgid ""
+"<1.so>You managed to find a Rito and bring him\n"
+"back here. Thank you.\n"
+"\n"
+"He wasted no time getting a general\n"
+"store up and running—apparently his\n"
+"family runs one too.\n"
+"And with a name like Fyson,\n"
+"he'll fit right in!\n"
+"\n"
+"He's selling things that he's picked up\n"
+"while flying around. <2.pa>You should really go\n"
+"check out the store."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk40"
+msgid ""
+"<1.so>So before we can call more people here,\n"
+"we need even more homes for them.<2.pa>\n"
+"Can you bring me <3.se_co>50 bundles of wood<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk41"
+msgid "<1.so>Did you bring the <2.se_co>50 bundles of wood<3.re_co>?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk42"
+msgid ""
+"<1.so>Hurry up and bring me <2.se_co>50 bundles of\n"
+"wood<3.re_co>, will you? I want to get to building."
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk43"
+msgid ""
+"<1.so>I actually wanted to talk about something\n"
+"a little personal...<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk44"
+msgid ""
+"<1.so>Oh, not that kind of personal.\n"
+"Actually, I got engaged.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk45"
+msgid "<1.so>It's true.<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk46"
+msgid "<1.so>To Rhondson.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk47"
+msgid "<1.so>Thank you.<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk48"
+msgid ""
+"<1.so>You say that, but for some reason, I\n"
+"think you mean the opposite..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: single_choice
+msgctxt "talk49"
+msgid ""
+"<1.so>Anyway, we want to have a little\n"
+"ceremony to celebrate, but we need\n"
+"someone priest-like to officiate.\n"
+"Could you look for someone <2.se_co>priest-like<3.re_co>\n"
+"for us?<4.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk50"
+msgid "<1.so>Now Rhondson and I can be married!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk51"
+msgid ""
+"<1.so>You found a Zora?<2.pa> Thank you...really.\n"
+"\n"
+"\n"
+"He and I talked earlier, <3.pa>and he said that\n"
+"he literally was a priest before he retired.\n"
+"You can't get more priest-like than that.\n"
+"And his name is Kapson, so I have no\n"
+"objections there.\n"
+"\n"
+"It really is amazing that you were able to\n"
+"find someone priest-like who also had\n"
+"an acceptable name..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk52"
+msgid ""
+"<1.so>Of course, we'll have to invite guests in\n"
+"order to hold a ceremony...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk53"
+msgid ""
+"<1.so>Well, I'm talking about my boss, Bolson,\n"
+"and my subordinate, Karson.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk54"
+msgid ""
+"<1.so>However, I've got to prepare for the\n"
+"ceremony, so my hands are full...<2.pa>\n"
+"Could you invite them for me?<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk55"
+msgid "<1.so>Excellent. I'm counting on you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk56"
+msgid ""
+"<1.so>Once Karson and the boss Bolson get\n"
+"here,<2.pa> we can start the ceremony.\n"
+"\n"
+"They're probably still in Hateno Village.<3.pa>\n"
+"Can you invite them for me?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk57"
+msgid ""
+"<1.so>You extended my invitation for me.<2.pa>\n"
+"Thank you."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk58"
+msgid ""
+"<1.so>Now then, Karson and the boss Bolson\n"
+"are waiting for things to begin...\n"
+"\n"
+"Shall we start the ceremony?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk59"
+msgid ""
+"<1.so>I understand...<2.pa> This is an exciting event\n"
+"for me too. When you've collected\n"
+"yourself, come talk to me."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk60"
+msgid ""
+"<1.so>Understood.\n"
+"\n"
+"\n"
+"Then let's join the gathering."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk79"
+msgid "<1.so>All right. <2.pa>This is for you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: text_size
+#. 4: text_size
+#. 5: choice
+msgctxt "talk80"
+msgid ""
+"<1.so>Thank you for attending the ceremony.<2.pa>\n"
+"...<3.te_si>*sniff*<4.te_si><5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk81"
+msgid "<1.so>What? No. Just something in my eye..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "talk82"
+msgid ""
+"<1.so>And now <2.se_co>Tarrey Town<3.re_co><4.pa> looks like a real\n"
+"town at long last.\n"
+"\n"
+"This was all possible because of you. <5.pa>\n"
+"I can't thank you enough for all the hard\n"
+"work you did."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk83"
+msgid ""
+"<1.so>These were found inside the boulders we\n"
+"smashed when we were clearing land.\n"
+"\n"
+"Rhondson and I have no use for them.<2.pa>\n"
+"You can take them."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk84"
+msgid ""
+"<1.so>Well, I want to give them to you,<2.pa> but it\n"
+"looks like you haven't got room\n"
+"for <3.se_co>three<4.re_co> <5.se_co>diamonds<6.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk85"
+msgid "<1.so>It's you."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk86"
+msgid "<1.so>Hey."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "talk87"
+msgid ""
+"<1.so>Rhondson and I are very happy to live\n"
+"here now.\n"
+"\n"
+"<2.so>So... Isn't there something important\n"
+"you should be doing?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk88"
+msgid ""
+"<1.so>Then get to it.\n"
+"\n"
+"\n"
+"You've traveled the world helping folks,\n"
+"but there's more that need helping.<2.pa> You\n"
+"don't have the luxury of tarrying here."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk89"
+msgid ""
+"<1.so>I see...<2.pa> In that case, stay as long as you\n"
+"like, OK?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk90"
+msgid "<1.so>Oh."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk91"
+msgid "<1.so>Hello."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: single_choice
+msgctxt "talk95"
+msgid ""
+"<1.so>You know where they are. The <2.se_co>boss<3.re_co> and\n"
+"Karson<4.pa> are in Hateno Village, right?<5.si_ch>"
+msgstr ""
+

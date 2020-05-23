@@ -1,0 +1,190 @@
+msgctxt "0000"
+msgid "Sorry, \"boe\"?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Sorry, \"bai\"?"
+msgstr ""
+
+msgctxt "Near_Raimei_001"
+msgid "Ooo, that helm..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Npc_oasis024_001"
+msgid ""
+"<1.so>Sorry, but in Gerudo Town it is tradition\n"
+"that voe are not permitted entry. We\n"
+"honor that tradition very strictly.\n"
+"If you need to prepare for a journey, you\n"
+"should head to<2.se_co> <3.re_co>the oasis near the\n"
+"desert's entrance, <4.se_co>Kara Kara Bazaar<5.re_co>.<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: choice
+msgctxt "Npc_oasis024_002"
+msgid ""
+"<1.so>Sorry, but <2.se_co>voe<3.re_co> are not allowed in town.\n"
+"If you need to make preparations for\n"
+"your journey, you can do so elsewhere.\n"
+"<4.so>Try <5.se_co>Kara Kara Bazaar<6.re_co>, the oasis at the\n"
+"entrance of the desert. <7.se_co>Voe<8.re_co> are welcome\n"
+"there.<9.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Npc_oasis024_003"
+msgid ""
+"<1.so>This is <2.se_co>Gerudo Town<3.re_co>, Hyrule's largest\n"
+"trade hub.\n"
+"\n"
+"Only <4.se_co>vai<5.re_co> are permitted entry within the\n"
+"walls, and we're constantly on alert for\n"
+"anyone who looks suspicious.<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Npc_oasis024_004"
+msgid ""
+"<1.so>This place is famous for its bustling\n"
+"trade, but also for our unusual rule\n"
+"allowing only <2.se_co>vai<3.re_co> into the town.\n"
+"We're constantly on the lookout for\n"
+"anyone suspicious, so you can rest\n"
+"easy here.<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis024_005"
+msgid "<1.so><2.so>Sav'aaq."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis024_006"
+msgid "<1.so><2.so>Sav'otta."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Npc_oasis024_008"
+msgid ""
+"<1.so>Not \"bai\"!<2.pa> <3.se_co>Vai<4.re_co>!\n"
+"\n"
+"\n"
+"<5.so>Bite your bottom lip as you say it.\n"
+"It translates to \"woman\" in your\n"
+"language.\n"
+"So long as we're on the subject, <6.se_co>voe<7.re_co> is\n"
+"our word for \"man.\"\n"
+"\n"
+"If you plan to stay awhile, you'd do well\n"
+"to learn the language."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Npc_oasis024_009"
+msgid ""
+"<1.so>Not \"boe\"! <2.se_co>Voe<3.re_co>!\n"
+"\n"
+"\n"
+"<4.so>Bite your bottom lip as you say it.\n"
+"It translates as \"man\" in your language.\n"
+"\n"
+"So long as we're on the subject, <5.se_co>vai<6.re_co> is\n"
+"our word for \"woman.\" What do you\n"
+"think? Pretty easy to remember?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis024_010"
+msgid ""
+"<1.so>Since you're here, it might be worth it\n"
+"to learn some Gerudo words, right?\n"
+"\"Good-bye\" is <2.se_co>sav'orq<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis024_011"
+msgid "<1.so><2.so>Sav'saaba."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+#. 4: sound2
+#. 5: pause (short)
+msgctxt "Npc_oasis024_Near001"
+msgid ""
+"<1.so>Freeze!<2.pa> Where do you think you're\n"
+"going?!<3.pa><4.so> Not into town—that's for sure!\n"
+"No voe allowed. <5.pa>Off with you!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Sinjyu_Female_001"
+msgid ""
+"<1.so>The chief has calmed the <2.se_co>Divine Beast<3.re_co>.\n"
+"The town can finally rest easy with that\n"
+"threat handled...\n"
+"Now you can truly relax in town.\n"
+"Feel free to come inside."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Sinjyu_Normal_001"
+msgid ""
+"<1.so>The chief has calmed the <2.se_co>Divine Beast<3.re_co>.\n"
+"The town can finally rest easy with that\n"
+"threat handled...\n"
+"I'm sure we'll see more business traffic\n"
+"going in and out than we have in a\n"
+"while, too.\n"
+"Which means I have to be extra diligent\n"
+"in keeping voe from slipping into town\n"
+"with the crowds!"
+msgstr ""
+

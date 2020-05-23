@@ -1,0 +1,23 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_ZoraMini_HarvestingStone_Desc"
+msgid ""
+"Ledo asked you to bring him <1.se_co>ten luminous\n"
+"stones<2.re_co> to help rebuild Zora's Domain.\n"
+"\n"
+"Apparently there's a place in <3.se_co>Upland Zorana<4.re_co>\n"
+"where they're pretty common."
+msgstr ""
+
+msgctxt "QL_ZoraMini_HarvestingStone_Finish"
+msgid ""
+"You gave Ledo 10 luminous stones to aid in\n"
+"the repairs to Zora's Domain."
+msgstr ""
+
+msgctxt "QL_ZoraMini_HarvestingStone_Name"
+msgid "Luminous Stone Gathering"
+msgstr ""
+

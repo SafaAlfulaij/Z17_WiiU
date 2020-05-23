@@ -1,0 +1,207 @@
+msgctxt "0000"
+msgid "I've seen her."
+msgstr ""
+
+msgctxt "0001"
+msgid "Not yet."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid "<1.so>Mornin'!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>G'day!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Evenin'!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk04"
+msgid ""
+"<1.so>I don't wanna be rude,<2.pa> but I gotta ask\n"
+"you to let me rest today."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Heya!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk06"
+msgid "<1.so>I'm sleepy..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid "<1.so>You're in high spirits!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid "<1.so>*snore*"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid "<1.so>*snore*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk11"
+msgid ""
+"<1.so>Why? I'm going to bed.<2.pa>\n"
+"Come back tomorrow."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk12"
+msgid ""
+"<1.so>I don't wanna be rude,<2.pa> but I gotta ask\n"
+"you to let me rest today."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk13"
+msgid ""
+"<1.so>I just met with Hudson,<2.pa> so now I'm\n"
+"feeling pretty relaxed!\n"
+"\n"
+"<3.so>That reminds me, have you already\n"
+"met<4.pa> Hudson's fiancée?<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk14"
+msgid "<1.so>She's a real beauty..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk15"
+msgid ""
+"<1.so>Oh, really?<2.pa>\n"
+"She's a real beauty..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk16"
+msgid ""
+"<1.so>And apparently she's an amazing tailor\n"
+"too!<2.pa> All those clothes she sells? She\n"
+"makes them herself!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk17"
+msgid "<1.so>Hudson's fiancée is quite lovely..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk19"
+msgid ""
+"<1.so>All that's left now is to wait for the\n"
+"wedding ceremony!<2.pa> I wonder if it's\n"
+"gonna start soon..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (longer)
+msgctxt "talk20"
+msgid ""
+"<1.so>Oh, man...<2.pa>\n"
+"That was a real nice ceremony.\n"
+"\n"
+"<3.so>I was a little surprised at the <4.se_co>boss<5.re_co>'s\n"
+"outburst, though...\n"
+"\n"
+"<6.so>Oh, that's right! <7.pa>Hudson was looking\n"
+"for you. He wanted to talk to you about\n"
+"something."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk21"
+msgid ""
+"<1.so>Hudson said he wanted to talk with\n"
+"you about something."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk22"
+msgid ""
+"<1.so>As you wander around, make sure to\n"
+"check in with Hudson and see what he\n"
+"has to say!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "talk23"
+msgid ""
+"<1.so>You were really helpful in getting this\n"
+"town into the shape it's in now,\n"
+"weren't you? Hudson is really grateful.\n"
+"<2.so>I can tell, whenever and wherever I\n"
+"meet you...you're no ordinary man..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk25"
+msgid ""
+"<1.so>You know, my girlfriend also works in a\n"
+"clothing shop! <2.pa>Although, it's her father\n"
+"making all the clothes they sell.\n"
+"I guess it doesn't matter..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk26"
+msgid "<1.so>She's too good for Hudson!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk27"
+msgid ""
+"<1.so>But really, what does Rhondson<2.pa> see in\n"
+"Hudson, anyway?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk28"
+msgid ""
+"<1.so>Maybe...<2.pa>\n"
+"Could it be his silky smooth hair?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk29"
+msgid ""
+"<1.so>Maybe...<2.pa>\n"
+"Could it be his toned, muscular body?"
+msgstr ""
+

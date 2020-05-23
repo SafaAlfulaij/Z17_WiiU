@@ -1,0 +1,75 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Npc_oasis019_001"
+msgid ""
+"<1.so>If you're exhausted from your travels,\n"
+"please consider Hotel Oasis!\n"
+"\n"
+"Not just a place to rest your head, Hotel\n"
+"Oasis is home to the fantastic...<2.pa>\n"
+"<3.se_co>spa plan<4.re_co>!\n"
+"Step inside and speak with Romah for\n"
+"more information!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Npc_oasis019_002"
+msgid ""
+"<1.so>Are you exhausted from your travels,\n"
+"ma'am? Please consider Hotel Oasis!\n"
+"\n"
+"I recommend checking out our unique...<2.pa>\n"
+"<3.se_co>spa plan<4.re_co>! Ranked number one in ways to\n"
+"feel relaxed and beautiful!\n"
+"Relax your body and mind at Hotel Oasis!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Npc_oasis019_003"
+msgid ""
+"<1.so>Stop right where you are! Staying up late\n"
+"is bad for your skin, ma'am!\n"
+"\n"
+"I suggest you step inside and ask about\n"
+"our <2.se_co>spa plan<3.re_co>, known by vai the world\n"
+"over!\n"
+"It will heal your mind and body better\n"
+"than anything else!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis019_007"
+msgid "<1.so><2.so>Sav'aaq!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis019_008"
+msgid "<1.so><2.so>Sav'otta!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis019_009"
+msgid "<1.so><2.so>Sav'saaba!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis019_010"
+msgid "<1.so><2.so>Vasaaq!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Npc_oasis019_Near01"
+msgid "<1.so>Welcome to Hotel Oasis!"
+msgstr ""
+

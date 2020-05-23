@@ -1,0 +1,197 @@
+#. 1: icon
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "0000"
+msgid ""
+"Press <1.ic> to deflect an attack\n"
+"with your shield right before it\n"
+"lands for a <2.se_co>Perfect Guard<3.re_co>."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0001"
+msgid ""
+"Jump out of the way of an\n"
+"attack at the last moment to\n"
+"execute a <1.se_co>Perfect Dodge<2.re_co>."
+msgstr ""
+
+#. 1: icon
+#. 2: icon
+msgctxt "0002"
+msgid ""
+"To shield surf, jump (<1.ic>) while\n"
+"holding a shield, and then\n"
+"press <2.ic> while in the air."
+msgstr ""
+
+#. 1: set_colour (light_green1)
+#. 2: set_colour (red)
+#. 3: set_colour (light_green1)
+#. 4: reset_colour
+msgctxt "0003"
+msgid ""
+"Hit an enemy's head with an\n"
+"arrow to perform a <1.se_co><2.se_co>Critical Hit<3.se_co><4.re_co>\n"
+"that deals 2x damage."
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"If your Stamina Wheel runs out,\n"
+"you'll be too tired to do certain\n"
+"actions until it fills up again."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"The temperature is getting\n"
+"dangerously low. Find warmth\n"
+"soon or you'll take damage."
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"The temperature is getting\n"
+"very high. Find a way to cool\n"
+"down or you'll take damage."
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"Sneak up on an enemy and\n"
+"unleash a melee attack to do\n"
+"some major damage."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0008"
+msgid ""
+"Any attack that causes your\n"
+"weapon to break becomes a\n"
+"<1.se_co>Critical Hit<2.re_co>, dealing 2x damage."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0009"
+msgid ""
+"Throw a weapon at an enemy to\n"
+"perform a <1.se_co>Critical Hit<2.re_co>, dealing\n"
+"twice the weapon damage."
+msgstr ""
+
+msgctxt "0010"
+msgid ""
+"The very air around you is\n"
+"burning. You'll take damage\n"
+"if you stay here any longer."
+msgstr ""
+
+msgctxt "0013"
+msgid ""
+"Vertical surfaces become slick\n"
+"with water when it rains, making\n"
+"climbing more difficult."
+msgstr ""
+
+msgctxt "0014"
+msgid ""
+"Wooden weapons or\n"
+"shields will catch fire if\n"
+"equipped in this area."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0015"
+msgid ""
+"Crouching increases your\n"
+"<1.se_co>stealth<2.re_co>, making it easier to\n"
+"sneak up on foes and animals."
+msgstr ""
+
+msgctxt "0016"
+msgid ""
+"You can't sand-seal surf\n"
+"without a shield."
+msgstr ""
+
+msgctxt "0017"
+msgid ""
+"Wolf Link will guide you\n"
+"to locations that trigger\n"
+"your Sheikah Sensor."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0018"
+msgid ""
+"Check a meal's ingredients by\n"
+"selecting it from your inventory\n"
+"and then selecting <1.se_co>Recipe<2.re_co>."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0019"
+msgid ""
+"Electrical attacks can shock\n"
+"you, causing you to drop the\n"
+"<1.se_co>weapon <2.re_co>you're holding."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0020"
+msgid ""
+"The air has become very <1.se_co>cold<2.re_co>.\n"
+"You'll take damage even with\n"
+"your current food and clothes."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0021"
+msgid ""
+"The air has become very <1.se_co>hot<2.re_co>.\n"
+"You'll take damage even with\n"
+"your current food and clothes."
+msgstr ""
+
+msgctxt "0022"
+msgid ""
+"The air itself burns. Your current\n"
+"clothes and food won't protect\n"
+"you from taking damage."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0023"
+msgid ""
+"You can manipulate certain\n"
+"aspects of the Divine Beast\n"
+"from the <1.se_co>Map Screen<2.re_co>."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0024"
+msgid ""
+"Master Cycle Zero's <1.se_co>fuel<2.re_co> can\n"
+"be refilled by placing materials\n"
+"in its fuel tank."
+msgstr ""
+
+msgctxt "T_Guide_00"
+msgid "Controls Overview"
+msgstr ""
+
+msgctxt "TextBox_00"
+msgid ""
+msgstr ""
+

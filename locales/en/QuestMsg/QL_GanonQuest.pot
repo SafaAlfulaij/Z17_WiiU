@@ -1,0 +1,31 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_GanonQuest_Desc"
+msgid ""
+"The ghost of King Rhoam told you that\n"
+"Hyrule is on the brink of annihilation.\n"
+"\n"
+"Princess Zelda is currently fighting to contain\n"
+"<1.se_co>Calamity Ganon<2.re_co> inside Hyrule Castle, but her\n"
+"power cannot keep him at bay forever.\n"
+"Eventually, Ganon will regain his full\n"
+"strength and destroy the world.\n"
+"\n"
+"Your ultimate task is to aid Princess Zelda in\n"
+"defeating Ganon before that can happen."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+msgctxt "QL_GanonQuest_Finished"
+msgid ""
+"<1.ra>ふよう不要？\n"
+"ガノンの<2.ra>けいたい形態によってステップを<3.ra>わ分けた<4.ra>ほう方がいいかも"
+msgstr ""
+
+msgctxt "QL_GanonQuest_Name"
+msgid "Destroy Ganon"
+msgstr ""
+

@@ -1,0 +1,44 @@
+msgctxt "Near_Raimei_001"
+msgid "Aw, I want a helm, too..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Npc_oasis040_001"
+msgid ""
+"<1.so>Let's see...am I forgetting anything?\n"
+"I've got to remember the <2.se_co>hydromelons<3.re_co>...\n"
+"\n"
+"<4.so>That still leaves sunscreen... And..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "Npc_oasis040_002"
+msgid ""
+"<1.so>I am truly glad that <2.se_co>Barta<3.re_co> made it\n"
+"back safely!\n"
+"\n"
+"She said she was eating bananas on the\n"
+"way home. <4.pa>I wonder where she found\n"
+"them..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Npc_oasis040_003"
+msgid ""
+"<1.so>Barta hasn't returned in many days...\n"
+"Could she have been captured by those\n"
+"thieves?\n"
+"No, the sandstorms out near the\n"
+"<2.se_co>Karusa Valley <3.re_co>have been bad. I'm\n"
+"certain she's gotten lost or stranded.\n"
+"I'm worried for her..."
+msgstr ""
+

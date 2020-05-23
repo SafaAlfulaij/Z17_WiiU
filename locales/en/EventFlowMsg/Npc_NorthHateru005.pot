@@ -1,0 +1,341 @@
+msgctxt "0000"
+msgid "What is this place?"
+msgstr ""
+
+msgctxt "0001"
+msgid "You seem grumpy."
+msgstr ""
+
+msgctxt "0002"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "0003"
+msgid "The Zora?"
+msgstr ""
+
+msgctxt "0004"
+msgid "See ya."
+msgstr ""
+
+msgctxt "0005"
+msgid "Satty?"
+msgstr ""
+
+msgctxt "0006"
+msgid "I want to hear it."
+msgstr ""
+
+msgctxt "0007"
+msgid "Not really."
+msgstr ""
+
+msgctxt "0008"
+msgid "And then?"
+msgstr ""
+
+msgctxt "0009"
+msgid "That's enough."
+msgstr ""
+
+msgctxt "0010"
+msgid "And then? And then?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk000"
+msgid "<1.so>Yo..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk001"
+msgid ""
+"<1.so>Really?! <2.pa>Another guy?!\n"
+"\n"
+"\n"
+"The only people I can meet here at this\n"
+"stable are men...<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+#. 6: sound
+#. 7: pause (short)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (short)
+#. 11: choice
+msgctxt "talk002"
+msgid ""
+"<1.so>Oh!<2.pa> Hey, girl...\n"
+"It's been a while since I've seen a\n"
+"vision as fine as you around he—<3.pa>\n"
+"<4.so>Wait a sec...<5.pa>\n"
+"You're a guy, aren't you?\n"
+"\n"
+"<6.so>Look, pal. Those clothes might fool\n"
+"someone from Gerudo,<7.pa> but they're not\n"
+"fooling this <8.se_co>Hylian<9.re_co>.\n"
+"*sigh*<10.pa>\n"
+"I should have known I wouldn't meet any\n"
+"women at this crummy stable.<11.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: choice
+msgctxt "talk005"
+msgid ""
+"<1.so>Hm?!<2.pa> Oh, it's just you...<3.pa> You want\n"
+"something? Or are you just here to\n"
+"disappoint me again?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound
+#. 6: choice
+msgctxt "talk010"
+msgid ""
+"<1.so>It's a filthy stable filled with nothing but\n"
+"unwashed men...\n"
+"\n"
+"And even when we were finally visited by\n"
+"a Zora...<2.pa>turns out he was some\n"
+"manly <3.se_co>prince <4.re_co>guy who's a dude.\n"
+"<5.so>Satty's the only reason I'm sticking\n"
+"around this dump.<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+#. 4: choice
+msgctxt "talk020"
+msgid ""
+"<1.so>Take a look to the east.<2.pa>\n"
+"It's always covered in clouds, right?\n"
+"\n"
+"Rain and stuff really sours my mood.<3.pa>\n"
+"Good thing Satty's here to cheer me up.<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk030"
+msgid ""
+"<1.so>I don't want to hear it.\n"
+"\n"
+"\n"
+"The only visitors we get at this stable\n"
+"these days are guys like you and the\n"
+"<2.se_co>Zora prince<3.re_co>.\n"
+"Men. Men everywhere...<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+#. 9: choice
+msgctxt "talk040"
+msgid ""
+"<1.so>You don't know who the Zora are?<2.pa>\n"
+"They're, like, slippery fish people.\n"
+"\n"
+"They live east of here...<3.pa>up <4.se_co>Zora River <5.re_co>in\n"
+"a place called Zora's Domain.\n"
+"\n"
+"They wanted me to stop by their domain\n"
+"because they need a <6.se_co>Hylian <7.re_co>for\n"
+"something...\n"
+"<8.so>But I don't want to abandon Satty or put\n"
+"him in danger, so I'm in a bit of a tight\n"
+"spot...<9.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk050"
+msgid "<1.so>Yeah... <2.pa>See ya."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk060"
+msgid ""
+"<1.so><2.se_co>Satty<3.re_co>? Well...<4.pa>I owe him my life.\n"
+"It's a pretty long story—are you sure you\n"
+"want to hear it?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: choice
+msgctxt "talk061"
+msgid ""
+"<1.so>All right. Here goes...\n"
+"\n"
+"\n"
+"Have you heard that rumor about the\n"
+"<2.se_co>strange mountain<3.re_co><4.pa> on which a bunch of\n"
+"animals appear at a certain time?\n"
+"Well, when I heard that, <5.pa>I went there\n"
+"to do some hunting.\n"
+"\n"
+"I thought it sounded like a good\n"
+"opportunity to turn a profit, selling\n"
+"the meat and whatnot...<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk062"
+msgid ""
+"<1.so>So I go to the mountain<2.pa> and wait\n"
+"for the animals to show up.\n"
+"\n"
+"When suddenly this dirty little pup\n"
+"appears out of nowhere!\n"
+"\n"
+"I figure he's been separated from his\n"
+"parents or abandoned by his last owner.\n"
+"\n"
+"He starts begging for food, so I give him\n"
+"some jerky, and he runs off over a hill...<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (longer)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: pause (longer)
+#. 13: choice
+msgctxt "talk063"
+msgid ""
+"<1.so>Later on, I doze off for a little while, and\n"
+"when I come to, there's a big <2.se_co>glowing\n"
+"beast <3.re_co>standing right in front of me!\n"
+"It caught me completely off guard.<4.pa>\n"
+"I couldn't even draw my bow!\n"
+"I just stared at it.\n"
+"And then the <5.se_co>beast <6.re_co>runs at me like it\n"
+"wants to trample me!\n"
+"\n"
+"<7.so>Suddenly the pup I gave food to jumps\n"
+"in between us!<8.pa> He starts barking at the\n"
+"<9.se_co>beast<10.re_co>, who was ten times his size!\n"
+"All to...<11.pa>protect me...<12.pa>\n"
+"Even though he was trembling with fear...<13.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: sound
+#. 13: set_colour (blue)
+#. 14: reset_colour
+#. 15: set_colour (blue)
+#. 16: reset_colour
+msgctxt "talk064"
+msgid ""
+"<1.so>Then the <2.se_co>beast<3.re_co> recoiled a bit...\n"
+"\n"
+"\n"
+"So I took that chance to snatch up the\n"
+"pup<4.pa> and flee down the mountain,\n"
+"tripping and falling all the way...\n"
+"...\n"
+"\n"
+"\n"
+"And that's my story.\n"
+"\n"
+"\n"
+"The <5.se_co>strange mountain<6.re_co><7.pa> is called\n"
+"<8.se_co>Satori Mountain<9.re_co>. It's west of\n"
+"<10.se_co>Central Hyrule<11.re_co>.\n"
+"<12.so>I brought <13.se_co>Satty<14.re_co> back here, and we've\n"
+"been best buds ever since.\n"
+"\n"
+"If you're feeling brave, you should go\n"
+"find that <15.se_co>glowing beast <16.re_co>on the mountain\n"
+"and give it a stern talking to."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk065"
+msgid ""
+"<1.so>You wanna hear the touching story about\n"
+"how Satty and I became best friends\n"
+"again?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk070"
+msgid "<1.so>Oh...<2.pa> Bye."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk100"
+msgid "<1.so>I wonder what'll happen today..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk101"
+msgid ""
+"<1.so>Ugh... Where's the sun?\n"
+"And the girls?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk110"
+msgid "<1.so>I'm so hungry right now..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound2
+#. 3: text_size
+msgctxt "talk120"
+msgid ""
+"<1.te_si><2.so>The beast... It's...back...\n"
+"Run, Satty. Save yourself...<3.te_si>"
+msgstr ""
+

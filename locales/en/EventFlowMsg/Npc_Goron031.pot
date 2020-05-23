@@ -1,0 +1,352 @@
+msgctxt "0000"
+msgid "You know Yunobo?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Riiight."
+msgstr ""
+
+msgctxt "0002"
+msgid "Bye-bye!"
+msgstr ""
+
+msgctxt "0003"
+msgid "Nonsense."
+msgstr ""
+
+msgctxt "0004"
+msgid "Not really, no."
+msgstr ""
+
+msgctxt "0005"
+msgid "I found it!"
+msgstr ""
+
+msgctxt "0006"
+msgid "You don't know that."
+msgstr ""
+
+msgctxt "near00"
+msgid "*guuuuurgleeee...*"
+msgstr ""
+
+msgctxt "near01"
+msgid "Goo...gaaah..."
+msgstr ""
+
+msgctxt "near02"
+msgid "That was hot..."
+msgstr ""
+
+msgctxt "near03"
+msgid "Huh?"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: choice
+msgctxt "talk00"
+msgid ""
+"<1.so><2.an>Me un Gwamps are seebee who can bay\n"
+"in da bot bing da bombest!\n"
+"\n"
+"Sho, I'm binda biddy ride now!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "talk01"
+msgid "<1.so><2.an>Bobah! Bah!!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "talk02"
+msgid "<1.so><2.an>If goo gotz, den ged oudda gear!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: choice
+msgctxt "talk04"
+msgid "<1.so><2.an>Wike I thed, I'm binda biddy ride now!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: animation
+#. 4: choice
+msgctxt "talk05"
+msgid ""
+"<1.so><2.an>Me un Gwamps are seebee who can bay\n"
+"in da bot bing da bombest!\n"
+"\n"
+"<3.an>Sho, I'm binda biddy ride now!<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "talk06"
+msgid "<1.so><2.an>Yunobo?"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk07"
+msgid "<1.so><2.an>Yunobo wend boff doo <3.se_co>Bridge of Eldin<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid ""
+"<1.so>I'm challengin' my gramps again to\n"
+"see who can soak in the hot spring\n"
+"the longest!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk09"
+msgid ""
+"<1.so>I'm goin' to sleep...<2.pa> Gramps is waaay\n"
+"too good at soakin' in hot springs..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid ""
+"<1.so>I'm goin' to sleep... I'll beat Gramps\n"
+"tomorrow... Yeah, I'm sure of it..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: text_size
+msgctxt "talk11"
+msgid ""
+"<1.so><2.te_si><3.se_co>Treasure<4.re_co>...<5.pa>the way to "
+"<6.se_co>Bridge of Eldin<7.re_co>...<8.pa>\n"
+"an amazing <9.se_co>stick<10.re_co>...<11.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: set_colour (red)
+#. 7: pause (short)
+#. 8: reset_colour
+#. 9: text_size
+msgctxt "talk12"
+msgid ""
+"<1.te_si><2.so>The <3.se_co>treasure<4.re_co>...<5.pa>at the <6.se_co>top"
+" of <7.pa>a lava waterfall<8.re_co>...<9.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "talk13"
+msgid "<1.so><2.te_si>Zzz...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "talk14"
+msgid "<1.so><2.te_si>*snore*<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: choice
+msgctxt "talk15"
+msgid "<1.so><2.an>Goo gon't go but I'm thaying?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (longer)
+#. 4: choice
+msgctxt "talk16"
+msgid ""
+"<1.so><2.an>*guuuurgllle*<3.pa>\n"
+"Bouquet, gid goo get dat?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: text_size
+#. 4: text_size
+msgctxt "talk17"
+msgid "<1.so><2.an><3.te_si>Bello!<4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: animation
+#. 4: text_size
+msgctxt "talk18"
+msgid "<1.te_si><2.so><3.an>Ababa!<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: animation
+#. 8: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.so><2.an>I bid a <3.se_co>tweshure<4.re_co> binteen gear an ba\n"
+"<5.se_co>Bridge of Eldin<6.re_co>!\n"
+"\n"
+"Iz an abazing schtick! Beely bool!\n"
+"\n"
+"\n"
+"<7.an>If boo bind it...<8.pa>\n"
+"iz boars!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "talk20"
+msgid ""
+"<1.so><2.an>Bouquet, I'll dell boo one boar\n"
+"lime, zo glisten lup!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk21"
+msgid "<1.so>Hey! Don't tell me that stick is...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk22"
+msgid "<1.so>Ha!<2.pa> I'm not telllllliiiing!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "talk23"
+msgid ""
+"<1.so>Hey!<2.pa> You understood what I was sayin'\n"
+"in the hot spring, right?<3.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (short)
+#. 4: text_size
+#. 5: sound
+#. 6: text_size
+#. 7: pause (short)
+#. 8: pause (longer)
+#. 9: text_size
+msgctxt "talk24"
+msgid ""
+"<1.te_si><2.so>Whaaaaa—! <3.pa>Really?!<4.te_si>\n"
+"\n"
+"\n"
+"<5.so>No...<6.te_si><7.pa> There's no way you understood...<8.pa>\n"
+"No way at all...<9.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk25"
+msgid ""
+"<1.so>Oh! I guess so. <2.pa>It's suspicious, though!<3.pa>\n"
+"I can't help thinkin' that's the\n"
+"<4.se_co>drillshaft <5.re_co>I hid..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+msgctxt "talk26"
+msgid ""
+"<1.so>Mmhm. <2.pa>Now that I get a good look at it,<3.pa>\n"
+"that's NOT the <4.se_co>drillshaft <5.re_co>I hid!\n"
+"\n"
+"<6.so>Thank goodness!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (longer)
+msgctxt "talk27"
+msgid ""
+"<1.so>That's the  <2.se_co>drillshaft <3.re_co>I hid!\n"
+"\n"
+"\n"
+"<4.so>...Right? Actually, I need to get a better\n"
+"look at it.<5.pa> Show it to me! NOW!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (short)
+#. 4: text_size
+msgctxt "talk28"
+msgid ""
+"<1.te_si><2.so>There's no mistakin' it...<3.pa> There was definitely\n"
+"a big noise...\n"
+"\n"
+"Could this person be...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (longer)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk29"
+msgid ""
+"<1.so>Mmhmmm...<2.pa> So you went and found the\n"
+"<3.se_co>drillshaft<4.re_co> I hid.\n"
+"\n"
+"<5.so>Well, it looks like I lost this battle!<6.pa>\n"
+"You can go ahead and keep that\n"
+"<7.se_co>drillshaft<8.re_co>.\n"
+"Thanks for talkin' to me!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk30"
+msgid "<1.so>What are ya doin'!<2.pa> That's dangerous!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk31"
+msgid "<1.so>*gruuuuumble*"
+msgstr ""
+

@@ -1,0 +1,232 @@
+msgctxt "0000"
+msgid "Sure."
+msgstr ""
+
+msgctxt "0001"
+msgid "I'll pass."
+msgstr ""
+
+msgctxt "0005"
+msgid "I'll keep my rupees."
+msgstr ""
+
+msgctxt "0014"
+msgid "Here you go."
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (longer)
+#. 5: choice
+msgctxt "Talk00"
+msgid ""
+"<1.so><2.te_si>Boy...<3.te_si>\n"
+"\n"
+"\n"
+"Sweet boy...\n"
+"\n"
+"\n"
+"Please...<4.pa> Listen to my story...<5.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: pause (short)
+msgctxt "Talk01"
+msgid ""
+"Now... <1.pa>You have rupees for me, right?<2.pa>\n"
+"Hand them over. Quickly!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk02"
+msgid "<1.so>That is truly tragic..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Talk03"
+msgid "<1.so>Ah...<2.pa> You've returned."
+msgstr ""
+
+#. 1: pause (short)
+#. 2: pause (short)
+msgctxt "Talk03_01"
+msgid ""
+"Now... <1.pa>If you have rupees,<2.pa> hand them\n"
+"over to me. Quickly!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: variable (AmountRupeeForNextRevivalFountain)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk03_01B"
+msgid ""
+"<1.so>In order for me to regain my power,<2.pa>\n"
+"I need <3.se_co><4.va> rupees<5.re_co>.<6.ch>"
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: pause (short)
+msgctxt "Talk03_01C"
+msgid ""
+"Oh? I feel the power of a new sister...<1.pa>\n"
+"Quickly,<2.pa> free me as well!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Talk03_05B"
+msgid ""
+"<1.so>In order for me to regain my power,<2.pa>\n"
+"I need <3.se_co>1,000 rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Talk03_m"
+msgid ""
+"<1.so>Well...<2.pa> You're back!<3.pa>\n"
+"I mean... You've come back, have you?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "Talk04"
+msgid ""
+"<1.so>What's this?<2.pa> You don't have enough\n"
+"rupees?\n"
+"\n"
+"How tragic...<3.pa> How dreadfully tragic."
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "Talk06"
+msgid ""
+"This place was once a beautiful spring...\n"
+"\n"
+"\n"
+"But as time passed, fewer and fewer\n"
+"travelers arrived to offer me rupees.<1.pa> As a\n"
+"result, my power has abandoned me.\n"
+"I'm nearly powerless now, so I beg your\n"
+"help. I need rupees to become whole\n"
+"again."
+msgstr ""
+
+#. 1: pause (short)
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (longer)
+msgctxt "Talk07"
+msgid ""
+"Hast thou...<1.pa> I mean...<2.pa> Have you ever felt\n"
+"the pain of losing a horse companion?\n"
+"\n"
+"If my power is returned to me,<3.pa> I may be\n"
+"able to help you out in some way...\n"
+"\n"
+"So please... I beg of you...<4.pa>\n"
+"Help me regain the power I've lost..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk08"
+msgid "<1.so>Thank you. You are too kind."
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "Talk09"
+msgid "Aah... <1.pa>The power..."
+msgstr ""
+
+#. 1: pause (short)
+#. 2: pause (short)
+msgctxt "Talk09_1"
+msgid "Nwaaaaaagh... <1.pa>I...<2.pa>am..."
+msgstr ""
+
+#. 1: text_size
+#. 2: auto_advance
+#. 3: text_size
+msgctxt "Talk10"
+msgid "<1.te_si>It's overflowing!!!<2.au_ad><3.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: auto_advance
+#. 3: text_size
+msgctxt "Talk10_1"
+msgid "Revived!!<1.te_si><2.au_ad><3.te_si>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk11"
+msgid "<1.so>I am the Great Fairy Cotera..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk12"
+msgid "<1.so>I am the Great Fairy Mija..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk13"
+msgid "<1.so>I am the Great Fairy Kaysa..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk14"
+msgid "<1.so>I am the Great Fairy Tera..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk15"
+msgid "<1.so>I am Malanya..."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: sound2
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: variable (AmountRupeeForNextRevivalFountain)
+#. 6: reset_colour
+msgctxt "Talk16"
+msgid "<1.se_co><2.so><3.re_co>All I need is <4.se_co><5.va> rupees<6.re_co>..."
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Talk20"
+msgid "<1.so>All I need is <2.se_co>1,000 rupees<3.re_co>..."
+msgstr ""
+
+msgctxt "Talk26"
+msgid ""
+"Once my power has been restored,\n"
+"I can help you do great things, boy."
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "Talk27"
+msgid ""
+"When my power has been restored,<1.pa>\n"
+"I should be able to be of use to\n"
+"you, who loves horses so."
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "Talk28"
+msgid "<1.te_si>Ah-HAAAAAAAAAAA!!!<2.te_si>"
+msgstr ""
+

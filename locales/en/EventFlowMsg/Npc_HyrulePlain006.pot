@@ -1,0 +1,122 @@
+msgctxt "0000"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "0001"
+msgid "See you around."
+msgstr ""
+
+msgctxt "0002"
+msgid "Go for it."
+msgstr ""
+
+msgctxt "0003"
+msgid "Take it easy..."
+msgstr ""
+
+msgctxt "near00"
+msgid "*snooooooore*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: choice
+msgctxt "talk00"
+msgid "<1.so>Ahhh!<2.pa> I just don't know what to do!<3.pa><4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: sound
+#. 8: pause (longer)
+#. 9: choice
+msgctxt "talk01"
+msgid ""
+"<1.so>Listen, if you wanna get anywhere in this\n"
+"life, you gotta have cash and cachet.\n"
+"\n"
+"And the only way to do that in this day\n"
+"and age is to go to<2.pa>—stay with me here—<3.pa>\n"
+"<4.se_co>Hyrule Castle<5.re_co>.\n"
+"<6.so>I know—it sounds crazy. But rumor has it\n"
+"that it's full of abandoned treasure and\n"
+"weapons!\n"
+"<7.so>They're just sitting in there, free for the\n"
+"taking! <8.pa>Well...if you can get past all of\n"
+"the bloodthirsty monsters, of course.<9.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "talk02"
+msgid ""
+"<1.so>Who are you? <2.pa>Who shows up at a time\n"
+"like this?<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk04"
+msgid ""
+"<1.so>Oh, hey, bud.<2.pa> I'm just contemplating\n"
+"whether or not I should risk my life to\n"
+"go treasure hunting in the castle.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk08"
+msgid ""
+"<1.so>You're right!<2.pa> I can't let a smoking-hot\n"
+"rumor like this go to waste!\n"
+"I just gotta act on it, bud!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid "<1.so>Thanks for nothing, bud."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (long)
+msgctxt "talk10"
+msgid ""
+"<1.so>Take it easy?<2.pa> And let a rumor like this go\n"
+"to waste?<3.pa> Nah, I gotta go big...<4.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: sound
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (longer)
+#. 11: sound
+msgctxt "talk11"
+msgid ""
+"<1.so>There's a docks on the north side of\n"
+"<2.se_co>Hyrule Castle<3.re_co>, see, and I hear you can\n"
+"get inside the castle from there.\n"
+"There's also an ancient <4.se_co>shrine<5.re_co>\n"
+"somewhere around there.<6.pa> Smells\n"
+"like treasure to me. Stinks like it, even!\n"
+"<7.so>Of course, no one I know who's gone to\n"
+"<8.se_co>Hyrule Castle<9.re_co> has come back. <10.pa>Probably\n"
+"because they're too busy being rich!\n"
+"<11.so>I just need to come up with a solid plan.\n"
+"Then I'll be living the good life!"
+msgstr ""
+

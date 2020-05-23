@@ -1,0 +1,13 @@
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_Kakariko001_Talk000"
+msgid ""
+"<1.so>That <2.se_co>Sheikah heirloom <3.re_co>has been guarded\n"
+"by our tribe for generations. I must\n"
+"request that you not touch it...\n"
+"Even for an esteemed guest such as\n"
+"yourself, there are certain rules that\n"
+"must be respected."
+msgstr ""
+

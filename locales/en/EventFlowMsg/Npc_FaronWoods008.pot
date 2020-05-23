@@ -1,0 +1,47 @@
+#. 1: sound
+msgctxt "talk00"
+msgid ""
+"<1.so>That horse is gigantic!\n"
+"\n"
+"\n"
+"I don't think normal-sized horse stuff\n"
+"will even fit a horse that big!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>That horse is enormous!<2.pa> With muscles\n"
+"that big, I bet it has an insane amount\n"
+"of endurance too!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk02"
+msgid ""
+"<1.so>That horse is SO BIG!<2.pa>\n"
+"\n"
+"\n"
+"With that kind of bulk, I wonder if it\n"
+"could even knock back monsters as\n"
+"it runs..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk03"
+msgid ""
+"<1.so>That giant horse seems pretty wild, eh?<2.pa>\n"
+"I doubt it'll listen to you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk04"
+msgid ""
+"<1.so>You didn't bring the giant horse with ya?<2.pa>\n"
+"Too bad, I'd really like to see it again."
+msgstr ""
+

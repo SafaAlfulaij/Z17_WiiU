@@ -1,0 +1,25 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Gerudo_Ch_SandWarm_Desc"
+msgid ""
+"Malena's husband has fallen ill. He needs the\n"
+"<1.se_co>guts of a Molduga <2.re_co>in order to get better. The\n"
+"Molduga is a ferocious monster that's sensitive\n"
+"to the slightest vibration, and it attacks anything\n"
+"that comes near it. The woman is desperately\n"
+"looking for help, but nobody seems capable..."
+msgstr ""
+
+msgctxt "QL_Gerudo_Ch_SandWarm_Finish"
+msgid ""
+"You handed over the Molduga guts to Malena\n"
+"to help fix her husband's illness.\n"
+"\n"
+"She was overjoyed and left to get her husband\n"
+"healthy again."
+msgstr ""
+
+msgctxt "QL_Gerudo_Ch_SandWarm_Name"
+msgid "Medicinal Molduga"
+msgstr ""
+

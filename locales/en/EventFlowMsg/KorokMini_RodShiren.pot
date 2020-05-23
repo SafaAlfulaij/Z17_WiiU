@@ -1,0 +1,206 @@
+msgctxt "0000"
+msgid "I'll do it!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Maybe later..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_kokiri012_F_Talk000"
+msgid ""
+"<1.so>Show me a <2.se_co>rod with the power of ice<3.re_co>!\n"
+"Word in the wood is it's the\n"
+"<4.se_co>Ice Wizzrobe<5.re_co>'s weapon of choice."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_kokiri012_F_Talk010"
+msgid ""
+"<1.so>Now where might one find an\n"
+"<2.se_co>Ice Wizzrobe<3.re_co>? I wonder what kind of\n"
+"climate they prefer."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (short)
+msgctxt "Npc_kokiri012_F_Talk020"
+msgid ""
+"<1.so>Whoa! Looks like you've located an\n"
+"<2.se_co>ice rod<3.re_co>!\n"
+"\n"
+"<4.so>But...<5.pa>you're going to have to equip it to\n"
+"impress me!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_kokiri012_F_Talk030"
+msgid ""
+"<1.so>Shimmering!<2.pa> Sparkling!\n"
+"What a sight to behold!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Npc_kokiri012_F_Talk031"
+msgid ""
+"<1.so>That thing you're carrying on your\n"
+"back... There's no doubt about it—it's an\n"
+"<2.se_co>ice rod<3.re_co>! Show it to me, Mr. Hero!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "Npc_kokiri012_F_Talk040"
+msgid ""
+"<1.so>Is that a <2.se_co>blizzard rod<3.re_co>?!<4.pa>\n"
+"Incredible shimmer!<5.pa>\n"
+"Unbelievable sparkle!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Npc_kokiri012_F_Talk041"
+msgid ""
+"<1.so>Whoa whoa whoa!<2.pa> Is that an <3.se_co>ice rod<4.re_co>\n"
+"strapped to your back?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_kokiri012_F_Talk050"
+msgid ""
+"<1.so>Thank you, Mr. Hero. Your weapon\n"
+"is so amazingly, wonderfully sparkly!\n"
+"I must give you something as thanks!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_kokiri012_F_Talk060"
+msgid "<1.so>Clink! <2.pa>Sparkle..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: raw
+#. 6: sound
+#. 7: pause (long)
+msgctxt "Npc_kokiri012_F_Talk061"
+msgid ""
+"<1.so>That thing on your back...<2.pa>\n"
+"That's an <3.se_co>ice rod<4.re_co>!<5.ra><6.so>Hold up. <7.pa>I was sure"
+" you had something\n"
+"stronger! Equip it and show me.\n"
+"SHOW ME!"
+msgstr ""
+
+msgctxt "Npc_kokiri012_R_Near000"
+msgid "Mr. Hero..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Npc_kokiri012_R_Talk000"
+msgid ""
+"<1.so>Hey, Mr. Hero, sir!<2.pa> We need to make sure\n"
+"you're resourceful enough to shoulder\n"
+"Hyrule's burden.\n"
+"That's why I've prepared a <3.se_co>trial<4.re_co> just for\n"
+"you! Are you ready?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: choice
+msgctxt "Npc_kokiri012_R_Talk001"
+msgid ""
+"<1.so>Hey!<2.pa> Are you the hero? Could it be?<3.pa>\n"
+"Welcome to Korok Forest!\n"
+"\n"
+"You're...<4.pa>much, much cooler looking than\n"
+"I thought you'd be!\n"
+"\n"
+"<5.so>But to be sure you're up to the task at\n"
+"hand...I prepared a <6.se_co>trial<7.re_co> for you!\n"
+"\n"
+"What do you think?!\n"
+"Will you accept my <8.se_co>trial<9.re_co>?<10.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Npc_kokiri012_R_Talk010"
+msgid ""
+"<1.so>We need to be sure you're resourceful\n"
+"enough to shoulder Hyrule's burden.\n"
+"Will you undergo my <2.se_co>trial<3.re_co>?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: pause (short)
+msgctxt "Npc_kokiri012_R_Talk020"
+msgid ""
+"<1.so>Hooray!<2.pa> Show me a <3.se_co>rod with the power\n"
+"of ice<4.re_co>, please!\n"
+"\n"
+"<5.so>You can wave this rod to freeze monsters\n"
+"in their tracks! <6.se_co>Ice Wizzrobes<7.re_co> love to\n"
+"wreak havoc with them.\n"
+"<8.so>If Mr. Hero were to wield a <9.se_co>rod with the\n"
+"power of ice<10.re_co>, <11.pa>he would be even\n"
+"stronger...and cooler!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_kokiri012_R_Talk030"
+msgid ""
+"<1.so>I see... <2.pa>That's too bad.\n"
+"Come back if you change your mind!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Npc_kokiri012_R_Talk040"
+msgid "<1.so>Huh?!<2.pa> What's that thing you're carrying?"
+msgstr ""
+

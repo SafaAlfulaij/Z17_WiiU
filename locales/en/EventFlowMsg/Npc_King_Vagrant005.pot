@@ -1,0 +1,397 @@
+msgctxt "0001"
+msgid "I cooked something."
+msgstr ""
+
+msgctxt "0002"
+msgid "Got any tips?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Bye."
+msgstr ""
+
+msgctxt "0004"
+msgid "Got any tips?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Bye."
+msgstr ""
+
+msgctxt "1002"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "1003"
+msgid "Bye."
+msgstr ""
+
+msgctxt "ClearTerrorEnemy"
+msgid "Hmm..."
+msgstr ""
+
+#. 1: sound
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>I look forward to seeing what type of\n"
+"treasure you secure out there."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (long)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "GoodBye01"
+msgid ""
+"<1.so><2.so>Oho ho!<3.pa> If you still wish to acquire the\n"
+"<4.se_co>paraglider<5.re_co>, you must put in the effort.\n"
+"I will not simply give it away, you see."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "GoodBye02"
+msgid ""
+"<1.so>Hmph!<2.pa> Please do not wake me up for\n"
+"no reason. I need my rest."
+msgstr ""
+
+#. 1: sound
+msgctxt "Hadaka00"
+msgid "<1.so>What in the blazes is going on..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Kari00"
+msgid ""
+"<1.so>Can you not see that I'm hunting here?\n"
+"\n"
+"\n"
+"You'll scare off my prey like that. At least\n"
+"crouch down a bit."
+msgstr ""
+
+msgctxt "Kari02"
+msgid ""
+"Go on! Hurry up and crouch down before\n"
+"you scare off my prey!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Kari03"
+msgid ""
+"<1.so>Hunting demands a great deal of focus...<2.pa>\n"
+"It keeps your mind off how much your\n"
+"back hurts from crouching all day.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Kari04"
+msgid "<1.so>Quiet, please.<2.pa> I'm still hunting.<3.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "KariKotsu00"
+msgid ""
+"It is not impossible to hunt with a sword,\n"
+"but wild prey can be quite fast...\n"
+"\n"
+"<1.so>I would suggest getting your hands on a\n"
+"bow and some arrows, so you can take\n"
+"shots from afar.\n"
+"We can discuss technique after that."
+msgstr ""
+
+#. 1: sound2
+msgctxt "KariKotsu01"
+msgid ""
+"First, crouch down and approach your\n"
+"prey quietly to ensure you will not\n"
+"be noticed.\n"
+"<1.so>When you're close enough that detection\n"
+"is nearly imminent...draw your bow and\n"
+"let your arrow fly!\n"
+"Aim thoughtfully, and you should be\n"
+"able to take down your prey with a\n"
+"single arrow."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "KariKotsu02"
+msgid ""
+"<1.so>Courageous one... I see you have taken\n"
+"possession of my old bow. Splendid.<2.pa>\n"
+"Now, let's see what you can do with it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "KariKotsu03"
+msgid ""
+"<1.so>I am rather tired...<2.pa> Yes, I think I'm going\n"
+"to take a small break."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "KariKotsu04"
+msgid ""
+"<1.so>Blast it all! My back is acting up again...<2.pa>\n"
+"I suppose that means this old man has\n"
+"had enough hunting for one day."
+msgstr ""
+
+msgctxt "NakedPlayer"
+msgid "Aren't you...a bit chilly?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Near00"
+msgid "<1.an>Oho ho!"
+msgstr ""
+
+msgctxt "Near01"
+msgid "Where did my prey go..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "Quietly..."
+msgstr ""
+
+msgctxt "Near03"
+msgid "Zzz..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Sleep00"
+msgid ""
+"<1.so>I must rise early tomorrow...<2.pa> You may\n"
+"rest here too, if you wish."
+msgstr ""
+
+msgctxt "Sleep01"
+msgid ""
+"Sitting by a warm campfire is the best\n"
+"way to pass the time..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Sleep03"
+msgid ""
+"<1.so>If I can't hunt, what else is there to do\n"
+"but sleep?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Takibi00"
+msgid ""
+"<1.so>My back is aching...<2.pa> I clearly need to\n"
+"take a little break."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Takibi01"
+msgid ""
+"<1.so>Say, courageous one... Are you hungry?<2.pa>\n"
+"If so, please feel free to use my cooking\n"
+"pot to whip up a snack."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "Takibi02"
+msgid ""
+"<1.so>If you feel like cooking, you are welcome\n"
+"to use my cooking pot over there.<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (long)
+msgctxt "Takibi03"
+msgid ""
+"<1.so><2.an>Use my cooking pot as much as you like.<3.pa>\n"
+"Just remember to be smart about how\n"
+"you combine your ingredients!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Takibi05"
+msgid ""
+"If you need to start a fire, just light your\n"
+"torch on that campfire over there.<1.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk00"
+msgid "<1.so>Hm? What is it?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (long)
+#. 4: choice
+msgctxt "Talk01"
+msgid "<1.so><2.an>Well, well, well...<3.pa> So we meet again.<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk02"
+msgid ""
+"<1.so>Just a question, not a judgment...<2.pa>\n"
+"but how long were you planning on\n"
+"walking around like that?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk03"
+msgid "<1.so>Out of the way!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (long)
+#. 4: choice
+msgctxt "Talk04"
+msgid ""
+"<1.so><2.an>Oho ho!<3.pa> Some days the prey is a bit too\n"
+"fast for this old hunter.<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk05"
+msgid ""
+"<1.so>With you causing such a commotion\n"
+"in my hunting grounds lately, it's no\n"
+"wonder I can hardly catch a thing!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk06"
+msgid "<1.so>It's so quiet...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk07"
+msgid "<1.so>Could you not see I was sleeping?!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk08"
+msgid "<1.so>Shhh...<2.pa> Quiet now...<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk09"
+msgid ""
+"<1.so>Far be it from me to interfere with your\n"
+"logging efforts...<2.pa>but could you do that\n"
+"elsewhere? You're scaring off my prey.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk10"
+msgid ""
+"<1.so>As they say, silence is golden.<2.pa>\n"
+"And my prey frightens easily...<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk11"
+msgid ""
+"<1.so>It gets quite dangerous out here at night.\n"
+"The land fills with unspeakable beasts.<2.pa>\n"
+"Perhaps you should wait until morning...<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk14"
+msgid ""
+"<1.so>How is your shrine treasure hunting\n"
+"coming along?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk15"
+msgid "<1.so>How is the shrine exploration going?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: raw
+msgctxt "TalkBokangi00"
+msgid ""
+"<1.so>What is it now?!<2.pa> Can't you see I'm\n"
+"trying to get some sleep?<3.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "TalkBokangi01"
+msgid ""
+"<1.so>I can't tell if you're stubborn, oblivious,\n"
+"or just plain rude! I was clearly sleeping!<2.ra>"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "What is this?!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "What is it?!"
+msgstr ""
+
+msgctxt "TerrorEnemy"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "Huh?!"
+msgstr ""
+
+msgctxt "TerrorFire"
+msgid "Toasty..."
+msgstr ""
+
+msgctxt "TerrorImpulse"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorInsect"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Easy there!"
+msgstr ""
+

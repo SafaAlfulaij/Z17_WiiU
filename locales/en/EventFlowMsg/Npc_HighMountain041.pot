@@ -1,0 +1,280 @@
+msgctxt "0000"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0001"
+msgid "No."
+msgstr ""
+
+msgctxt "0002"
+msgid "That's not true."
+msgstr ""
+
+msgctxt "0003"
+msgid "Oh, really..."
+msgstr ""
+
+msgctxt "0004"
+msgid "Sure thing."
+msgstr ""
+
+msgctxt "0005"
+msgid "No way."
+msgstr ""
+
+msgctxt "near00"
+msgid "♪La la! Da dee doo!♪"
+msgstr ""
+
+msgctxt "near01"
+msgid "I'm beat..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid "<1.so>Morning, morning!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>G'day!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>G'night!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>It's coming down!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (longer)
+msgctxt "talk04"
+msgid ""
+"<1.so>HA!<2.pa> Let me guess—<3.pa>you had to sell the\n"
+"shirt off of your back to afford staying at\n"
+"the inn here.<4.pa> This place is the worst."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: choice
+msgctxt "talk06"
+msgid ""
+"<1.so>Whoa... I just realized that you're <2.se_co>Hylian<3.re_co>!<4.pa>"
+"\n"
+"You just wandering around Hyrule?\n"
+"Trying to find yourself?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk07"
+msgid ""
+"<1.so>Let me tell you... This village is straight\n"
+"up BOOOOORING.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk08"
+msgid ""
+"<1.so>You serious?<2.pa> Cheers!\n"
+"Just hold out your hand."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "talk09"
+msgid ""
+"<1.so>I'm here on my honeymoon. But this\n"
+"town is seriously a hole.\n"
+"\n"
+"In Gerudo Town, they've got jewelry to\n"
+"buy. Zora's Domain is always a hoot with\n"
+"all of the weird, spiritual fish people...\n"
+"<2.so>But here...I just want to go home already.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk10"
+msgid ""
+"<1.so>I can't believe my husband brought me\n"
+"here for our honeymoon...\n"
+"\n"
+"He already apologized, but if he doesn't\n"
+"want a divorce, I told him he'd better\n"
+"bring me a <2.se_co>baked apple<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk11"
+msgid ""
+"<1.so>Where's your shirt?<2.pa> I didn't realize this\n"
+"village was THAT kind of honeymoon\n"
+"resort..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid "<1.so>Heyyyy..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk13"
+msgid "<1.so>Haaah...<2.pa> I'm exhausted..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk14"
+msgid "<1.so>SO tired..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid "<1.so>Oh, wow."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "talk19"
+msgid "<1.so>What<2.pa> a<3.pa> cheapskate."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk20"
+msgid "<1.so>*SNOOOOOOORE*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk21"
+msgid ""
+"<1.so>*sniff sniff* <2.pa>\n"
+"I know that smell!<3.pa>\n"
+"You've got a <4.se_co>baked apple<5.re_co>!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk22"
+msgid ""
+"<1.so>Really? He REALLY thought this freezing-\n"
+"cold town in the middle of nowhere was\n"
+"a good place to celebrate our love?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk23"
+msgid ""
+"<1.so>Can I have <2.se_co>one<3.re_co>?<4.pa> I'll give you a "
+"present!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk24"
+msgid ""
+"<1.so>Can I have <2.se_co>five<3.re_co>?<4.pa> I'll give you a "
+"present!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk25"
+msgid ""
+"<1.so>Can I have <2.se_co>10<3.re_co>?<4.pa> I'll give you a "
+"present!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk26"
+msgid ""
+"<1.so>Can I have <2.se_co>30<3.re_co>?<4.pa> I'll give you a "
+"present!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk27"
+msgid ""
+"<1.so>Can I have <2.se_co>50<3.re_co>?<4.pa> I'll give you a "
+"present!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk28"
+msgid ""
+"<1.so>Can I have <2.se_co>100<3.re_co>?<4.pa> I'll give you a "
+"present!<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk29"
+msgid "<1.so>Give me a break already!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk30"
+msgid ""
+"<1.so>Now if I could only get my husband to\n"
+"cook me a <2.se_co>baked apple<3.re_co> every once in a\n"
+"while."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk31"
+msgid ""
+"<1.so>I've got a second stomach and a hollow\n"
+"leg for <2.se_co>baked apples<3.re_co><4.pa>. Bring me as many\n"
+"as you possibly can."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk33"
+msgid ""
+"<1.so>The more you bring me, the more I'll pay\n"
+"you for each one."
+msgstr ""
+

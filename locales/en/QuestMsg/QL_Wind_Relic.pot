@@ -1,0 +1,157 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Wind_Relic_Battle"
+msgid ""
+"The battle with Divine Beast Vah Medoh\n"
+"has begun!\n"
+"\n"
+"Use the paraglider to launch into the air for a\n"
+"good vantage point, and then take out all\n"
+"the <1.se_co>cannons <2.re_co>with your bomb arrows.\n"
+"\n"
+"But be careful—if you get too close, you'll run\n"
+"into the Divine Beast's barrier!"
+msgstr ""
+
+msgctxt "QL_Wind_Relic_BattleEscape"
+msgid "<NO_STRING>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Wind_Relic_BattleFinished"
+msgid ""
+"You destroyed all of Divine Beast Vah Medoh's\n"
+"cannons and landed on its back, but Teba\n"
+"suffered injuries and had to retreat.\n"
+"\n"
+"You must finish what you both started. Enter\n"
+"<1.se_co>Divine Beast Vah Medoh<2.re_co> on your own to stop\n"
+"it once and for all!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Wind_Relic_BattlePlaying"
+msgid ""
+"You destroyed all of Divine Beast Vah Medoh's\n"
+"cannons and landed on its back, but Teba\n"
+"suffered injuries and had to retreat.\n"
+"\n"
+"You must finish what you both started. Enter\n"
+"<1.se_co>Divine Beast Vah Medoh<2.re_co> on your own to stop\n"
+"it once and for all!"
+msgstr ""
+
+msgctxt "QL_Wind_Relic_BattleSucceeded"
+msgid "<NO_STRING>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Wind_Relic_Desc"
+msgid ""
+"Kaneli, elder of Rito Village, wants you to help\n"
+"a local soldier named Teba. You offered your\n"
+"assistance, but first you must find the soldier.\n"
+"\n"
+"Teba's wife <1.se_co>Saki<2.re_co> may know where he is. Ask\n"
+"around Rito Village to gather more information."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Wind_Relic_Dungeon"
+msgid ""
+"You defeated Windblight Ganon, which had\n"
+"infested the insides of Divine Beast Vah Medoh.\n"
+"\n"
+"The Divine Beast has been enshrined at the\n"
+"highest point of Rito Village, and moreover,\n"
+"it looks like Teba was able to safely return\n"
+"to Rito Village.\n"
+"\n"
+"Go report to <1.se_co>Kaneli<2.re_co>."
+msgstr ""
+
+msgctxt "QL_Wind_Relic_Finish"
+msgid ""
+"You reported to Kaneli that Divine Beast Vah\n"
+"Medoh has regained its senses.\n"
+"\n"
+"Your efforts have earned you the power of the\n"
+"Champion Revali, Revali's Gale."
+msgstr ""
+
+msgctxt "QL_Wind_Relic_Name"
+msgid "Divine Beast Vah Medoh"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Wind_Relic_Parashawl"
+msgid ""
+"Teba won't let you anywhere near\n"
+"Divine Beast Vah Medoh unless you can at\n"
+"least hit the targets at the Flight Range.\n"
+"\n"
+"If you catch an updraft with your paraglider, it'll\n"
+"carry you high into the sky. Use this technique\n"
+"to destroy <1.se_co>five targets <2.re_co>with arrows within the time\n"
+"limit to prove yourself to Teba."
+msgstr ""
+
+msgctxt "QL_Wind_Relic_ParashawlFailed"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_Wind_Relic_ParashawlFinished"
+msgid ""
+"You proved your mettle by hitting the targets at\n"
+"the Flight Range.\n"
+"\n"
+"When it comes time to battle Divine Beast Vah\n"
+"Medoh, Teba will draw the focus of its attacks\n"
+"so you can focus on destroying its cannons.\n"
+"\n"
+"Teba will carry you into the sky where\n"
+"Divine Beast Vah Medoh awaits."
+msgstr ""
+
+msgctxt "QL_Wind_Relic_ParashawlPlaying"
+msgid ""
+"You proved your mettle by hitting the targets at\n"
+"the Flight Range.\n"
+"\n"
+"When it comes time to battle Divine Beast Vah\n"
+"Medoh, Teba will draw the focus of its attacks\n"
+"so you can focus on destroying its cannons.\n"
+"\n"
+"Teba will carry you into the sky where\n"
+"Divine Beast Vah Medoh awaits."
+msgstr ""
+
+msgctxt "QL_Wind_Relic_ParashawlSucceeded"
+msgid "<NO_STRING>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Wind_Relic_Saki"
+msgid ""
+"You found Saki and asked where Teba went.\n"
+"It sounds like he headed for the Flight Range.\n"
+"\n"
+"Search the <1.se_co>Flight Range <2.re_co>for Teba."
+msgstr ""
+
+msgctxt "QL_Wind_Relic_Step1"
+msgid ""
+"You found Teba at the Flight Range, but he has\n"
+"no intention of returning to the village before\n"
+"Divine Beast Vah Medoh has been appeased.\n"
+"\n"
+"He intends to appease the Divine Beast\n"
+"himself. You had better help him out."
+msgstr ""
+

@@ -1,0 +1,719 @@
+msgctxt "0000"
+msgid "Sure, I'll give it a try."
+msgstr ""
+
+msgctxt "0001"
+msgid "Anything but that."
+msgstr ""
+
+msgctxt "0002"
+msgid "Bring it."
+msgstr ""
+
+msgctxt "0003"
+msgid "Actually, no."
+msgstr ""
+
+#. 1: sound2
+#. 2: raw
+#. 3: sound2
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (longer)
+msgctxt "Event_S1_001"
+msgid ""
+"<1.so>If ya leave the ring or pass out,\n"
+"it's all over! You lose! Got it?\n"
+"\n"
+"OK... Now prepare yourself for the...<2.ra><3.so><4.se_co>CONTEST OF "
+"ENDURANCE<5.re_co>!!<6.pa>\n"
+"GOOOOOO!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S1_001_01_01"
+msgid "<1.so>Not yeett!!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S1_001_01_02"
+msgid "<1.so>Piece of...cake!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S1_001_02_01"
+msgid "<1.so>Someone's wavin'..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S1_001_02_02"
+msgid "<1.so>Is that...Grandpa?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S1_001_03_01"
+msgid "<1.so>Phew! Phew!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S1_001_03_02"
+msgid "<1.so>I can't...go on..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Event_S1_002_01_01"
+msgid ""
+"<1.so>You're amazing! I never woulda thought\n"
+"the three Goron Blood Brothers could\n"
+"lose to you, brother!"
+msgstr ""
+
+#. 1: pause (long)
+msgctxt "Event_S1_002_01_02"
+msgid ""
+"You see the ring behind me? The one\n"
+"surrounded in fire? Do ya feel it in your\n"
+"gut—<1.pa>what a bad idea it is to go there?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Event_S1_002_01_03"
+msgid ""
+"<1.so>It's said that passin' this test will\n"
+"reveal a <2.se_co>shrine<3.re_co>...<4.pa>or some such!\n"
+"\n"
+"<5.so>If ya think you're ready, climb into the\n"
+"ring. Do that, and our special <6.se_co>contest\n"
+"of ultimate endurance <7.re_co>will begin!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Event_S1_002_02_01"
+msgid ""
+"<1.so>In fact, I'm grantin' you the highest\n"
+"honor—the chance to participate in\n"
+"the <2.se_co>contest of ULTIMATE endurance<3.re_co>!"
+msgstr ""
+
+msgctxt "Event_S1_002_02_02"
+msgid "Your gut is dead on, brother!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Event_S1_002_03_01"
+msgid ""
+"<1.so>It's where our ancestors trained...\n"
+"It's considered the toughest test known\n"
+"to Goron kind!"
+msgstr ""
+
+msgctxt "Event_S1_002_03_02"
+msgid ""
+"That special training area is even harder\n"
+"than the last ring..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Event_S1_003_01_01"
+msgid ""
+"<1.so>What's that about, brother?\n"
+"Why'd ya leave the ring?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Event_S1_003_01_02"
+msgid ""
+"<1.so>What's that about, brother? Ya tried to\n"
+"get away from the ring!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Event_S1_003_02_01"
+msgid ""
+"<1.so>The rules say ya have to complete the\n"
+"<2.se_co>contest <3.re_co>in the ring! Leavin' is the\n"
+"exact opposite of that!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Event_S1_003_02_02"
+msgid ""
+"<1.so>The rules say ya have to complete the\n"
+"<2.se_co>contest <3.re_co>in the ring! Leavin' isn't part\n"
+"of it!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Event_S1_003_03_01"
+msgid ""
+"<1.so>It's way too bad things turned out this\n"
+"way, brother. But I'm afraid the <2.se_co>contest\n"
+"of endurance<3.re_co> ends here."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (long)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (longer)
+msgctxt "Event_S2_001"
+msgid ""
+"<1.so>You're standing up there, which can only\n"
+"mean one thing... <2.pa>You ready to push\n"
+"yourself to your limits, brother?!\n"
+"The rules for this <3.se_co>contest of ultimate\n"
+"endurance<4.re_co> are the same as ever.\n"
+"Leave the ring or faint, and it's over!\n"
+"<5.so>OK! Time for the world famous...<6.pa>\n"
+"<7.se_co>CONTEST OF ULTIMATE ENDURANCE<8.re_co>!!<9.pa>\n"
+"GOOOOOO!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S2_001_01_01"
+msgid "<1.so>More heat, brother!"
+msgstr ""
+
+msgctxt "Event_S2_001_01_02"
+msgid "FIRE, brother!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S2_001_01_03"
+msgid "<1.so>Hot like lava, brother!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S2_001_02_01"
+msgid "<1.so>No fear!"
+msgstr ""
+
+msgctxt "Event_S2_001_02_02"
+msgid "Seize the heat, brother!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S2_001_02_03"
+msgid "<1.so>A real trial by fire, brother!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S2_001_03_01"
+msgid "<1.so>My soul is on FIRE..."
+msgstr ""
+
+msgctxt "Event_S2_001_03_02"
+msgid "Burning...soul..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Event_S2_001_03_03"
+msgid "<1.so>Gonna get...burned out..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+msgctxt "Event_S2_002_01_01"
+msgid "<1.so><2.te_si>RAAAAARRRGGGGHHH!!<3.ra><4.so>SO EPIC, BROTHER!!<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: raw
+#. 6: sound
+#. 7: text_size
+msgctxt "Event_S2_002_01_02"
+msgid ""
+"<1.so><2.te_si>You won the <3.se_co>contest of ultimate\n"
+"endurance<4.re_co>, little man!<5.ra><6.so>You're amazing!<7.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Event_S2_002_02_01"
+msgid ""
+"<1.so>What a powerful display! What fire!\n"
+"That was somethin' else, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Event_S2_002_03_01"
+msgid ""
+"<1.so>Whoa! That's a <2.se_co>shrine<3.re_co>...or some such!\n"
+"It really appeared, just like that!\n"
+"\n"
+"<4.so>So the legend is true, brother!!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Gaman01_R_001"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.so><5.te_si>This is our "
+"ancestral training ground!\n"
+"Us three Goron Blood Brothers are in the\n"
+"midst of a <6.se_co>contest of endurance<7.re_co>!"
+msgstr ""
+
+msgctxt "Npc_Gaman01_R_002"
+msgid "Hey, I have an idea!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+msgctxt "Npc_Gaman01_R_003"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.so><5.te_si>Oh, you're the "
+"one who was here before!"
+msgstr ""
+
+msgctxt "Npc_Gaman01_R_004"
+msgid "Good answer!"
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Npc_Gaman01_R_005"
+msgid ""
+"<1.so>When you're ready, step up onto this\n"
+"platform! Then the <2.se_co>contest of endurance<3.re_co>\n"
+"will commence!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Gaman01_R_006"
+msgid "<1.so>What a wobbly-kneed way of thinkin'!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Gaman01_R_007"
+msgid ""
+"<1.so>If ya change your mind, come right\n"
+"back here!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Npc_Gaman01_R_Near"
+msgid "<1.so>Uuurrrrggggh!!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "Npc_Gaman01_S1_001"
+msgid ""
+"The<1.se_co> contest<2.re_co> will begin when ya climb\n"
+"into the ring, brother!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "Npc_Gaman01_S2_001"
+msgid ""
+"This <1.se_co>contest <2.re_co>is really tough!\n"
+"No one's passed it yet!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "Npc_Gaman01_S2_002"
+msgid ""
+"Welcome back! Do ya wanna try the\n"
+"<1.se_co>contest of ultimate endurance<2.re_co>?!<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Gaman01_S2_003"
+msgid ""
+"<1.so>That's the spirit! Now then, go climb\n"
+"into the ring."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Npc_Gaman01_S2_004"
+msgid ""
+"<1.so>The <2.se_co>contest of ultimate endurance<3.re_co>\n"
+"begins as soon as ya climb into\n"
+"the ring, brother!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Gaman01_S2_005"
+msgid ""
+"<1.so>What?! Ya don't wanna challenge\n"
+"yourself? Disappointing, brother...\n"
+"I was gettin' all fired up too!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Npc_Gaman01_S2_006"
+msgid ""
+"<1.so>This contest won't just challenge you\n"
+"with heat...but also with fire!\n"
+"\n"
+"<2.so>If ya lose your focus, <3.se_co>your body will\n"
+"catch fire<4.re_co>! Make sure you're prepared\n"
+"for this, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Gaman02_R_001"
+msgid ""
+"<1.so><2.te_si>FEEL THE BURN, BROTHER!<3.ra><4.so><5.te_si>We're trainin'"
+" to become strong and\n"
+"powerful Gorons! Right now we're\n"
+"competin' to <6.se_co>beat the heat<7.re_co>!"
+msgstr ""
+
+msgctxt "Npc_Gaman02_R_002"
+msgid "Come join us!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+msgctxt "Npc_Gaman02_R_003"
+msgid ""
+"<1.so><2.te_si>FEEL THE BURN, BROTHER!<3.ra><4.so><5.te_si>If you've come"
+" back here, then that\n"
+"can only mean one thing..."
+msgstr ""
+
+msgctxt "Npc_Gaman02_R_004"
+msgid ""
+"A guy like you has a burning passion\n"
+"in his belly!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Gaman02_R_005"
+msgid ""
+"<1.so>And we thought you were a man who\n"
+"had his priorities straight!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Gaman02_R_006"
+msgid ""
+"<1.so>We'll be here, waitin' on ya to grow\n"
+"some grit."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_Gaman02_R_007"
+msgid "<1.so><2.te_si>BEYOND MACHO!<3.te_si>"
+msgstr ""
+
+msgctxt "Npc_Gaman02_R_Near"
+msgid "Not yet! Not yet!"
+msgstr ""
+
+msgctxt "Npc_Gaman02_S1_001"
+msgid ""
+"That fire in your eyes! I can almost see\n"
+"the passion in your tiny belly!"
+msgstr ""
+
+msgctxt "Npc_Gaman02_S2_001"
+msgid ""
+"That place is hotter than a freshly grilled\n"
+"rock roast! You really think you can\n"
+"handle it, brother?"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: text_size
+#. 6: raw
+#. 7: text_size
+#. 8: raw
+msgctxt "Npc_Gaman03_R_001"
+msgid ""
+"<1.so><2.te_si>So sweaty... "
+"<3.pa>Brother...<4.te_si><5.te_si><6.ra><7.te_si>We're Gorons...but the "
+"heat is too much\n"
+"for us these days...<8.ra>It's too hot to handle in Goron City...\n"
+"so we came here to train ourselves..."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "Npc_Gaman03_R_002"
+msgid ""
+"Yeah! Come try the<1.se_co> contest of endurance<2.re_co>\n"
+"yourself...brother!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: text_size
+#. 6: raw
+#. 7: text_size
+#. 8: choice
+msgctxt "Npc_Gaman03_R_003"
+msgid ""
+"<1.so><2.te_si>So sweaty...<3.pa> "
+"Brother...<4.te_si><5.te_si><6.ra><7.te_si>Are you in the mood...to test "
+"your\n"
+"endurance with us...brother?<8.ch>"
+msgstr ""
+
+msgctxt "Npc_Gaman03_R_004"
+msgid "It's inspiring...brother!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Gaman03_R_005"
+msgid "<1.so>How could we have...been so wrong?"
+msgstr ""
+
+msgctxt "Npc_Gaman03_R_006"
+msgid ""
+"When ya do...come show us what...\n"
+"you're made of!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+msgctxt "Npc_Gaman03_R_007"
+msgid "<1.so><2.te_si>I'm a manly Goron man... <3.pa>Brother...<4.te_si>"
+msgstr ""
+
+msgctxt "Npc_Gaman03_R_Near"
+msgid "I'll do...my best..."
+msgstr ""
+
+msgctxt "Npc_Gaman03_S1_001"
+msgid "Are you...any good?"
+msgstr ""
+
+msgctxt "Npc_Gaman03_S2_001"
+msgid ""
+"A Goron's heart burns with passion...\n"
+"Compared to that, fire is nothin'..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Talk_00"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.so><5.te_si>Oh! It's the "
+"fourth Goron Blood Brother!\n"
+"The one who somehow beat our famous\n"
+"Gut Check Challenge!\n"
+"This is our ancestral training ground,\n"
+"little man! We're smack in the middle\n"
+"of a <6.se_co>contest of endurance<7.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Talk_01"
+msgid ""
+"<1.so><2.te_si>FEEL THE BURN, BROTHER!<3.ra><4.so><5.te_si>We're trainin'"
+" to become even manlier\n"
+"Goron men, brother! Right now we're\n"
+"competin' to see who can <6.se_co>beat the heat<7.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: text_size
+#. 6: raw
+#. 7: text_size
+#. 8: raw
+msgctxt "Talk_02"
+msgid ""
+"<1.so><2.te_si>So sweaty...<3.pa> "
+"Brother...<4.te_si><5.te_si><6.ra><7.te_si>Of course, since ya beat the "
+"Gut Check\n"
+"Challenge, you'll wanna try this too.\n"
+"\n"
+"We're Gorons, but we can't really stand\n"
+"this extreme heat either...<8.ra>That's why we came here to train!\n"
+"After this, we'll be able to handle the\n"
+"extra heat in Goron City, no problem."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+msgctxt "Talk_03"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.so><5.te_si>Oh! It's the "
+"fourth Goron Blood Brother!\n"
+"The one who beat our famous Gut Check\n"
+"Challenge!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Talk_10"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.so><5.te_si>Hm? Ah! You're "
+"the little man who\n"
+"attempted the Gut Check Challenge!\n"
+"\n"
+"This here is our ancestral training\n"
+"ground, brother! We're havin' a\n"
+"<6.se_co>contest of endurance<7.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Talk_11"
+msgid ""
+"<1.so><2.te_si>FEEL THE BURN, BROTHER!<3.ra><4.so><5.te_si>But does "
+"someone who abandoned the\n"
+"Gut Check Challenge really stand a\n"
+"chance of <6.se_co>beatin' the heat<7.re_co>?!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: text_size
+#. 6: raw
+#. 7: text_size
+#. 8: raw
+msgctxt "Talk_12"
+msgid ""
+"<1.so><2.te_si>So sweaty...<3.pa> "
+"Brother...<4.te_si><5.te_si><6.ra><7.te_si>You should train here before "
+"ya try to\n"
+"take on the Gut Check Challenge.\n"
+"\n"
+"We're Gorons, but we can't really stand\n"
+"this extreme heat either...<8.ra>That's why we came here to train!\n"
+"After this, we'll be able to handle the\n"
+"extreme heat in Goron City, no problem."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+msgctxt "Talk_20"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.ra><4.so><5.te_si>Hey! You're the "
+"little man who's tryin' to\n"
+"beat the Gut Check Challenge and the\n"
+"contest of endurance!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Talk_21"
+msgid ""
+"<1.so>HUH?!<2.pa> Is that heat-resistant gear ya\n"
+"have there, brother?\n"
+"\n"
+"A real Goron man shouldn't have to rely\n"
+"on wussy stuff like that!<3.pa> Goron up and\n"
+"take the challenge without any help!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Talk_22"
+msgid ""
+"<1.so>Wait...<2.pa> How did this happen?!<3.pa> When did\n"
+"ya pull the ol' switcheroo and put on\n"
+"heat-resistant gear, brother?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Talk_23"
+msgid ""
+"<1.so>Our sacred <2.se_co>contest of endurance<3.re_co> is a test\n"
+"of grit, brother! <4.pa>Use that heat-resistant\n"
+"nonsense, and you'll be disqualified!"
+msgstr ""
+

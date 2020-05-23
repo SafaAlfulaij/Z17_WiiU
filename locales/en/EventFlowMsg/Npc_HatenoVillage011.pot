@@ -1,0 +1,164 @@
+msgctxt "0000"
+msgid "Goron City?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Gerudo Town?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Brother?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Bye."
+msgstr ""
+
+msgctxt "0004"
+msgid "Any other towns?"
+msgstr ""
+
+msgctxt "near00"
+msgid "Zzz..."
+msgstr ""
+
+msgctxt "near01"
+msgid "*hic*"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk00"
+msgid "<1.so>Hey there, brother!<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk01"
+msgid ""
+"<1.so>Well, that's the first time I've seen a <2.se_co>blue\n"
+"flame<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk02"
+msgid ""
+"<1.so>I heard there's some kind of ceremony\n"
+"where they carry a <2.se_co>blue flame <3.re_co>around\n"
+"here. Sounds wild!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk06"
+msgid "<1.so>Zzz..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk07"
+msgid "<1.so>Zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>I could recognize a fellow traveler a\n"
+"country mile away! We share a unique\n"
+"bond, you and me!\n"
+"I've recently returned from both\n"
+"Goron City and Gerudo Town.\n"
+"\n"
+"<2.so>You interested in hearing a bit about\n"
+"my travels?<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid "<1.so>Hey, brother."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk11"
+msgid ""
+"<1.so>Wanna hear about all the places I've\n"
+"been to?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid "<1.so>...Oh, it's you."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+msgctxt "talk14"
+msgid ""
+"<1.so>Goron City is way north of Hateno Village\n"
+"out in the <2.se_co>Eldin<3.re_co> region. So hot there,\n"
+"it <4.se_co>burns <5.re_co>me just thinking about it!\n"
+"<6.so>I had to turn back. I didn't actually make\n"
+"it all the way to Goron City."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: sound
+#. 6: sound
+#. 7: sound
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "talk15"
+msgid ""
+"<1.so>Gerudo Town is west of Hateno Village\n"
+"way out in the <2.se_co>Gerudo Desert<3.re_co>.\n"
+"\n"
+"<4.so>Right when I was about to make my way\n"
+"into Gerudo Town, the gatekeeper drove\n"
+"me off...\n"
+"<5.so>Wasn't until later that I heard they only\n"
+"let women in there!\n"
+"\n"
+"<6.so>Now, had I known that beforehand, I\n"
+"wouldn't have trekked all the way across\n"
+"that stinking wasteland of a desert!\n"
+"<7.so>But now I'm here wondering if I could've\n"
+"actually gotten in there if I'd <8.se_co>fooled them\n"
+"into thinking I belonged<9.re_co>..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk16"
+msgid ""
+"<1.so>Other places?\n"
+"\n"
+"\n"
+"Well, if you've got a taste for adventure,\n"
+"you don't want to miss out on\n"
+"Zora's Domain and Rito Village.\n"
+"The road to Zora's Domain is dangerous,\n"
+"though. And Rito Village is way far away.\n"
+"Neither are easy places to get to."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk17"
+msgid "<1.so>See ya, brother."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk18"
+msgid "<1.so>Anything else you're interested in?<2.ch>"
+msgstr ""
+

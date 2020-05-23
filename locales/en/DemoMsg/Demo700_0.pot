@@ -1,0 +1,11 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: pause (75f)
+#. 4: pause (55f)
+#. 5: pause (157f)
+msgctxt "OP_DRC04"
+msgid ""
+"That is a <1.se_co>Sheikah Slate<2.re_co>. <3.pa>Take it. <4.pa>It will\n"
+"help guide you after your long slumber.<5.pa>"
+msgstr ""
+

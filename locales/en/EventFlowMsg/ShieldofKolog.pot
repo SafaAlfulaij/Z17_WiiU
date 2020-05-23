@@ -1,0 +1,248 @@
+msgctxt "0000"
+msgid "I'm ready."
+msgstr ""
+
+msgctxt "0001"
+msgid "Maybe later."
+msgstr ""
+
+msgctxt "0002"
+msgid "Let's do this."
+msgstr ""
+
+msgctxt "0003"
+msgid "Wait a second."
+msgstr ""
+
+msgctxt "0004"
+msgid "I'll never give up!"
+msgstr ""
+
+msgctxt "0005"
+msgid "I give up..."
+msgstr ""
+
+msgctxt "Npc_Kokiri011_R_001"
+msgid "Are you ready?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Npc_Kokiri011_R_011"
+msgid ""
+"<1.so>Hey, hero guy! I was told you'd be\n"
+"coming.\n"
+"\n"
+"But do you really think you're ready for\n"
+"the <2.se_co>Test of Wood<3.re_co>?! Some say it's the\n"
+"hardest of the Korok Trials.\n"
+"<4.so>But it's not complicated—all you need to\n"
+"do is equip this <5.se_co>Korok weapon set<6.re_co> and\n"
+"reach the shrine at the back of the area.\n"
+"Are you ready to try it?<7.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri011_R_031"
+msgid ""
+"<1.so>I see. Well, come back when you're\n"
+"ready."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Npc_Kokiri011_R_041"
+msgid ""
+"<1.so>All you have to do is reach the <2.se_co>shrine <3.re_co>in\n"
+"the back of the area. Off you go!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri011_R_071"
+msgid ""
+"<1.so>Hold it.\n"
+"\n"
+"\n"
+"You can't go in there unless you're\n"
+"taking on the trial."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Npc_Kokiri011_R_081"
+msgid ""
+"<1.so>You can sign up for the <2.se_co>Test of Wood<3.re_co>\n"
+"here.\n"
+"\n"
+"To pass the test, you just need to equip\n"
+"the <4.se_co>Korok weapon set<5.re_co> and reach the\n"
+"goal. Nothing to it!\n"
+"Want to give it a try?<6.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri011_R_091"
+msgid ""
+"<1.so>HEY!\n"
+"\n"
+"\n"
+"That equipment is for trial participants\n"
+"only!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri011_R_101"
+msgid ""
+"<1.so>GAAAH!\n"
+"\n"
+"\n"
+"Knock it off, pyro!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri011_R_111"
+msgid ""
+"<1.so>Phew...\n"
+"\n"
+"\n"
+"That was a close one."
+msgstr ""
+
+msgctxt "Npc_Kokiri011_S10_021"
+msgid "Gotta get the area ready..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: raw
+msgctxt "Npc_Kokiri011_S10_031"
+msgid ""
+"<1.so>Huh?<2.pa> Your inventory is full!<3.ra>You need to make some space"
+" for a\n"
+"sword, a shield, and a bow before we\n"
+"can get started."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "Npc_Kokiri011_S10_051"
+msgid ""
+"<1.so>All right. Go get 'em!<2.ra><3.so>You have to keep the "
+"<4.se_co>sword<5.re_co>, <6.se_co>bow<7.re_co>, and\n"
+"<8.se_co>shield <9.re_co>equipped the whole time. If they\n"
+"break or you unequip them, you're out!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri011_S10_061"
+msgid "<1.so>Let me know when you're ready."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Npc_Kokiri011_S10_071"
+msgid "<1.so>Are you ready to take the <2.se_co>Test of Wood<3.re_co>?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: raw
+msgctxt "Npc_Kokiri011_S20_001"
+msgid ""
+"<1.so><2.te_si>DISQUALIFIED!<3.pa> You lose!<4.te_si><5.ra>You have to "
+"keep all three forest-dweller\n"
+"items equipped the whole time!\n"
+"\n"
+"That's the forest dweller's sword,\n"
+"the forest dweller's bow, and the\n"
+"forest dweller's shield."
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_Kokiri011_S20_051"
+msgid "<1.so><2.te_si>Gooooooooal!<3.te_si>"
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "Npc_Kokiri011_S20_052"
+msgid ""
+"<1.so>CONGRATULATIONS!\n"
+"You've passed the <2.se_co>Test of Wood<3.re_co>!\n"
+"\n"
+"Well done, hero man!<4.pa>\n"
+"Happiness awaits you at the shrine."
+msgstr ""
+
+#. 1: sound2
+#. 2: raw
+#. 3: sound2
+msgctxt "Npc_Kokiri011_S20_053"
+msgid ""
+"<1.so>Oh, yeah!<2.ra>If you ever want to do the trial again,\n"
+"just let me know.\n"
+"<3.so>See ya!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Npc_Kokiri011_S20_061"
+msgid ""
+"<1.so>Hey, guy!\n"
+"\n"
+"\n"
+"Where are you going?! The <2.se_co>trial<3.re_co> is \n"
+"thataway! You're not Cuccoing out,\n"
+"are ya?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Npc_Kokiri011_S20_071"
+msgid ""
+"<1.so>Oh, my, hero guy!\n"
+"Did you get lost in the mist?\n"
+"Do you want to give up on the <2.se_co>trial<3.re_co>?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: choice
+msgctxt "Npc_Kokiri011_S20_081"
+msgid ""
+"<1.so>Too bad, Mr. Hero...<2.pa>\n"
+"We all fail sometimes.\n"
+"\n"
+"<3.so>Do you want to try again right away?<4.ch>"
+msgstr ""
+

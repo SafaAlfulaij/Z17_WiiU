@@ -1,0 +1,34 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "QL_Oasis_Drug_Challenge_Desc"
+msgid ""
+"Guy of the Kara Kara Bazaar needs a\n"
+"<1.se_co>cooling elixir <2.re_co>to beat the heat.\n"
+"\n"
+"The medicine is made by combining a <3.se_co>bug with \n"
+"chilling effects <4.re_co>with <5.se_co>monster parts<6.re_co>. You'll "
+"find\n"
+"the bug in question in the <7.se_co>cooler parts of the\n"
+"Gerudo Highlands<8.re_co>."
+msgstr ""
+
+msgctxt "QL_Oasis_Drug_Challenge_Finish"
+msgid ""
+"You made a cooling elixir by combining a\n"
+"chilling insect with monster parts. Guy\n"
+"appreciated what you did for him.\n"
+"\n"
+"Your knowledge of the ingredients for a\n"
+"cooling elixir could come in handy later."
+msgstr ""
+
+msgctxt "QL_Oasis_Drug_Challenge_Name"
+msgid "An Ice Guy"
+msgstr ""
+

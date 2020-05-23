@@ -1,0 +1,7 @@
+msgctxt "talk00"
+msgid ""
+"Traveler from beyond these woods, you\n"
+"are now faced with a trial... Find the\n"
+"shrine hidden in these dark ruins..."
+msgstr ""
+

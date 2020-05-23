@@ -1,0 +1,17 @@
+#. 1: sound
+msgctxt "Talk_00"
+msgid ""
+"<1.so>You're not stepping on my flowers,\n"
+"are you?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk_01"
+msgid ""
+"<1.so>Look! Do you see?<2.pa> The shrine has\n"
+"changed to a pretty color!<3.pa> It must\n"
+"be pleased with my gorgeous flowers!"
+msgstr ""
+

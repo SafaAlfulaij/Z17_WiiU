@@ -1,0 +1,36 @@
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Challenge000"
+msgid ""
+"<1.so>Ah, we meet again!<2.pa>\n"
+"I trust you're doing well?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk00"
+msgid ""
+"<1.so>Hmm... I suppose even Champions are\n"
+"not immune to fear."
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Please don't do that!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "WAAAH!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "TerrorFire"
+msgid "<1.so>Yikes!"
+msgstr ""
+
+msgctxt "TerrorHorse"
+msgid "Whoa there!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Stop this madness!"
+msgstr ""
+

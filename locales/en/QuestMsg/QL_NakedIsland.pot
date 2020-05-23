@@ -1,0 +1,58 @@
+msgctxt "QL_NakedIsland_Desc"
+msgid ""
+"Upon arriving on Eventide Island, a voice spoke\n"
+"of a challenge and then took all of your\n"
+"weapons and armor away.\n"
+"\n"
+"Not feeling up for the challenge yet, you\n"
+"decided to give up and got all of your\n"
+"equipment back.\n"
+"\n"
+"However, the trial is still out here, weighing\n"
+"on your mind..."
+msgstr ""
+
+msgctxt "QL_NakedIsland_Finish"
+msgid ""
+"Once you offered precious orbs to each of the\n"
+"three altars on the island, an ancient shrine\n"
+"appeared.\n"
+"\n"
+"As it did, someone's voice spoke to you, and all\n"
+"of your equipment was returned."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_NakedIsland_Naked"
+msgid ""
+"Upon arriving on Eventide Island, a voice spoke\n"
+"of a challenge and then took all of your\n"
+"weapons and armor away.\n"
+"\n"
+"If you offer <1.se_co>precious orbs<2.re_co> to each of the three\n"
+"altars on the island, the voice has promised to\n"
+"return your things."
+msgstr ""
+
+msgctxt "QL_NakedIsland_Name"
+msgid "Stranded on Eventide"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_NakedIsland_OnceRetire"
+msgid ""
+"Upon arriving on Eventide Island, a voice spoke\n"
+"of a challenge and then took all of your\n"
+"weapons and armor away.\n"
+"\n"
+"If you offer <1.se_co>precious orbs<2.re_co> to each of the three\n"
+"altars on the island, the voice has promised to\n"
+"return your things."
+msgstr ""
+
+msgctxt "QL_NakedIsland_Warning"
+msgid "<NO_STRING>"
+msgstr ""
+

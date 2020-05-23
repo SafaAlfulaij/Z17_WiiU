@@ -1,0 +1,77 @@
+msgctxt "0000"
+msgid "Here you go."
+msgstr ""
+
+msgctxt "0001"
+msgid "I don't have enough."
+msgstr ""
+
+msgctxt "0008"
+msgid "I have more."
+msgstr ""
+
+msgctxt "0009"
+msgid "That's all I have."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Talk_0001"
+msgid ""
+"<1.so>I knew you'd be back.<2.pa> Run a stable as\n"
+"long as I have and you can tell which\n"
+"folks will be repeat customers.\n"
+"So did you bring me the stuff?<3.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound2
+#. 3: text_size
+msgctxt "Talk_02"
+msgid "<1.te_si><2.so>Zzzz... Zzzz...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_06"
+msgid "<1.so>Hey..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: pause (long)
+#. 5: choice
+msgctxt "Talk_20"
+msgid ""
+"<1.so>Heh, I knew you'd be good for it. <2.pa>Is this\n"
+"all you brought, though?<3.ra>You're not...<4.pa>holding out on me, are "
+"you?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk_21"
+msgid ""
+"<1.so>Heh heh.<2.pa> If there's one thing I've learned\n"
+"after running this stable all these years,\n"
+"it's how to read people.\n"
+"There's no point in trying to keep\n"
+"anything from me.<3.pa> Go ahead and show\n"
+"me what you've got."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Talk_22"
+msgid ""
+"<1.so>I will only take them in bulk, in units\n"
+"of <2.se_co>55<3.re_co> each. That's a good number, eh?\n"
+"\n"
+"Take your time getting some. <4.pa>\n"
+"I'll be waiting here, heh heh."
+msgstr ""
+

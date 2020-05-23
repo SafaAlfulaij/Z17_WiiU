@@ -1,0 +1,172 @@
+#. 1: raw
+msgctxt "AddGuardPlus_Name"
+msgid "Shield Guard Up +<1.ra>"
+msgstr ""
+
+#. 1: raw
+msgctxt "AddGuard_Name"
+msgid "Shield Guard Up +<1.ra>"
+msgstr ""
+
+msgctxt "AddLifePlus_Name"
+msgid "Durability Up +"
+msgstr ""
+
+msgctxt "AddLife_Name"
+msgid "Durability Up"
+msgstr ""
+
+#. 1: raw
+msgctxt "AddPowerPlus_Name"
+msgid "Attack Up +<1.ra>"
+msgstr ""
+
+#. 1: raw
+msgctxt "AddPower_Name"
+msgid "Attack Up +<1.ra>"
+msgstr ""
+
+msgctxt "AllSpeed_Name"
+msgid "Speed Up"
+msgstr ""
+
+msgctxt "AttackUp_Name"
+msgid "Attack Up"
+msgstr ""
+
+msgctxt "Cb_AncientWeaponPowUp_Name"
+msgid "Ancient Proficiency"
+msgstr ""
+
+msgctxt "Cb_ChargeAttackEnergy_Name"
+msgid "Charge Atk. Stamina Up"
+msgstr ""
+
+msgctxt "Cb_DecSwimEnergy_Name"
+msgid "Swim Dash Stamina Up"
+msgstr ""
+
+msgctxt "Cb_DecWallJumpEnergy_Name"
+msgid "Climbing Jump Stamina Up"
+msgstr ""
+
+msgctxt "Cb_MasterSwordPowUp_Name"
+msgid "Master Sword Beam Up"
+msgstr ""
+
+msgctxt "Cb_NightGlow_Name"
+msgid "Disguise; Bone Atk. Up"
+msgstr ""
+
+msgctxt "Cb_NightMoveSpeedUp_Name"
+msgid "Night Speed Up"
+msgstr ""
+
+msgctxt "Cb_ResistElectric_Name"
+msgid "Shock Damage Resist"
+msgstr ""
+
+msgctxt "Cb_ResistFire_Name"
+msgid "Fireproof"
+msgstr ""
+
+msgctxt "Cb_ResistFreeze_Name"
+msgid "Unfreezable"
+msgstr ""
+
+msgctxt "Cb_ResistHot_Name"
+msgid "Heat-Resistant"
+msgstr ""
+
+msgctxt "Cb_ResistLightning_Name"
+msgid "Unshockable"
+msgstr ""
+
+msgctxt "Cb_TerrorAndNightMoveSpeedUp_Name"
+msgid "Night Speed Up"
+msgstr ""
+
+msgctxt "ClimbSpeedUp_Name"
+msgid "Climb Speed Up"
+msgstr ""
+
+msgctxt "Critical_Name"
+msgid "Critical Hit"
+msgstr ""
+
+msgctxt "DefenseUp_Name"
+msgid "Defense Up"
+msgstr ""
+
+msgctxt "ExGutsMaxUp_Name"
+msgid "Extra Stamina"
+msgstr ""
+
+msgctxt "Fireproof_Name"
+msgid "Flame Guard"
+msgstr ""
+
+msgctxt "GutsRecover_Name"
+msgid "Stamina Recovery"
+msgstr ""
+
+msgctxt "LifeMaxUp_Name"
+msgid "Extra Hearts"
+msgstr ""
+
+msgctxt "LongThrow_Name"
+msgid "Long Throw"
+msgstr ""
+
+msgctxt "Quietness_Name"
+msgid "Stealth Up"
+msgstr ""
+
+msgctxt "RapidFire_Name"
+msgid "Quick Shot"
+msgstr ""
+
+msgctxt "ReduceAncientEnemyDamge_Name"
+msgid "Guardian Resist Up"
+msgstr ""
+
+msgctxt "ResistCold_Name"
+msgid "Cold Resistance"
+msgstr ""
+
+msgctxt "ResistElectric_Name"
+msgid "Shock Resistance"
+msgstr ""
+
+msgctxt "ResistFreeze_Name"
+msgid "Unfreezable"
+msgstr ""
+
+msgctxt "ResistHot_Name"
+msgid "Heat Resistance"
+msgstr ""
+
+msgctxt "ResistLightning_Name"
+msgid "Lightning Proof"
+msgstr ""
+
+msgctxt "SandMoveSpeedUp_Name"
+msgid "Sand Speed Up"
+msgstr ""
+
+msgctxt "SnowMovingSpeed_Name"
+msgid "Snow Speed Up"
+msgstr ""
+
+msgctxt "SpreadFire_Name"
+msgid "Five-Shot Burst"
+msgstr ""
+
+msgctxt "SurfMaster_Name"
+msgid "Shield Surf Up"
+msgstr ""
+
+msgctxt "SwimSpeedUp_Name"
+msgid "Swim Speed Up"
+msgstr ""
+

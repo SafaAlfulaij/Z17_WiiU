@@ -1,0 +1,361 @@
+msgctxt "0004"
+msgid "Take care."
+msgstr ""
+
+msgctxt "0005"
+msgid "Me too."
+msgstr ""
+
+msgctxt "0008"
+msgid "Are you hurt?"
+msgstr ""
+
+msgctxt "0009"
+msgid "..."
+msgstr ""
+
+msgctxt "0010"
+msgid "Actually..."
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Nice try!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "You're kidding me!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "Whaaaaaaw!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Whoa!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk00"
+msgid "<1.so>I guess you talked to the <2.se_co>elder<3.re_co>, then."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>Bringing down <2.se_co>Divine Beast Vah Medoh<3.re_co>\n"
+"like that...<4.pa>\n"
+"\n"
+"To tell you the truth, I might not have\n"
+"been able to do it alone.<5.pa> Thanks again."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (longer)
+msgctxt "talk02"
+msgid ""
+"<1.so>The <2.se_co>elder <3.re_co>said that the way\n"
+"<4.se_co>Divine Beast Vah Medoh <5.re_co>is perched\n"
+"up there now is its protective stance.\n"
+"The beam of light that it's sending off...<6.pa>\n"
+"I wonder what's at the other end."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk03"
+msgid ""
+"<1.so>What's next for you?\n"
+"Charging headlong into danger?\n"
+"\n"
+"<2.so>As for me...<3.pa> Heh,<4.pa> I guess I'll be\n"
+"babysitting Tulin at the <5.se_co>Flight Range<6.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk07"
+msgid ""
+"<1.so>Well then...<2.pa> I should probably get Tulin\n"
+"over to the <3.se_co>Flight Range<4.re_co>. <5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: sound
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: reset_colour
+msgctxt "talk08"
+msgid ""
+"<1.so>Hmm...<2.pa>\n"
+"I see you've got the <3.se_co>Great Eagle Bow<4.re_co>\n"
+"from the <5.se_co>elder<6.re_co>. \n"
+"That thing is way too heavy to use in\n"
+"aerial fighting—I'd end up sacrificing\n"
+"all of my speed just to take a shot.\n"
+"<7.so>Now, if I had both the strength and\n"
+"speed of Master Revali, that would be a\n"
+"different story...\n"
+"<8.so>But seeing the way you handled your\n"
+"bow against <9.se_co>Medoh<10.re_co>, I suggested we\n"
+"let you borrow the <11.se_co>Great Eagle Bow<12.re_co>.\n"
+"Take it with you on your adventure,\n"
+"along with the respect of the Rito..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk09"
+msgid ""
+"<1.so>Well then...\n"
+"\n"
+"\n"
+"My wounds are just about healed,<2.pa> so I \n"
+"guess it's time for me to take Tulin\n"
+"to the <3.se_co>Flight Range<4.re_co>.\n"
+"I'm hoping Tulin grows up to be a\n"
+"distinguished warrior like Master Revali.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk10"
+msgid ""
+"<1.so>I don't have a problem waiting for you,\n"
+"but as soon as you give the word, I'm\n"
+"headed off to the <2.se_co>Flight Range<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (short)
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: sound
+msgctxt "talk12"
+msgid ""
+"<1.so>Don't tell me...\n"
+"\n"
+"\n"
+"You're the <2.se_co>Hylian Champion<3.re_co>?!\n"
+"\n"
+"\n"
+"...\n"
+"\n"
+"\n"
+"...\n"
+"\n"
+"\n"
+"<4.so>Hahaha! <5.pa>Good one, pal!\n"
+"\n"
+"\n"
+"<6.so>Everyone knows that all of the\n"
+"<7.se_co>Champions <8.re_co>were wiped out by\n"
+"<9.se_co>Calamity Ganon<10.re_co> 100 years ago.\n"
+"<11.so>And even if they survived that, they'd be\n"
+"old geezers with canes instead of\n"
+"swords!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk13"
+msgid ""
+"<1.se_co><2.so><3.re_co>I let the <4.se_co>elder <5.re_co>know about what"
+"\n"
+"happened with <6.se_co>Divine Beast Vah Medoh<7.re_co>,\n"
+"but you should probably go talk to him."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (longer)
+#. 9: single_choice
+msgctxt "talk14"
+msgid ""
+"<1.so>Hahah! <2.pa>Go on.\n"
+"There's nothing to hide!\n"
+"\n"
+"<3.so>Your bowmanship...the way you move\n"
+"through the air.<4.pa> There's no doubt about\n"
+"it, you have the blood of a <5.se_co>Champion<6.re_co>.\n"
+"<7.so>What? <8.pa>You look like you've got\n"
+"something else to say.<9.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk16"
+msgid ""
+"<1.so>You...\n"
+"I really owe you for what you did.<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: single_choice
+msgctxt "talk17"
+msgid ""
+"<1.so>It's fine.<2.pa> Thanks to my wife, I've\n"
+"recovered to the point where I can stand.\n"
+"\n"
+"Actually,<3.pa> my wife told me something\n"
+"about you.\n"
+"\n"
+"She says you're a descendant of the\n"
+"<4.se_co>Champion<5.re_co>.<6.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk21"
+msgid "<1.so>It's you..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk22"
+msgid ""
+"<1.so>My leg's healed up enough that I can at\n"
+"least walk around. Sorry if I worried you.\n"
+"\n"
+"That reminds me...\n"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "talk23"
+msgid ""
+"<1.so>You haven't told the <2.se_co>elder <3.re_co>what\n"
+"happened yet? <4.pa>I think he should\n"
+"hear it straight from you."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk24"
+msgid ""
+"<1.so>The <2.se_co>elder <3.re_co>is waiting. You should fill him\n"
+"in on the details."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk25"
+msgid "<1.so>OK. Tulin! Let's go to the <2.se_co>Flight Range<3.re_co>!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: animation
+#. 4: text_size
+msgctxt "talk26"
+msgid "<1.te_si><2.so><3.an>Hahaha!<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk27"
+msgid ""
+"<1.so>All right, Link.<2.pa>\n"
+"I'll be at the <3.se_co>Flight Range<4.re_co> if you need me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk28"
+msgid ""
+"<1.so>Well then...\n"
+"\n"
+"\n"
+"My wounds are just about healed,<2.pa> so\n"
+"when Tulin wakes up, I think I'll take him\n"
+"to the <3.se_co>Flight Range<4.re_co>.\n"
+"I'm hoping Tulin grows up to be a\n"
+"distinguished warrior like Master Revali."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk29"
+msgid ""
+"<1.so>Well then...\n"
+"\n"
+"\n"
+"Once this rain lets up, I'm going to take\n"
+"Tulin to the <2.se_co>Flight Range<3.re_co>.\n"
+"\n"
+"I'm hoping Tulin grows up to be a\n"
+"distinguished warrior like Master Revali."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk30"
+msgid ""
+"<1.so>When Tulin wakes up, I'm going to take\n"
+"him to the <2.se_co>Flight Range<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk31"
+msgid ""
+"<1.so>When this rain lets up, I think I'll take\n"
+"Tulin to the <2.se_co>Flight Range<3.re_co>."
+msgstr ""
+

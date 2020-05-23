@@ -1,0 +1,100 @@
+msgctxt "0000"
+msgid "Mushroom risotto."
+msgstr ""
+
+msgctxt "0001"
+msgid "Poultry pilaf."
+msgstr ""
+
+msgctxt "0002"
+msgid "Egg pudding."
+msgstr ""
+
+msgctxt "0003"
+msgid "Close book."
+msgstr ""
+
+#. 1: choice
+msgctxt "talk00"
+msgid "Ivee's Recipe Book<1.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: set_colour (blue)
+#. 14: reset_colour
+#. 15: choice
+msgctxt "talk01"
+msgid ""
+"Today's Recipe:\n"
+"<1.se_co>Mushroom Risotto<2.re_co>\n"
+"Ingredients:\n"
+"<3.se_co>Hylian Rice<4.re_co> (one bundle)\n"
+"<5.se_co>Goat Butter<6.re_co> (one serving)\n"
+"<7.se_co>Hylian Shrooms<8.re_co> (approximately a few)\n"
+"<9.se_co>Rock Salt <10.re_co>(exactly \"a little\")\n"
+"Note: Use a <11.se_co>hearty salmon<12.re_co> instead of\n"
+"<13.se_co>Hylian shrooms <14.re_co>for a fish-lover's dish!<15.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: choice
+msgctxt "talk02"
+msgid ""
+"Today's Recipe:\n"
+"<1.se_co>Poultry Pilaf<2.re_co>\n"
+"Ingredients:\n"
+"<3.se_co>Raw Bird Drumstick <4.re_co>(just toss a few in)\n"
+"<5.se_co>Raw Bird Drumstick <6.re_co>(actually, a few more)\n"
+"<7.se_co>Goat Butter <8.re_co>(measure out \"a little\")\n"
+"<9.se_co>Hylian Rice <10.re_co>(one \"suitable amount\")\n"
+"<11.se_co>Bird Eggs <12.re_co>(a few should be fine)\n"
+"\n"
+"Note: Inaccurate measurements only\n"
+"make the dish more de-lish!<13.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: choice
+msgctxt "talk03"
+msgid ""
+"Today's Recipe:\n"
+"<1.se_co>Egg Pudding<2.re_co>\n"
+"Ingredients:\n"
+"<3.se_co>Bird Eggs<4.re_co> (a few should do)\n"
+"<5.se_co>Fresh Milk<6.re_co> (a few bottles)\n"
+"<7.se_co>Cane Sugar <8.re_co>(let's say...several servings)\n"
+"Note: <9.se_co>Cane sugar <10.re_co>can be tough to come\n"
+"by, but the dish will fail without it.<11.ch>"
+msgstr ""
+

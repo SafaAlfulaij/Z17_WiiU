@@ -1,0 +1,123 @@
+msgctxt "0002"
+msgid "It's all yours!"
+msgstr ""
+
+msgctxt "0003"
+msgid "Sorry, I can't."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk12"
+msgid ""
+"<1.so>Will you trade me your <2.se_co>Goron spice<3.re_co><4.pa>\n"
+"for some <5.se_co>Hylian rice<6.re_co>?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk13"
+msgid ""
+"<1.so>Thanks! I can use this <2.se_co>Goron spice <3.re_co>and\n"
+"<4.se_co>Hylian rice <5.re_co>to make some more\n"
+"<6.se_co>curry rice<7.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk14"
+msgid "<1.so>Here—<2.pa>your <3.se_co>Hylian rice<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk15"
+msgid ""
+"<1.so>I won't force you to part with it.<2.pa>\n"
+"You look like you could use a good\n"
+"meal, young man..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk17"
+msgid ""
+"<1.so>By the by,<2.pa> have you gotten your hands\n"
+"on any more of that <3.se_co>Goron spice<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk18"
+msgid ""
+"<1.so>Settle down, now.<2.pa> We can talk once I've\n"
+"found a seat."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk19"
+msgid ""
+"<1.so>Could you bring me some more of that\n"
+"<2.se_co>Goron spice<3.re_co>? I'm afraid I'm addicted."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk_00"
+msgid ""
+"<1.so>Hrm...<2.pa> Well, well...<3.pa>\n"
+"Looks like you're a trooper even\n"
+"in this mess."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: set_colour (blue)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "talk_05"
+msgid ""
+"<1.so>That <2.se_co><3.se_co>curry rice<4.se_co> <5.re_co>I made from "
+"<6.se_co>Goron spice<7.re_co>\n"
+"and <8.se_co>Hylian rice<9.re_co> was really tasty."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk_10"
+msgid ""
+"<1.so>So late at night...<2.pa>\n"
+"You must be looking for a place to stay?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk_11"
+msgid ""
+"<1.so>Heeeey.<2.pa> It's the <3.se_co>Goron spice<4.re_co> guy.\n"
+"Got any more for me?"
+msgstr ""
+

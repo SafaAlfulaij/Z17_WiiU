@@ -1,0 +1,41 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Remains_Fancier_Desc"
+msgid ""
+"Loone, lover of all things ancient, can't bear to\n"
+"part with her precious orb, Roscoe. Although,\n"
+"if you could somehow show her images of\n"
+"<1.se_co>three types of Guardians<2.re_co>, she may change\n"
+"her tune.\n"
+"\n"
+"Figure out some way to safely show her what\n"
+"the different Guardians look like. The three \n"
+"include small Guardians, flying Guardians, \n"
+"and Guardians that walk around."
+msgstr ""
+
+msgctxt "QL_Remains_Fancier_Finish"
+msgid ""
+"Loone, lover of all things ancient, relinquished\n"
+"her orb once you showed her pictures of the\n"
+"three types of Guardians.\n"
+"\n"
+"When you placed the orb into the pedestal,\n"
+"an ancient shrine appeared!"
+msgstr ""
+
+msgctxt "QL_Remains_Fancier_Name"
+msgid "Guardian Slideshow"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Remains_Fancier_Step1"
+msgid ""
+"Loone, lover of all things ancient, relinquished\n"
+"her orb once you showed her pictures of the\n"
+"three types of Guardians.\n"
+"\n"
+"You've decided to go place it in the <1.se_co>pedestal<2.re_co>."
+msgstr ""
+

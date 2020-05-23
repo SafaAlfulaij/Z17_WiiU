@@ -1,0 +1,145 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "After00"
+msgid ""
+"<1.so>Typical. <2.pa>Just typical. <3.pa>I try to have a day\n"
+"out, just watching the river go by, and\n"
+"now... <4.pa>Ugh. I'm going back to the stable."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (long)
+#. 5: pause (short)
+msgctxt "After01"
+msgid ""
+"<1.so>Saved again... <2.pa>Am I so wrong for just\n"
+"wanting to sit by the river?<3.pa> It's getting\n"
+"so I can't even take a walk anymore.\n"
+"That's life these days, I guess.<4.pa> Whatever.<5.pa>\n"
+"I'm going back to the stable."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: pause (short)
+msgctxt "After02"
+msgid ""
+"<1.so>I feel less anxious with you around.<2.pa>\n"
+"Thanks.<3.ra>I hear 100 years ago, there weren't so\n"
+"many monsters.<4.pa> A lady could actually go\n"
+"for a walk alone if she wanted.\n"
+"I can't even picture it now."
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked00"
+msgid "<1.so>Stupid monsters... Now what do I do?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid ""
+"<1.so>Figures there'd be monsters hanging\n"
+"around the exact day I come out to look\n"
+"at the river."
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>Ughhh, my aching head... Why did I think\n"
+"it was a good idea to take this road?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Oh, look who's here! <2.pa>The guy who stood\n"
+"around and watched me get beat up!<3.pa>\n"
+"A little help next time maybe?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: sound
+#. 5: pause (long)
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>I like watching the river flow by.<2.pa>\n"
+"Is that such a crime?<3.ra>Seeing the water stream so peacefully\n"
+"makes it hard to believe the Great\n"
+"Calamity really happened.\n"
+"<4.so>Then monsters attack out of nowhere,\n"
+"and I think—oh, right.<5.pa> Time to head back\n"
+"to the stables!\n"
+"Ugh... Whatever."
+msgstr ""
+
+#. 1: sound
+msgctxt "Guardian00"
+msgid "<1.so>It's a Guardian!"
+msgstr ""
+
+msgctxt "Near00"
+msgid "I have the worst luck..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>Gosh... Thanks for the save. <2.so>I<3.pa> ought to\n"
+"reward you, huh? Will this do?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Whew. I was nervous for a minute there!\n"
+"<2.so>Thanks for the help!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Thanks for saving my hide! You deserve\n"
+"this more than the guy I was taking it to."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>Wow, thanks.<2.pa> I might've been that thing's\n"
+"stew without you. <3.pa>Hmm, what do I have\n"
+"to give you in return? <4.pa>How's this?"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>I don't know where you came from, but\n"
+"thank goodness you did! This seems like\n"
+"such a paltry gift, but it's what I've got."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>I don't even want to think about where\n"
+"I'd be if you hadn't shown up! This is\n"
+"the least I can do in return."
+msgstr ""
+

@@ -1,0 +1,384 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>*huff...* <2.pa>*puff...* <3.pa>*huff...*<4.pa> *puff...*<5.pa>\n"
+"Yikes, I'm really thirsty."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Atacked01"
+msgid "<1.so>Argh! <2.pa>Those blasted monsters!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid "<1.so>I almost had it..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Youch...<2.pa> And I'm pretty sturdy, too...\n"
+"Owww..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Guardian00"
+msgid "<1.so>Run for your life!<2.pa> A <3.se_co>Guardian<4.re_co>'s coming!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "MSG_Akka_00"
+msgid ""
+"<1.so>Do ya have any ore?<2.pa> If so, it's best to\n"
+"sell it at the shop. You can sell the\n"
+"rare ones for a high price!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "MSG_Akka_00_1"
+msgid ""
+"<1.so>If ya have any ore ya don't need,\n"
+"it's a good idea to sell it at a shop.<2.pa>\n"
+"The sparklies go for a high price!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "MSG_Akka_01"
+msgid ""
+"<1.so>Have ya ever been to <2.se_co>Goron City<3.re_co>?<4.pa>\n"
+"It's in <5.se_co>Death Mountain <6.re_co>to the west!\n"
+"\n"
+"Oh, but I hear the journey's too hot for\n"
+"anyone who isn't a Goron..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (longer)
+msgctxt "MSG_Akka_01_1"
+msgid ""
+"<1.so><2.se_co>Goron City<3.re_co> is in <4.se_co>Death Mountain "
+"<5.re_co>to the\n"
+"west of here.\n"
+"\n"
+"The journey there's rough, but there are\n"
+"lots of great shops.<6.pa> I'd love for you to\n"
+"pay a visit sometime!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "MSG_Akka_02"
+msgid ""
+"<1.so>Do ya know a Goron named Boldon?<2.pa>\n"
+"He's my brother!\n"
+"\n"
+"He's a big-hearted Goron who doesn't\n"
+"get caught up in the little things.<3.pa>\n"
+"Who knows where he's travelin' now..."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Akka_02_1"
+msgid ""
+"<1.so>I know my brother, Boldon, is off\n"
+"travelin' somewhere.\n"
+"\n"
+"If ya run into him, I'd love it if you'd\n"
+"stop and chat a bit!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Akka_03"
+msgid ""
+"<1.so>You can sell your ore for a high price!\n"
+"\n"
+"\n"
+"If ya find ore deposits while travelin',<2.pa>\n"
+"I suggest ya get into the habit of\n"
+"mining 'em!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "MSG_Akka_03_1"
+msgid ""
+"<1.so>When I find an ore deposit, I have at it!<2.pa>\n"
+"The sparklies that come out of 'em\n"
+"can be sold at a high price!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "MSG_Akka_04"
+msgid ""
+"<1.so>This is the <2.se_co>East Akkala Stable<3.re_co>!\n"
+"\n"
+"\n"
+"If ya have any ore, DO NOT eat it!<4.pa>\n"
+"Instead, sell it at this stable!\n"
+"\n"
+"Though, I guess a non-Goron wouldn't\n"
+"be tempted to eat it anyway... Weird."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "MSG_Akka_04_1"
+msgid ""
+"<1.so>When you arrive at a stable, you can sell\n"
+"them the things ya don't need.\n"
+"\n"
+"I would just eat the rocks I don't need,\n"
+"but...<2.pa>for a <3.se_co>Hylian <4.re_co>like you...<5.pa> I suppose\n"
+"you'd rather sell 'em?"
+msgstr ""
+
+msgctxt "Near00"
+msgid "Mornin'..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Is it lunch time yet?"
+msgstr ""
+
+msgctxt "Near02"
+msgid "I wanna eat some rocks..."
+msgstr ""
+
+msgctxt "Near03"
+msgid "It's dark as onyx..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "This is hopeless..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Rest_00"
+msgid ""
+"<1.so>I'm Naddon!<2.pa> I have a brother\n"
+"named Boldon!\n"
+"\n"
+"He's probably travelin' the <3.se_co>Eldin\n"
+"High Road <4.re_co>about now..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Rest_01"
+msgid ""
+"<1.so>The weather's awful...<2.pa> I think it's best\n"
+"not to force yourself to walk through\n"
+"this stuff!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>Rumble! Rumble!\n"
+"\n"
+"\n"
+"Hm? What, that's not me! <2.pa>\n"
+"That was the thunder!"
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Akka_00"
+msgid ""
+"<1.so>We Gorons live on rocks! YUMMM!\n"
+"\n"
+"\n"
+"Ore, on the other hand... Nah. I'd sell\n"
+"that before I ate a single bite!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Akka_00_1"
+msgid ""
+"<1.so>Rocks are the staple food of a healthy\n"
+"Goron diet.<2.pa> That's why I always wonder\n"
+"whether to sell rare rocks or eat 'em!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (long)
+msgctxt "RetMSG_Akka_01"
+msgid ""
+"<1.so>Do ya know of the <2.se_co>Goron Hot Springs<3.re_co>\n"
+"that are on the way to the peak of\n"
+"<4.se_co>Death Mountain<5.re_co>?\n"
+"The road there's dangerous, but there\n"
+"are travelers who go to try out the\n"
+"hot springs...<6.pa> Or so I've heard!\n"
+"That sounds dangerous, though...\n"
+"Non-Gorons would be risking their\n"
+"lives if they tried that."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "RetMSG_Akka_01_1"
+msgid ""
+"<1.so>The <2.se_co>Goron Hot Springs<3.re_co> are a famous\n"
+"spot, <4.pa>but the road there is dangerous,\n"
+"and <5.se_co>Death Mountain <6.re_co>is crazy hot.\n"
+"If you decide to go, just know that you're\n"
+"risking your little Hylian life!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "RetMSG_Akka_02"
+msgid ""
+"<1.so>There's some particularly valuable ore\n"
+"out there.<2.pa> They're called gems.\n"
+"\n"
+"You might find gems in treasure chests\n"
+"or ore deposits, but...<3.pa>they don't taste\n"
+"so good. That's why I usually sell 'em."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Akka_02_1"
+msgid ""
+"<1.so>You can find gems inside treasure chests\n"
+"and ore deposits.<2.pa> They taste awful, so I\n"
+"tend to sell 'em."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "RetMSG_Akka_03"
+msgid ""
+"<1.so>The other day, a Gerudo woman talked to\n"
+"me on this road.<2.pa> She was from the\n"
+"Gerudo region in the southwest. \n"
+"<3.so>She was so pretty! Her hair was as\n"
+"shiny as stone!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "RetMSG_Akka_03_1"
+msgid ""
+"<1.so>The Gerudo woman who came from the\n"
+"Gerudo region...<2.pa> She was so pretty!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (long)
+#. 7: pause (long)
+msgctxt "RetMSG_Akka_04"
+msgid ""
+"<1.so><2.se_co>East Akkala Stable<3.re_co>...\n"
+"<4.se_co>South Akkala Stable<5.re_co>...<6.pa>\n"
+"I get those two mixed up!\n"
+"But I know I'm definitely on my way to...\n"
+"Erm... <7.pa>Heh, actually I dunno!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (longer)
+msgctxt "RetMSG_Akka_04_1"
+msgid ""
+"<1.so>There's <2.se_co>East Akkala Stable<3.re_co> and also\n"
+"<4.se_co>South Akkala Stable<5.re_co>...<6.pa> But which one\n"
+"is which?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_00"
+msgid "<1.so>Wow! <2.pa>You really helped me out, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>You're super strong! <2.pa>You really helped\n"
+"me out, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv2_00"
+msgid "<1.so>Wow! <2.pa>You saved me, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv2_01"
+msgid "<1.so>You're strong!<2.pa> Thanks so much, brother!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_00"
+msgid "<1.so>I owe ya my life, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_01"
+msgid "<1.so>Thanks, brother!<2.pa> Phew, that was close!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Thanks00"
+msgid ""
+"<1.so>It's not much, but this is for you,\n"
+"brother."
+msgstr ""
+

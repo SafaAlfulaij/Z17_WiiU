@@ -1,0 +1,13 @@
+#. 1: animation
+#. 2: pause (longer)
+msgctxt "Demo003_0_Text000"
+msgid ""
+"<1.an>Sheikah Slate authenticated.<2.pa>\n"
+"Distilling rune..."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo003_0_Text005"
+msgid "<1.an>Rune extracted."
+msgstr ""
+

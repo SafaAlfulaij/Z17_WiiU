@@ -1,0 +1,47 @@
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Challenge000"
+msgid ""
+"<1.so>How fortunate to cross paths with you\n"
+"again!<2.pa> Did you come to see the sea?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: sound
+#. 7: pause (short)
+#. 8: pause (long)
+#. 9: sound
+#. 10: pause (short)
+msgctxt "Talk00"
+msgid ""
+"<1.so>What?<2.pa> So the hero's savings amount\n"
+"to nothing more than a single\n"
+"<3.se_co>gold rupee<4.re_co>?<5.pa>\n"
+"<6.so>Hmph, <7.pa>well, hero though he was, \n"
+"he was much more rich in character\n"
+"than wealth...<8.pa>\n"
+"<9.so>Still...that is a fair sum.<10.pa>\n"
+"I hope you'll make good use of it!"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "WAAAAAA!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "TerrorFire"
+msgid "<1.so>Ack!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Knock it off!"
+msgstr ""
+

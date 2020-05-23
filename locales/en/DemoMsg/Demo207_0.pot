@@ -1,0 +1,43 @@
+msgctxt "Demo207_0_Text000"
+msgid ""
+"You have done well... The depth of\n"
+"your heroism is beyond question."
+msgstr ""
+
+msgctxt "Demo207_0_Text001"
+msgid ""
+"We are the ones who prepared\n"
+"this trial, following a revelation\n"
+"from the Goddess Hylia."
+msgstr ""
+
+msgctxt "Demo207_0_Text002"
+msgid ""
+"To the one who has overcome the Trial of\n"
+"the Sword...you have proven your hand\n"
+"worthy of the legendary Master Sword."
+msgstr ""
+
+msgctxt "Demo207_0_Text003"
+msgid ""
+"Now that the hero has gained the power\n"
+"necessary to combat the Calamity,\n"
+"our sacred duty has been fulfilled."
+msgstr ""
+
+msgctxt "Demo207_0_Text004"
+msgid "Chosen hero..."
+msgstr ""
+
+msgctxt "Demo207_0_Text005"
+msgid ""
+"with the awakened Master Sword,\n"
+"now boasting its true splendor..."
+msgstr ""
+
+msgctxt "Demo207_0_Text006"
+msgid ""
+"protect the kingdom of Hyrule...\n"
+"for now and for always..."
+msgstr ""
+

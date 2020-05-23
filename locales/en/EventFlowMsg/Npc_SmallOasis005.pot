@@ -1,0 +1,24 @@
+#. 1: sound
+msgctxt "Talk006"
+msgid ""
+"<1.so>I never could figure out how to\n"
+"sneak in..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+msgctxt "Talk007"
+msgid ""
+"<1.so>Oh, wow! You're really cute!\n"
+"\n"
+"\n"
+"<2.so>I mean...um...<3.pa> Oh, geez, I don't know\n"
+"why I just up and said that..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk008"
+msgid "<1.so>Zzzmmm..."
+msgstr ""
+

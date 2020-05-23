@@ -1,0 +1,245 @@
+msgctxt "5500"
+msgid "OK."
+msgstr ""
+
+msgctxt "5501"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5502"
+msgid "I'll buy."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "5508"
+msgid "All of them."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_00"
+msgid "<1.so>What do you want to sell me?"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_01"
+msgid ""
+"I'll give you <1.se_co><2.va> rupees<3.re_co>...\n"
+"That OK?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02"
+msgid "<1.so>Thank you much!<2.pa> Anything else?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02b"
+msgid "<1.so>Thanks a lot! Anything else?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02c"
+msgid "<1.so>Thanks a bunch! Anything else?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02d"
+msgid "<1.so>Thanks for that! Anything else?"
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (long)
+msgctxt "Com_Talk_04"
+msgid "<1.so>Hrmm<2.te_si>.<3.te_si><4.pa> Too bad."
+msgstr ""
+
+msgctxt "Com_Talk_05"
+msgid "I'll buy anything!"
+msgstr ""
+
+msgctxt "Com_Talk_05b"
+msgid "I'll still buy stuff—just let me!"
+msgstr ""
+
+msgctxt "Com_Talk_05c"
+msgid "I'm still game to buy stuff!"
+msgstr ""
+
+msgctxt "Com_Talk_05d"
+msgid "I'll buy all kinds of things if ya let me!"
+msgstr ""
+
+msgctxt "Com_Talk_06"
+msgid "What do you need?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_07"
+msgid "<1.so>Sorry! <2.pa>I'm all out right now."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_08"
+msgid ""
+"<1.so>You don't have enough rupees.<2.pa>\n"
+"Figure out your funds, and come\n"
+"back again later!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_09"
+msgid ""
+"<1.so>Your pouch is full!<2.pa> Discard or sell some\n"
+"stuff to make room."
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_10"
+msgid "You want that, then?<1.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_11"
+msgid "<1.so>Thanks a million!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11b"
+msgid "<1.so>Thanks a ton!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11c"
+msgid "<1.so>Thanks so much!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11d"
+msgid "<1.so>That's a huge help! Thanks!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_12"
+msgid ""
+"<1.so>I have an impressive collection here!<2.pa>\n"
+"Take your time!"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_13"
+msgid "How many do you want to sell?<1.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_14"
+msgid "I'll give you <1.se_co><2.va> rupees<3.re_co>. OK?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_15"
+msgid "<1.so>I can't buy that from you..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_16"
+msgid "<1.so>I'll need you to take that off first..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_20"
+msgid ""
+"<1.so>I've got a special rainy-day deal for you!<2.pa>\n"
+"I'll sell you the best item I've got!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_30"
+msgid "That'd be <1.se_co><2.va> rupees<3.re_co>. Sound OK?<4.ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_31"
+msgid "How many were you thinking?<1.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_33"
+msgid "Only one?<1.pa> I'll give you <2.se_co><3.va> rupees<4.re_co>!<5.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_34"
+msgid ""
+"All of them?<1.pa> That will be <2.se_co><3.va> rupees<4.re_co>.\n"
+"That OK?<5.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"So all of them, yeah? I can pay you\n"
+"<1.se_co><2.va> rupees<3.re_co>. That OK?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_36"
+msgid ""
+"<1.so>That's all of it. Thanks for buying\n"
+"so much!"
+msgstr ""
+
+#. 1: sound2
+#. 2: choice
+msgctxt "Com_Talk_37"
+msgid ""
+"<1.so>Sorry, I'm all out of arrows for today.\n"
+"Do you want to look at the list of stuff\n"
+"I plan to stock up on?<2.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_56"
+msgid ""
+"Only one?<1.pa> That'll be <2.se_co><3.va> rupees<4.re_co>.\n"
+"That OK?<5.ch>"
+msgstr ""
+

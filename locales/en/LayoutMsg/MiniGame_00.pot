@@ -1,0 +1,28 @@
+msgctxt "0000"
+msgid "New Record!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Challenge Failed"
+msgstr ""
+
+msgctxt "Pa_Distance_00-T_Unit_00"
+msgid "m"
+msgstr ""
+
+msgctxt "Pa_Distance_00-T_Unit_00_EURu"
+msgid "м"
+msgstr ""
+
+msgctxt "Pa_Finish_00-T_Finish_00"
+msgid "Finish!"
+msgstr ""
+
+msgctxt "Pa_Golf_00-T_Haifun_00"
+msgid "："
+msgstr ""
+
+msgctxt "Pa_Golf_00-T_Unit_00"
+msgid "Hits"
+msgstr ""
+

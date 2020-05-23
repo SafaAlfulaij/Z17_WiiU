@@ -1,0 +1,160 @@
+msgctxt "0000"
+msgid "A horse? Why?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_01"
+msgid ""
+"<1.so>I... I was just pretending to be\n"
+"a horse!<2.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "Talk_02"
+msgid "<1.te_si>*STOMP...STOMP*<2.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_04"
+msgid "<1.so>Sav'orq!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: sound
+#. 5: text_size
+#. 6: pause (longer)
+#. 7: text_size
+#. 8: sound
+#. 9: sound
+#. 10: text_size
+#. 11: pause (longer)
+#. 12: text_size
+#. 13: sound
+#. 14: sound
+msgctxt "Talk_05"
+msgid ""
+"<1.so>What? You don't know about\n"
+"Horsey Fatback? You don't have\n"
+"one where you're from?<2.pa>\n"
+"<3.so>There's this really big horse-thing that\n"
+"walks around outside the village, like\n"
+"STOMP STOMP.\n"
+"If you get close to him, he goes...\n"
+"\n"
+"\n"
+"<4.so><5.te_si>KABOOM!<6.pa><7.te_si>\n"
+"\n"
+"\n"
+"<8.so>And...\n"
+"\n"
+"\n"
+"<9.so><10.te_si>BZZBZZ!<11.pa><12.te_si>\n"
+"\n"
+"\n"
+"<13.so>It's really exciting!\n"
+"\n"
+"\n"
+"<14.so>But I think Horsey Fatback is\n"
+"actually good! He's only in a bad mood\n"
+"'cause everyone keeps saying he's bad!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (longer)
+#. 4: sound
+#. 5: sound
+msgctxt "Talk_06"
+msgid ""
+"<1.so>You don't know about Horsey Fatback?\n"
+"You don't have one where you're from?\n"
+"\n"
+"<2.so>There was this big horse-thing walking\n"
+"around like STOMP STOMP, but...<3.pa>\n"
+"\n"
+"<4.so>It looks like he went away somewhere...\n"
+"\n"
+"\n"
+"<5.so>He must have left because everyone kept\n"
+"saying he was a bad boy all the time!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_07"
+msgid ""
+"<1.so>It's dark out now, so I'm going back to\n"
+"my vaba's booth!\n"
+"\n"
+"Sav'orq!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_08"
+msgid ""
+"<1.so>*STOMP...STOMP*\n"
+"I think I can see him!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_09"
+msgid "<1.so>What game should I play now..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "Talk_10"
+msgid ""
+"<1.so><2.so>Sav'otta!<3.pa>\n"
+"Oh, wow! You're a vai from out of town!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "Talk_11"
+msgid ""
+"<1.so><2.so>Sav'aaq!!<3.pa>\n"
+"Oh, wow! You're a vai from out of town!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "Talk_12"
+msgid ""
+"<1.so><2.so>Sav'saaba!!<3.pa>\n"
+"Oh, wow! You're a vai from out of town!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_13"
+msgid ""
+"<1.so>*STOMP...STOMP*\n"
+"He went over there...\n"
+"\n"
+"I wonder if he's done stomping?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_14"
+msgid "<1.so>I'm on my way to watch Horsey Fatback!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk_15"
+msgid ""
+"<1.so>I'm going with everyone now!<2.pa>\n"
+"Talk to you later! Sav'orq!"
+msgstr ""
+

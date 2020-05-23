@@ -1,0 +1,229 @@
+msgctxt "0000"
+msgid "What's this place?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "near00"
+msgid "<1.so>Young man! Over here!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid "<1.so>Mornin'!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Hullo!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Evenin'!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid ""
+"<1.so>I'm off to bed, but the shop's still open\n"
+"if you wanna take a look around."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "talk04"
+msgid ""
+"<1.so>That's the <2.se_co>blue flame<3.re_co>!<4.pa> Grandma Purah\n"
+"used to carry that around all the time!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Kinda dreary weather today..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk06"
+msgid ""
+"<1.so>The <2.se_co>East Wind <3.re_co>general store is open...\n"
+"and it's just as lively inside there as it is\n"
+"out here!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk07"
+msgid ""
+"<1.so>But<2.pa> general-store extraordinaire \n"
+"<3.se_co>East Wind <4.re_co>is open and extra lively!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid "<1.so>Go take a look!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid "<1.so>What great weather!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk10"
+msgid "<1.so>Yes! <2.pa>Hullo!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (short)
+msgctxt "talk11"
+msgid ""
+"<1.so>This is the general store, <2.se_co>East Wind<3.re_co>!<4.pa>\n"
+"We're open and we are PEPPY!\n"
+"\n"
+"We carry all sorts of goods—<5.pa>from the\n"
+"freshest produce to my father's\n"
+"handmade arrows!\n"
+"We have lots of things in stock,<6.pa> so pop\n"
+"your head in there and take a look!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid "<1.so>Stop by again sometime!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk13"
+msgid "<1.so>I'm...<2.pa>Ivee.<3.pa> My name is Ivee!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: text_size
+msgctxt "talk14"
+msgid "<1.te_si><2.so>The store... <3.pa>Open... <4.pa>Zzz...<5.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (short)
+#. 4: text_size
+msgctxt "talk15"
+msgid "<1.te_si><2.so>Welcommmrgh... <3.pa>Zzz...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk16"
+msgid ""
+"<1.so>That <2.se_co>blue flame<3.re_co>! I remember the\n"
+"<4.se_co>director<5.re_co> of the <6.se_co>research lab <7.re_co>used to\n"
+"carry that around all the time."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk17"
+msgid ""
+"<1.so>I know that <2.se_co>flame<3.re_co>!<4.pa> <5.se_co>Grandma "
+"Purah<6.re_co> used\n"
+"to carry it around everywhere!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk18"
+msgid ""
+"<1.so>I know that <2.se_co>flame<3.re_co>!<4.pa> The <5.se_co>director of"
+" the\n"
+"research lab <6.re_co>used to carry it around!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.so>I gotta grab some sleep! <2.pa>We can talk\n"
+"later if we need to."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk20"
+msgid "<1.so>Didja need something?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk22"
+msgid "<1.so>M-<2.pa>me?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk23"
+msgid ""
+"<1.so>Oh, OK, sure! <2.pa>I'll introduce myself as\n"
+"many times as it takes!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: sound
+msgctxt "talk24"
+msgid ""
+"<1.so>Pleased to meet your... No, wait.<2.pa>\n"
+"Pleased to MAKE your...acquaintance?<3.pa>\n"
+"\n"
+"<4.so>Anyway, nice to meet you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "talk25"
+msgid ""
+"<1.so>Pleased... <2.pa>Uh, I am very pleased to make\n"
+"your acquaintance!\n"
+"\n"
+"<3.so>Yesss! I said it right!"
+msgstr ""
+

@@ -1,0 +1,480 @@
+msgctxt "0000"
+msgid "How's business?"
+msgstr ""
+
+msgctxt "0001"
+msgid "I want to sell."
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0003"
+msgid "What is this place?"
+msgstr ""
+
+msgctxt "5500"
+msgid "OK."
+msgstr ""
+
+msgctxt "5501"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5502"
+msgid "Buy."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "5508"
+msgid "All of them."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Com_Talk_00"
+msgid "<1.so>Certainly.<2.pa> What would you like to sell?"
+msgstr ""
+
+#. 1: raw
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_01"
+msgid "<1.ra>How about <2.se_co><3.va> rupees<4.re_co>? Is that OK?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Com_Talk_02"
+msgid ""
+"<1.so>Thank you.<2.pa> Do you have anything else\n"
+"to sell?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Com_Talk_02b"
+msgid ""
+"<1.so>Understood.<2.pa> Would you like me to take\n"
+"anything else off your hands?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02c"
+msgid "<1.so>Thanks!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Com_Talk_02d"
+msgid ""
+"<1.so>Yes, OK then...<2.pa> Is there anything else\n"
+"you would like to sell?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_04"
+msgid "<1.so>Oh, really? That's too bad."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05"
+msgid "<1.so>I'll buy anything you want to sell."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05b"
+msgid "<1.so>What do you have for me?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05c"
+msgid "<1.so>Take your time."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05d"
+msgid "<1.so>What would you like to sell?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_06"
+msgid "<1.so>What would you like to buy?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Com_Talk_07"
+msgid "<1.so>I'm sorry...<2.pa> We're all sold out of that."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Com_Talk_08"
+msgid ""
+"<1.so>Oh...<2.pa> I'm sorry. It would seem you don't\n"
+"have enough rupees..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "Com_Talk_09"
+msgid ""
+"<1.so>Oh...<2.pa> It looks like your inventory is full.\n"
+"\n"
+"\n"
+"You can sell whatever you don't need,\n"
+"or you can throw some stuff away.<3.pa>\n"
+"Please come back when you're ready."
+msgstr ""
+
+#. 1: raw
+#. 2: choice
+msgctxt "Com_Talk_10"
+msgid "<1.ra>You want to buy this, then?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_11"
+msgid "<1.so>Thank you for your business!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_11b"
+msgid "<1.so>Please come again!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_11c"
+msgid "<1.so>Thank you very much!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_11d"
+msgid "<1.so>Thanks for your business!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_12"
+msgid ""
+"<1.so>We have a fine selection of items here,\n"
+"so please take your time looking around."
+msgstr ""
+
+#. 1: raw
+#. 2: choice
+msgctxt "Com_Talk_13"
+msgid ""
+"<1.ra>You want to sell this, right? How many\n"
+"do you want to sell?<2.ch>"
+msgstr ""
+
+#. 1: raw
+#. 2: variable (Shop_TradeItemNum)
+#. 3: pause (short)
+#. 4: set_colour (red)
+#. 5: variable (ShopTradePrice)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"<1.ra>I'd say <2.va> amounts to<3.pa> <4.se_co><5.va> "
+"rupees<6.re_co>...<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Com_Talk_15"
+msgid ""
+"<1.so>My sincerest apologies...<2.pa>\n"
+"I cannot buy that from you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>I'm so sorry...<2.pa>but could you possibly\n"
+"remove that article of clothing before\n"
+"you try to sell it to me?"
+msgstr ""
+
+#. 1: raw
+#. 2: choice
+msgctxt "Com_Talk_31"
+msgid "<1.ra>How many?<2.ch>"
+msgstr ""
+
+#. 1: raw
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_33"
+msgid ""
+"<1.ra>Just one, right?<2.pa>\n"
+"How about <3.se_co><4.va> rupees<5.re_co>?<6.ch>"
+msgstr ""
+
+#. 1: raw
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_34"
+msgid "<1.ra>All of them? That will be <2.se_co><3.va> rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: raw
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"<1.ra>All of them?<2.pa> That will be <3.se_co><4.va> "
+"rupees<5.re_co>.<6.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_50"
+msgid ""
+"That comes to <1.se_co><2.va> rupees<3.re_co>. Is that\n"
+"acceptable?<4.ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_51"
+msgid "How many do you need?<1.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_52"
+msgid "<1.so>I think <2.va> will come to <3.se_co><4.va> rupees<5.re_co>.<6.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_53"
+msgid "<1.so>Oh, did you change your mind?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Com_Talk_54"
+msgid ""
+"<1.so>I'm so sorry...<2.pa> I must inform you that\n"
+"you don't have enough rupees."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Com_Talk_55"
+msgid ""
+"<1.so>Your pouch is full...<2.pa> If there's anything\n"
+"you don't need, I'd be happy to take it\n"
+"off your hands."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: raw
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: set_colour (red)
+#. 6: variable (ShopTradePrice)
+#. 7: reset_colour
+#. 8: choice
+msgctxt "Com_Talk_56"
+msgid ""
+"<1.se_co><2.ra><3.re_co>Just one, right?<4.pa> If so, that will\n"
+"be <5.se_co><6.va> rupees<7.re_co>.<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: sound
+#. 7: pause (short)
+#. 8: raw
+msgctxt "talk00"
+msgid ""
+"<1.so>This is our general store, <2.pa>the Coral Reef!\n"
+"Here we have <3.se_co>swift violets <4.re_co>that will help\n"
+"you run faster if you cook and eat 'em.\n"
+"We also carry arrows for travelers.<5.pa>\n"
+"If you see something you like,\n"
+"just go grab it from the table.\n"
+"<6.so>Oh! <7.pa>Unless you have some other\n"
+"business with me?<8.ra>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Oh, hello!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>Good evening!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk04"
+msgid "<1.so>Did you need me for something?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "talk05"
+msgid ""
+"<1.so>Not bad!\n"
+"\n"
+"\n"
+"<2.so>Or...<3.pa>I'd like to say that, but it actually\n"
+"hasn't been that great lately.\n"
+"\n"
+"Our goods are mostly for travelers...<4.pa>\n"
+"but we haven't been getting too many\n"
+"of those around here lately."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk06"
+msgid "<1.so>Things haven't been so great lately..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk07"
+msgid "<1.so>Come back soon!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk08"
+msgid ""
+"<1.so>Thanks! <2.pa>Be careful if you go out\n"
+"after dark!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk09"
+msgid ""
+"<1.so>Not bad!\n"
+"\n"
+"\n"
+"With this break in the bad weather,<2.pa>\n"
+"it looks like we're finally getting\n"
+"more tourists around here."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk10"
+msgid ""
+"<1.so>*sigh*<2.pa> At this rate, <3.pa>we may have to close\n"
+"our doors like the armor shop did..."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk11"
+msgid "<1.so>Need anything else?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk12"
+msgid ""
+"<1.so>At this rate, <2.pa>it looks like we won't have to\n"
+"close our doors like the armor shop did!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk13"
+msgid ""
+"<1.so>Yes, I'm getting along just fine...\n"
+"somehow."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (long)
+msgctxt "talk14"
+msgid ""
+"<1.so>This is our general store, the Coral Reef.<2.pa>\n"
+"If you are in the market for fresh fish,<3.pa>\n"
+"you have come to the right place!\n"
+"I have already told you that we carry\n"
+"arrows,<4.pa> but you should know the only\n"
+"ones we can't sell are <5.se_co>shock arrows<6.re_co>.\n"
+"<7.so>We Zora are a water-dwelling people,<8.pa>\n"
+"so we're weak to electricity..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk15"
+msgid ""
+"<1.so>You just went and bought all of them,\n"
+"did you?<2.pa> I'll be sure to stock up soon!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk16"
+msgid ""
+"<1.so>Thank you for that spending spree!<2.pa>\n"
+"You cleaned us out, so I'll restock."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "talk17"
+msgid ""
+"<1.so>Thank you very much!<2.pa> I see we\n"
+"ran out of some items. <3.pa>I'm working\n"
+"on replenishing our stock here!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk18"
+msgid ""
+"<1.so>Thank you for buying so much!<2.pa>\n"
+"Be sure to come back soon when\n"
+"we've restocked!"
+msgstr ""
+

@@ -1,0 +1,33 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_OneHundred_Desc"
+msgid ""
+"Sesami and his friends ran afoul of monsters\n"
+"near the roads at Koukot Plateau. Sesami ran\n"
+"for his life, but his friends vanished into thin air.\n"
+"\n"
+"Sesami was traveling with <1.se_co>four<2.re_co> friends. Find them\n"
+"quickly and put him at ease."
+msgstr ""
+
+msgctxt "QL_OneHundred_Finish"
+msgid ""
+"You saved all four of Sesami's friends, who had\n"
+"been pinned down by monsters and unable \n"
+"to move. And so, the curtain closes on the\n"
+"case of the Gerudo Canyon disappearances."
+msgstr ""
+
+msgctxt "QL_OneHundred_Name"
+msgid "Missing in Action"
+msgstr ""
+
+msgctxt "QL_OneHundred_Step1"
+msgid ""
+"You rescued Sesami's friends, who were\n"
+"surrounded by monsters and unable to move.\n"
+"\n"
+"Hurry back to the Gerudo Canyon Stable and\n"
+"tell Sesami."
+msgstr ""
+

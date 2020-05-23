@@ -1,0 +1,47 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (long)
+#. 6: sound
+#. 7: sound
+#. 8: pause (short)
+#. 9: pause (long)
+msgctxt "Talk08"
+msgid ""
+"<1.so>Ah, we meet yet again!<2.pa>\n"
+"How are you holding up?\n"
+"\n"
+"<3.so>In case you were wondering about the\n"
+"song I perform at the stables,<4.pa> there are\n"
+"many theories about its origin.<5.pa>\n"
+"<6.so>But according to my teacher, it was a\n"
+"song performed by the ancient hero\n"
+"to call to his horse companion.\n"
+"<7.so>If you ever feel like hearing it, feel free\n"
+"to drop by.<8.pa>\n"
+"\n"
+"Anyway, time to get back to it...<9.pa>"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "WAAAAAA!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "TerrorFire"
+msgid "<1.so>Ack!"
+msgstr ""
+
+msgctxt "TerrorHorse"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Knock it off!"
+msgstr ""
+

@@ -1,0 +1,8 @@
+msgctxt "QL_MiniGame_TimeLimitHunting_Finish"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_MiniGame_TimeLimitHunting_Game"
+msgid "<NO_STRING>"
+msgstr ""
+

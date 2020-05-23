@@ -1,0 +1,86 @@
+#. 1: sound2
+msgctxt "ClearTerrorEnemy"
+msgid "<1.so>Phew..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "ClearTerrorGuardian"
+msgid "<1.so>That was scary..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near"
+msgid "<1.so>Love is the answer..."
+msgstr ""
+
+msgctxt "TerrorAnimal"
+msgid "Get back!"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Please stop!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "WHOA NOW!"
+msgstr ""
+
+msgctxt "TerrorEnemy"
+msgid "Eeeeeeeeek!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "Haaaaeeeeee!"
+msgstr ""
+
+msgctxt "TerrorFire"
+msgid "I don't like fire!"
+msgstr ""
+
+msgctxt "TerrorGuardian"
+msgid "Hyeeeeeeehh!"
+msgstr ""
+
+msgctxt "TerrorHorse"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorImpulse"
+msgid "Ohhh!"
+msgstr ""
+
+msgctxt "TerrorInsect"
+msgid "NOT BEES! AHHHH!"
+msgstr ""
+
+msgctxt "TerrorLightning"
+msgid "AHHH!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Owww!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (longer)
+#. 5: sound
+#. 6: sound
+#. 7: pause (longer)
+#. 8: sound
+#. 9: pause (long)
+msgctxt "talk_03"
+msgid ""
+"<1.so>Oh!<2.pa> I knew I'd see you again.<3.pa>\n"
+"I think that technically makes you\n"
+"my stalker!<4.pa> HAHAHAHA!\n"
+"<5.so>But seriously, I'm going to have to ask\n"
+"you to stop following me around.\n"
+"\n"
+"<6.so>...<7.pa>\n"
+"\n"
+"\n"
+"<8.so>Who am I kidding?<9.pa> I love the attention!"
+msgstr ""
+

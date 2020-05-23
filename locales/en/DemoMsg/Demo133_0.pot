@@ -1,0 +1,66 @@
+msgctxt "Demo133_0_Text000"
+msgid "Hoo……haah……yaaah……"
+msgstr ""
+
+msgctxt "Demo133_0_Text001"
+msgid "I doubt this will let up anytime soon..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo133_0_Text005"
+msgid ""
+"One day...<1.ra>You realized that you just weren't\n"
+"meant to be a fighter."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo133_0_Text006"
+msgid ""
+"Yet the only thing people ever said...<1.ra>was that you were born into a"
+" family\n"
+"of the royal guard, <2.ra>and so no matter what you thought,\n"
+"you had to become a knight."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo133_0_Text008"
+msgid ""
+"Your path seems to mirror your father's. <1.ra>You've dedicated yourself "
+"to becoming\n"
+"a knight, as well."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo133_0_Text009"
+msgid ""
+"Your commitment to the training necessary\n"
+"to fulfill your goal is really quite admirable.<1.ra>I see now why you "
+"would be the chosen one."
+msgstr ""
+
+msgctxt "Demo133_0_Text010"
+msgid "What if..."
+msgstr ""
+
+msgctxt "Demo133_0_Text012"
+msgid "If that was the only thing that you were ever told..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo133_0_Text013"
+msgid "I wonder, then...<1.ra>would you have chosen a different path?"
+msgstr ""
+
+msgctxt "Demo133_0_Text014"
+msgid "Hoo……haah……yaaah……"
+msgstr ""
+
+msgctxt "Demo133_0_Text015"
+msgid "やっ……ふっ……"
+msgstr ""
+
+msgctxt "Demo133_0_Text016"
+msgid "ふーっ……"
+msgstr ""
+

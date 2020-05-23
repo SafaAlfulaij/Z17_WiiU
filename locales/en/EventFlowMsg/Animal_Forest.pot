@@ -1,0 +1,65 @@
+msgctxt "Npc_Musician_014_Near"
+msgid "Crown of bone..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: sound
+msgctxt "Npc_Musician_014_R_008"
+msgid ""
+"<1.so>I get it now! The \"crown of bone\" refers\n"
+"to antlers! Of course that's a mountain\n"
+"buck!\n"
+"<2.so>Those majestic creatures ARE a bit like\n"
+"the kings of the forest, aren't they?\n"
+"\n"
+"<3.so>Your exploits here could be their own\n"
+"heroic song, you know...\n"
+"\n"
+"<4.so>Take care, and may the light illuminate\n"
+"your path."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (30f)
+#. 5: auto_advance
+#. 6: raw
+#. 7: pause (long)
+#. 8: pause (30f)
+msgctxt "Text004"
+msgid ""
+"<1.au_ad><2.ra>A beast that wears<3.pa> a crown of bone,\n"
+"Prancing through the lush green.<4.pa>\n"
+"\n"
+"<5.au_ad><6.ra>Mount the beast <7.pa>upon its throne,\n"
+"For only then the shrine is seen.<8.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Text005"
+msgid ""
+"<1.so>Oh!<2.pa> Pardon me!<3.pa> I didn't think anyone\n"
+"was around..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: pause (short)
+#. 5: sound
+msgctxt "Text006"
+msgid ""
+"<1.so>I suppose \"the lush green\" could refer\n"
+"to this place.<2.pa> But what sort of beast\n"
+"wears a \"crown of bone\"?\n"
+"<3.so>There's definitely a secret hiding here,<4.pa>\n"
+"but it's beyond me.\n"
+"\n"
+"<5.so>May the light illuminate your path."
+msgstr ""
+

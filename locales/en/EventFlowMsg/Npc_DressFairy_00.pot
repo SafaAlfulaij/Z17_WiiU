@@ -1,0 +1,460 @@
+msgctxt "0000"
+msgid "Enhance away!"
+msgstr ""
+
+msgctxt "0001"
+msgid "No, thanks."
+msgstr ""
+
+msgctxt "0002"
+msgid "Yes, please."
+msgstr ""
+
+msgctxt "0003"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "0004"
+msgid "Take a look."
+msgstr ""
+
+msgctxt "0005"
+msgid "I'd rather you not..."
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: text_size
+msgctxt "Revival01"
+msgid "<1.so><2.te_si>HAHHHHH...<3.te_si>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "Revival02"
+msgid ""
+"<1.so>Oh, what a feeling!<2.pa> That first breath of\n"
+"fresh air after an eternity of decay...<3.pa>\n"
+"It's just so intoxicating!"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: pause (longer)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (short)
+#. 10: set_colour (red)
+#. 11: reset_colour
+msgctxt "Revival03"
+msgid ""
+"Thanks to you,<1.pa> I've been returned to my\n"
+"former glory.\n"
+"\n"
+"And as they say—<2.pa>one good turn deserves\n"
+"another.<3.pa> I can help you,<4.pa> boy.\n"
+"\n"
+"Allow me to <5.se_co>enhance <6.re_co>your "
+"<7.se_co>clothing<8.re_co>.<9.pa>\n"
+"It's the least I can do, but I will need\n"
+"the necessary <10.se_co>materials<11.re_co>..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Talk00"
+msgid ""
+"<1.so>Ah, welcome back, boy.<2.pa> Do you want\n"
+"me to enhance your clothing?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Talk01"
+msgid ""
+"<1.so>Going already? <2.pa>How unfortunate\n"
+"for me..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Talk02"
+msgid ""
+"<1.so>I have sisters out there in the world.<2.pa>\n"
+"Like me, they've lost much of their\n"
+"power.\n"
+"If you were able to restore power to\n"
+"them as well,<3.pa> we'd then be able to\n"
+"<4.se_co>enhance your clothing even more<5.re_co>..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk04"
+msgid "<1.so>All finished!"
+msgstr ""
+
+#. 1: choice
+msgctxt "Talk05"
+msgid ""
+"Do you want me to enhance any of your\n"
+"other clothes?<1.ch>"
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "Talk07"
+msgid ""
+"I thought I would improve some other\n"
+"clothes for you,<1.pa> but it looks like that's\n"
+"not possible right now."
+msgstr ""
+
+msgctxt "Talk08"
+msgid ""
+"Which clothing item would you like me\n"
+"to enhance?"
+msgstr ""
+
+msgctxt "Talk10"
+msgid ""
+"Please, let me explain why I cannot\n"
+"enhance your clothes."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: pause (short)
+msgctxt "Talk11"
+msgid ""
+"<1.so>I'd love to enhance your clothing,<2.pa> but\n"
+"you don't seem to be carrying any.<3.pa>\n"
+"Or wearing any for that matter...\n"
+"If you get your hands on some clothes\n"
+"that look like they could be enhanced,<4.pa>\n"
+"come back and visit me again."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Talk12"
+msgid ""
+"<1.so>With the power available to me...<2.pa>\n"
+"I should be able to enhance your\n"
+"clothing <3.se_co>a little bit<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Talk13"
+msgid ""
+"<1.so>With the power available to me...<2.pa>\n"
+"I can enhance your clothing\n"
+"<3.se_co>a fair amount<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Talk14"
+msgid ""
+"<1.so>With the power available to me...<2.pa>\n"
+"I can <3.se_co>greatly <4.re_co>enhance your clothing.<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Talk15"
+msgid ""
+"<1.so>With the power available to me...<2.pa>\n"
+"I can enhance your clothing <3.se_co>to the max<4.re_co>!<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "Talk16"
+msgid ""
+"<1.so>You...<2.pa> You gave rupees to my sisters,\n"
+"as well.<3.pa>\n"
+"\n"
+"Come back anytime you're looking\n"
+"to enhance your clothing to the max!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk17"
+msgid "<1.so>All right, let me do my thing!"
+msgstr ""
+
+msgctxt "Talk18"
+msgid "See you later..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk19"
+msgid "<1.so>Ahhh woooo..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk20"
+msgid "<1.so>Haaaaa..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk21"
+msgid "<1.so>Phoooo..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk22"
+msgid "<1.so>Puh, haaaaa..."
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "Talk23"
+msgid "<1.te_si>Haiyah!!<2.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "Talk24"
+msgid "<1.te_si>Heeeee!!<2.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "Talk25"
+msgid "<1.te_si>Awaaaay!!<2.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "Talk26"
+msgid "<1.te_si>Good-bye!!<2.te_si>"
+msgstr ""
+
+#. 1: sound2
+#. 2: variable (Shop_SelectItemName)
+#. 3: choice
+msgctxt "Talk27"
+msgid ""
+"<1.so>I think I can enhance the\n"
+"<2.va>.<3.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: variable (Shop_SelectItemName)
+#. 3: choice
+msgctxt "Talk28"
+msgid ""
+"<1.so>You want me to enhance the\n"
+"<2.va>?<3.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: variable (Shop_SelectItemName)
+#. 3: pause (short)
+#. 4: choice
+msgctxt "Talk29"
+msgid ""
+"<1.so>Are you sure you want me to enhance\n"
+"the <2.va><3.pa>?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+#. 3: variable (Shop_SelectItemName)
+#. 4: choice
+msgctxt "Talk30"
+msgid ""
+"<1.so>All right.<2.pa>\n"
+"You want to enhance the\n"
+"<3.va>, right?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Talk31"
+msgid ""
+"<1.so>There are some clothing items that\n"
+"can't be enhanced,<2.pa> even with my powers."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Talk32"
+msgid ""
+"<1.so>I can't do anything with that clothing\n"
+"item...<2.pa> How about a different one?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Talk33"
+msgid "<1.so>Sorry,<2.pa> I can't enhance that clothing item."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk34"
+msgid ""
+"<1.so>Sorry, but that particular clothing item\n"
+"is out of my hands."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Talk35"
+msgid ""
+"<1.so>I can't do anything with that clothing\n"
+"item right now.<2.pa> I would need the help of\n"
+"my sisters' powers..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Talk36"
+msgid ""
+"<1.so>Please don't ask the impossible of me.<2.pa>\n"
+"If my sisters were released, things might\n"
+"be different, but..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "Talk37"
+msgid ""
+"<1.so>That item... <2.pa>Right now I can't do anything\n"
+"with it.<3.pa> I could probably enhance it once\n"
+"my sisters regain their powers."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Talk38"
+msgid ""
+"<1.so>I'm sorry, but...<2.pa>to enhance that clothing\n"
+"item, I'd need the aid of my sisters'\n"
+"powers..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk39"
+msgid ""
+"<1.so>Hrm? It seems like you don't have\n"
+"enough materials..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Talk40"
+msgid ""
+"<1.so>Oh... <2.pa>If you don't have the materials,\n"
+"I can't enhance it."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Talk41"
+msgid ""
+"<1.so>It's unfortunate, but you don't have \n"
+"enough materials.<2.pa> How about trying\n"
+"something else?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Talk42"
+msgid ""
+"<1.so>Huh... You don't have enough materials!<2.pa>\n"
+"Why not try another clothing item?"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: pause (longer)
+msgctxt "Talk43"
+msgid ""
+"What now? <1.pa>Are you being modest?<2.pa>\n"
+"We can try a different clothing item\n"
+"if you'd like."
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "Talk44"
+msgid "All right. <1.pa>Take your time."
+msgstr ""
+
+#. 1: pause (longer)
+msgctxt "Talk45"
+msgid ""
+"You made a mistake?<1.pa> I guess it happens\n"
+"from time to time..."
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "Talk46"
+msgid "OK. <1.pa>Go ahead and choose again."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: choice
+msgctxt "Talk47"
+msgid ""
+"<1.so>Hmm? What's this...<2.pa> You don't have any\n"
+"clothing that I can enhance?<3.pa>\n"
+"Really?\n"
+"Let's take a look, just to be sure.<4.ch>"
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "Talk48"
+msgid ""
+"Please come back here once you get\n"
+"some clothes or materials...<1.pa>or once\n"
+"you've restored the power of my sisters."
+msgstr ""
+
+msgctxt "Talk49"
+msgid ""
+"Please return to me if you get some\n"
+"strong new clothes or materials."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: pause (longer)
+msgctxt "Talk50"
+msgid ""
+"<1.so>All finished!<2.pa>\n"
+"Just a bit stronger now...<3.pa> Oh...\n"
+"\n"
+"You've heard about set bonuses, right?<4.pa>\n"
+"How a set of clothes that have all been\n"
+"enhanced twice could have a bonus?\n"
+"But only if you wear the whole set!<5.pa>\n"
+"Well, and not all sets have a bonus..."
+msgstr ""
+

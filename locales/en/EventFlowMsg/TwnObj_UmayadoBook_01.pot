@@ -1,0 +1,43 @@
+msgctxt "0000"
+msgid "Read."
+msgstr ""
+
+msgctxt "0001"
+msgid "Don't read."
+msgstr ""
+
+#. 1: raw
+#. 2: text_size
+#. 3: text_size
+msgctxt "Book00"
+msgid ""
+"<1.ra>Greetings from Traysi—your source for\n"
+"the best gossip and news!\n"
+"\n"
+"Have you been hearing any good stories\n"
+"on your travels? I've got a great one for\n"
+"you today!\n"
+"<2.te_si>The Sword that Seals the\n"
+"Darkness<3.te_si>\n"
+"\n"
+"The only one who can wield this sword\n"
+"carries the blood of the hero in their\n"
+"veins.\n"
+"That's what they say about this special\n"
+"blade! Rumor has it the blade has been\n"
+"hidden away in a forest somewhere...\n"
+"I have to admit that this rumor really has\n"
+"me interested, but sometimes you have\n"
+"to face reality.\n"
+"My reality is... There isn't any hero in my\n"
+"bloodline, so this sword would just be a\n"
+"big paperweight to me...\n"
+"Traysi's Recommendation: ★☆☆☆☆"
+msgstr ""
+
+#. 1: raw
+#. 2: choice
+msgctxt "BookFirst"
+msgid "<1.ra>Rumor Mill: Volume 2<2.ch>"
+msgstr ""
+

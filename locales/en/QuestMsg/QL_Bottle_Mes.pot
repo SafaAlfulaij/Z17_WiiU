@@ -1,0 +1,52 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Bottle_Mes_Desc"
+msgid ""
+"Follow the <1.se_co>letter <2.re_co>down the river without losing\n"
+"sight of it, and find out who receives it. The\n"
+"letter's casing is fragile, so take care when\n"
+"pursuing it downstream.\n"
+"\n"
+"If you lose sight of the letter, return to Finley\n"
+"to try again."
+msgstr ""
+
+msgctxt "QL_Bottle_Mes_Finish"
+msgid ""
+"Sasan arrived safely at Zora's Domain and met\n"
+"with Finley. Your part in the matter is concluded,\n"
+"though it remains to be seen whether Sasan\n"
+"can put on the muscle Finley hopes for."
+msgstr ""
+
+msgctxt "QL_Bottle_Mes_Name"
+msgid "Special Delivery"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Bottle_Mes_Step10"
+msgid ""
+"The <1.se_co>letter<2.re_co>'s casing is fragile, so keep a close\n"
+"eye on it.\n"
+"\n"
+"If you lose sight of the letter, return to Finley\n"
+"to try again."
+msgstr ""
+
+msgctxt "QL_Bottle_Mes_Step20"
+msgid "<NO_STRING>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Bottle_Mes_Step30"
+msgid ""
+"It turns out that Sasan picked up the message.\n"
+"He's heading to Zora's Domain to meet\n"
+"Finley now.\n"
+"\n"
+"If you want to see what happens, you should\n"
+"get to <1.se_co>Zora's Domain<2.re_co> too..."
+msgstr ""
+

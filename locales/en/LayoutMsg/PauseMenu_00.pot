@@ -1,0 +1,570 @@
+msgctxt "0019"
+msgid "Pause Menu"
+msgstr ""
+
+msgctxt "0020"
+msgid "Sheikah Slate"
+msgstr ""
+
+msgctxt "0021"
+msgid "Change Weapon"
+msgstr ""
+
+msgctxt "0022"
+msgid "Change Rune"
+msgstr ""
+
+msgctxt "0023"
+msgid "Whistle"
+msgstr ""
+
+msgctxt "0041"
+msgid "Revali's Flap"
+msgstr ""
+
+msgctxt "0042"
+msgid "Daruk's Mettle"
+msgstr ""
+
+msgctxt "0043"
+msgid "Subdued Ceremony"
+msgstr ""
+
+msgctxt "0044"
+msgid "Resolve and Grief"
+msgstr ""
+
+msgctxt "0045"
+msgid "Zelda's Resentment"
+msgstr ""
+
+msgctxt "0046"
+msgid "Urbosa's Hand"
+msgstr ""
+
+msgctxt "0047"
+msgid "Blades of the Yiga"
+msgstr ""
+
+msgctxt "0048"
+msgid "A Premonition"
+msgstr ""
+
+msgctxt "0049"
+msgid "Silent Princess"
+msgstr ""
+
+msgctxt "0050"
+msgid "Mipha's Touch"
+msgstr ""
+
+msgctxt "0051"
+msgid "To Mount Lanayru"
+msgstr ""
+
+msgctxt "0052"
+msgid "Shelter from the Storm"
+msgstr ""
+
+msgctxt "0053"
+msgid "Father and Daughter"
+msgstr ""
+
+msgctxt "0054"
+msgid "Slumbering Power"
+msgstr ""
+
+msgctxt "0055"
+msgid "Return of Calamity Ganon"
+msgstr ""
+
+msgctxt "0056"
+msgid "Despair"
+msgstr ""
+
+msgctxt "0057"
+msgid "Zelda's Awakening"
+msgstr ""
+
+msgctxt "0058"
+msgid "The Master Sword"
+msgstr ""
+
+msgctxt "0059"
+msgid "Champion Revali's Song"
+msgstr ""
+
+msgctxt "0060"
+msgid "Champion Daruk's Song"
+msgstr ""
+
+msgctxt "0061"
+msgid "Champion Mipha's Song"
+msgstr ""
+
+msgctxt "0062"
+msgid "Champion Urbosa's Song"
+msgstr ""
+
+msgctxt "0063"
+msgid "The Champions' Ballad"
+msgstr ""
+
+msgctxt "0100"
+msgid ""
+"Revali, Champion of the Rito, openly\n"
+"expresses his opposition to supporting\n"
+"Link. He confronts Link in Rito Village,\n"
+"but to what end?"
+msgstr ""
+
+msgctxt "0101"
+msgid ""
+"Goron Champion Daruk is training with his\n"
+"Divine Beast on Death Mountain. But when he\n"
+"feels the ground rumble, he protects himself and\n"
+"Link from a landslide of boulders—and wonders\n"
+"whether the strange event was natural."
+msgstr ""
+
+msgctxt "0102"
+msgid ""
+"Link is chosen to be the appointed knight to\n"
+"Zelda, princess of the royal family of Hyrule.\n"
+"Zelda does her best to facilitate the fabled\n"
+"\"ceremony of legend,\" as suggested by Daruk,\n"
+"but her own insecurities are laid bare... "
+msgstr ""
+
+msgctxt "0103"
+msgid ""
+"Zelda and Link head to Goron City to make\n"
+"adjustments to the Divine Beast there. \n"
+"Zelda expresses her commitment to researching\n"
+"the ancient technology and still struggles with\n"
+"her own quiet anguish."
+msgstr ""
+
+msgctxt "0104"
+msgid ""
+"Zelda continues her research on the shrines,\n"
+"but her repressed frustration builds as she is\n"
+"denied entry. \n"
+"When Link appears, Zelda loses control and is\n"
+"overcome by her anger."
+msgstr ""
+
+msgctxt "0105"
+msgid ""
+"Link is called to the Gerudo Desert by Urbosa.\n"
+"There, he sees Zelda, exhausted and asleep.\n"
+"Urbosa opens up about her concern for Zelda\n"
+"and reminds Link that it is a warrior's honor\n"
+"to protect a member of the royal family."
+msgstr ""
+
+msgctxt "0106"
+msgid ""
+"Zelda is attacked by members of the Yiga Clan.\n"
+"She attempts to escape, but to no avail. At\n"
+"the last moment, Link appears and saves her."
+msgstr ""
+
+msgctxt "0107"
+msgid ""
+"Zelda explains to Link that in order to properly\n"
+"fulfill his role, he needs to exercise caution.\n"
+"She then expresses her unease about the\n"
+"growing numbers and types of monsters that\n"
+"have been seen recently in Hyrule."
+msgstr ""
+
+msgctxt "0108"
+msgid ""
+"Zelda shows Link some of the rare types of\n"
+"wildlife in Hyrule.\n"
+"She explains her admiration for a flower called\n"
+"the silent princess. She also catches something\n"
+"unexpected and inspiring!"
+msgstr ""
+
+msgctxt "0109"
+msgid ""
+"Mipha quietly expresses her concern for Link\n"
+"while tending to his wounds atop the\n"
+"Divine Beast.\n"
+"She reassures Link that he can count on her\n"
+"in the upcoming trials ahead."
+msgstr ""
+
+msgctxt "0110"
+msgid ""
+"Upon returning from a field survey, Zelda shows\n"
+"Link Mount Lanayru towering in the distance...\n"
+"Zelda commits to going to the mountain to\n"
+"initiate the sacred rites that may awaken her\n"
+"hidden power there."
+msgstr ""
+
+msgctxt "0111"
+msgid ""
+"While Zelda and Link seek refuge from the rain\n"
+"beneath a tree, she opens up to Link about\n"
+"her own doubts and the choices she has made."
+msgstr ""
+
+msgctxt "0112"
+msgid ""
+"Zelda gleefully watches the experiments with\n"
+"the Guardians at Hyrule Castle, but her\n"
+"demeanor changes quickly with the entrance\n"
+"of her father, King Rhoam..."
+msgstr ""
+
+msgctxt "0113"
+msgid ""
+"Zelda engages in a sacred ritual at the\n"
+"Spring of Power in hopes of awakening her\n"
+"sealing power, but she is overcome with the\n"
+"frustration and seeming futility of her dedication."
+msgstr ""
+
+msgctxt "0114"
+msgid ""
+"Zelda's efforts at the Spring of Wisdom on\n"
+"Mount Lanayru bear no fruit. Upon completing\n"
+"her descent down the mountain, she and the\n"
+"Champions witness the awakening of Ganon."
+msgstr ""
+
+msgctxt "0115"
+msgid ""
+"Four of the Champions, King Rhoam, and\n"
+"everyone inside the castle lose their lives when\n"
+"Ganon takes control of the Divine Beasts and\n"
+"the Guardians. Link suffers an unfortunate fate\n"
+"fighting Calamity Ganon alongside Zelda."
+msgstr ""
+
+msgctxt "0116"
+msgid ""
+"Link continues to fight, protecting Zelda from \n"
+"a pack of pursuing Guardians, but collapses\n"
+"in exhaustion, terribly wounded.\n"
+"As the Guardians close in, Zelda stands against\n"
+"them and finally unleashes her sealing power."
+msgstr ""
+
+msgctxt "0117"
+msgid ""
+"Zelda entrusts the Master Sword to the\n"
+"Deku Tree. When she attempts to relay a\n"
+"message to Link, the Deku Tree suggests\n"
+"that she simply tell him herself upon his return."
+msgstr ""
+
+msgctxt "0118"
+msgid ""
+"Zelda tracks down Rito warrior Revali and enlists\n"
+"him to pilot the Divine Beast Vah Medoh.\n"
+"During their encounter, she witnesses an\n"
+"impressive display of his archery skills,\n"
+"as well as the hidden side of his personality\n"
+"that makes it all possible."
+msgstr ""
+
+msgctxt "0119"
+msgid ""
+"Zelda enlists Daruk, the mightiest Goron,\n"
+"to pilot the Divine Beast Vah Rudania.\n"
+"Although he fearlessly fights off hordes\n"
+"of monsters with great courage, he has\n"
+"an unexpected weakness."
+msgstr ""
+
+msgctxt "0120"
+msgid ""
+"Zelda visits the Zora princess, Mipha,\n"
+"and enlists her to pilot the Divine Beast\n"
+"Vah Ruta. While teaching her brother Sidon\n"
+"to swim up waterfalls, Mipha entrusts him with\n"
+"the duty of the Zora royal family, displaying\n"
+"her dedication as both princess and sister."
+msgstr ""
+
+msgctxt "0121"
+msgid ""
+"Zelda entreats Urbosa, the Gerudo chief, to pilot\n"
+"the Divine Beast Vah Naboris. After Urbosa\n"
+"formally accepts, the two companions take a\n"
+"nighttime stroll in the desert, and Urbosa\n"
+"shares cherished memories from their\n"
+"shared past."
+msgstr ""
+
+msgctxt "0122"
+msgid ""
+"Link, Mipha, Daruk, Revali, and Urbosa are\n"
+"called to Hyrule Castle and formally appointed\n"
+"as Champions by the king. After the ceremony,\n"
+"they congregate at the castle's garden where\n"
+"Mipha asks Zelda for a favor...to use the\n"
+"Sheikah Slate's Camera for a special picture."
+msgstr ""
+
+msgctxt "0200"
+msgid "Recovered Memory #"
+msgstr ""
+
+msgctxt "0201"
+msgid "Main Quests Cleared:"
+msgstr ""
+
+msgctxt "0202"
+msgid "Shrine Quests Cleared:"
+msgstr ""
+
+msgctxt "0203"
+msgid "Side Quests Cleared:"
+msgstr ""
+
+msgctxt "0204"
+msgid "EX Recovered Memory #"
+msgstr ""
+
+msgctxt "0205"
+msgid "Zero Jump"
+msgstr ""
+
+msgctxt "0206"
+msgid "Lean Forward"
+msgstr ""
+
+msgctxt "0207"
+msgid "Turn"
+msgstr ""
+
+msgctxt "0208"
+msgid "Wheelie"
+msgstr ""
+
+msgctxt "0209"
+msgid "Accelerate"
+msgstr ""
+
+msgctxt "0210"
+msgid "Brake / Dismount"
+msgstr ""
+
+msgctxt "0211"
+msgid "Master Cycle Zero Controls"
+msgstr ""
+
+msgctxt "0212"
+msgid "Soothe"
+msgstr ""
+
+msgctxt "0213"
+msgid "Move Forward"
+msgstr ""
+
+msgctxt "0214"
+msgid "Change Direction"
+msgstr ""
+
+msgctxt "0215"
+msgid "Whoa..."
+msgstr ""
+
+msgctxt "0216"
+msgid "Dash"
+msgstr ""
+
+msgctxt "0217"
+msgid "Dismount"
+msgstr ""
+
+msgctxt "0218"
+msgid "Riding Controls"
+msgstr ""
+
+msgctxt "Pa_CategoryS_00-T_CatName_00"
+msgid "Weapons"
+msgstr ""
+
+msgctxt "Pa_CategoryS_01-T_CatName_00"
+msgid "Bows and Arrows"
+msgstr ""
+
+msgctxt "Pa_CategoryS_02-T_CatName_00"
+msgid "Shields"
+msgstr ""
+
+msgctxt "Pa_CategoryS_03-T_CatName_00"
+msgid "Armor"
+msgstr ""
+
+msgctxt "Pa_CategoryS_04-T_CatName_00"
+msgid "Materials"
+msgstr ""
+
+msgctxt "Pa_CategoryS_05-T_CatName_00"
+msgid "Food"
+msgstr ""
+
+msgctxt "Pa_CategoryS_06-T_CatName_00"
+msgid "Key Items"
+msgstr ""
+
+msgctxt "Pa_Quest_00-Pa_Category_00-Pa_Page_00-Pa_Btn_00-T_Hatena_00"
+msgid "???"
+msgstr ""
+
+msgctxt "Pa_Quest_00-Pa_Category_00-Pa_Page_00-Pa_Btn_01-T_Hatena_00"
+msgid "???"
+msgstr ""
+
+msgctxt "Pa_Quest_00-Pa_Category_00-Pa_Page_00-Pa_Btn_02-T_Hatena_00"
+msgid "???"
+msgstr ""
+
+msgctxt "Pa_Quest_00-Pa_Category_00-Pa_Page_00-Pa_Btn_03-T_Hatena_00"
+msgid "???"
+msgstr ""
+
+msgctxt "Pa_Quest_00-Pa_Category_00-Pa_Page_00-Pa_Btn_04-T_Hatena_00"
+msgid "???"
+msgstr ""
+
+msgctxt "Pa_Quest_00-Pa_ChallengeCategory_00-T_CatName_00"
+msgid "Main Quest"
+msgstr ""
+
+msgctxt "Pa_Quest_00-Pa_ChallengeCategory_01-T_CatName_00"
+msgid "Shrine Quests"
+msgstr ""
+
+msgctxt "Pa_Quest_00-Pa_ChallengeCategory_02-T_CatName_00"
+msgid "Side Quests"
+msgstr ""
+
+msgctxt "Pa_Quest_00-Pa_ChallengeCategory_03-T_CatName_00"
+msgid "Memories"
+msgstr ""
+
+msgctxt "Pa_Quest_00-T_Clear_00"
+msgid "Complete"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_A_00"
+msgid "Action"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_A_02"
+msgid "Dash"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_B_00"
+msgid "Put Away"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_B_02"
+msgid "Dismount"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_ControlTitle_00"
+msgid "Basic Controls"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_ControlTitle_02"
+msgid "Sand-Seal Controls"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_Lstick_00"
+msgid "Move"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_Lstick_01"
+msgid "[Press] Crouch"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_Lstick_04"
+msgid "Change Direction"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_Lstick_05"
+msgid "Slow Down"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_R_00"
+msgid "Throw Weapon"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_R_02"
+msgid "Use Rune"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_Rstick_00"
+msgid "Camera Controls"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_Rstick_01"
+msgid "[Press] Scope"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_X_00"
+msgid "Jump"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_X_01"
+msgid "Jump"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_Y_00"
+msgid "Attack"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_ZL_00"
+msgid "Focus"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_ZL_01"
+msgid "Reset Camera"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_ZL_02"
+msgid "Reset Camera"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_AllTips_00-T_ZR_00"
+msgid "Use Bow & Arrows"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_Btn_00-T_Btn_00"
+msgid "Save"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_Btn_01-T_Btn_00"
+msgid "Load"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_Btn_02-T_Btn_00"
+msgid "Options"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_Btn_03-T_Btn_00"
+msgid "Ability Controls"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_Btn_03-T_New_00"
+msgid "New"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_Btn_04-T_Btn_00"
+msgid "DLC"
+msgstr ""
+
+msgctxt "Pa_Save_00-Pa_Btn_05-T_Btn_00"
+msgid "Return to Title Screen"
+msgstr ""
+

@@ -1,0 +1,82 @@
+#. 1: raw
+msgctxt "Demo151_0_Text000"
+msgid "Impressive, I know.<1.ra>Very few can achieve a mastery of the sky."
+msgstr ""
+
+msgctxt "Demo151_0_Text002"
+msgid ""
+"With proper utilization of my superior skills,\n"
+"I see no reason why we couldn't easily\n"
+"dispense with Ganon."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo151_0_Text006"
+msgid ""
+"Unless...you think you can prove me wrong? <1.ra>Maybe we should just "
+"settle this one on one?"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo151_0_Text007"
+msgid "But where...? Oh, I know!<1.ra>How about up there?!"
+msgstr ""
+
+msgctxt "Demo151_0_Text009"
+msgid "Good luck sealing the darkness!"
+msgstr ""
+
+msgctxt "Demo151_0_Text011"
+msgid "I mean, it's just...asinine."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo151_0_Text012"
+msgid ""
+"Oh, you must pardon me. <1.ra>I forgot you have no way of making it\n"
+"up to that Divine Beast on your own!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo151_0_Text013"
+msgid ""
+"Yet despite these truths, it seems that I have been\n"
+"tapped to merely assist you.<1.ra>All because you happen to have that "
+"little darkness-\n"
+"sealing sword on your back."
+msgstr ""
+
+msgctxt "Demo151_0_Text014"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "Demo151_0_Text015"
+msgid "Uh!"
+msgstr ""
+
+msgctxt "Demo151_0_Text017"
+msgid ""
+"Yet I have made an art of creating an updraft\n"
+"that allows me to soar."
+msgstr ""
+
+msgctxt "Demo151_0_Text018"
+msgid ""
+"It's considered to be quite the masterpiece of aerial\n"
+"techniques, even among the Rito."
+msgstr ""
+
+msgctxt "Demo151_0_Text019"
+msgid ""
+"Now then, my ability to explore the firmament\n"
+"is certainly of note..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo151_0_Text020"
+msgid ""
+"But let's not—pardon me for being so blunt—<1.ra>let's not forget the "
+"fact that I am the most\n"
+"skilled archer of all the Rito."
+msgstr ""
+

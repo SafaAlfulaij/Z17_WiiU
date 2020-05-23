@@ -1,0 +1,132 @@
+msgctxt "0000"
+msgid "Reset Camera"
+msgstr ""
+
+msgctxt "0001"
+msgid "Soothe"
+msgstr ""
+
+msgctxt "0002"
+msgid "Whoa..."
+msgstr ""
+
+msgctxt "0003"
+msgid "Yah!"
+msgstr ""
+
+msgctxt "0004"
+msgid "Drop"
+msgstr ""
+
+msgctxt "0005"
+msgid "Throw"
+msgstr ""
+
+msgctxt "0007"
+msgid "Put away"
+msgstr ""
+
+msgctxt "0008"
+msgid "Jump"
+msgstr ""
+
+msgctxt "0009"
+msgid "Let go"
+msgstr ""
+
+msgctxt "0010"
+msgid "Dash"
+msgstr ""
+
+msgctxt "0011"
+msgid "Move"
+msgstr ""
+
+msgctxt "0012"
+msgid "Camera"
+msgstr ""
+
+msgctxt "0013"
+msgid "Controls"
+msgstr ""
+
+msgctxt "0015"
+msgid "Jump"
+msgstr ""
+
+msgctxt "0016"
+msgid "Quit"
+msgstr ""
+
+msgctxt "0017"
+msgid "Push"
+msgstr ""
+
+msgctxt "0018"
+msgid "Pull"
+msgstr ""
+
+msgctxt "0019"
+msgid "Aim underfoot"
+msgstr ""
+
+msgctxt "0020"
+msgid "Aim outward"
+msgstr ""
+
+msgctxt "0021"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "0022"
+msgid "Slow down"
+msgstr ""
+
+msgctxt "0023"
+msgid "Move"
+msgstr ""
+
+msgctxt "0024"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "0025"
+msgid "Near"
+msgstr ""
+
+msgctxt "0026"
+msgid "Far"
+msgstr ""
+
+msgctxt "0027"
+msgid "Sprint"
+msgstr ""
+
+msgctxt "0028"
+msgid "Move"
+msgstr ""
+
+msgctxt "0029"
+msgid "Detonate"
+msgstr ""
+
+msgctxt "0030"
+msgid "Climb down"
+msgstr ""
+
+msgctxt "0031"
+msgid "Spin Attack"
+msgstr ""
+
+msgctxt "0032"
+msgid "Accelerate"
+msgstr ""
+
+msgctxt "0033"
+msgid "Zero Jump"
+msgstr ""
+
+msgctxt "0034"
+msgid "Brake"
+msgstr ""
+

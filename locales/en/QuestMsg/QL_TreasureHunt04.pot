@@ -1,0 +1,52 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt04_Desc"
+msgid ""
+"Rumor has it a Royal Guard uniform can still be\n"
+"found at Hyrule Castle.\n"
+"\n"
+"Apparently <1.se_co>Riverside Stable<2.re_co> has a copy of\n"
+"Super Rumor Mill EX, which details some\n"
+"rumors about this rare outfit."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt04_Finish"
+msgid ""
+"You found the <1.se_co>royal guard uniform<2.re_co> from treasure\n"
+"chests in the hidden room near the dining hall,\n"
+"the storage space in the guards' chamber,\n"
+"and on the second floor of the castle.\n"
+"\n"
+"Believing those rumors really paid off!"
+msgstr ""
+
+msgctxt "QL_TreasureHunt04_Name"
+msgid "EX Royal Guard Rumors"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: variable (TreasureHunt04_RemainingBox)
+#. 9: reset_colour
+msgctxt "QL_TreasureHunt04_Step01"
+msgid ""
+"You read Super Rumor Mill EX: Volume 4!\n"
+"According to this special issue, Hyrule Castle\n"
+"still houses a uniform once belonging to the\n"
+"royal guards who protected the royal family.\n"
+"It can supposedly be found in treasure chests\n"
+"hidden near the <1.se_co>dining hall<2.re_co>, in the <3.se_co>guards'\n"
+"chamber<4.re_co>, and on the <5.se_co>second floor<6.re_co>.\n"
+"\n"
+"If you believe the rumors, try to find the\n"
+"hidden treasure!\n"
+"Treasure chests remaining: <7.se_co><8.va><9.re_co>"
+msgstr ""
+

@@ -1,0 +1,72 @@
+msgctxt "0000"
+msgid "Rotate 90 degrees"
+msgstr ""
+
+msgctxt "0001"
+msgid "Tilt 90 degrees"
+msgstr ""
+
+msgctxt "0002"
+msgid "Tilt"
+msgstr ""
+
+msgctxt "0003"
+msgid "Move Trunk"
+msgstr ""
+
+msgctxt "0004"
+msgid "Execute"
+msgstr ""
+
+msgctxt "0005"
+msgid "Back"
+msgstr ""
+
+msgctxt "0006"
+msgid "Change Rotation Direction"
+msgstr ""
+
+msgctxt "Pa_SensorBox_00-T_SensorTitle_00"
+msgid "Select search target."
+msgstr ""
+
+msgctxt "Pa_SensorIcon_00-T_Ancient_00"
+msgid "SheikahSensor"
+msgstr ""
+
+msgctxt "Pa_SensorIcon_00-T_Off_00"
+msgid "Off"
+msgstr ""
+
+msgctxt "Pa_SensorIcon_00-T_SensorOn_00"
+msgid "Shrine"
+msgstr ""
+
+msgctxt "T_IbutsuControl_00"
+msgid "Divine Beast Controls"
+msgstr ""
+
+msgctxt "T_IconInfoDevice_00"
+msgid "Terminal"
+msgstr ""
+
+msgctxt "T_IconInfoDevice_01"
+msgid "Main Control Unit"
+msgstr ""
+
+msgctxt "T_IconInfoElectric_00"
+msgid "Closed Circuit"
+msgstr ""
+
+msgctxt "T_IconInfoElectric_01"
+msgid "Open Circuit"
+msgstr ""
+
+msgctxt "T_IconInfoGanon_00"
+msgid "Calamity Ganon"
+msgstr ""
+
+msgctxt "T_IconInfoPlayer_00"
+msgid "Current Position"
+msgstr ""
+

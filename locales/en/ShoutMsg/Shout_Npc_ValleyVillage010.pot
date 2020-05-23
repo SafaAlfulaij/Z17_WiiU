@@ -1,0 +1,144 @@
+#. 1: animation
+msgctxt "BreakBattery_00"
+msgid "<1.an>That's it!"
+msgstr ""
+
+#. 1: animation
+msgctxt "BreakBattery_01"
+msgid "<1.an>That's the way!"
+msgstr ""
+
+#. 1: animation
+msgctxt "BreakBattery_02"
+msgid "<1.an>One more!"
+msgstr ""
+
+#. 1: animation
+msgctxt "BreakBattery_03"
+msgid "<1.an>We did it!"
+msgstr ""
+
+#. 1: animation
+msgctxt "BreakTarget_00"
+msgid "<1.an>Hey...not bad."
+msgstr ""
+
+#. 1: animation
+msgctxt "BreakTarget_01"
+msgid "<1.an>Keep it up."
+msgstr ""
+
+#. 1: animation
+msgctxt "BreakTarget_02"
+msgid "<1.an>That's it!"
+msgstr ""
+
+#. 1: animation
+msgctxt "BreakTarget_03"
+msgid "<1.an>One more!"
+msgstr ""
+
+#. 1: animation
+msgctxt "BreakTarget_04"
+msgid "<1.an>Perfect!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Do_00"
+msgid "<1.an>You got it?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Do_01"
+msgid "<1.an>Everything all right?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Do_02"
+msgid "<1.an>You holding up OK?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Do_03"
+msgid "<1.an>What's going on?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Do_04"
+msgid "<1.an>What's wrong?!"
+msgstr ""
+
+#. 1: animation
+msgctxt "GoBattle_00"
+msgid "<1.an>Here we go!"
+msgstr ""
+
+#. 1: animation
+msgctxt "GoBattle_01"
+msgid "<1.an>It's on you!"
+msgstr ""
+
+#. 1: animation
+msgctxt "GoBattle_02"
+msgid "<1.an>Go for it!"
+msgstr ""
+
+#. 1: animation
+msgctxt "GoBattle_03"
+msgid "<1.an>You got it!"
+msgstr ""
+
+#. 1: animation
+msgctxt "GoBattle_04"
+msgid "<1.an>It's up to you!"
+msgstr ""
+
+#. 1: animation
+msgctxt "LockOn_00"
+msgid "<1.an>Watch out!"
+msgstr ""
+
+#. 1: animation
+msgctxt "LockOn_01"
+msgid "<1.an>We're in hot!"
+msgstr ""
+
+#. 1: animation
+msgctxt "LockOn_02"
+msgid "<1.an>It's targeting us!"
+msgstr ""
+
+#. 1: animation
+msgctxt "LockOn_03"
+msgid "<1.an>Out of the way!"
+msgstr ""
+
+#. 1: animation
+msgctxt "LockOn_04"
+msgid "<1.an>Be careful!"
+msgstr ""
+
+msgctxt "Rescue_00"
+msgid "Look out!"
+msgstr ""
+
+msgctxt "Rescue_01"
+msgid "You all right?!"
+msgstr ""
+
+msgctxt "Rescue_02"
+msgid "Hold on tight!!"
+msgstr ""
+
+msgctxt "Rescue_03"
+msgid "Here we go!!"
+msgstr ""
+
+msgctxt "Rescue_04"
+msgid "Link!"
+msgstr ""
+
+msgctxt "Rescue_AreaOut_00"
+msgid "Where are you off to?!"
+msgstr ""
+

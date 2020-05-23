@@ -1,0 +1,104 @@
+#. 1: sound2
+#. 2: pause (30f)
+msgctxt "C01-0"
+msgid ""
+"<1.so>Who would've thought...I'd be done in\n"
+"like this...<2.pa>\n"
+"And by this guy, of all people!"
+msgstr ""
+
+#. 1: pause (long)
+msgctxt "C01-1"
+msgid ""
+"You think I'm just going to let this\n"
+"stand?!<1.pa> Do you?!"
+msgstr ""
+
+#. 1: pause (30f)
+msgctxt "C02-0"
+msgid "*ahem* I almost lost my temper there...<1.pa>"
+msgstr ""
+
+msgctxt "C02-1"
+msgid ""
+"Argh, what a pain... I can't go out this\n"
+"way. What to do, what to do..."
+msgstr ""
+
+#. 1: sound2
+#. 2: raw
+#. 3: pause (30f)
+msgctxt "C04-0"
+msgid "<1.so><2.ra>Ha! I got it!<3.pa>"
+msgstr ""
+
+#. 1: animation
+#. 2: pause (30f)
+msgctxt "C04-1"
+msgid "<1.an>Meheheheh...<2.pa>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (30f)
+msgctxt "C04-2"
+msgid "<1.so>Ahahahaha!<2.pa>"
+msgstr ""
+
+#. 1: animation
+#. 2: pause (30f)
+msgctxt "C04-3"
+msgid ""
+"<1.an>I need to bust out my serious moves...<2.pa>\n"
+"A secret technique taught by my father's\n"
+"mother's father! It will...destroy you!"
+msgstr ""
+
+#. 1: animation
+#. 2: auto_advance
+msgctxt "C04-4"
+msgid "<1.an>This is the end!<2.au_ad>"
+msgstr ""
+
+#. 1: animation
+#. 2: pause (30f)
+msgctxt "C08-0"
+msgid ""
+"<1.an>Ahahaha—uh... Huh. Maybe it's just a tad\n"
+"too big. Are you still over there?<2.pa>"
+msgstr ""
+
+#. 1: pause (15f)
+msgctxt "C08-1"
+msgid "Well, no matter.<1.pa>"
+msgstr ""
+
+#. 1: animation
+#. 2: pause (30f)
+#. 3: pause (30f)
+msgctxt "C08-2"
+msgid ""
+"<1.an>Pretty soon you'll be gone!<2.pa>\n"
+"And not just from my line of sight!<3.pa>"
+msgstr ""
+
+#. 1: pause (30f)
+#. 2: pause (30f)
+#. 3: auto_advance
+msgctxt "C08-3"
+msgid ""
+"Only the leader of the Yiga Clan...<1.pa>can use\n"
+"this secret technique...<2.pa>\n"
+"It is...the ultimate...<3.au_ad>"
+msgstr ""
+
+#. 1: animation
+msgctxt "C10-0"
+msgid "<1.an>Coward! I shall be remembered!"
+msgstr ""
+
+msgctxt "C10-1"
+msgid ""
+"The Yiga Clan will track you to the\n"
+"ends of Hyruuuule!"
+msgstr ""
+

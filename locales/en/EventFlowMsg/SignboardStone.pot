@@ -1,0 +1,117 @@
+msgctxt "Talk_Castle_Stone_01"
+msgid ""
+" - Test of the Royal Guard -\n"
+"Strike down the giant foe to become\n"
+"recognized as a knight of the kingdom."
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "Talk_ChgE3_Hint_001"
+msgid ""
+"Please place my chest in my mouth.\n"
+"<1.te_si>The shield eater's brother stole it from me.<2.te_si>"
+msgstr ""
+
+msgctxt "Talk_ChgE3_Hint_002"
+msgid ""
+"Feed me the aged shield guarded\n"
+"by monsters eternal. My brother will\n"
+"repay you in kind."
+msgstr ""
+
+msgctxt "Talk_Gerudo_Bar"
+msgid "The Noble Canteen"
+msgstr ""
+
+msgctxt "Talk_Gerudo_Costume"
+msgid "Fashion Passion"
+msgstr ""
+
+msgctxt "Talk_Gerudo_Hotel"
+msgid "Hotel Oasis"
+msgstr ""
+
+msgctxt "Talk_Gerudo_Jewelry"
+msgid ""
+"Starlight Memories\n"
+" - A Jewelry Shop -"
+msgstr ""
+
+msgctxt "Talk_Gerudo_Sunazara_Ctr"
+msgid ""
+"Please see the front desk for all inquiries\n"
+"regarding the renting of seals."
+msgstr ""
+
+msgctxt "Talk_Gerudo_Sunazara_East"
+msgid ""
+"Sand-Seal Rental Shop\n"
+"Southeast Booth"
+msgstr ""
+
+msgctxt "Talk_Gerudo_Sunazara_West"
+msgid ""
+"Sand-Seal Rental Shop\n"
+"Northwest Booth"
+msgstr ""
+
+msgctxt "Talk_Kanban_I-7_002"
+msgid "Link's House"
+msgstr ""
+
+msgctxt "Talk_Korogu_Escape1"
+msgid ""
+"A Note from Maca:\n"
+"Just climb into this tree's mouth to leave\n"
+"the forest. I promise it won't eat you."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Talk_Macuse"
+msgid ""
+"Only a hero bearing this <1.se_co>ancient orb<2.re_co>\n"
+"shall be granted the right of <3.se_co>trial<4.re_co> on\n"
+"Rist Peninsula."
+msgstr ""
+
+msgctxt "Talk_NightStone_001"
+msgid ""
+"If you seek power untold,\n"
+"offer a shining blue stone."
+msgstr ""
+
+#. 1: raw
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_ZoraLithograph_Mess_01"
+msgid ""
+"H---ory of the Zor-, Part S-ven\n"
+"The H-ro Who D-feat-d the Ly--l\n"
+"As T--d b- King Dorephan\n"
+"T--re was a time when the p--ple of the\n"
+"land were thre--ened by the dr--- beast\n"
+"Ly-e- who lived on Pl--mu- M--ntain.<1.ra>But one Hy---n drove th- beast "
+"back\n"
+"an- re--ored p--ce to the do--in.\n"
+"\n"
+"Th- <2.se_co>Zora helm<3.re_co> w-n in th-s fight i-\n"
+"no- north of --- in the r--ns near\n"
+"---- L-ke.\n"
+"It re--s ther- to h--or the d--ds\n"
+"of the he-- L---."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Talk_giant_bros"
+msgid ""
+"The <1.se_co>ancient orbs <2.re_co>guarded by the giants\n"
+"of Mount Taran lead to the <3.se_co>shrine<4.re_co>."
+msgstr ""
+

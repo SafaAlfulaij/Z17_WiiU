@@ -1,0 +1,1189 @@
+msgctxt "0000"
+msgid "You can't carry any more melee weapons."
+msgstr ""
+
+#. 1: variable (UiInfoString)
+msgctxt "0001"
+msgid "Your <1.va> is badly damaged."
+msgstr ""
+
+#. 1: raw
+msgctxt "0002"
+msgid "It seems <1.ra> couldn't hear your call..."
+msgstr ""
+
+#. 1: raw
+msgctxt "0003"
+msgid "It seems <1.ra> isn't able to come..."
+msgstr ""
+
+#. 1: variable (UiInfoString)
+msgctxt "0004"
+msgid "Your <1.va> broke!"
+msgstr ""
+
+msgctxt "0005"
+msgid "The Master Sword is running low on energy."
+msgstr ""
+
+msgctxt "0006"
+msgid "The Master Sword has run out of energy."
+msgstr ""
+
+msgctxt "0007"
+msgid "You can't go any farther."
+msgstr ""
+
+msgctxt "0008"
+msgid "You can't carry any more materials."
+msgstr ""
+
+msgctxt "0009"
+msgid "You can't place any more pins."
+msgstr ""
+
+msgctxt "0010"
+msgid "You don't have any melee weapons to display."
+msgstr ""
+
+msgctxt "0011"
+msgid "You don't have any shields to display."
+msgstr ""
+
+msgctxt "0012"
+msgid "You don't have any bows to display."
+msgstr ""
+
+msgctxt "0013"
+msgid "You can't pass time while enemies are near."
+msgstr ""
+
+msgctxt "0014"
+msgid "Not a good time!"
+msgstr ""
+
+msgctxt "0015"
+msgid "You can't cook while enemies are near."
+msgstr ""
+
+#. 1: variable (UiInfoString)
+msgctxt "0025"
+msgid "Equipped the <1.va>."
+msgstr ""
+
+msgctxt "0027"
+msgid "You don't have enough rupees."
+msgstr ""
+
+msgctxt "0028"
+msgid "The Master Sword has returned to the forest."
+msgstr ""
+
+msgctxt "0029"
+msgid "Finding New Objective"
+msgstr ""
+
+msgctxt "0030"
+msgid "Shrine Nearby"
+msgstr ""
+
+msgctxt "0031"
+msgid "You can't do that now."
+msgstr ""
+
+msgctxt "0032"
+msgid "You can't carry any more shields."
+msgstr ""
+
+msgctxt "0033"
+msgid "You can't carry any more of those."
+msgstr ""
+
+msgctxt "0034"
+msgid "You can't carry any more meals."
+msgstr ""
+
+msgctxt "0035"
+msgid "You don't have enough materials."
+msgstr ""
+
+msgctxt "0036"
+msgid "Scope"
+msgstr ""
+
+msgctxt "0037"
+msgid "Place pin"
+msgstr ""
+
+msgctxt "0038"
+msgid "Quit"
+msgstr ""
+
+msgctxt "0039"
+msgid "This amiibo can't be used again today."
+msgstr ""
+
+msgctxt "0040"
+msgid "You can't use that here."
+msgstr ""
+
+msgctxt "0041"
+msgid "You have the maximum number of hearts."
+msgstr ""
+
+msgctxt "0042"
+msgid "You don't have a melee weapon equipped."
+msgstr ""
+
+msgctxt "0043"
+msgid "You don't have a bow equipped."
+msgstr ""
+
+msgctxt "0044"
+msgid "You don't have a shield equipped."
+msgstr ""
+
+msgctxt "0045"
+msgid "You can't carry any more armor."
+msgstr ""
+
+msgctxt "0046"
+msgid "You can't pick up any more of this."
+msgstr ""
+
+msgctxt "0047"
+msgid "You can't buy any more of this."
+msgstr ""
+
+msgctxt "0048"
+msgid "Edit pins"
+msgstr ""
+
+msgctxt "0049"
+msgid "You can't place a pin here."
+msgstr ""
+
+#. 1: variable (UiInfoString)
+msgctxt "0050"
+msgid "You dropped the <1.va>."
+msgstr ""
+
+msgctxt "0051"
+msgid "The Master Sword's power has been restored."
+msgstr ""
+
+msgctxt "0052"
+msgid "You cannot display the Master Sword."
+msgstr ""
+
+#. 1: variable (ActorName_SeakSensor_Slot0)
+msgctxt "0053"
+msgid "<1.va> Nearby"
+msgstr ""
+
+msgctxt "0056"
+msgid "Yunobo couldn't hear you."
+msgstr ""
+
+msgctxt "0057"
+msgid "Yunobo can't reach your location."
+msgstr ""
+
+msgctxt "0058"
+msgid "You can't hold that here."
+msgstr ""
+
+msgctxt "0059"
+msgid "There's not enough room here to take a picture."
+msgstr ""
+
+msgctxt "0060"
+msgid "Wolf Link must have returned to his own world..."
+msgstr ""
+
+msgctxt "0061"
+msgid "In this demo version, you can't advance any farther."
+msgstr ""
+
+msgctxt "0062"
+msgid "The fuel tank is full."
+msgstr ""
+
+msgctxt "0063"
+msgid "Master Cycle Zero is out of fuel..."
+msgstr ""
+
+msgctxt "0064"
+msgid "You can't use that here."
+msgstr ""
+
+msgctxt "GiantBone_Endurance_00"
+msgid "Trial of the"
+msgstr ""
+
+msgctxt "GiantBone_Endurance_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[A-1]FC8EAD42_00"
+msgid "Icefall Foothills"
+msgstr ""
+
+msgctxt "GiantBone_[A-1]FC8EAD42_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[C-5]669E62A5_00"
+msgid "Satori Mountain"
+msgstr ""
+
+msgctxt "GiantBone_[C-5]669E62A5_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[D-2]BED73911_00"
+msgid "Rowan Plain"
+msgstr ""
+
+msgctxt "GiantBone_[D-2]BED73911_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[D-8]A7D6898C_00"
+msgid "Eastern Daval Peak"
+msgstr ""
+
+msgctxt "GiantBone_[D-8]A7D6898C_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[E-4]69993733_CAFA97E6_00"
+msgid "Hyrule Castle Underground"
+msgstr ""
+
+msgctxt "GiantBone_[E-4]69993733_CAFA97E6_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[F-4]4CBE97B9_00"
+msgid "East Hyrule Castle"
+msgstr ""
+
+msgctxt "GiantBone_[F-4]4CBE97B9_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[F-8]B144DDD3_00"
+msgid "Harfin Valley"
+msgstr ""
+
+msgctxt "GiantBone_[F-8]B144DDD3_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[G-7]65429CAF_00"
+msgid "Hickaly Woods"
+msgstr ""
+
+msgctxt "GiantBone_[G-7]65429CAF_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[H-8]DC8D9024_00"
+msgid "North Aris Beach"
+msgstr ""
+
+msgctxt "GiantBone_[H-8]DC8D9024_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "GiantBone_[J-2]962D3E0D_00"
+msgid "East Akkala Plains"
+msgstr ""
+
+msgctxt "GiantBone_[J-2]962D3E0D_01"
+msgid "Stalnox"
+msgstr ""
+
+msgctxt "Giant_Endurance_00"
+msgid "Trial of the"
+msgstr ""
+
+msgctxt "Giant_Endurance_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[A-2]77CB9A7E_00"
+msgid "Hebra West Summit"
+msgstr ""
+
+msgctxt "Giant_[A-2]77CB9A7E_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[B-3]AA1A9FB8_00"
+msgid "Lake Totori South"
+msgstr ""
+
+msgctxt "Giant_[B-3]AA1A9FB8_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[C-4]D83D636F_00"
+msgid "Seres Scablands"
+msgstr ""
+
+msgctxt "Giant_[C-4]D83D636F_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[D-4]935DF7F5_00"
+msgid "West Hyrule Plains"
+msgstr ""
+
+msgctxt "Giant_[D-4]935DF7F5_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[D-5]32BBD5B2_00"
+msgid "Giant's Forest"
+msgstr ""
+
+msgctxt "Giant_[D-5]32BBD5B2_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[D-6]74360820_00"
+msgid "Digdogg Suspension Bridge"
+msgstr ""
+
+msgctxt "Giant_[D-6]74360820_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[E-2]D8CB2BB1_00"
+msgid "Aldor Foothills"
+msgstr ""
+
+msgctxt "Giant_[E-2]D8CB2BB1_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[E-3]F338510E_00"
+msgid "North Hyrule Castle"
+msgstr ""
+
+msgctxt "Giant_[E-3]F338510E_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[F-1]1D113602_00"
+msgid "Thyphlo Ruins"
+msgstr ""
+
+msgctxt "Giant_[F-1]1D113602_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[F-4]4B79EE4C_00"
+msgid "Applean Forest"
+msgstr ""
+
+msgctxt "Giant_[F-4]4B79EE4C_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[F-5]DF2B9A50_00"
+msgid "East Ranch Ruins"
+msgstr ""
+
+msgctxt "Giant_[F-5]DF2B9A50_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[G-5]5F8470E2_00"
+msgid "Kincean Island"
+msgstr ""
+
+msgctxt "Giant_[G-5]5F8470E2_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[G-7]71771F89_00"
+msgid "Tobio's Hollow"
+msgstr ""
+
+msgctxt "Giant_[G-7]71771F89_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[G-8]C30ECEC8_00"
+msgid "Herin Lake"
+msgstr ""
+
+msgctxt "Giant_[G-8]C30ECEC8_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[G-8]F45E39F4_00"
+msgid "Kamah Plateau"
+msgstr ""
+
+msgctxt "Giant_[G-8]F45E39F4_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[H-1]CB464CAD_00"
+msgid "East Gut Check Rock"
+msgstr ""
+
+msgctxt "Giant_[H-1]CB464CAD_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[H-4]7C2A231D_00"
+msgid "Ralis Pond"
+msgstr ""
+
+msgctxt "Giant_[H-4]7C2A231D_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[H-4]DF02B9D2_00"
+msgid "Tabahl Woods"
+msgstr ""
+
+msgctxt "Giant_[H-4]DF02B9D2_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[H-5]D4EBD996_00"
+msgid "Trotter's Downfall"
+msgstr ""
+
+msgctxt "Giant_[H-5]D4EBD996_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[H-6]6D4936B2_00"
+msgid "Phalian Highlands"
+msgstr ""
+
+msgctxt "Giant_[H-6]6D4936B2_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[H-7]37CF400F_00"
+msgid "Mount Taran"
+msgstr ""
+
+msgctxt "Giant_[H-7]37CF400F_01"
+msgid "Hinox (Middle Kin)"
+msgstr ""
+
+msgctxt "Giant_[H-7]C6F41AEA_00"
+msgid "Mount Taran"
+msgstr ""
+
+msgctxt "Giant_[H-7]C6F41AEA_01"
+msgid "Hinox (Youngest Kin)"
+msgstr ""
+
+msgctxt "Giant_[H-7]E1A44550_00"
+msgid "Mount Taran"
+msgstr ""
+
+msgctxt "Giant_[H-7]E1A44550_01"
+msgid "Hinox (Oldest Kin)"
+msgstr ""
+
+msgctxt "Giant_[I-1]3D4A11F8_00"
+msgid "Tempest Gulch"
+msgstr ""
+
+msgctxt "Giant_[I-1]3D4A11F8_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[I-3]52897F12_00"
+msgid "South Akkala Plains"
+msgstr ""
+
+msgctxt "Giant_[I-3]52897F12_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[I-5]E465A74D_00"
+msgid "Ja'Abu Ridge"
+msgstr ""
+
+msgctxt "Giant_[I-5]E465A74D_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[I-6]C7AD24C5_00"
+msgid "Purifier Lake"
+msgstr ""
+
+msgctxt "Giant_[I-6]C7AD24C5_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[I-7]1640D6A7_00"
+msgid "West Loshlo Harbor"
+msgstr ""
+
+msgctxt "Giant_[I-7]1640D6A7_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[J-5]DCE95AC8_00"
+msgid "Talus Plateau"
+msgstr ""
+
+msgctxt "Giant_[J-5]DCE95AC8_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "Giant_[J-8]72C75295_00"
+msgid "Eventide Island"
+msgstr ""
+
+msgctxt "Giant_[J-8]72C75295_01"
+msgid "Hinox"
+msgstr ""
+
+msgctxt "GolemFire_Endurance_00"
+msgid "Trial of the"
+msgstr ""
+
+msgctxt "GolemFire_Endurance_01"
+msgid "Igneo Talus"
+msgstr ""
+
+msgctxt "GolemFire_R_00"
+msgid "Divine Beast Tamer's Trial"
+msgstr ""
+
+msgctxt "GolemFire_R_01"
+msgid "Igneo Talus Titan"
+msgstr ""
+
+msgctxt "GolemIce_Endurance_00"
+msgid "Trial of the"
+msgstr ""
+
+msgctxt "GolemIce_Endurance_01"
+msgid "Frost Talus"
+msgstr ""
+
+msgctxt "Golem_Endurance_00"
+msgid "Trial of the"
+msgstr ""
+
+msgctxt "Golem_Endurance_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[A-6]E87B1CA3_00"
+msgid "Rutimala Hill"
+msgstr ""
+
+msgctxt "Golem_[A-6]E87B1CA3_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[B-2]0B518664_00"
+msgid "West Rospro Pass"
+msgstr ""
+
+msgctxt "Golem_[B-2]0B518664_01"
+msgid "Frost Talus"
+msgstr ""
+
+msgctxt "Golem_[B-2]646AA878_00"
+msgid "Coldsnap Hollow"
+msgstr ""
+
+msgctxt "Golem_[B-2]646AA878_01"
+msgid "Frost Talus"
+msgstr ""
+
+msgctxt "Golem_[B-3]1BACE734_00"
+msgid "Gisa Crater"
+msgstr ""
+
+msgctxt "Golem_[B-3]1BACE734_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[B-3]96DAF8CA_00"
+msgid "Kolami Bridge South"
+msgstr ""
+
+msgctxt "Golem_[B-3]96DAF8CA_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[B-5]A4B34A2A_00"
+msgid "Illumeni Plateau"
+msgstr ""
+
+msgctxt "Golem_[B-5]A4B34A2A_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[B-6]925DE039_00"
+msgid "West Vatorsa Snowfield"
+msgstr ""
+
+msgctxt "Golem_[B-6]925DE039_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[B-6]EEE07F28_00"
+msgid "West Sapphia's Table"
+msgstr ""
+
+msgctxt "Golem_[B-6]EEE07F28_01"
+msgid "Frost Talus"
+msgstr ""
+
+msgctxt "Golem_[C-1]F3A5F88A_00"
+msgid "Pikida Stonegrove"
+msgstr ""
+
+msgctxt "Golem_[C-1]F3A5F88A_01"
+msgid "Frost Talus"
+msgstr ""
+
+msgctxt "Golem_[C-3]132FEC6F_00"
+msgid "Tabantha Hills"
+msgstr ""
+
+msgctxt "Golem_[C-3]132FEC6F_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[C-3]D6EB66AD_00"
+msgid "Upland Lindor"
+msgstr ""
+
+msgctxt "Golem_[C-3]D6EB66AD_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[C-6]26A1198A_00"
+msgid "Laparoh Mesa"
+msgstr ""
+
+msgctxt "Golem_[C-6]26A1198A_01"
+msgid "Frost Talus"
+msgstr ""
+
+msgctxt "Golem_[C-6]A88D44BF_00"
+msgid "South Koukot Plateau"
+msgstr ""
+
+msgctxt "Golem_[C-6]A88D44BF_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[C-7]162EE739_00"
+msgid "South Taafei Hill"
+msgstr ""
+
+msgctxt "Golem_[C-7]162EE739_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[C-8]3A1F23A4_00"
+msgid "Champion's Gate North"
+msgstr ""
+
+msgctxt "Golem_[C-8]3A1F23A4_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[D-6]D72F6746_00"
+msgid "Great Plateau"
+msgstr ""
+
+msgctxt "Golem_[D-6]D72F6746_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[D-7]C32368A8_00"
+msgid "Mount Nabooru"
+msgstr ""
+
+msgctxt "Golem_[D-7]C32368A8_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[D-8]1D4D9298_00"
+msgid "East Mount Granajh"
+msgstr ""
+
+msgctxt "Golem_[D-8]1D4D9298_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[E-4]87C5D46C_CAFA97E6_00"
+msgid "Hyrule Castle Underground"
+msgstr ""
+
+msgctxt "Golem_[E-4]87C5D46C_CAFA97E6_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[E-4]E6A728ED_00"
+msgid "Hyrule Castle West"
+msgstr ""
+
+msgctxt "Golem_[E-4]E6A728ED_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[E-6]8D20D02D_00"
+msgid "Lake Hylia North"
+msgstr ""
+
+msgctxt "Golem_[E-6]8D20D02D_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[E-6]E33CD1FA_00"
+msgid "Lake Kolomo"
+msgstr ""
+
+msgctxt "Golem_[E-6]E33CD1FA_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[F-3]32DB1102_00"
+msgid "Crenel Hills"
+msgstr ""
+
+msgctxt "Golem_[F-3]32DB1102_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[F-6]1CB621C9_00"
+msgid "Deya Lake"
+msgstr ""
+
+msgctxt "Golem_[F-6]1CB621C9_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[F-6]FC63C8D7_00"
+msgid "West Nabi Lake"
+msgstr ""
+
+msgctxt "Golem_[F-6]FC63C8D7_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[G-1]7C0089B5_00"
+msgid "Darunia Lake"
+msgstr ""
+
+msgctxt "Golem_[G-1]7C0089B5_01"
+msgid "Igneo Talus"
+msgstr ""
+
+msgctxt "Golem_[G-3]7DEA06F5_00"
+msgid "Goronbi Lake North"
+msgstr ""
+
+msgctxt "Golem_[G-3]7DEA06F5_01"
+msgid "Igneo Talus"
+msgstr ""
+
+msgctxt "Golem_[G-6]5679D6F9_00"
+msgid "North Dueling Peaks"
+msgstr ""
+
+msgctxt "Golem_[G-6]5679D6F9_01"
+msgid "Stone Talus (Senior)"
+msgstr ""
+
+msgctxt "Golem_[G-6]77C3F9C4_00"
+msgid "North Mable Ridge"
+msgstr ""
+
+msgctxt "Golem_[G-6]77C3F9C4_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[G-6]E6DCAAB1_00"
+msgid "Dueling Peaks South"
+msgstr ""
+
+msgctxt "Golem_[G-6]E6DCAAB1_01"
+msgid "Stone Talus (Junior)"
+msgstr ""
+
+msgctxt "Golem_[G-8]E39027D1_00"
+msgid "Martha's Landing"
+msgstr ""
+
+msgctxt "Golem_[G-8]E39027D1_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[G-8]F43666AA_00"
+msgid "Lake Floria"
+msgstr ""
+
+msgctxt "Golem_[G-8]F43666AA_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[H-1]F6F2E033_00"
+msgid "Lake Darman"
+msgstr ""
+
+msgctxt "Golem_[H-1]F6F2E033_01"
+msgid "Igneo Talus"
+msgstr ""
+
+msgctxt "Golem_[H-2]BD926025_00"
+msgid "Gorko Lake"
+msgstr ""
+
+msgctxt "Golem_[H-2]BD926025_01"
+msgid "Igneo Talus"
+msgstr ""
+
+msgctxt "Golem_[H-3]51CC8032_00"
+msgid "Darb Pond"
+msgstr ""
+
+msgctxt "Golem_[H-3]51CC8032_01"
+msgid "Igneo Talus"
+msgstr ""
+
+msgctxt "Golem_[H-6]DBDA3E11_00"
+msgid "Cliffs of Quince"
+msgstr ""
+
+msgctxt "Golem_[H-6]DBDA3E11_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[I-4]3F6AA056_00"
+msgid "Southern Tal Tal Peak"
+msgstr ""
+
+msgctxt "Golem_[I-4]3F6AA056_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[I-6]085196DD_00"
+msgid "Ovli Plain"
+msgstr ""
+
+msgctxt "Golem_[I-6]085196DD_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[I-8]DCFED0B2_00"
+msgid "Gama Cove"
+msgstr ""
+
+msgctxt "Golem_[I-8]DCFED0B2_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Golem_[J-7]D264C25F_00"
+msgid "Mapla Point"
+msgstr ""
+
+msgctxt "Golem_[J-7]D264C25F_01"
+msgid "Stone Talus"
+msgstr ""
+
+msgctxt "Pa_AssassinBoss_00"
+msgid "Leader of the Yiga Clan"
+msgstr ""
+
+msgctxt "Pa_AssassinBoss_01"
+msgid "Master Kohga"
+msgstr ""
+
+msgctxt "Pa_BossGaugeSandworm_A_7_0_00"
+msgid "Toruma Dunes"
+msgstr ""
+
+msgctxt "Pa_BossGaugeSandworm_A_7_0_01"
+msgid "Molduga"
+msgstr ""
+
+msgctxt "Pa_BossGaugeSandworm_A_8_0_00"
+msgid "Arbiter's Grounds"
+msgstr ""
+
+msgctxt "Pa_BossGaugeSandworm_A_8_0_01"
+msgid "Molduga"
+msgstr ""
+
+msgctxt "Pa_BossGaugeSandworm_A_8_1_00"
+msgid "North Dragon's Exile"
+msgstr ""
+
+msgctxt "Pa_BossGaugeSandworm_A_8_1_01"
+msgid "Molduga"
+msgstr ""
+
+msgctxt "Pa_BossGaugeSandworm_B_8_0_00"
+msgid "Southern Oasis"
+msgstr ""
+
+msgctxt "Pa_BossGaugeSandworm_B_8_0_01"
+msgid "Molduga"
+msgstr ""
+
+msgctxt "Pa_BossGauge_00-T_KO_00"
+msgid "Defeated"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonElectric_00"
+msgid "Scourge of Divine Beast Vah Naboris"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonElectric_00_R"
+msgid "Illusory Realm"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonElectric_01"
+msgid "Thunderblight Ganon"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonFire_00"
+msgid "Scourge of Divine Beast Vah Rudania"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonFire_00_R"
+msgid "Illusory Realm"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonFire_01"
+msgid "Fireblight Ganon"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonWater_00"
+msgid "Scourge of Divine Beast Vah Ruta"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonWater_00_R"
+msgid "Illusory Realm"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonWater_01"
+msgid "Waterblight Ganon"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonWind_00"
+msgid "Scourge of Divine Beast Vah Medoh"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonWind_00_R"
+msgid "Illusory Realm"
+msgstr ""
+
+msgctxt "Pa_BossGauge_FantomGanonWind_01"
+msgid "Windblight Ganon"
+msgstr ""
+
+msgctxt "Pa_BossGauge_GanonBeast_00"
+msgid "Hatred and Malice Incarnate"
+msgstr ""
+
+msgctxt "Pa_BossGauge_GanonBeast_01"
+msgid "Dark Beast Ganon"
+msgstr ""
+
+msgctxt "Pa_BossGauge_Ganon_00"
+msgid "Scourge of Hyrule Castle"
+msgstr ""
+
+msgctxt "Pa_BossGauge_Ganon_01"
+msgid "Calamity Ganon"
+msgstr ""
+
+msgctxt "Pa_CameraPointer_00-Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_00"
+msgid ""
+"a\n"
+"\n"
+"b\n"
+"\n"
+"c de\n"
+"\n"
+"f\n"
+"\n"
+"ghi j klmn\n"
+"\n"
+"opq rstuvw xy\n"
+"\n"
+"z\n"
+"\n"
+"ab cd efg\n"
+"\n"
+" hi jklmn\n"
+"\n"
+"opq\n"
+"\n"
+"rstu vw\n"
+"\n"
+"xy\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"zab\n"
+"\n"
+msgstr ""
+
+msgctxt "Pa_CameraPointer_00-Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_01"
+msgid ""
+"\n"
+"z\n"
+"\n"
+"yxw vu\n"
+"\n"
+" \n"
+"\n"
+" \n"
+"\n"
+"t sr\n"
+"\n"
+" q pon\n"
+"\n"
+"ml k\n"
+"\n"
+"jih gfedcb azyx\n"
+"\n"
+"w\n"
+"\n"
+"vu ts\n"
+"\n"
+"r\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"q\n"
+"\n"
+"po n\n"
+msgstr ""
+
+msgctxt "Pa_CameraPointer_00-Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_00"
+msgid ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"ab cdefg\n"
+"\n"
+"\n"
+"\n"
+"hijk lmnopqr\n"
+"\n"
+"stuv wxyz\n"
+"\n"
+"abc\n"
+"\n"
+"de\n"
+"\n"
+"fgh\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"ijk lm nopq\n"
+"\n"
+"\n"
+"\n"
+msgstr ""
+
+msgctxt "Pa_CameraPointer_00-Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_01"
+msgid ""
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"zyxw vuts\n"
+"\n"
+"rqpon mlk jihgfe\n"
+"\n"
+"dcbaz\n"
+"\n"
+"yxwv utsr\n"
+"\n"
+"q\n"
+"\n"
+"po\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"nm lkji\n"
+"\n"
+msgstr ""
+
+msgctxt "Pa_CameraPointer_00-Pa_ScanningLine_00-T_DecoD_00"
+msgid "SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH"
+msgstr ""
+
+msgctxt "Pa_CameraPointer_00-Pa_ScanningLine_00-T_DecoU_00"
+msgid "TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE"
+msgstr ""
+
+msgctxt "Pa_PriestBoss_00"
+msgid "The Divine Trial"
+msgstr ""
+
+msgctxt "Pa_PriestBoss_01"
+msgid "Monk Maz Koshia"
+msgstr ""
+
+msgctxt "Pa_QuestName_00-T_Complete_00"
+msgid "Complete"
+msgstr ""
+
+msgctxt "Pa_QuestName_00-T_MapPoint_00"
+msgid "New Objective"
+msgstr ""
+
+msgctxt "Sandworm_R_00"
+msgid "Divine Beast Tamer's Trial"
+msgstr ""
+
+msgctxt "Sandworm_R_01"
+msgid "Molduking"
+msgstr ""
+

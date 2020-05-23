@@ -1,0 +1,52 @@
+msgctxt "0000"
+msgid "Read."
+msgstr ""
+
+msgctxt "0001"
+msgid "Don't read."
+msgstr ""
+
+#. 1: raw
+#. 2: text_size
+#. 3: text_size
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "Book00"
+msgid ""
+"<1.ra>I've loved rumors since before I was\n"
+"born. In fact, I was the first to report\n"
+"on my rumored birthday! Traysi here!\n"
+"This time I've got a juicy bite of gossip\n"
+"I've been dying to share!\n"
+"\n"
+"<2.te_si>Ancient horse gear is real,\n"
+"and it's FABULOUS!<3.te_si>\n"
+"\n"
+"Apparently, there's some incredible\n"
+"horse gear from Hyrule's distant past.\n"
+"I'm talking the long, long ago, folks!\n"
+"A bridle that increases your horse's skill\n"
+"and a saddle that can instantly summon\n"
+"your horse to your side.\n"
+"The bridle is south of <4.se_co>Hyrule Ridge<5.re_co>,\n"
+"<6.se_co>beneath a cherry blossom tree at a\n"
+"mountain where creatures gather<7.re_co>.\n"
+"The saddle is <8.se_co>at a mysterious spring\n"
+"where a horse spirit resides<9.re_co>.\n"
+"\n"
+"At least, that's what the rumors say.\n"
+"Sounds like the ancients liked to\n"
+"horse around. I NEED that gear!\n"
+"Traysi's Recommendation: ★★★★★"
+msgstr ""
+
+#. 1: raw
+#. 2: choice
+msgctxt "BookFirst"
+msgid "<1.ra>Super Rumor Mill EX: Volume 3<2.ch>"
+msgstr ""
+

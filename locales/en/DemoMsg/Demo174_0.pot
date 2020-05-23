@@ -1,0 +1,10 @@
+msgctxt "Demo174_0_Text000"
+msgid "Yeah...?"
+msgstr ""
+
+msgctxt "Demo174_0_Text001"
+msgid ""
+"I don't know you. And I'm actually pretty busy here.\n"
+"You should probably go."
+msgstr ""
+

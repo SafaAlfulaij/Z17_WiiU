@@ -1,0 +1,389 @@
+msgctxt "0000"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0004"
+msgid "Where did Teba go?"
+msgstr ""
+
+msgctxt "0005"
+msgid "About Teba."
+msgstr ""
+
+msgctxt "0006"
+msgid "About Revali."
+msgstr ""
+
+msgctxt "0007"
+msgid "Where did he go?"
+msgstr ""
+
+msgctxt "near00"
+msgid "..."
+msgstr ""
+
+msgctxt "near01"
+msgid "The traveler..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk00"
+msgid "<1.so>...Can I help you?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk01"
+msgid "<1.so>Never mind.<2.pa> Forget it."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Good-bye."
+msgstr ""
+
+#. 1: sound2
+#. 2: sound
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk03"
+msgid ""
+"<1.so><2.so>Forgive my intrusion,<3.pa> but I overheard\n"
+"you speaking with the <4.se_co>elder<5.re_co>.\n"
+"\n"
+"It sounds like you intend to help my\n"
+"husband, Teba, in the fight against\n"
+"<6.se_co>Medoh<7.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk04"
+msgid ""
+"<1.so>Is there something else you wanted\n"
+"to ask?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Please. Now is not a good time."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (longer)
+msgctxt "talk06"
+msgid ""
+"<1.so>Teba told me everything...<2.pa>\n"
+"About the <3.se_co>Flight Range<4.re_co>...\n"
+"The fight with <5.se_co>Medoh<6.re_co>...\n"
+"<7.so>And that <8.se_co>Medoh<9.re_co> being perched above\n"
+"the village means that everything\n"
+"is back to normal.\n"
+"To have my husband home safe and\n"
+"sound...<10.pa> I cannot begin to express my\n"
+"gratitude."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>If the <2.se_co>elder<3.re_co> trusts you,<4.pa> I will tell you\n"
+"what I can.<5.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk09"
+msgid ""
+"<1.se_co><2.so><3.re_co>Traveler...<4.pa> Please help my husband,\n"
+"Teba...and our village."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (longer)
+msgctxt "talk10"
+msgid ""
+"<1.so>My husband is very...<2.pa>impulsive.<3.pa>\n"
+"Once he gets an idea in his head,\n"
+"there's no reasoning with him.\n"
+"We tried to stop him from going off to\n"
+"fight <4.se_co>Medoh<5.re_co> on his own, but he refused\n"
+"to listen.\n"
+"Though I cannot feign surprise.<6.pa> I did\n"
+"marry a Rito warrior, after all."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (long)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (long)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: sound
+msgctxt "talk11"
+msgid ""
+"<1.so>Revali is the legendary Rito warrior.<2.pa>\n"
+"All the warriors here idolize him.\n"
+"\n"
+"My husband is no exception—<3.pa>he is\n"
+"always talking about turning our son,<4.pa>\n"
+"Tulin,<5.pa> into a warrior just like Revali.\n"
+"When they go and \"play\" together,<6.pa> he is\n"
+"really training him at the <7.se_co>Flight Range<8.re_co>.\n"
+"\n"
+"<9.so>I have never wanted my sweet Tulin to \n"
+"become a warrior, myself..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid "<1.so>Sorry, I am on my way to bed."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk16"
+msgid "<1.so>Hello, <2.se_co>Champion<3.re_co> descendant."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk17"
+msgid "<1.so>Good evening, <2.se_co>Champion <3.re_co>descendant."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: pause (short)
+#. 4: reset_colour
+msgctxt "talk19"
+msgid "<1.so>Please...<2.se_co><3.pa><4.re_co>help my husband, Teba."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk20"
+msgid ""
+"<1.so>You met my husband?<2.pa>\n"
+"Ahhh... That is a relief."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk21"
+msgid ""
+"<1.so>I'm happy just to hear that my husband\n"
+"is still alive. It isn't much, but please\n"
+"take these as thanks."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk22"
+msgid ""
+"<1.so>My husband left them for me to use, but\n"
+"I do not want those in the house where\n"
+"Tulin might play with them."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk23"
+msgid "<1.so>Well..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk25"
+msgid ""
+"<1.so>If you take off from <2.se_co>Revali's Landing<3.re_co>, it's\n"
+"a straight shot down to the <4.se_co>Flight Range<5.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk26"
+msgid ""
+"<1.so>But to tell the truth, there is not much I\n"
+"can do for you right now beyond telling\n"
+"you where my husband went.<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk29"
+msgid "<1.so>Hello."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+msgctxt "talk30"
+msgid "<1.so><2.te_si>Ahhhhh...<3.pa> Hmm...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "talk31"
+msgid "<1.so><2.te_si>Zzz... Zzz...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (longer)
+#. 7: sound
+msgctxt "talk35"
+msgid ""
+"<1.so><2.te_si>Descendant!<3.te_si>\n"
+"\n"
+"\n"
+"Descendant!<4.pa> Are you all right?\n"
+"\n"
+"\n"
+"<5.so>My apologies...<6.pa>\n"
+"I fear I have said far too much...\n"
+"\n"
+"<7.so>If there is anything you do not\n"
+"understand, please do not hesitate to\n"
+"ask."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk36"
+msgid ""
+"<1.so>Revali's Landing is a memorial\n"
+"for the Rito Champion, Revali...\n"
+"\n"
+"So named in the hope that none might\n"
+"forget the events of that horrible day..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk37"
+msgid ""
+"<1.so>I am on my way to bed.<2.pa>\n"
+"We can talk later..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (short)
+msgctxt "talk38"
+msgid ""
+"<1.so>If you need my husband, he took Tulin<2.pa>\n"
+"to the <3.se_co>Flight Range<4.re_co>.\n"
+"\n"
+"<5.so>Now that we are at peace again,<6.pa> I would\n"
+"rather they stopped doing such\n"
+"dangerous training, but Teba insists."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk39"
+msgid ""
+"<1.so>My husband took Tulin to the\n"
+"<2.se_co>Flight Range<3.re_co> again..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk40"
+msgid ""
+"<1.so>My husband headed to a place called\n"
+"the <2.se_co>Flight Range<3.re_co>.\n"
+"\n"
+"<4.so>It's in <5.se_co>Dronoc's Pass <6.re_co>at the base of \n"
+"the <7.se_co>Hebra Mountains<8.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk41"
+msgid ""
+"<1.so>It's a place where Rito warriors\n"
+"prepare for aerial combat..."
+msgstr ""
+
+#. 1: sound2
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "talk42"
+msgid ""
+"<1.so><2.so>I imagine he's gone there to gather\n"
+"weapons for another run at <3.se_co>Medoh<4.re_co>.\n"
+"\n"
+"<5.so>As it happens, he made his way to the\n"
+"<6.se_co>Flight Range <7.re_co>on foot this time."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk43"
+msgid ""
+"<1.so>He keeps saying it's to help Tulin come\n"
+"of age as a warrior or something.<2.pa>\n"
+"But Tulin's still a fledgling..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk44"
+msgid ""
+"<1.so>I just...<2.pa>do not want Tulin to lose his\n"
+"innocence too early. He is such a sweet\n"
+"boy."
+msgstr ""
+

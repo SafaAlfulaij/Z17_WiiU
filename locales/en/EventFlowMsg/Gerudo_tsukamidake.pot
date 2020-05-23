@@ -1,0 +1,404 @@
+msgctxt "0000"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "0004"
+msgid "I brought 'em."
+msgstr ""
+
+msgctxt "0005"
+msgid "Where are they?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Not yet."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near01"
+msgid "<1.so>Not enough..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: single_choice
+msgctxt "Talk_001"
+msgid ""
+"<1.so>Buddy...\n"
+"\n"
+"\n"
+"Got any <2.se_co>rushrooms<3.re_co>?<4.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: sound
+#. 6: pause (longer)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: sound
+#. 12: set_colour (red)
+#. 13: reset_colour
+#. 14: set_colour (blue)
+#. 15: reset_colour
+msgctxt "Talk_002"
+msgid ""
+"<1.so>See, I... I'm tired.\n"
+"\n"
+"\n"
+"Tired of going normal speed, I mean...\n"
+"\n"
+"\n"
+"I first tried <2.se_co>rushrooms <3.re_co>when I was five\n"
+"years old...\n"
+"\n"
+"And come to think of it, I ate them every\n"
+"day since without fail...\n"
+"\n"
+"<4.so>Back in the day, I'd win every race I ran\n"
+"thanks to those things...\n"
+"\n"
+"<5.so>Cut to 55 years later...<6.pa>\n"
+"\n"
+"\n"
+"Now I can barely drag these bones off\n"
+"the ground without those <7.se_co>rushrooms<8.re_co>.\n"
+"\n"
+"But no matter how many I eat to fortify\n"
+"myself...\n"
+"\n"
+"I'm just too old to get up the cliffs to\n"
+"pick <9.se_co>rushrooms<10.re_co> where they grow...\n"
+"\n"
+"<11.so>That's why I'm letting all able-bodied\n"
+"sorts know that I'm in the market for 'em.\n"
+"\n"
+"I'll give a <12.se_co>diamond<13.re_co> for <14.se_co>55 "
+"rushrooms<15.re_co>. \n"
+"That's worth the effort, right?\n"
+"\n"
+"If you want to do business, just come\n"
+"talk to me. I'm always here."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+#. 4: pause (longer)
+#. 5: pause (longer)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: single_choice
+msgctxt "Talk_011"
+msgid ""
+"<1.so>Lady...<2.pa>\n"
+"\n"
+"\n"
+"Oh, uhh... <3.pa>I mean, buddy... \n"
+"Threw me off with that outfit...<4.pa>\n"
+"\n"
+"Anyway...<5.pa> Got any <6.se_co>rushrooms<7.re_co>?<8.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_050"
+msgid ""
+"<1.so>I thought you'd come back...\n"
+"\n"
+"\n"
+"You bring the stuff?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: text_size
+#. 8: sound
+#. 9: pause (longer)
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: sound
+#. 13: sound
+#. 14: set_colour (blue)
+#. 15: reset_colour
+msgctxt "Talk_051"
+msgid ""
+"<1.so><2.te_si>5... <3.pa>15... <4.pa>25... <5.pa>35...<6.pa> "
+"55...<7.te_si>\n"
+"\n"
+"\n"
+"<8.so>Heh, yep, they're all here...<9.pa>\n"
+"\n"
+"\n"
+"I left that rock I promised you <10.se_co>behind the\n"
+"stable<11.re_co>.\n"
+"\n"
+"<12.so>Beats me why anyone would go to such\n"
+"trouble for a little ol' rock...\n"
+"\n"
+"<13.so>I'd rather have <14.se_co>rushrooms<15.re_co> any day."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Talk_052"
+msgid ""
+"<1.so>Heh. Come back when you get more.\n"
+"I'm always here.\n"
+"\n"
+"<2.so>I can't give you any more diamonds,\n"
+"but I CAN offer twice the market value\n"
+"for 'em.\n"
+"<3.so>Just remember that I won't deal in any\n"
+"volume other than <4.se_co>55<5.re_co> at a time."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+msgctxt "Talk_053"
+msgid ""
+"<1.so>...Buddy.<2.pa> You know the deal was for <3.se_co>55<4.re_co>...\n"
+"\n"
+"\n"
+"I have no use for a random number of\n"
+"<5.se_co>rushrooms<6.re_co>. Just can't do it.\n"
+"\n"
+"<7.so>If you want to make a deal with me,\n"
+"bring me <8.se_co>55<9.re_co> <10.se_co>rushrooms<11.re_co>."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: pause (short)
+#. 7: pause (longer)
+#. 8: sound
+#. 9: pause (short)
+#. 10: pause (longer)
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: set_colour (blue)
+#. 14: reset_colour
+#. 15: sound
+#. 16: set_colour (blue)
+#. 17: reset_colour
+#. 18: set_colour (blue)
+#. 19: reset_colour
+msgctxt "Talk_054"
+msgid ""
+"<1.te_si><2.so><3.te_si>5... <4.pa>15...<5.pa> Uh...<6.pa> Huh.<7.pa>\n"
+"\n"
+"\n"
+"<8.so>...Hey. <9.pa>Buddy.<10.pa> The deal was for "
+"<11.se_co>55<12.re_co>.\n"
+"\n"
+"\n"
+"What am I supposed to do with some\n"
+"random number of <13.se_co>rushrooms<14.re_co>?\n"
+"\n"
+"<15.so>If you want to make a deal with me,\n"
+"bring me <16.se_co>55<17.re_co> <18.se_co>rushrooms<19.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Talk_055"
+msgid ""
+"<1.so>You want to know where to pick\n"
+"<2.se_co>rushrooms<3.re_co>?\n"
+"\n"
+"They grow all over the place.\n"
+"\n"
+"\n"
+"<4.se_co>Rushrooms <5.re_co>tend to grow on cliffs, \n"
+"so they'll be everywhere around here.\n"
+"No shortage of cliffs.\n"
+"If I was five years younger, I'd be picking\n"
+"them myself..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (longer)
+#. 7: pause (short)
+#. 8: pause (longer)
+#. 9: text_size
+#. 10: sound
+#. 11: text_size
+#. 12: pause (short)
+#. 13: pause (longer)
+#. 14: set_colour (blue)
+#. 15: reset_colour
+#. 16: set_colour (blue)
+#. 17: reset_colour
+#. 18: sound
+#. 19: set_colour (blue)
+#. 20: reset_colour
+#. 21: set_colour (blue)
+#. 22: reset_colour
+msgctxt "Talk_056"
+msgid ""
+"<1.te_si><2.so><3.te_si>5... <4.pa>15... <5.pa>25...<6.pa> Uh...<7.pa> "
+"Huh.<8.pa>\n"
+"\n"
+"\n"
+"<9.te_si><10.so><11.te_si>...Hey. <12.pa>Buddy.<13.pa> The deal was for "
+"<14.se_co>55<15.re_co>.\n"
+"\n"
+"\n"
+"What am I supposed to do with some\n"
+"random number of <16.se_co>rushrooms<17.re_co>?\n"
+"\n"
+"<18.so>If you want to make a deal with me,\n"
+"bring me <19.se_co>55<20.re_co> <21.se_co>rushrooms<22.re_co>."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (longer)
+#. 7: pause (short)
+#. 8: pause (longer)
+#. 9: text_size
+#. 10: sound
+#. 11: text_size
+#. 12: pause (short)
+#. 13: pause (longer)
+#. 14: set_colour (blue)
+#. 15: reset_colour
+#. 16: set_colour (blue)
+#. 17: reset_colour
+#. 18: sound
+#. 19: set_colour (blue)
+#. 20: reset_colour
+#. 21: set_colour (blue)
+#. 22: reset_colour
+msgctxt "Talk_057"
+msgid ""
+"<1.te_si><2.so><3.te_si>5... <4.pa>15... <5.pa>25... 35...<6.pa> "
+"Uh...<7.pa> Huh.<8.pa>\n"
+"\n"
+"\n"
+"<9.te_si><10.so><11.te_si>...Hey. <12.pa>Buddy.<13.pa> The deal was for "
+"<14.se_co>55<15.re_co>.\n"
+"\n"
+"\n"
+"What am I supposed to do with some\n"
+"random number of <16.se_co>rushrooms<17.re_co>?\n"
+"\n"
+"<18.so>If you want to make a deal with me,\n"
+"bring me <19.se_co>55<20.re_co> <21.se_co>rushrooms<22.re_co>."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: text_size
+#. 8: sound
+#. 9: pause (longer)
+msgctxt "Talk_059"
+msgid ""
+"<1.te_si><2.so>5... <3.pa>15... <4.pa>25... <5.pa>35...<6.pa> "
+"55...<7.te_si>\n"
+"\n"
+"\n"
+"<8.so>Yesss. That's what I like to see!<9.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_060"
+msgid "<1.so>Heyyy...<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (longer)
+msgctxt "Talk_061"
+msgid ""
+"<1.so>The deal's for <2.se_co>55<3.re_co>...<4.pa> It might be a pain to\n"
+"get 'em all, but I hear <5.se_co>diamonds <6.re_co>have a\n"
+"pretty high value throughout Hyrule.\n"
+"Not a bad deal, eh?<7.pa> And I'm always\n"
+"waiting right here when you're ready\n"
+"to do business."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: raw
+#. 4: text_size
+#. 5: sound
+#. 6: text_size
+#. 7: pause (short)
+#. 8: pause (longer)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: sound
+#. 12: set_colour (blue)
+#. 13: reset_colour
+msgctxt "Talk_062"
+msgid ""
+"<1.so>...Zero.<2.pa><3.ra><4.te_si><5.so><6.te_si>...Hey.<7.pa> "
+"Buddy.<8.pa> The deal was for <9.se_co>55<10.re_co>...\n"
+"\n"
+"\n"
+"I have no use for jokes. They're a waste\n"
+"of both breath and time.\n"
+"\n"
+"<11.so>If you want to make a deal with me,\n"
+"bring me <12.se_co>55 rushrooms<13.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_063"
+msgid ""
+"<1.so>I'll happily take another batch anytime\n"
+"you've got one. I'll always be right here."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound2
+#. 3: text_size
+msgctxt "Talk_1000"
+msgid "<1.te_si><2.so>Rush... Rush...<3.te_si>"
+msgstr ""
+

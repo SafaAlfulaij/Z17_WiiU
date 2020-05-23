@@ -1,0 +1,52 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "QL_HigakkareMini_RedDragon_Desc"
+msgid ""
+"You learned of a legend that says to offer a\n"
+"<1.se_co>sacred relic<2.re_co> to the <3.se_co>Spring of Power<4.re_co>, "
+"located\n"
+"to the <5.se_co>west<6.re_co> of East Akkala Stable.\n"
+"\n"
+"The legend didn't say what this <7.se_co>sacred relic<8.re_co>\n"
+"might be."
+msgstr ""
+
+msgctxt "QL_HigakkareMini_RedDragon_Finish"
+msgid ""
+"\"Offer Dinraal's scale received from the red spirit\n"
+"to the Spring of Power.\"\n"
+"\n"
+"When you carried out the statue's suggestion\n"
+"and dropped Dinraal's scale into the\n"
+"Spring of Power, an ancient shrine\n"
+"revealed itself.\n"
+"\n"
+"So the sacred relic was indeed Dinraal's scale..."
+msgstr ""
+
+msgctxt "QL_HigakkareMini_RedDragon_Name"
+msgid "The Spring of Power"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "QL_HigakkareMini_RedDragon_Step1"
+msgid ""
+"You found the <1.se_co>Spring of Power<2.re_co> and heard the\n"
+"Goddess's voice: \"Offer <3.se_co>Dinraal's scale<4.re_co> received\n"
+"from the red spirit to the Spring of Power.\"\n"
+"\n"
+"Does this mean that the sacred relic is\n"
+"<5.se_co>Dinraal's scale<6.re_co>? Who or what is Dinraal?"
+msgstr ""
+

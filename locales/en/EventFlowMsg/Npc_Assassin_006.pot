@@ -1,0 +1,100 @@
+msgctxt "0000"
+msgid "Lurk?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Lick?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Leek?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Link?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Henshin00"
+msgid "<1.so><2.ra><3.te_si>Lay down your life!<4.te_si><5.au_ad>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Henshin01"
+msgid "<1.so><2.ra><3.te_si>Begone, enemy of my master!<4.te_si><5.au_ad>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>What was it..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: raw
+msgctxt "Talk00"
+msgid ""
+"<1.so>Hrm...<2.pa> What's that word? It's on the\n"
+"tip of my tongue, but I just can't think\n"
+"of it...\n"
+"It starts with L...<3.pa>ends in K...<4.pa>\n"
+"What is it, though...<5.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk01"
+msgid ""
+"<1.so>Isn't that when you kinda sneak around\n"
+"and listen in on others? I think it is...<2.pa>\n"
+"The word sounds like that too...\n"
+"Not the word I was thinking of, though."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk02"
+msgid ""
+"<1.so>Oh, that word... That's when you use\n"
+"your tongue to taste something, right?<2.pa>\n"
+"Yeah... \"Lick.\" Hrm.\n"
+"Not the word I wanted, though."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk03"
+msgid ""
+"<1.so>Ooh, the long vegetable! Wait... Is it a\n"
+"vegetable? I actually don't know.\n"
+"\n"
+"<2.so>Regardless, not the word I was\n"
+"looking for."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk04"
+msgid ""
+"<1.so>Oh, right...<2.pa> The Hylian Champion, or\n"
+"so I've heard...somewhere...\n"
+"\n"
+"That's you, right? <3.pa>You're Link."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk05"
+msgid "<1.so>Yes... We meet again, Link."
+msgstr ""
+

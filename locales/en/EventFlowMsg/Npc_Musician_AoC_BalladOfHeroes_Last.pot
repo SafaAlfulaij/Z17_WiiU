@@ -1,0 +1,34 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "Talk00"
+msgid ""
+"<1.so>I dearly hope we meet again someday.<2.pa><3.ra>As for the souls of"
+" the Champions\n"
+"watching over Hyrule...<4.pa>may they\n"
+"finally rest in peace.<5.pa>"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Please don't do that!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "WAAAH!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "TerrorFire"
+msgid "<1.so>Yikes!"
+msgstr ""
+
+msgctxt "TerrorHorse"
+msgid "Whoa there!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Stop this madness!"
+msgstr ""
+

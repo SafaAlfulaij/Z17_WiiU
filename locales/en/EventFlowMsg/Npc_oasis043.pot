@@ -1,0 +1,351 @@
+msgctxt "0001"
+msgid "I've things for sale."
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0003"
+msgid "Deal!"
+msgstr ""
+
+msgctxt "0004"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "5500"
+msgid "Yes."
+msgstr ""
+
+msgctxt "5501"
+msgid "No."
+msgstr ""
+
+msgctxt "5502"
+msgid "I'll buy."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "5508"
+msgid "All of them."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_00"
+msgid "<1.so>Just show me what you have for now."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_01"
+msgid ""
+"For that... If <1.se_co><2.va> rupees<3.re_co> is OK\n"
+"with you, I'll buy it.<4.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02"
+msgid "<1.so>Sarqso."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02b"
+msgid "<1.so>Nice wares! Sarqso!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02c"
+msgid "<1.so>Heh heh. Sarqso!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02d"
+msgid ""
+"<1.so>Sarqso. I'm pleased with what I've\n"
+"bought from you..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_04"
+msgid "<1.so>What? Come on, hurry up..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05"
+msgid ""
+"<1.so>And...did you have anything else you\n"
+"wanted me to buy?"
+msgstr ""
+
+msgctxt "Com_Talk_05b"
+msgid "Nothing more?"
+msgstr ""
+
+msgctxt "Com_Talk_05c"
+msgid ""
+"Now's the time. Sell me a whole bunch\n"
+"of things!"
+msgstr ""
+
+msgctxt "Com_Talk_05d"
+msgid "I'll buy anything I can from you!"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_13"
+msgid ""
+"That? OK, how many do you want\n"
+"to sell?<1.ch>"
+msgstr ""
+
+#. 1: variable (Shop_TradeItemNum)
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"So <1.va> of them?<2.pa>\n"
+"How about <3.se_co><4.va> rupees<5.re_co>?<6.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_15"
+msgid "<1.so>I...can't take that from you."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>I'm not interested in what you're\n"
+"wearing."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_33"
+msgid ""
+"One will get you <1.se_co><2.va> rupees<3.re_co>.\n"
+"Wanna sell it?<4.ch>"
+msgstr ""
+
+#. 1: variable (Shop_TradeItemNum)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"All <1.va> of yours? In that case, does \n"
+"<2.se_co><3.va> rupees<4.re_co> sound good?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (PlacedItemPrice)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: choice
+msgctxt "Com_Talk_50"
+msgid ""
+"<1.so>One is <2.se_co><3.va> rupees<4.re_co>.<5.pa> What do you think?\n"
+"Pretty good price?<6.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_53"
+msgid ""
+"<1.so>Oh, did you change your mind?\n"
+"That's too bad."
+msgstr ""
+
+msgctxt "Near001"
+msgid "Vasaaq!"
+msgstr ""
+
+msgctxt "Near002"
+msgid "Mysterious mushrooms!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Talk_01"
+msgid ""
+"<1.so>Sav'aaq!<2.pa>\n"
+"It's another hot one today, huh?<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_02"
+msgid ""
+"<1.so>If you've got some money, take a look at\n"
+"my mushrooms."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_03"
+msgid ""
+"<1.so>Just between us...<2.pa> The Gerudo keep their\n"
+"skin so beautiful thanks to the\n"
+"mushrooms that grow here.\n"
+"It would really be a waste if you left\n"
+"Gerudo Town without taking some of\n"
+"these mushrooms with you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk_04"
+msgid ""
+"<1.so>The Divine Beast has quieted down now,\n"
+"so maybe this town will return to its old,\n"
+"lively self...<2.pa> I'd better be ready.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_05"
+msgid "<1.so>Sav'otta!<2.pa>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_06"
+msgid "<1.so>Sarqso!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_07"
+msgid ""
+"<1.so>For such a skinny little one, you've got\n"
+"quite an appetite.\n"
+"\n"
+"Good news! Mushrooms are really\n"
+"healthy, so you can eat a bunch,\n"
+"no problem!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_09"
+msgid "<1.so>Did you need something else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Talk_10"
+msgid ""
+"<1.so>Sav'otta!<2.pa>\n"
+"You've got a lot of energy. More of a\n"
+"morning person, huh?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: choice
+msgctxt "Talk_11"
+msgid ""
+"<1.so>Sav'saaba!<2.pa>\n"
+"Now that it's the evening, it's gotten\n"
+"much cooler, hasn't it?\n"
+"You know, mushrooms enjoy the cool\n"
+"weather. You might find some around...<3.pa>\n"
+"Take the time to look.<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (long)
+#. 5: choice
+msgctxt "Talk_12"
+msgid ""
+"<1.so>Step right up and sample my wares: rare,\n"
+"mysterious mushrooms, only visible to\n"
+"the eyes of the most beautiful!<2.pa>\n"
+"<3.so>Oh—it's just you.<4.pa>\n"
+"After you bought all my mushrooms,\n"
+"I had nothing left to restock my stall...\n"
+"But now, I think people will fall for this.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: set_colour (grey)
+#. 6: text_size
+#. 7: text_size
+#. 8: reset_colour
+msgctxt "Talk_13"
+msgid ""
+"<1.so>Just between us...<2.pa> Mushrooms are\n"
+"actually the largest living things in the\n"
+"entire world.\n"
+"<3.so>There's actually a ton of really\n"
+"interesting info about mushrooms.<4.pa>\n"
+"<5.se_co><6.te_si>A lot of it I don't even understand, "
+"though...<7.te_si><8.re_co>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_14"
+msgid ""
+"<1.so>I'll make sure to restock my mushrooms.\n"
+"When you have some money to spend,\n"
+"please come back by here."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_15"
+msgid ""
+"<1.so>Sarqso!\n"
+"Eat hearty and grow big!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+msgctxt "Talk_16"
+msgid ""
+"<1.so>Sarqso!\n"
+"If you want to cook, the kitchen is\n"
+"available for any vai to use.\n"
+"<2.so>\"Any vai,\" haha! <3.pa>We're all vai here!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_17"
+msgid "<1.so>Sav'aaq!<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_18"
+msgid "<1.so>Sav'saaba!<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_19"
+msgid "<1.so>Vasaaq!<2.pa>"
+msgstr ""
+

@@ -1,0 +1,198 @@
+msgctxt "0000"
+msgid "Rito Village?"
+msgstr ""
+
+msgctxt "0001"
+msgid "I've been there!"
+msgstr ""
+
+msgctxt "0003"
+msgid "So long."
+msgstr ""
+
+msgctxt "0004"
+msgid "Not gonna leave yet?"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "near02"
+msgid "<1.te_si>Snrrk...<2.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "near03"
+msgid "<1.te_si>Snrrrrzzz...<2.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "near04"
+msgid "<1.te_si>Phwee...<2.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "near05"
+msgid "<1.te_si>Hngghhk...<2.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid ""
+"<1.so>Good morning... Though it's \"sav'otta\" in\n"
+"Gerudo, isn't it?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Hello there..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid ""
+"<1.so>Good evening... Though I guess it's\n"
+"\"sav'saaba\" in Gerudo, isn't it?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk03"
+msgid "<1.so>I came here from Rito Village...<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid "<1.so>Yes, Rito Village..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk05"
+msgid ""
+"<1.so>Ah... <2.pa>It must have felt quite cold to you,\n"
+"didn't it?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (long)
+msgctxt "talk06"
+msgid ""
+"<1.so>I had a great plan, you know. I left\n"
+"Rito Village to try to earn some money\n"
+"out in the world...\n"
+"<2.so>But it's so incredibly hot here during the\n"
+"day.<3.pa> It's been tough to work up the will\n"
+"to go any farther.\n"
+"I would like to see what Gerudo Town\n"
+"looks like, even if I can't go inside...<4.pa>\n"
+"It's just so hot..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "talk07"
+msgid ""
+"<1.so>But before I say any more...<2.pa>\n"
+"Have we...<3.pa>met before?"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: sound
+#. 11: pause (long)
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: set_colour (red)
+#. 15: reset_colour
+#. 16: sound
+#. 17: pause (long)
+msgctxt "talk09"
+msgid ""
+"<1.se_co><2.so><3.re_co>I heard there's an <4.se_co>elixir that can help"
+" \n"
+"beat the heat<5.re_co>. It's made from <6.se_co>insects \n"
+"with cooling effects <7.re_co>and <8.se_co>monster parts<9.re_co>.\n"
+"<10.so>But they don't seem to be selling the\n"
+"elixir anywhere...<11.pa>\n"
+"\n"
+"I've heard <12.se_co>insects with these cooling \n"
+"effects<13.re_co> live in <14.se_co>the cold parts of the\n"
+"Gerudo Highlands<15.re_co>, but...\n"
+"<16.so>Well, the monsters there are rough, to\n"
+"say the least,<17.pa> so I'm not having a lot of\n"
+"success getting myself motivated..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "talk10"
+msgid ""
+"<1.so>Hm?<2.pa>\n"
+"Oof...<3.pa>\n"
+"\n"
+"Looks like I fell asleep..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk12"
+msgid ""
+"<1.so>I never knew the desert in the middle of\n"
+"the day could get so darned hot.\n"
+"\n"
+"I guess you can't really understand\n"
+"something until you've experienced it\n"
+"for yourself, huh...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk14"
+msgid ""
+"<1.so>Far to the north of here...<2.pa>\n"
+"It's a modest village on the\n"
+"<3.se_co>Tabantha Frontier<4.re_co>..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid ""
+"<1.so>I'm going to have to get my young one\n"
+"to get out and travel too...someday..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.so>With the elixir, I can go as soon as I\n"
+"want, but... <2.pa>Well, the desert isn't all that\n"
+"safe at night.\n"
+"I think I'll wait till it's light out."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk20"
+msgid ""
+"<1.so>With the elixir, I can go as soon as I\n"
+"want, but...<2.pa>there's no rush, really.\n"
+"I think I'll leave tomorrow."
+msgstr ""
+

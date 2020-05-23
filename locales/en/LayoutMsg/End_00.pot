@@ -1,0 +1,4 @@
+msgctxt "T_DummyText_00"
+msgid "The End"
+msgstr ""
+

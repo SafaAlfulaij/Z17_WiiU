@@ -1,0 +1,37 @@
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "Talk01"
+msgid ""
+"<1.so>Hmm...<2.pa> This stable is surrounded\n"
+"by cliffs, <3.pa>so it lacks striking scenery."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (short)
+msgctxt "Talk03"
+msgid ""
+"<1.so>Oh! That horse statue! This is at the\n"
+"<2.se_co>Sanidin Park Ruins<3.re_co>.\n"
+"\n"
+"<4.so>Yes, there are some park ruins on\n"
+"<5.se_co>Safula Hill <6.re_co>to the <7.se_co>northwest<8.re_co> of "
+"here.<9.pa>\n"
+"You'll find this horse statue there."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk05"
+msgid ""
+"<1.so>Painting is my passion, but even I can\n"
+"tell that statue is a true masterpiece.\n"
+"It's worth seeing at least once."
+msgstr ""
+

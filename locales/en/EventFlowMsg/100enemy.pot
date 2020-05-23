@@ -1,0 +1,119 @@
+msgctxt "0002"
+msgid "Beginning Trials"
+msgstr ""
+
+msgctxt "0003"
+msgid "Middle Trials"
+msgstr ""
+
+msgctxt "0004"
+msgid "Final Trials"
+msgstr ""
+
+msgctxt "0005"
+msgid "Cancel"
+msgstr ""
+
+#. 1: animation
+msgctxt "talk13"
+msgid ""
+"<1.an>That sword you have reunited with...\n"
+"the Master Sword...it has yet to realize\n"
+"its true splendor.\n"
+"The trial that will awaken its true power...\n"
+"\n"
+"\n"
+"If you wish to rise to the challenge,\n"
+"place the Master Sword in its pedestal."
+msgstr ""
+
+#. 1: sound2
+msgctxt "talk14"
+msgid ""
+"<1.so>The Master Sword you wield is now\n"
+"more powerful than before.\n"
+"\n"
+"If you desire still more power and\n"
+"wish to retry the blade's test...\n"
+"\n"
+"once again place the Master Sword\n"
+"in its pedestal."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: sound2
+#. 5: pause (long)
+msgctxt "talk15"
+msgid ""
+"<1.so>Now your body, mind, and soul are\n"
+"ready to wield the Master Sword at\n"
+"its full potential.<2.pa>\n"
+"But do not let your guard down.\n"
+"\n"
+"\n"
+"Just as before, if you use your sword to\n"
+"excess, it will run out of energy and\n"
+"become unusable until it recovers.\n"
+"It would be reckless to rely only on your\n"
+"blade when facing Ganon. <3.pa>\n"
+"\n"
+"Prepare for the worst, and consider\n"
+"freeing the Divine Beasts before\n"
+"confronting your fate.\n"
+"<4.so>Her smile... The princess's sweet smile...<5.pa>\n"
+"How I would love to see it once more..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: sound2
+#. 4: pause (long)
+#. 5: sound2
+#. 6: pause (long)
+msgctxt "talk16"
+msgid ""
+"<1.so>Now your body, mind, and soul are\n"
+"ready to wield the Master Sword at\n"
+"its full potential.<2.pa>\n"
+"But do not let your guard down.\n"
+"\n"
+"\n"
+"Just as before, if you use your sword to\n"
+"excess, it will run out of energy and\n"
+"become unusable until it recovers.\n"
+"<3.so>That blade is more than a tool. It is your\n"
+"partner across time, your ally from\n"
+"100 years past... Wield it with care.<4.pa>\n"
+"<5.so>Her smile... The princess's sweet smile...<6.pa>\n"
+"How I would love to see it once more..."
+msgstr ""
+
+#. 1: choice
+msgctxt "talk17"
+msgid ""
+"Which part of the Trial would you\n"
+"like to challenge?<1.ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "talk18"
+msgid ""
+"Which part of the Trial would you\n"
+"like to challenge?<1.ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "talk19"
+msgid ""
+"Which part of the Trial would you\n"
+"like to challenge?<1.ch>"
+msgstr ""
+
+msgctxt "talk20"
+msgid ""
+"You cannot participate in the Trial when\n"
+"the Master Sword is out of energy."
+msgstr ""
+

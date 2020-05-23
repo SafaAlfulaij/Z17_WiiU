@@ -1,0 +1,37 @@
+msgctxt "QL_Kakariko_Cha_003_10kokko"
+msgid ""
+"Cado's beloved Cuccos made it over the fence\n"
+"and escaped. It took a thorough search of the\n"
+"village, but you found them all.\n"
+"\n"
+"Hurry and let Cado know so he can breathe\n"
+"easier."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Kakariko_Cha_003_Desc"
+msgid ""
+"Cado's beloved Cuccos made it over the fence\n"
+"and escaped.\n"
+"\n"
+"Before the breakout, Cado had <1.se_co>10 Cuccos<2.re_co>\n"
+"in total. Find all of them, and return them to\n"
+"their enclosure."
+msgstr ""
+
+msgctxt "QL_Kakariko_Cha_003_Finish"
+msgid ""
+"Cado's beloved Cuccos made it over the fence\n"
+"and escaped. It took a thorough search of the\n"
+"village, but you found them all.\n"
+"\n"
+"Cado now has a better understanding of how\n"
+"much his Cuccos mean to him...as well as\n"
+"his love for his wife."
+msgstr ""
+
+msgctxt "QL_Kakariko_Cha_003_Name"
+msgid "Flown the Coop"
+msgstr ""
+

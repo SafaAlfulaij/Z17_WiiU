@@ -1,0 +1,27 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_SandStorm_Desc"
+msgid ""
+"At the Kara Kara Bazaar, they say that the\n"
+"sandstorm visible from camp hides a\n"
+"<1.se_co>treasure left by the ancients<2.re_co>.\n"
+"\n"
+"Keep close watch for when the sandstorm\n"
+"disappears, and then quickly hunt for the\n"
+"treasure."
+msgstr ""
+
+msgctxt "QL_SandStorm_Finish"
+msgid ""
+"The treasure sleeping in the sandstorm visible\n"
+"from the Kara Kara Bazaar turned out to be an\n"
+"ancient shrine.\n"
+"\n"
+"All that is left now is to overcome the\n"
+"hero's trial within."
+msgstr ""
+
+msgctxt "QL_SandStorm_Name"
+msgid "The Eye of the Sandstorm"
+msgstr ""
+

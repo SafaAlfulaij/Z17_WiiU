@@ -1,0 +1,205 @@
+msgctxt "0000"
+msgid "What now?"
+msgstr ""
+
+msgctxt "0001"
+msgid "No, I'm good."
+msgstr ""
+
+msgctxt "0002"
+msgid "I probably do."
+msgstr ""
+
+msgctxt "0003"
+msgid "I'll buy it."
+msgstr ""
+
+msgctxt "0004"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "near00"
+msgid "Raaaarghhhh!!!"
+msgstr ""
+
+msgctxt "near01"
+msgid "Zzz...zzz..."
+msgstr ""
+
+msgctxt "near02"
+msgid "Yaaaargh..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: set_colour (blue)
+#. 4: set_colour (grey)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (grey)
+#. 8: reset_colour
+#. 9: text_size
+msgctxt "talk00"
+msgid ""
+"<1.so><2.te_si><3.se_co><4.se_co>All you need to do is cook one<5.se_co> "
+"fireproof lizard\n"
+"with monster parts<6.re_co><7.se_co>, fella...<8.re_co><9.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (grey)
+#. 3: text_size
+#. 4: text_size
+#. 5: reset_colour
+#. 6: sound
+msgctxt "talk01"
+msgid ""
+"<1.so><2.se_co><3.te_si>Heheh... It all worked out...<4.te_si><5.re_co>\n"
+"\n"
+"\n"
+"<6.so>Er, nothin'!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "talk02"
+msgid ""
+"<1.so>Here's what I'll do, fella. Just for you,\n"
+"I'll sell ya that <2.se_co>fireproof elixir<3.re_co> at a\n"
+"special price of only <4.se_co>60 rupees<5.re_co>!<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "talk03"
+msgid ""
+"<1.so>Whaa—?! <2.pa>You don't have enough rupees!\n"
+"\n"
+"\n"
+"<3.so>Hm... <4.pa>Times are tough, aren't they?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk04"
+msgid ""
+"<1.so>A sale! I actually made a sale!!<2.pa>\n"
+"Here ya go, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: choice
+msgctxt "talk05"
+msgid ""
+"<1.so>A <2.se_co>Hylian<3.re_co> like you will need more\n"
+"than that!<4.pa> A <5.se_co>fireproof elixir<6.re_co> will\n"
+"cost ya <7.se_co>60 rupees<8.re_co>.<9.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk06"
+msgid ""
+"<1.so>Huh? Your pouch is full!<2.pa>\n"
+"Make some room and come back."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk07"
+msgid "<1.so>Hey, fella! Buy somethin'!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>A <2.se_co>Hylian<3.re_co> like you needs this, right?<4.pa>\n"
+"It's a <5.se_co>fireproof elixir<6.re_co>!<7.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid ""
+"<1.so>Well, don't come cryin' to me when\n"
+"you're on fire, fella!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk10"
+msgid ""
+"<1.so>Need a <2.se_co>fireproof elixir<3.re_co>?\n"
+"You do, yeah?<4.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: sound
+#. 5: pause (short)
+msgctxt "talk11"
+msgid ""
+"<1.te_si><2.so>Hmm hm hmmmm...<3.te_si>\n"
+"\n"
+"\n"
+"<4.so>Whoa! <5.pa>An actual customer?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid ""
+"<1.so>Then why'd you wake me up?!\n"
+"Sheesh!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk13"
+msgid "<1.so>See ya later!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk14"
+msgid "<1.so>Here ya go!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (long)
+#. 7: choice
+msgctxt "talk15"
+msgid ""
+"<1.so>Hey, it's the Hylian!\n"
+"\n"
+"\n"
+"I know <2.se_co>Rudania <3.re_co>has chilled out, but the\n"
+"temperature here is still burnin' hot!\n"
+"\n"
+"If ya get too hot, try some good ol'\n"
+"<4.se_co>fireproof elixir<5.re_co>, OK?<6.pa> Speakin' of...\n"
+"Need some?<7.ch>"
+msgstr ""
+

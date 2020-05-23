@@ -1,0 +1,30 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "QL_Gerudo_Ch_SnowMT_Desc"
+msgid ""
+"There's a legend about seven heroines in the\n"
+"Gerudo region, but it turns out that an <1.se_co>eighth\n"
+"heroine<2.re_co> existed, and she is worshiped to this\n"
+"day by her faithful in the <3.se_co>Gerudo Highlands<4.re_co>. \n"
+"Show a picture of the <5.se_co>eighth statue's torso <6.re_co>to\n"
+"Bozai to get the sand boots. You've heard that\n"
+"there's someone well acquainted with the \n"
+"seven heroines' legend in Gerudo Town."
+msgstr ""
+
+msgctxt "QL_Gerudo_Ch_SnowMT_Finish"
+msgid ""
+"The eighth heroine is still worshiped by her\n"
+"faithful in the Gerudo Highlands. You captured\n"
+"her in a picture and received the sand boots\n"
+"from Bozai as promised."
+msgstr ""
+
+msgctxt "QL_Gerudo_Ch_SnowMT_Name"
+msgid "The Eighth Heroine"
+msgstr ""
+

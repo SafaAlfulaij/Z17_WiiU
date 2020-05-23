@@ -1,0 +1,110 @@
+msgctxt "0000"
+msgid "Yiga Clan?"
+msgstr ""
+
+msgctxt "0001"
+msgid "I'll pass."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Henshin00"
+msgid "<1.so><2.ra><3.te_si>I will take your life!<4.te_si><5.au_ad>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Henshin01"
+msgid ""
+"<1.so><2.ra><3.te_si>I'll send you to join\n"
+"Master Kohga!<4.te_si><5.au_ad>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>You there!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk00"
+msgid ""
+"<1.so>I can tell you've trained your body well...\n"
+"I'd say...you're familiar with both sword\n"
+"and bow, correct?\n"
+"That's a good skill set. Why don't you\n"
+"join the Yiga Clan?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+msgctxt "Talk01"
+msgid ""
+"<1.so>What? You don't know?\n"
+"\n"
+"\n"
+"<2.so>Fine... I'll tell you...<3.pa>\n"
+"The Yiga Clan... It's..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk02"
+msgid ""
+"<1.so>A powerful, brave group of warriors,\n"
+"founded by Master Kohga and dedicated\n"
+"to defeating a hero thought long dead."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk03"
+msgid ""
+"<1.so>A group of brave warriors, founded by\n"
+"Master Kohga—who YOU defeated—set\n"
+"on defeating a hero thought long dead!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk04"
+msgid "<1.so>What?! You're refusing?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "Talk04_1"
+msgid ""
+"<1.so>Why don't you at least hear what\n"
+"I gotta say first?<2.pa> The Yiga Clan... <3.pa>It's..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk05"
+msgid ""
+"<1.so>That's a foolish choice. One that you\n"
+"will not survive making..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk06"
+msgid ""
+"<1.so>Here I thought you could replace our\n"
+"master and lead us to victory against the\n"
+"hero...<2.pa> You're just a fool, though..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk07"
+msgid ""
+"<1.so>You can't avoid us forever. Will you join\n"
+"the Yiga Clan?<2.ch>"
+msgstr ""
+

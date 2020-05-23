@@ -1,0 +1,251 @@
+msgctxt "0000"
+msgid "I'm a traveler."
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Where am I?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Show me around!"
+msgstr ""
+
+msgctxt "near00"
+msgid "...Whuh!"
+msgstr ""
+
+msgctxt "near01"
+msgid "*yawn...*"
+msgstr ""
+
+msgctxt "near02"
+msgid "Whatcha want?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk00"
+msgid ""
+"<1.so>Who are you?!<2.pa> Be on your way, you...\n"
+"suspicious man!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "talk02"
+msgid ""
+"<1.so>Huh? <2.pa>I've seen that <3.se_co>blue flame<4.re_co> before.\n"
+"\n"
+"\n"
+"I'd see that old woman Purah<5.pa> carrying it\n"
+"up to her place all the time..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: pause (short)
+#. 6: reset_colour
+#. 7: pause (longer)
+msgctxt "talk03"
+msgid ""
+"<1.so>That <2.se_co>blue flame<3.re_co> <4.se_co><5.pa><6.re_co>is for "
+"Purah, right?<7.pa>\n"
+"Then stop wasting time chatting with me\n"
+"and deliver it! Quickly."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "talk04"
+msgid ""
+"<1.so>Huh? <2.pa>I've seen that <3.se_co>blue flame<4.re_co> before.\n"
+"\n"
+"\n"
+"<5.so>I used to see the <6.se_co>director of the \n"
+"research facility<7.re_co><8.pa> carrying it up the hill\n"
+"all the time."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: pause (short)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (longer)
+msgctxt "talk05"
+msgid ""
+"<1.so>That <2.se_co>blue flame<3.re_co> <4.se_co><5.pa><6.re_co>is for "
+"the <7.se_co>director<8.re_co>, right?<9.pa>\n"
+"Then stop yapping with me and deliver it\n"
+"quickly!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk07"
+msgid ""
+"<1.so>You're free to go.<2.pa> We're just a waypoint\n"
+"on your winding road, huh? \n"
+"\n"
+"Ah, the life of a traveler. Well, you can\n"
+"get most things you need at the <3.se_co>general\n"
+"store<4.re_co>,<5.pa> and the<6.se_co> inn<7.re_co> is just back there."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk08"
+msgid "<1.so>Phwaaa... <2.pa>So sleepy."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk09"
+msgid "<1.so>You still need something?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk10"
+msgid "<1.so>Wha? <2.pa>Oh, it's you...<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid "<1.so>Go on, then."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: sound
+#. 5: pause (short)
+#. 6: sound
+#. 7: sound
+#. 8: pause (short)
+#. 9: pause (short)
+msgctxt "talk12"
+msgid ""
+"<1.so>Not likely!<2.pa> I'm on guard duty, Buster!\n"
+"Serious business! No time for tours!<3.pa>\n"
+"\n"
+"<4.so>Grumble...<5.pa>\n"
+"\n"
+"\n"
+"<6.so>Sorry for the yelling...and the grumbling.\n"
+"\n"
+"\n"
+"<7.so>This village is pretty peaceful, so it's not\n"
+"like guard duty is all that harrowing.\n"
+"\n"
+"But you're GRAVELY mistaken if you \n"
+"think people with free time are itching to\n"
+"give village tours.<8.pa>\n"
+"Try looking for a burly old guy called\n"
+"Seldon.<9.pa> He'll probably fall all over\n"
+"himself to show you around."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (grey)
+#. 3: text_size
+#. 4: pause (long)
+#. 5: text_size
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: pause (short)
+#. 9: text_size
+#. 10: text_size
+msgctxt "talk13"
+msgid ""
+"<1.so>This is the town of greenery and dyes, \n"
+"Hateno Village.\n"
+"\n"
+"<2.se_co><3.te_si>Can a place be a village AND a town?<4.pa> "
+"Anyway...<5.te_si><6.re_co>\n"
+"\n"
+"\n"
+"The vegetables taste good. The air smells\n"
+"good...<7.pa> What else... All kinds of points\n"
+"of interest I'm forgetting...\n"
+"Travelers tend to spend their money\n"
+"here,<8.pa> so that's good! Yeah! The village\n"
+"folk welcome THAT with open arms!\n"
+"<9.te_si>But...<10.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk15"
+msgid ""
+"<1.so>Who... Who are you?! I demand answers!<2.pa>\n"
+"If you're up this late, you're probably\n"
+"up to no good!<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk16"
+msgid "<1.so>Wait, wait, wait!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk17"
+msgid ""
+"<1.so>Hrm? \n"
+"\n"
+"\n"
+"You certainly do appear to be a <2.se_co>Hylian<3.re_co>\n"
+"like the rest of us..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "talk18"
+msgid ""
+"<1.so><2.se_co>Hylians<3.re_co> are generally good folk, so...<4.pa>\n"
+"Sorry for getting all worked up..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "talk19"
+msgid ""
+"<1.so>A little advice? Don't go near the <2.se_co>place\n"
+"up the hill in the rear of the village<3.re_co>.<4.pa>\n"
+"There's a yappy <5.se_co>old woman<6.re_co> there."
+msgstr ""
+

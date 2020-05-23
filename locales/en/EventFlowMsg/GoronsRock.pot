@@ -1,0 +1,467 @@
+msgctxt "0000"
+msgid "Brother?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Did he run away?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Where did he go?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Secret of the hero?"
+msgstr ""
+
+msgctxt "0004"
+msgid "I understand."
+msgstr ""
+
+msgctxt "0005"
+msgid "Gorko Tunnel?"
+msgstr ""
+
+msgctxt "Goron_Father_Near01"
+msgid "Mmm, Goron grub..."
+msgstr ""
+
+msgctxt "Goron_Father_Near02"
+msgid "Where did he go?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "Goron_Father_Talk01"
+msgid ""
+"<1.so>My reckless brother hasn't come\n"
+"back yet.\n"
+"\n"
+"<2.so>What in the world is he thinkin'?<3.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Goron_Father_Talk02"
+msgid "<1.so>Brother! So this is where you've been!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Goron_Father_Talk03"
+msgid ""
+"<1.so>I tried to think like my brother and do\n"
+"what he would do so I could find him..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Goron_Father_Talk04"
+msgid ""
+"<1.so>I need you to do me a favor!\n"
+"As a brother, I can't just sit\n"
+"idly by. I have to help him!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Goron_Father_Talk05"
+msgid ""
+"<1.so>I'm gonna get my cooking preparations\n"
+"all in order while I wait for you..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Goron_Father_Talk06"
+msgid ""
+"<1.so>Hmmm...<2.pa> It's amazing!\n"
+"\n"
+"\n"
+"This is the finest <3.se_co>rock roast<4.re_co> I've ever laid\n"
+"eyes on! I'm gonna cook it up right now!"
+msgstr ""
+
+#. 1: raw
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Goron_Father_Talk06_2"
+msgid ""
+"<1.ra>I did it! I made a <2.se_co>deliciously grilled\n"
+"rock roast<3.re_co>!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Goron_Father_Talk07"
+msgid ""
+"<1.so>Brother! It's ready! You're gonna eat it\n"
+"and LOVE IT, and everything will be as\n"
+"it should be again!"
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound2
+#. 5: text_size
+#. 6: text_size
+#. 7: sound2
+msgctxt "Goron_Father_Talk08"
+msgid ""
+"<1.so>So this is the <2.se_co>secret of the hero<3.re_co>, eh?\n"
+"\n"
+"\n"
+"<4.so><5.te_si>Hmm... It looks oddly familiar...<6.te_si>\n"
+"\n"
+"\n"
+"<7.so>Anyway, what an amazing discovery!\n"
+"That's my brother for ya!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Goron_Father_Talk09"
+msgid ""
+"<1.so>Thanks for helpin' out my little bro!<2.se_co><3.re_co>\n"
+"\n"
+"\n"
+"Now to return to Goron City with my\n"
+"wonderful and accomplished brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Goron_Father_Talk10"
+msgid ""
+"<1.so>I wonder when my little brother will\n"
+"come home...\n"
+"\n"
+"<2.so>He can't really be searchin' for the\n"
+"<3.se_co>secret of the hero <4.re_co>in the depths of\n"
+"<5.se_co>Gorko Tunnel<6.re_co>... Right?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "Goron_Father_Talk11"
+msgid ""
+"<1.so><2.se_co>Gorko Tunnel <3.re_co>is an abandoned spot\n"
+"southwest of <4.se_co>Gorko Lake<5.re_co>.\n"
+"\n"
+"The bedrock's insanely hard in that area,\n"
+"so we gave up diggin' there ages ago.\n"
+"\n"
+"<6.so>They say the <7.se_co>secret of the hero <8.re_co>lies\n"
+"hidden beyond that bedrock."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Goron_Father_Talk12"
+msgid ""
+"<1.so>Exit here and head <2.se_co>down the hill<3.re_co> to\n"
+"Gortram Cliff. There you can find\n"
+"<4.se_co>rock roasts <5.re_co>rollin' around.\n"
+"I need ya to please grab one of 'em\n"
+"for me."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Goron_Father_Talk13"
+msgid ""
+"<1.so>I'd like more than anything to go there\n"
+"and get it myself. It's just...\n"
+"\n"
+"Well, I have a chronic condition. Yeah.\n"
+"It's called Goron shoulder. Very serious.\n"
+"I'd rather not talk about it.\n"
+"<2.so>Needless to say, I expect a lot from you!\n"
+"Please don't let me down!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+#. 7: choice
+msgctxt "Goron_Father_Talk14"
+msgid ""
+"<1.so>My little brother, Gonguron.<2.pa>\n"
+"I'm really proud of him, but...\n"
+"\n"
+"<3.so>He said he was gonna go dig up\n"
+"<4.se_co>the secret of the hero<5.re_co>, and then\n"
+"he just took off!\n"
+"<6.so>I really don't know what in the world\n"
+"got into him...<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: choice
+msgctxt "Goron_Father_Talk15"
+msgid ""
+"<1.so>No way! If you're gonna run away,\n"
+"you wouldn't first tell your bro you're\n"
+"gonna dig up the <2.se_co>secret of the hero<3.re_co>!\n"
+"<4.so>What in the world is goin' on with\n"
+"that kid...<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+msgctxt "Goron_Father_Talk16"
+msgid ""
+"<1.so>I'm certain my little brother went off to\n"
+"<2.se_co>Gorko Tunnel<3.re_co>, southwest of <4.se_co>Gorko "
+"Lake<5.re_co>.\n"
+"\n"
+"<6.so>The bedrock in that tunnel is incredibly\n"
+"hard, so us Gorons gave up tryin' to\n"
+"dig it out ages ago."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Goron_Father_Talk17"
+msgid ""
+"<1.so>Once you've secured a <2.se_co>rock roast<3.re_co>,\n"
+"just drop it right into this pot.\n"
+"BOOM. Just like that."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Goron_Father_Talk18"
+msgid ""
+"<1.so>But I know better. It's just an excuse for\n"
+"him to slack off and dream his life away!<2.pa>\n"
+"I really wish he'd grow up a little..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: sound
+msgctxt "Goron_Father_Talk20"
+msgid ""
+"<1.so>Southwest of <2.se_co>Gorko Lake<3.re_co>, there's an\n"
+"abandoned spot called <4.se_co>Gorko Tunnel<5.re_co>.\n"
+"\n"
+"<6.so>Behind that hard bedrock, there lies not\n"
+"just ore...but the <7.se_co>secret of the hero<8.re_co>!\n"
+"\n"
+"<9.so>...Or so the legend goes. True or not,\n"
+"it makes for a good story.\n"
+"\n"
+"I heard it from my dad's cousin's\n"
+"neighbor's uncle."
+msgstr ""
+
+#. 1: sound
+msgctxt "Goron_Father_Talk21"
+msgid ""
+"<1.so>Finally! I've been waitin' on ya! Go on— \n"
+"drop the roast in the pot. Quickly!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Goron_Father_Talk22"
+msgid ""
+"<1.so>The <2.se_co>secret of the hero<3.re_co> is a fairy tale\n"
+"of sorts, passed down from Goron to\n"
+"Goron for ages.\n"
+"As for me, I heard about it from my\n"
+"dad's cousin's neighbor's uncle."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: text_size
+#. 5: sound
+#. 6: text_size
+msgctxt "Goron_Father_Talk23"
+msgid ""
+"<1.so>You...<2.pa>understand?! <3.pa>You understand what\n"
+"my little brother is thinkin'?\n"
+"\n"
+"<4.te_si><5.so>I'm his brother, and I don't understand him at all...\n"
+"Makes me feel lonely...<6.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Goron_Father_Talk24"
+msgid ""
+"<1.so>Instead of chasin' dreams, I'd prefer to\n"
+"see him face reality and help us out with\n"
+"our important Goron work..."
+msgstr ""
+
+msgctxt "Goron_Son_Near01"
+msgid "It's the secret of the hero!"
+msgstr ""
+
+msgctxt "Goron_Son_Near02"
+msgid "I need to eat soon!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Goron_Son_Talk01"
+msgid ""
+"<1.so>Dig, dig, dig! Alls I wanna do is dig!\n"
+"I won't stop 'til I find the <2.se_co>secret<3.re_co>!\n"
+"\n"
+"What am I diggin' for? I told ya!\n"
+"It's a <4.se_co>secret<5.re_co>!!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound2
+#. 6: pause (short)
+msgctxt "Goron_Son_Talk02"
+msgid ""
+"<1.so>*cough* *wheeze*\n"
+"<2.pa>Phew! I'm spent.\n"
+"\n"
+"To think that somewhere behind all this\n"
+"rubble is the <3.se_co>secret of the hero<4.re_co>...\n"
+"\n"
+"I know I'll become really great and\n"
+"important if I can find it!\n"
+"\n"
+"<5.so>My only problem is that I don't have the\n"
+"strength to go on. <6.pa>My belly's empty\n"
+"and rumblin' like mad! What to do..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Goron_Son_Talk02b"
+msgid ""
+"<1.so>Too hungry... Can't lift my arms\n"
+"anymore..."
+msgstr ""
+
+msgctxt "Goron_Son_Talk04"
+msgid ""
+"Yummy! Delicious! Incredible!\n"
+"\n"
+"\n"
+"That texture! That crunch! Ooooh,\n"
+"and that gritty feeling as it glides\n"
+"down my throat!\n"
+"OH! Yes! Can't forget that savory flavor\n"
+"of condensed minerals seared in high\n"
+"heat to perfection! It's a taste explosion!\n"
+"It's restoring my strength! I'm like a\n"
+"phoenix reborn and ready to fly!\n"
+"In fact, I AM Death Mountain!!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Goron_Son_Talk04_1"
+msgid ""
+"<1.so>Hm? Am I hunger-hallucinating,\n"
+"or do I really smell <2.se_co>deliciously\n"
+"grilled rock roast<3.re_co>?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Goron_Son_Talk04_2"
+msgid ""
+"<1.so>Look at this! It looks so tasty! I NEED to\n"
+"eat it right away!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Goron_Son_Talk04_3"
+msgid ""
+"<1.so>Your cookin' is the best of\n"
+"the best, brother!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Goron_Son_Talk04_4"
+msgid ""
+"<1.so>Now I'm full and my belly is happy!\n"
+"Let's do this!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Goron_Son_Talk05"
+msgid "<1.so><2.te_si>Graaaarghhh!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Goron_Son_Talk05_2"
+msgid "<1.so><2.te_si>GORON POWER, GOOOO!!!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound2
+#. 6: text_size
+#. 7: text_size
+msgctxt "Goron_Son_Talk06"
+msgid ""
+"<1.so><2.an>WOW! There it is! The <3.se_co>hero's secret <4.re_co>has\n"
+"revealed itself to me!!\n"
+"\n"
+"<5.so><6.te_si>Weird... I feel like I've seen somethin' like this\n"
+"before in Goron City...<7.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Goron_Son_Talk07"
+msgid ""
+"<1.so>Thanks for your help, brother! Now I've\n"
+"gotta get back to Goron City and tell\n"
+"everyone about my triumph!"
+msgstr ""
+

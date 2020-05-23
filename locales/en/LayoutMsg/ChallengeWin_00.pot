@@ -1,0 +1,12 @@
+msgctxt "Pa_ChallengeWin_00-T_Challenge_00"
+msgid "Updated"
+msgstr ""
+
+msgctxt "Pa_ChallengeWin_00-T_Guide_00"
+msgid "Adventure Log"
+msgstr ""
+
+msgctxt "Pa_ChallengeWin_00-T_MapPoint_00"
+msgid "Update Map Objective"
+msgstr ""
+

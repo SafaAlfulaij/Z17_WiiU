@@ -1,0 +1,26 @@
+msgctxt "Near_Raimei_001"
+msgid "Looks good on you..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: pause (short)
+msgctxt "Talk00"
+msgid ""
+"<1.te_si><2.so>Halt! <3.te_si>\n"
+"\n"
+"\n"
+"Unless you have permission, you'll stay\n"
+"right there!<4.pa> I don't care who you are!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk01"
+msgid ""
+"<1.so>You must be pretty special to have\n"
+"gotten permission from the <2.se_co>chief<3.re_co>."
+msgstr ""
+

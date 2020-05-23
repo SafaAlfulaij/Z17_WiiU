@@ -1,0 +1,29 @@
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Demo346_0_Text000"
+msgid ""
+"<1.so>We did it, goro!<2.pa> If we can keep this up,\n"
+"we should be able to corner <3.se_co>Rudania<4.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Demo346_0_Text001"
+msgid "<1.so>We did it! <2.pa>Direct hit, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Demo346_0_Text002"
+msgid ""
+"<1.so>And thanks to <2.se_co>Daruk's Protection<3.re_co>,\n"
+"that didn't hurt me one bit, goro!\n"
+"My ancestor came through for me!\n"
+"If we keep weakening it like this,\n"
+"we should be able to get inside.\n"
+"Don't let up, brother!"
+msgstr ""
+

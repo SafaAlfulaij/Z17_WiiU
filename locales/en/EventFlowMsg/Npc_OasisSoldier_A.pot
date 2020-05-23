@@ -1,0 +1,126 @@
+msgctxt "Near_Raimei_001"
+msgid "That helmet... Is it real?"
+msgstr ""
+
+msgctxt "near00"
+msgid "So tiiiired..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk00"
+msgid ""
+"<1.so>*pant<2.pa> pant*<3.pa>\n"
+"Babi's training is really tough, but...\n"
+"\n"
+"It's our fault the thieves were successful.\n"
+"We have no room to complain."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: text_size
+#. 4: text_size
+msgctxt "talk01"
+msgid ""
+"<1.so>Thanks to you bringing back the chief's\n"
+"heirloom, we can finally take a break...\n"
+"\n"
+"<2.so>In theory, anyway. More likely, once we\n"
+"finish repairing our spears, we'll have to\n"
+"get started on more special training.\n"
+"<3.te_si>*sigh* Babi's always got more special training...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid ""
+"<1.so>Babi is working way too hard, even\n"
+"though the chief's heirloom is back!\n"
+"\n"
+"I hope I never become as intense\n"
+"as her..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "talk03"
+msgid ""
+"<1.so>Thanks to your bringing back the chief's\n"
+"heirloom, we can finally take a break.\n"
+"\n"
+"<2.so>The team over there is in a tizzy, though,\n"
+"because Barta disappeared again.\n"
+"\n"
+"That kid is always going off by herself\n"
+"and getting wrapped up in trouble..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (grey)
+#. 4: text_size
+#. 5: text_size
+#. 6: reset_colour
+msgctxt "talk04"
+msgid ""
+"<1.so>I'm seriously glad that I'm not on the\n"
+"same team as Barta.<2.pa>\n"
+"\n"
+"<3.se_co><4.te_si>I already have my hands full with "
+"Babi...<5.te_si><6.re_co>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "talk05"
+msgid ""
+"<1.so>From what I hear, you're the Hylian that\n"
+"recovered the helm for the chief.\n"
+"\n"
+"It's a shame I didn't get to show those\n"
+"thieves what I can do with my spear,\n"
+"though.\n"
+"<2.so>Anyway, maybe someday you and I can\n"
+"get a little sparring in? We might both\n"
+"learn something..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+msgctxt "talk06"
+msgid ""
+"<1.so>From what I hear, you're the Hylian that\n"
+"recovered the helm for the chief.\n"
+"\n"
+"Not only did you take care of the thieves,\n"
+"but you also had the skill to calm the\n"
+"Divine Beast...<2.pa>\n"
+"<3.so>Anyway, maybe someday you and I can\n"
+"get a little sparring in? I might really\n"
+"learn something..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "talk07"
+msgid "<1.so><2.so>Sav'otta.<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "talk08"
+msgid "<1.so><2.so>Sav'aaq.<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "talk09"
+msgid "<1.so><2.so>Sav'saaba.<3.pa>"
+msgstr ""
+

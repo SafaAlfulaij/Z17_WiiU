@@ -1,0 +1,756 @@
+msgctxt "0000"
+msgid "What have you got?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Can I sell something?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "5500"
+msgid "Yes."
+msgstr ""
+
+msgctxt "5501"
+msgid "No."
+msgstr ""
+
+msgctxt "5502"
+msgid "I'll buy."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "5508"
+msgid "All of them."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>I'm a treasure hunter,<2.pa> not a monster\n"
+"hunter..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid ""
+"<1.so>The thing about being a treasure hunter\n"
+"is...if you're smart, then you wait until\n"
+"the monsters are gone before you start."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_00"
+msgid "<1.so>What did you want to sell?"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_01"
+msgid ""
+"Sure. Let's do <1.se_co><2.va> rupees<3.re_co>.\n"
+"Do we have a deal?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02"
+msgid "<1.so>Thanks!<2.pa> Anything else you needed?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02b"
+msgid "<1.so>Thanks!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02c"
+msgid "<1.so>I do appreciate it!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02d"
+msgid "<1.so>Great, thanks."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_04"
+msgid "<1.so>That's a shame."
+msgstr ""
+
+msgctxt "Com_Talk_05"
+msgid "I'll buy anything!"
+msgstr ""
+
+msgctxt "Com_Talk_05b"
+msgid "I'll buy anything!"
+msgstr ""
+
+msgctxt "Com_Talk_05c"
+msgid "I'm in the market for all sorts of things."
+msgstr ""
+
+msgctxt "Com_Talk_05d"
+msgid "I'll buy anything—not just ancient parts!"
+msgstr ""
+
+msgctxt "Com_Talk_06"
+msgid "What are you interested in?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_07"
+msgid "<1.so>Sorry.<2.pa> I'm out of that."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_08"
+msgid ""
+"<1.so>You don't have enough rupees.<2.pa> Come\n"
+"back and talk to me when you've got\n"
+"some money."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_09"
+msgid ""
+"<1.so>Your inventory is full.<2.pa> Make a little room\n"
+"before you try buying anything."
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_10"
+msgid "You're sure about that?<1.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11"
+msgid "<1.so>Thank you!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_11b"
+msgid ""
+"<1.so>Thank you!<2.pa>\n"
+"\n"
+"\n"
+"I mean it. Thank you so much."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11c"
+msgid "<1.so>Thank you very much!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_11d"
+msgid "<1.so>Yes, yes.<2.pa> Thank you!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_12"
+msgid "<1.so>What catches your eye?"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_13"
+msgid "How many did you want to sell?<1.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"All right. I'll give you <1.se_co><2.va> rupees <3.re_co>total.\n"
+"Is that going to be all right?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_15"
+msgid "<1.so>Sorry, I can't buy that from you."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>I think it's common sense to take off\n"
+"the clothing you are wearing before\n"
+"you try selling them."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_20"
+msgid ""
+"<1.so>Bad weather always puts a damper on\n"
+"people's desire to shop,<2.pa> so how's about\n"
+"I put my best ancient parts on sale!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_30"
+msgid ""
+"That will come to <1.se_co><2.va><3.re_co> <4.se_co>rupees<5.re_co>\n"
+"altogether. Are you OK with that?<6.ch>"
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: choice
+msgctxt "Com_Talk_31"
+msgid ""
+"Found something you like, huh?<1.pa>\n"
+"How many do you want?<2.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_33"
+msgid "Just the one?<1.pa> Let's say <2.se_co><3.va> rupees<4.re_co>!<5.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_34"
+msgid ""
+"You... You want all of them?<1.pa> That sounds\n"
+"fine. That's <2.va>, for <3.se_co><4.va> rupees<5.re_co>.<6.ch>"
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"You wanna sell them all? I'll be happy to\n"
+"buy them.<1.pa> I'll give you <2.se_co><3.va> rupees <4.re_co>for\n"
+"the lot of 'em.<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Com_Talk_36"
+msgid ""
+"<1.so>Looks like I've got nothing left to sell!<2.pa>\n"
+"Thanks for being such a good customer."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Com_Talk_37"
+msgid ""
+"<1.so>Sorry. Junk shop's all closed up until I\n"
+"get some more junk.<2.pa> You wanna take a\n"
+"look at what I'll be selling next?<3.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_56"
+msgid ""
+"That'll be <1.se_co><2.va> rupees<3.re_co>, if you don't\n"
+"mind.<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Failed00"
+msgid ""
+"<1.so>There aren't any more monsters around, \n"
+"right?<2.pa> Right?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Oof...<2.pa> The life of a treasure hunter is\n"
+"fraught with danger, but I never thought\n"
+"this would happen to me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "GoodBye00"
+msgid "<1.so>For now,<2.pa> farewell..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "Guardian00"
+msgid ""
+"<1.so>That <2.se_co>Guardian<3.re_co>'s still moving!<4.pa> No way I'm\n"
+"going near one of those if it's still got\n"
+"any life left in it!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "MSG_Futa_00"
+msgid ""
+"<1.so>Have you noticed all the wreckage\n"
+"around here?<2.pa> It's the remains of\n"
+"<3.se_co>Guardians<4.re_co>, destroyed long ago...\n"
+"The villagers thought that they would\n"
+"protect them from any enemies...<5.pa>\n"
+"\n"
+"Take a look around you. Everywhere you\n"
+"look, you'll see it. The ruined dreams of\n"
+"those villagers."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "MSG_Futa_00_1"
+msgid ""
+"<1.so><2.se_co>Guardians <3.re_co>were built as a weapon to fend\n"
+"off enemies...<4.pa> That's what the people\n"
+"who made them wanted, at any rate."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "MSG_Futa_01"
+msgid ""
+"<1.so>Go far to the north, up to <2.se_co>Akkala<3.re_co>, and\n"
+"you'll find a man who deals in <4.se_co>Guardian<5.re_co>\n"
+"parts.\n"
+"He's half my business, truth be told.<6.pa> As\n"
+"long as he's in the market, I can keep\n"
+"treasure hunting until I get my big break."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "MSG_Futa_01_1"
+msgid ""
+"<1.so>If you head far north from here up to\n"
+"<2.se_co>Akkala<3.re_co>, you'll find the man who deals\n"
+"in the <4.se_co>Guardian <5.re_co>parts I sell."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "MSG_Futa_02"
+msgid ""
+"<1.so>You smell that?<2.pa> That's the smell\n"
+"of grease—not for cooking, but\n"
+"for keeping machines running!\n"
+"I've got a lot of <3.se_co>Guardian <4.re_co>parts on me,\n"
+"all day, every day, so that smell of grease\n"
+"follows me everywhere I go."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "MSG_Futa_02_1"
+msgid ""
+"<1.so>I spend so much time around these\n"
+"machines that I'm starting to think\n"
+"I've got grease for blood.\n"
+"<2.so>When you spend your whole life around\n"
+"<3.se_co>Guardian <4.re_co>wreckage and parts,<5.pa> your mind\n"
+"starts playing tricks on you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "MSG_Futa_03"
+msgid ""
+"<1.so>It's a sad story, when you think about it.<2.pa>\n"
+"\n"
+"\n"
+"<3.so>These <4.se_co>Guardians<5.re_co> now hunt down the\n"
+"people they were made to protect."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "MSG_Futa_03_1"
+msgid ""
+"<1.so>The <2.se_co>Guardians <3.re_co>were made to defend\n"
+"people.<4.pa> It must be so hard to see\n"
+"what they've become..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "MSG_Futa_04"
+msgid ""
+"<1.so>There's supposed to be a research nut\n"
+"around here too, but no one's seen\n"
+"her in a while.\n"
+"Maybe I should go hit up the lab, see if\n"
+"they'd be interested in <2.se_co>Guardian <3.re_co>parts."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Futa_04_1"
+msgid ""
+"<1.so>I wonder what the researchers around\n"
+"these parts do all day..."
+msgstr ""
+
+msgctxt "Near00"
+msgid "Hm. Ancient parts..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "An ancient screw..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "Hm. An ancient gear..."
+msgstr ""
+
+msgctxt "Near03"
+msgid "An ancient core?"
+msgstr ""
+
+msgctxt "Near04"
+msgid "Great, rain..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: sound
+msgctxt "Rest_00"
+msgid ""
+"<1.so>I'm salvaging any ancient parts I can\n"
+"find from the <2.se_co>Guardian <3.re_co>remains near\n"
+"<4.se_co>Fort Hateno<5.re_co>...<6.pa>\n"
+"<7.so>You know what they say—one man's\n"
+"trash is another man's treasure!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Rest_01"
+msgid ""
+"<1.so>Business really suffers on rainy days\n"
+"like this.<2.pa> I'm not sure if these hunks of\n"
+"junk rust, but I wouldn't want to find out."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>It's coming down hard...<2.pa> I guess I'll have\n"
+"to wait here until it clears up."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "RetMSG_Futa_00"
+msgid ""
+"<1.so>What am I doing, you ask?<2.pa> Good \n"
+"question, I say! I am on a mission,\n"
+"collecting ancient parts.<3.pa>\n"
+"<4.so>You guessed it!<5.pa> I'm a treasure hunter!\n"
+"And there are a LOT of ruined <6.se_co>Guardians<7.re_co>\n"
+"around here, so I'm a little bit excited!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "RetMSG_Futa_00_1"
+msgid ""
+"<1.so>There are lots of ruined <2.se_co>Guardians<3.re_co>\n"
+"around here,<4.pa> which is good news\n"
+"for treasure hunters."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound2
+#. 5: pause (long)
+msgctxt "RetMSG_Futa_01"
+msgid ""
+"<1.so>It's just a short hike west from here to\n"
+"<2.se_co>Fort Hateno<3.re_co>. Let's see... What can I\n"
+"tell you about that place...\n"
+"<4.so>Um...<5.pa> Eh, nothing really comes to mind."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "RetMSG_Futa_01_1"
+msgid ""
+"<1.so>If you head west a bit farther, you'll\n"
+"hit <2.se_co>Fort Hateno<3.re_co>!<4.pa> Watch your back, if\n"
+"you do go. There be monsters about!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "RetMSG_Futa_02"
+msgid ""
+"<1.so>I know what you're thinking.<2.pa> \"A treasure\n"
+"hunter? Why, that's nothing but a\n"
+"glorified junk collector!\"\n"
+"<3.so>First of all, that's really harsh.<4.pa> And\n"
+"second, it's tougher than it looks. I get\n"
+"attacked by monsters all the time!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "RetMSG_Futa_02_1"
+msgid ""
+"<1.so>My job?<2.pa> I suppose my business cards\n"
+"would read \"treasure hunter,\" but some\n"
+"folks might call me a junk collector...\n"
+"<3.so>Look, I know it may not seem it at first\n"
+"glance, but this is a TOUGH job. And\n"
+"nobody understands... It makes me sad..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (long)
+#. 9: sound
+#. 10: sound
+#. 11: set_colour (blue)
+#. 12: reset_colour
+msgctxt "RetMSG_Futa_03"
+msgid ""
+"<1.so>You wanna know what I do<2.pa> with all the\n"
+"<3.se_co>Guardian <4.re_co>parts I find?\n"
+"\n"
+"<5.so>There's a gentleman who works at the\n"
+"<6.se_co>Akkala Ancient Tech Lab<7.re_co>. He never turns\n"
+"down the parts I bring him.<8.pa>\n"
+"<9.so>Hey, hang on a minute...\n"
+"\n"
+"\n"
+"<10.so>You don't suppose he's actually\n"
+"repairing the <11.se_co>Guardians<12.re_co>, do you?!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "RetMSG_Futa_03_1"
+msgid ""
+"<1.so>There's a scientist of some sort over at\n"
+"the <2.se_co>Akkala Ancient Tech Lab <3.re_co>who loves\n"
+"it when I bring him <4.se_co>Guardian<5.re_co> parts.\n"
+"<6.so>Wait, what if he's repairing <7.se_co>Guardians<8.re_co>?\n"
+"That would be bad..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "RetMSG_Futa_04"
+msgid ""
+"<1.so>I'm collecting ancient parts<2.pa> from any\n"
+"ruined <3.se_co>Guardian <4.re_co>remains I find near\n"
+"<5.se_co>Fort Hateno<6.re_co>!\n"
+"Don't judge me."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "RetMSG_Futa_04_1"
+msgid ""
+"<1.so>I'm out collecting ancient parts from\n"
+"ruined <2.se_co>Guardian <3.re_co>remains near\n"
+"<4.se_co>Fort Hateno<5.re_co>!<6.pa> Don't you beat me to 'em!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>If it hadn't been for you, why, I'd be\n"
+"monster grub right now!<2.pa> Well, maybe\n"
+"that's an exaggeration—but it feels true!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Fancy that!<2.pa> A seasoned treasure hunter\n"
+"like myself, rescued by a wandering hero\n"
+"like you! It's the stuff of fairy tales!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>That was close...<2.pa> A little too close for my\n"
+"tastes.<3.pa> I'm lucky you were here for me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>I was convinced my treasure-hunting\n"
+"days were over!<2.pa> Thanks for saving my\n"
+"skin, pal."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>I thought for sure I was a goner.<2.pa> I'm\n"
+"never going to forget this, pal."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>This is no exaggeration, but<2.pa> if you\n"
+"hadn't come along,<3.pa> I wouldn't be\n"
+"alive right now. I just know it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Talk01"
+msgid ""
+"<1.so>Hey, question for you!<2.pa>\n"
+"\n"
+"\n"
+"Do you have any interest in Guardian\n"
+"remains?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk02"
+msgid "<1.so>Do you need anything else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Thanks00"
+msgid ""
+"<1.so>Please take this as a sign of my\n"
+"gratitude."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk00"
+msgid ""
+"<1.so>Hey.<2.pa> The name's Teli! I'm a bit of a\n"
+"treasure hunter, if you get my drift."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>Hey.<2.pa> You're probably wondering, \"Is this\n"
+"the guy everyone's talking about?\"<3.pa>\n"
+"\n"
+"\"The dashing treasure hunter Teli, with\n"
+"his roguish good looks?\" Yep, that's me."
+msgstr ""
+

@@ -1,0 +1,670 @@
+msgctxt "0000"
+msgid "A suspicious place?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Sounds great!"
+msgstr ""
+
+msgctxt "0003"
+msgid "No, thanks."
+msgstr ""
+
+msgctxt "0004"
+msgid "Take me there?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Yeah, I understand."
+msgstr ""
+
+msgctxt "0006"
+msgid "Take me there?"
+msgstr ""
+
+msgctxt "0007"
+msgid "I'll help you out."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (long)
+#. 8: pause (long)
+msgctxt "LookPicture"
+msgid ""
+"<1.so>...<2.pa>\n"
+"\n"
+"\n"
+"This...<3.pa>is the <4.se_co>Great Fairy Fountain<5.re_co>?\n"
+"\n"
+"\n"
+"<6.so>It's certainly beautiful, but...<7.pa>I thought\n"
+"it would be more...<8.pa>sacred and elegant."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk01"
+msgid ""
+"<1.so>The <2.se_co>Great Fairy Fountain <3.re_co>was lovely,\n"
+"but this village's architecture is\n"
+"quite elegant as well."
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Talk03"
+msgid ""
+"<1.so>Hmm. A gate and a snowy mountain...\n"
+"\n"
+"\n"
+"Ah! There's a big snowy mountain east of\n"
+"this village. It's called <2.se_co>Mount Lanayru<3.re_co>.\n"
+"\n"
+"<4.so>I think there was a gate at\n"
+"the bottom of <5.se_co>Mount Lanayru<6.re_co>,\n"
+"west of <7.se_co>Naydra Snowfield<8.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: sound
+#. 8: pause (longer)
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: choice
+msgctxt "Talk04"
+msgid ""
+"<1.so>Oh, it's you! Great timing!<2.pa> I have some\n"
+"news.<3.pa> I did more research regarding the\n"
+"<4.se_co>Great Fairy Fountain<5.re_co>...<6.pa>and I have a lead!\n"
+"<7.so>However...although I know of the spot\n"
+"where it's likely located, it's really hard\n"
+"to get there. <8.pa>I'm not sure I can do it...\n"
+"*SIGH* Even if it's just a <9.se_co>picture<10.re_co>,\n"
+"I'm dying to see it...<11.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (long)
+msgctxt "Talk05"
+msgid ""
+"<1.so>A long time ago, <2.se_co>Mount Lanayru<3.re_co>'s peak\n"
+"was said to be a <4.se_co>sacred place where\n"
+"dragons lived<5.re_co>.\n"
+"<6.so>I think that's just a legend...<7.pa>but wow,\n"
+"if it's true, I would love to capture that\n"
+"in a piece of art!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk06"
+msgid ""
+"<1.so>So you found the gate?<2.pa> Heh, I can tell\n"
+"just from the look on your face."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk07"
+msgid ""
+"<1.so>There must have been a time when lots\n"
+"of people used that gate...<2.pa> The world\n"
+"sure is fickle, isn't it?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: sound
+#. 8: sound
+#. 9: pause (short)
+#. 10: sound
+#. 11: sound
+#. 12: pause (longer)
+#. 13: choice
+msgctxt "Talk08"
+msgid ""
+"<1.so>Hm? Are you...<2.pa> Sorry to bother you,\n"
+"but are you a fellow traveler?\n"
+"\n"
+"<3.so>As for me, I just looove art. In fact,\n"
+"I'm traveling the world in search of\n"
+"beautiful landscapes.\n"
+"<4.so>Just between you and me...\n"
+"\n"
+"\n"
+"I hear there's a <5.se_co>Great Fairy Fountain<6.re_co>\n"
+"somewhere near this village. I hear\n"
+"it's breathtakingly beautiful.\n"
+"<7.so>Aesthetics aside, they also say the place\n"
+"can bestow people with some kind of\n"
+"mysterious power...\n"
+"<8.so>I've been researching it for ages,\n"
+"and I finally have a lead. <9.pa>There's a\n"
+"place that is beyond suspicious...\n"
+"<10.so>The problem is, I can't seem to find\n"
+"the fountain there.\n"
+"\n"
+"<11.so>*sigh* Nothing beats the thrill of tracking\n"
+"down a perfect view. <12.pa>As a fellow traveler,\n"
+"you understand the sentiment, right?<13.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+msgctxt "Talk10"
+msgid ""
+"<1.so>It's been years since I've visited this\n"
+"village, so it was hard to dig up info.\n"
+"\n"
+"As you've probably noticed, the people\n"
+"here all wear the same attire.\n"
+"\n"
+"I made the mistake of asking the same\n"
+"person the same thing multiple times.\n"
+"Oops.\n"
+"<2.so>I was already a stranger to the village,\n"
+"but now I'm a suspicious roamer to them.\n"
+"\n"
+"<3.so>But if it helps me track down a beautiful\n"
+"landscape, I don't care what people\n"
+"think of me!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: set_colour (red)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (longer)
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: pause (long)
+#. 13: sound
+#. 14: pause (long)
+#. 15: pause (short)
+#. 16: pause (long)
+#. 17: sound
+#. 18: pause (short)
+#. 19: set_colour (red)
+#. 20: reset_colour
+msgctxt "Talk11"
+msgid ""
+"<1.so>So...<2.pa>tired...<3.pa> Hills aren't easy for\n"
+"old fogies like me.<4.pa> Sorry, but I\n"
+"don't think I can go on... *pant*\n"
+"The <5.se_co><6.se_co>Great Fairy Fountain<7.se_co> <8.re_co>should "
+"be...<9.pa>\n"
+"<10.se_co>along the path that leads past\n"
+"the shrine<11.re_co>.<12.pa> *pant*\n"
+"<13.so>That's what I've been told, anyway.<14.pa>\n"
+"Yeesh, I'm completely out of breath!\n"
+"That always happens right about here.\n"
+"*pant*<15.pa> I think I'd better rest for a bit.<16.pa>\n"
+"You go on ahead.\n"
+"\n"
+"<17.so>And hey, if you find it...<18.pa>don't forget to\n"
+"get a <19.se_co>picture<20.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: sound
+#. 8: choice
+msgctxt "Talk13"
+msgid ""
+"<1.so>Oh! I knew it!<2.pa> I just KNEW there\n"
+"was someone like me nearby who\n"
+"appreciates true beauty.\n"
+"<3.so>Sadly, I can't pin down the exact location\n"
+"of the <4.se_co>Great Fairy Fountain<5.re_co>.\n"
+"\n"
+"<6.so>I haven't put it all together yet,\n"
+"but there's a suspicious place\n"
+"I have my eye on...\n"
+"<7.so>In fact, I was about to head there now.\n"
+"Would you like to come along?<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk14"
+msgid ""
+"<1.so>Great answer! Just what I expected from\n"
+"a fellow beauty connoisseur like you.<2.pa>\n"
+"All right then. Follow me!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (long)
+#. 7: choice
+msgctxt "Talk15"
+msgid ""
+"<1.so>Oh?<2.pa> You're interested in the\n"
+"<3.se_co>Great Fairy Fountain <4.re_co>too?\n"
+"\n"
+"<5.so>Ha! Well! Anyone who loves beautiful\n"
+"scenery as much as I do is a friend.<6.pa>\n"
+"OK, that settles it. I'll guide you there!<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: set_colour (red)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: choice
+msgctxt "Talk16"
+msgid ""
+"<1.so>The <2.se_co><3.se_co>Great Fairy Fountain<4.se_co> <5.re_co>isn't "
+"just lovely,\n"
+"they say it can bestow some kind of\n"
+"mysterious power on people.\n"
+"<6.so>I'm pretty sure that one suspicious spot\n"
+"is where it's hidden... But then why can't\n"
+"I find it?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk17"
+msgid ""
+"<1.so>Wow, you sure are high-spirited!<2.pa>\n"
+"I didn't know you loved beautiful\n"
+"landscapes quite so much.\n"
+"Well, shall we?"
+msgstr ""
+
+#. 1: text_size
+#. 2: set_colour (blue)
+#. 3: sound2
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: text_size
+msgctxt "Talk18"
+msgid ""
+"<1.te_si><2.se_co><3.so>Great Fairy Fountain<4.re_co>...<5.pa>\n"
+"I will...find you...<6.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk19"
+msgid ""
+"<1.so>The area beyond that elevated bit of land\n"
+"is suspicious...<2.pa>but why can't I find the\n"
+"Great Fairy Fountain?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk20"
+msgid ""
+"<1.so>My desire to view beautiful landscapes\n"
+"is stronger than anyone else's.\n"
+"Ever, I'm pretty sure.\n"
+"But my body just can't handle the\n"
+"groundwork... Even now, my knees\n"
+"are trembling."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: sound
+#. 9: pause (longer)
+#. 10: sound
+#. 11: pause (short)
+msgctxt "Talk21"
+msgid ""
+"<1.so>Hm? Are you...<2.pa> Sorry to bother you,\n"
+"but are you a fellow traveler?\n"
+"\n"
+"As for me, I just looove art.<3.pa> In fact,\n"
+"I'm traveling the world in search of\n"
+"beautiful landscapes.\n"
+"<4.so>Just between you and me...\n"
+"\n"
+"\n"
+"I hear there's a <5.se_co>Great Fairy Fountain<6.re_co>\n"
+"somewhere near this village. <7.pa>I hear\n"
+"it's breathtakingly beautiful.\n"
+"Aesthetics aside, they also say the place\n"
+"can bestow some kind of mysterious\n"
+"power on people...\n"
+"<8.so>However, since I'm an outsider, I can't\n"
+"get anyone to tell me any more details\n"
+"than that.\n"
+"These villagers never leave the safety of\n"
+"their village,<9.pa> so travelers like me are\n"
+"treated with suspicion.\n"
+"<10.so>But I won't give up!<11.pa> Oh, and if I manage\n"
+"to find out anything, I'll be sure to let\n"
+"you know."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: sound
+#. 8: pause (longer)
+#. 9: sound
+#. 10: pause (short)
+msgctxt "Talk22"
+msgid ""
+"<1.so>They say there's a <2.se_co>Great Fairy "
+"Fountain<3.re_co><4.se_co><5.re_co>\n"
+"somewhere in this village. I hear it's\n"
+"utterly breathtaking.\n"
+"<6.so>Aesthetics aside, they also say it can\n"
+"bestow people with mysterious powers!\n"
+"\n"
+"<7.so>It's too bad <8.pa>I just can't figure out the\n"
+"exact location...\n"
+"\n"
+"<9.so>But I'm not gonna give up!<10.pa>\n"
+"Oh, and if I find out anything,\n"
+"I'll be sure to let you know."
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: text_size
+msgctxt "Talk23"
+msgid "<1.so><2.te_si>My journey...is on the horizon...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: set_colour (red)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: choice
+msgctxt "Talk24"
+msgid ""
+"<1.so>The <2.se_co><3.se_co>Great Fairy Fountain<4.se_co> <5.re_co>isn't "
+"just lovely,\n"
+"they say it can bestow some kind of\n"
+"mysterious power on people...\n"
+"<6.so>I'm pretty sure I know where it's hidden,\n"
+"but still it eludes me...<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: sound
+#. 8: sound
+#. 9: pause (short)
+#. 10: sound
+#. 11: sound
+#. 12: pause (longer)
+#. 13: choice
+msgctxt "Talk25"
+msgid ""
+"<1.so>Wow. <2.pa>It's really coming down, isn't it?\n"
+"\n"
+"\n"
+"I have my Sheikah gear, so I'm fine,\n"
+"but are you going to be OK?\n"
+"Hope so.\n"
+"As for me, I just looove art. <3.pa>In fact,\n"
+"I'm traveling the world in search of\n"
+"beautiful landscapes.\n"
+"<4.so>Just between you and me...\n"
+"\n"
+"\n"
+"I hear there's a <5.se_co>Great Fairy Fountain<6.re_co>\n"
+"somewhere near this village. It's said\n"
+"to be breathtakingly beautiful.\n"
+"<7.so>Aesthetics aside, they also say the place\n"
+"can bestow people with some kind of\n"
+"mysterious power...\n"
+"<8.so>I've been researching it for ages,\n"
+"and I finally have a lead. <9.pa>There's a\n"
+"place that is beyond suspicious...\n"
+"<10.so>The problem is, I can't seem to find\n"
+"the fountain there.\n"
+"\n"
+"<11.so>*sigh* Nothing beats the thrill of tracking\n"
+"down a perfect view. <12.pa>As a fellow traveler,\n"
+"you understand the sentiment, right?<13.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: sound
+#. 9: pause (longer)
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: choice
+msgctxt "Talk26"
+msgid ""
+"<1.so>Are you OK standing out in the rain?\n"
+"If I could, I'd gladly lend you my\n"
+"Sheikah gear...\n"
+"Thing is, <2.pa>there's a strict rule about only\n"
+"the Sheikah being allowed to wear it.\n"
+"\n"
+"<3.so>Anyhoo, guess what!<4.pa>\n"
+"\n"
+"\n"
+"I've done a bit more research regarding\n"
+"the <5.se_co>Great Fairy Fountain<6.re_co>, <7.pa>and I finally\n"
+"found a suspicious spot!\n"
+"<8.so>However...it's really hard to get there.<9.pa>\n"
+"Honestly, I'm not sure I can do it.\n"
+"\n"
+"*SIGH* Even if it's just a <10.se_co>picture<11.re_co>,\n"
+"I'm dying to see it...<12.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: sound
+#. 9: pause (longer)
+#. 10: sound
+#. 11: pause (short)
+msgctxt "Talk27"
+msgid ""
+"<1.so>Wow, it's really coming down, isn't it?\n"
+"\n"
+"\n"
+"<2.so>I have my Sheikah gear, so I'm fine,\n"
+"but are you going to be OK?\n"
+"Hope so.\n"
+"As for me, I just looove art.<3.pa> In fact,\n"
+"I'm traveling the world in search of\n"
+"beautiful landscapes.\n"
+"<4.so>Just between you and me...\n"
+"\n"
+"\n"
+"I hear there's a <5.se_co>Great Fairy Fountain<6.re_co>\n"
+"somewhere near this village. <7.pa>I hear\n"
+"it's breathtakingly beautiful.\n"
+"Aesthetics aside, they also say the place\n"
+"can bestow some kind of mysterious\n"
+"power on people...\n"
+"<8.so>However, since I'm an outsider, I can't\n"
+"get anyone to tell me any more details\n"
+"than that.\n"
+"These villagers never leave the safety of\n"
+"their village,<9.pa> so travelers like me are\n"
+"treated with suspicion.\n"
+"<10.so>But I won't give up!<11.pa> Oh, and if I manage\n"
+"to find out anything, I'll be sure to let\n"
+"you know."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: sound
+#. 6: pause (longer)
+#. 7: sound
+#. 8: pause (short)
+msgctxt "Talk28"
+msgid ""
+"<1.so>They say there's a <2.se_co>Great Fairy Fountain<3.re_co>\n"
+"somewhere in this village.\n"
+"\n"
+"<4.so>Aesthetics aside, they also say it can\n"
+"bestow mysterious powers on people!\n"
+"\n"
+"<5.so>It's too bad <6.pa>I just can't figure out the\n"
+"exact location...\n"
+"\n"
+"<7.so>But I'm not gonna give up!<8.pa> Not even if\n"
+"it rains! Not even if it snows! Not even\n"
+"if I get struck by lightning!!\n"
+"Oh, and of course, I'll let you know if\n"
+"I find out anything!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+msgctxt "Talk29"
+msgid ""
+"<1.so>It's been years since I've visited this\n"
+"village, so it was hard to dig up info.\n"
+"\n"
+"As you've probably noticed, the people\n"
+"here all wear the same attire.\n"
+"\n"
+"I made the mistake of asking the same\n"
+"person the same thing multiple times.\n"
+"Oops.\n"
+"<2.so>I was already a stranger to the village,\n"
+"but now I'm a suspicious roamer to them.\n"
+"\n"
+"<3.so>But if it helps me track down a beautiful\n"
+"landscape, I don't care what people\n"
+"think of me!\n"
+"Hey, we're almost there! The weather's\n"
+"not so great, so we'd better hurry."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: set_colour (red)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (longer)
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: pause (long)
+#. 13: pause (long)
+#. 14: sound
+#. 15: pause (short)
+#. 16: sound
+#. 17: set_colour (red)
+#. 18: reset_colour
+msgctxt "Talk30"
+msgid ""
+"<1.so>So...<2.pa>tired...<3.pa> Hills aren't easy for\n"
+"old fogies like me.<4.pa> Sorry, but I\n"
+"don't think I can go on... *pant*\n"
+"The <5.se_co><6.se_co>Great Fairy Fountain<7.se_co> <8.re_co>should "
+"be...<9.pa>\n"
+"<10.se_co>along the path that leads past\n"
+"the shrine<11.re_co>.<12.pa> *pant*\n"
+"That's what I've been told, anyway.<13.pa>\n"
+"Yeesh, I'm completely out of breath!\n"
+"That always happens right about here.\n"
+"<14.so>*pant*<15.pa> The weather is awful, too,\n"
+"so I think I'd better rest for a bit.\n"
+"\n"
+"<16.so>But hey, if you find it...don't forget to\n"
+"get a <17.se_co>picture<18.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk31"
+msgid ""
+"<1.so>Wow! You're high-spirited, even in\n"
+"the rain!<2.pa> I didn't know you loved\n"
+"beautiful landscapes quite so much.\n"
+"Well, shall we?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk32"
+msgid ""
+"<1.so>The area beyond that elevated bit of land\n"
+"is suspicious... Perhaps I'll go take a\n"
+"look when the weather clears up."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk34"
+msgid "<1.so>To think we'd run into each other again..."
+msgstr ""
+

@@ -1,0 +1,141 @@
+msgctxt "0000"
+msgid "I am!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Eh. Not really."
+msgstr ""
+
+msgctxt "Near00"
+msgid "It's rainy!"
+msgstr ""
+
+msgctxt "Near01"
+msgid "*yawn*"
+msgstr ""
+
+msgctxt "Near03"
+msgid "This way! This way!"
+msgstr ""
+
+msgctxt "Near04"
+msgid "Zzz..."
+msgstr ""
+
+msgctxt "Near06"
+msgid "Food. Foooood..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk00"
+msgid ""
+"<1.so>I'm gonna go have dinner!<2.pa>\n"
+"I have to hurry back home!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Zzz..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Mom's home cooking is the best!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk04"
+msgid ""
+"<1.so>I'm going to sleep!<2.pa>\n"
+"Good night!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (long)
+#. 8: choice
+msgctxt "talk05"
+msgid ""
+"<1.so>Have you heard?<2.pa> There's this really\n"
+"interesting spot at <3.se_co>Palmorae Beach<4.re_co>.\n"
+"\n"
+"I went there with Garini before, and it\n"
+"was so exciting!\n"
+"\n"
+"He said they were <5.se_co>ruins <6.re_co>or something.<7.pa>\n"
+"Hey, mister, are you interested in old\n"
+"stuff like that?<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk06"
+msgid ""
+"<1.so>Then I'll take you there!<2.pa>\n"
+"Follow me!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk07"
+msgid "<1.so>Whaa, really?<2.pa> That's too bad."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid "<1.so>We're not there yet!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid "<1.so>We made it!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid ""
+"<1.so>We're almost there.\n"
+"Follow me!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk11"
+msgid "<1.so>Those are the <2.se_co>ruins<3.re_co>!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid "<1.so>See ya!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk14"
+msgid "<1.so>Tell Garini I said hi!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk15"
+msgid ""
+"<1.so>How were the <2.se_co>ruins<3.re_co>?<4.pa> Were they\n"
+"exciting?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk16"
+msgid ""
+"<1.so>Rain, rain...<2.pa> I love to run and jump and\n"
+"play in the rain..."
+msgstr ""
+

@@ -1,0 +1,274 @@
+msgctxt "0000"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0001"
+msgid "No."
+msgstr ""
+
+msgctxt "0003"
+msgid "OK, sure."
+msgstr ""
+
+msgctxt "0004"
+msgid "No way."
+msgstr ""
+
+msgctxt "near00"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "near01"
+msgid "*sigh*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk00"
+msgid "<1.so>Hey there.<2.pa> Mornin'..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk01"
+msgid "<1.so>Hey there.<2.pa> Good day..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk02"
+msgid "<1.so>Hey there.<2.pa> Good evenin'..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk03"
+msgid "<1.so>Great...<2.pa> And now it's raining..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk06"
+msgid "<1.so>So are you staying in Rito Village too?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk07"
+msgid "<1.so>I see. Nice to meet a fellow admirer."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk08"
+msgid ""
+"<1.so>Oh...<2.pa> You're not?<3.pa>\n"
+"Well, never mind."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk09"
+msgid ""
+"<1.so>I always liked the simple nature of this\n"
+"village.\n"
+"\n"
+"<2.so>Although, I'm starting to regret choosing\n"
+"it as my honeymoon destination...\n"
+"\n"
+"<3.so>It's really cold here and there's not much\n"
+"to do, so my <4.se_co>wife <5.re_co>is complaining nonstop.\n"
+"She won't even talk to me right now."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid "<1.so>Sure, see you around."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk11"
+msgid ""
+"<1.so>Hey.<2.pa> You sure look energetic.\n"
+"Aren't you cold?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>*yawn*<2.pa>\n"
+"Howdy."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk15"
+msgid ""
+"<1.so>I'm here on my honeymoon. My <2.se_co>wife <3.re_co>is\n"
+"giving me the silent treatment. She hates\n"
+"it here."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk16"
+msgid ""
+"<1.so>Oh, man.<2.pa> If this doesn't work, she's\n"
+"going to divorce me for sure!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: pause (short)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk17"
+msgid ""
+"<1.so>That unmistakable, slightly acrid scent...<2.pa>\n"
+"You have some<3.se_co><4.pa><5.re_co> <6.se_co>flint <7.re_co>on you, "
+"don't you?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk18"
+msgid ""
+"<1.so>Th-<2.pa>thanks!<3.pa> As promised, here's your\n"
+"payment."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+#. 9: pause (short)
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: sound
+msgctxt "talk19"
+msgid ""
+"<1.so>Thanks for selling me some <2.se_co>flint<3.re_co>.\n"
+"\n"
+"\n"
+"I'll bake some more apples,<4.se_co> <5.re_co>so keep\n"
+"bringing me <6.se_co>flint<7.re_co>.\n"
+"\n"
+"<8.so>She...<9.pa>has a weird obsession with\n"
+"<10.se_co>baked apples<11.re_co>.\n"
+"\n"
+"<12.so>I fear that's the only thing keeping her\n"
+"from filing for divorce."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk20"
+msgid "<1.so>Can you sell me <2.se_co>a piece<3.re_co>?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk21"
+msgid "<1.so>Can you sell me <2.se_co>five <3.re_co>of those?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk22"
+msgid "<1.so>Can you sell me <2.se_co>10 <3.re_co>of those?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk23"
+msgid "<1.so>Can you sell me <2.se_co>30 <3.re_co>of those?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk24"
+msgid "<1.so>Can you sell me <2.se_co>50 <3.re_co>of those?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk25"
+msgid "<1.so>Can you sell me <2.se_co>100 <3.re_co>of those?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk26"
+msgid ""
+"<1.so>I still need to make more <2.se_co>baked apples<3.re_co> to\n"
+"keep my wife happy, so please bring me\n"
+"more <4.se_co>flint<5.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk27"
+msgid ""
+"<1.so>I need to make some <2.se_co>baked apples <3.re_co>to\n"
+"keep my wife happy...\n"
+"\n"
+"<4.so>But I don't have any <5.se_co>flint <6.re_co>to start a fire..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk28"
+msgid ""
+"<1.so>A-<2.pa>all right!<3.pa> Now I can make some\n"
+"<4.se_co>baked apples<5.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk29"
+msgid ""
+"<1.so>Bring me a few, and I'll reimburse you.<2.pa>\n"
+"Thanks, friend."
+msgstr ""
+
+#. 1: sound2
+#. 2: sound
+msgctxt "talk30"
+msgid "<1.so><2.so>U-urgh..."
+msgstr ""
+

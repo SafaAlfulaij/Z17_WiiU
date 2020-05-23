@@ -1,0 +1,92 @@
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: animation
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: set_colour (blue)
+#. 13: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRito_000"
+msgid ""
+"<1.so>Ah! Wandering around here and listening\n"
+"to anecdotes about <2.se_co>Champion Revali<3.re_co>\n"
+"has truly invigorated me.\n"
+"<4.se_co><5.an><6.re_co>In fact, it has inspired me to honor\n"
+"him in my own way, separate from\n"
+"my teacher's <7.se_co>unfinished song<8.re_co>.\n"
+"<9.so>That is why I felt inclined to roost here,\n"
+"near the <10.se_co>Divine Beast Vah Medoh<11.re_co>,\n"
+"which <12.se_co>Revali <13.re_co>himself mastered."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: sound
+#. 3: animation
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRito_001"
+msgid ""
+"<1.au_ad><2.so><3.an>I've written a song...to try and capture\n"
+"the essence of <4.se_co>Champion Revali<5.re_co>..."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: set_colour (blue)
+#. 7: raw
+#. 8: reset_colour
+#. 9: pause (60f)
+#. 10: raw
+#. 11: pause (long)
+#. 12: pause (long)
+#. 13: auto_advance
+#. 14: raw
+#. 15: set_colour (blue)
+#. 16: reset_colour
+#. 17: pause (long)
+#. 18: pause (48f)
+#. 19: raw
+#. 20: pause (long)
+#. 21: pause (longer)
+msgctxt "Npc_Musician_AoC_HeroRito_100"
+msgid ""
+"<1.au_ad><2.ra>♪Recall <3.se_co>Medoh<4.re_co>'s<5.pa> "
+"<6.se_co><7.ra><8.re_co>Champion of flight,<9.pa>\n"
+"<10.ra>before he fell <11.pa>to his fateful plight.♪<12.pa>\n"
+"\n"
+"<13.au_ad><14.ra>♪<15.se_co>Revali<16.re_co>'s feat <17.pa>was a wonder "
+"to see,<18.pa>\n"
+"<19.ra>so the princess <20.pa>made her plea.♪<21.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRito_500"
+msgid ""
+"<1.so><2.an>Hmm... It seems the <3.se_co>Rito Champion<4.re_co>\n"
+"was not one to share his feelings."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRito_501"
+msgid ""
+"<1.so>So? What do you think of\n"
+"<2.se_co>Champion Revali's Song<3.re_co>?\n"
+"\n"
+"By writing a song that highlights the\n"
+"hidden feelings of Champion Revali, I feel\n"
+"closer than ever to my dear teacher."
+msgstr ""
+

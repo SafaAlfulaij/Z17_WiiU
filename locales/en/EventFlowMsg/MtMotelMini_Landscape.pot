@@ -1,0 +1,66 @@
+msgctxt "Ready_Npc_DeathMt001_Near"
+msgid "..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Ready_Npc_DeathMt001_Talk_00"
+msgid "<1.so>I wish I had this kind of artistic skill..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Ready_Npc_DeathMt001_Talk_01"
+msgid ""
+"<1.so>Have you come to look at this picture\n"
+"too?<2.pa> It's so beautiful... I could spend\n"
+"hours just looking at it."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Ready_Npc_DeathMt001_Talk_02"
+msgid ""
+"<1.so>This painting was made by Ozunda, the\n"
+"owner of this stable, or so I hear.\n"
+"\n"
+"<2.so>That volcano in the background...\n"
+"It's so majestic. And the stable is subtle\n"
+"in the scenery."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Ready_Npc_DeathMt001_Talk_03"
+msgid ""
+"<1.so>I think the <2.se_co>stable was painted from a\n"
+"southern direction<3.re_co>... The composition is\n"
+"just so impressive..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (long)
+msgctxt "Ready_Npc_DeathMt001_Talk_04"
+msgid ""
+"<1.so>Oh... There's a shrine on the left-hand\n"
+"side of the picture...\n"
+"\n"
+"I never noticed that shrine before.<2.pa>\n"
+"I've looked at this painting so much,<3.pa>\n"
+"and I never noticed it...\n"
+"Must be because that's an odd place for\n"
+"a shrine to be located. <4.pa>Who would go to\n"
+"a shrine there, anyway?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Ready_Npc_DeathMt001_Talk_05"
+msgid ""
+"<1.so>Wait, what? You went there?<2.pa> I guess\n"
+"for some people, there's nothing to\n"
+"stop them from traveling the world."
+msgstr ""
+

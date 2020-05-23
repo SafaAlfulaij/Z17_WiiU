@@ -1,0 +1,319 @@
+msgctxt "0000"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Which monsters?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Hateno Beach?"
+msgstr ""
+
+msgctxt "0004"
+msgid "That's right."
+msgstr ""
+
+msgctxt "near01"
+msgid "They'll pay! They'll all pay!"
+msgstr ""
+
+msgctxt "near02"
+msgid "Rrrgh..."
+msgstr ""
+
+msgctxt "near03"
+msgid "Let me at 'em..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk00"
+msgid ""
+"<1.so>Hmph. \"Good\" morning. <2.pa>What's so good\n"
+"about it, I ask?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>Hmph. \"Good\" day. <2.pa>What's so good\n"
+"about it, I ask?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk02"
+msgid ""
+"<1.so>Hmph. \"Good\" evening. <2.pa>What's so good\n"
+"about it, I ask?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk04"
+msgid ""
+"<1.so>Isn't that old Purah's <2.se_co>blue flame<3.re_co>?<4.pa>\n"
+"What are you up to with it?"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "talk05"
+msgid ""
+"<1.se_co><2.so><3.re_co>Hey! That's Purah's <4.se_co>flame<5.re_co>! "
+"<6.pa>How come\n"
+"you're messing with it?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk06"
+msgid "<1.so>Hey, you.<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk07"
+msgid "<1.so>What do YOU want?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid "<1.so>Cut it out, creep!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: raw
+#. 4: pause (long)
+#. 5: raw
+#. 6: sound
+#. 7: pause (long)
+#. 8: sound
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: pause (short)
+msgctxt "talk09"
+msgid ""
+"<1.so>Oh, don't act so clueless.<2.pa><3.ra>Although... "
+"<4.pa>Fine.<5.ra><6.so>You seem harmless enough.<7.pa> Forgive me,\n"
+"I've just been on edge with all these\n"
+"monsters running around.\n"
+"<8.so>They come up from <9.se_co>Hateno Beach <10.re_co>to\n"
+"steal my sheep. <11.pa>If someone doesn't do\n"
+"something soon, I won't have any left!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: raw
+msgctxt "talk10"
+msgid ""
+"<1.se_co><2.so><3.re_co>I hate that gang of monsters on \n"
+"<4.se_co>Hateno Beach<5.re_co>...<6.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "talk11"
+msgid ""
+"<1.so>The stupid ones who attack anything\n"
+"that moves.<2.pa> Last time they showed up,\n"
+"I gave them a taste of my pitchfork.\n"
+"<3.so>But I had second thoughts about\n"
+"following them back to their camp\n"
+"on <4.se_co>Hateno Beach<5.re_co>.<6.pa>\n"
+"I was mad enough to spit but maybe\n"
+"not mad enough to take on <7.se_co>seven\n"
+"monsters <8.re_co>at once."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk12"
+msgid ""
+"<1.so>It's southeast of the village.<2.pa> Follow the\n"
+"winding road, and you'll be there before\n"
+"you know it.<3.pa>\n"
+"It's well-known enough that you can\n"
+"probably find it on a <4.se_co>map<5.re_co>, come to that."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: raw
+#. 5: pause (longer)
+#. 6: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>Good... *sigh* <2.pa>Good-bye.<3.pa><4.ra>I'm sorry if we got off "
+"on the wrong foot.<5.pa>\n"
+"Uh...<6.pa>that's all..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: sound
+#. 6: choice
+msgctxt "talk14"
+msgid ""
+"<1.so>The sheep have calmed down. <2.pa>I think\n"
+"they get that they're not about to be\n"
+"snatched at any moment.\n"
+"<3.so>Hey... <4.pa>Sorry if I'm off the mark in asking\n"
+"this, <5.so>but are you the one who took care\n"
+"of those monsters?<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: raw
+msgctxt "talk15"
+msgid ""
+"<1.so>I had a feeling.<2.ra><3.so>When the sheep all calmed down,\n"
+"I thought, \"Maybe he did it...\"<4.ra>So it seems I owe you some thanks."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk16"
+msgid "<1.so>Oh, no you don't!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (longer)
+msgctxt "talk17"
+msgid ""
+"<1.so>You can't hide the truth from me.<2.pa>\n"
+"I might not feel it in my bones like the\n"
+"sheep do, but I'm no fool, either.\n"
+"Which is to say...<3.pa><4.pa>um...<5.pa> Thanks."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "talk18"
+msgid ""
+"<1.so>It'll be nice to have a night's sleep\n"
+"without worrying about my flock.\n"
+"\n"
+"<2.so>And, er...<3.pa> If you want...<4.pa>you can talk\n"
+"to me anytime. <5.pa>O-or not!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.so>This isn't much of a reward, but hey,\n"
+"it's light.<2.pa> That counts for something."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: raw
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "talk20"
+msgid ""
+"<1.so>I wanted to give you some <2.se_co>fresh milk<3.re_co>,\n"
+"but you don't have room for any.<4.ra>Go drink some <5.se_co>fresh "
+"milk<6.re_co><7.pa>—or sell it,\n"
+"that works too—and come back."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk22"
+msgid "<1.so>Though, it could certainly be worse..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk23"
+msgid ""
+"<1.so>The scent of the soil is the smell of life\n"
+"itself. <2.pa>If you ask me, anyway."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "talk25"
+msgid ""
+"<1.so>The sheep have been eating and sleeping\n"
+"better.<2.pa> They're yielding more milk too.<3.pa>\n"
+"You've single-handedly saved my flock!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: raw
+#. 8: pause (short)
+msgctxt "talk26"
+msgid ""
+"<1.so>Say...<2.pa>is that the <3.se_co>blue flame<4.re_co> from the\n"
+"<5.se_co>Hateno Ancient Tech Lab<6.re_co>?<7.ra>What are you doing with "
+"it? <8.pa>Some kind\n"
+"of scientific ritual?"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "talk27"
+msgid ""
+"<1.se_co><2.so><3.re_co>That's the <4.se_co>flame <5.re_co>they use up at"
+" the\n"
+"<6.se_co>Hateno Ancient Tech Lab<7.re_co>!<8.pa> Where are\n"
+"you taking it?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk28"
+msgid "<1.so>Anything else you wanna know?<2.ra>"
+msgstr ""
+

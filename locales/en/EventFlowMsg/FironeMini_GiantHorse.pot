@@ -1,0 +1,251 @@
+msgctxt "0000"
+msgid "Leave it to me."
+msgstr ""
+
+msgctxt "0001"
+msgid "I'm not interested."
+msgstr ""
+
+msgctxt "0002"
+msgid "Giant horse?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Monsters?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Go ahead."
+msgstr ""
+
+msgctxt "Near00"
+msgid "So...big..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Zzz..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "Ohhh..."
+msgstr ""
+
+msgctxt "Near03"
+msgid "Hey there!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: single_choice
+msgctxt "talk00"
+msgid ""
+"<1.so>Hey there!<2.pa> It's not every day that I see\n"
+"someone all the way out here!\n"
+"\n"
+"We're doing an ecological study on the\n"
+"wild animals in the area.\n"
+"\n"
+"We'd heard that there was a <3.se_co>giant horse<4.re_co>\n"
+"living in this region.<5.pa> Apparently it\n"
+"can't be found anywhere else...\n"
+"That was all we needed to hear!\n"
+"We headed this way to investigate\n"
+"right away!<6.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>That horse...<2.pa> It's huge...<3.pa>\n"
+"\n"
+"\n"
+"I've never seen one that big! That is\n"
+"definitely an endemic species!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk02"
+msgid ""
+"<1.so>Well? What do you say?<2.pa> Are you willing\n"
+"to help us investigate these stories of a\n"
+"<3.se_co>giant horse<4.re_co>?<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid ""
+"<1.so>This is to thank you for helping with our\n"
+"investigation!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: single_choice
+msgctxt "talk04"
+msgid ""
+"<1.so>The really big horse in this region is\n"
+"likely part of a rare, local species.\n"
+"\n"
+"However, with all the monsters roaming\n"
+"around, <2.pa>we simply can't go any farther.<3.pa>\n"
+"To be so close to discovery...<4.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid ""
+"<1.so>To think that there is actually a horse\n"
+"this big out there. How surprising!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk06"
+msgid "<1.so>Ah, you're a lifesaver!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk07"
+msgid ""
+"<1.so>I see. Well... Oh, well, then...<2.pa>\n"
+"\n"
+"\n"
+"If you change your mind, come back and\n"
+"talk to me again!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk08"
+msgid ""
+"<1.so>How's it going?<2.pa> Have you made progress\n"
+"in studying the <3.se_co>giant horse<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk09"
+msgid ""
+"<1.so>They say that the <2.se_co>giant horse<3.re_co> lives\n"
+"around the <4.se_co>Taobab Grassland<5.re_co>... That'd\n"
+"be northwest of here."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk10"
+msgid ""
+"<1.so>Do you think you could catch it and\n"
+"bring it back here?<2.pa> Don't stress out\n"
+"over the request, though!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid "<1.so>What do you want at this hour?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk12"
+msgid ""
+"<1.so>It's gotten really late.<2.pa> Why not rest for\n"
+"the night, hmm?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: pause (short)
+#. 7: sound
+#. 8: pause (long)
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: choice
+msgctxt "talk13"
+msgid ""
+"<1.so>That's right...<2.pa> There was even a monster\n"
+"that looked quite a lot like a horse...\n"
+"\n"
+"I approached it, thinking at first that it\n"
+"was the <3.se_co>giant horse<4.re_co> we've been looking\n"
+"for,<5.pa> but... <6.pa>Oh, it was terrible...\n"
+"<7.so>Just from looking at you, I'd guess that\n"
+"you're an adventurer, right?\n"
+"You certainly look strong.\n"
+"Hrm...<8.pa> Hey, how would you like to go and\n"
+"catch a <9.se_co>giant horse<10.re_co> for us?<11.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "talk14"
+msgid ""
+"<1.so>Hey,<2.pa> we're out here doing an\n"
+"ecological study on the wildlife of\n"
+"this area.\n"
+"Specifically, we're here to look into\n"
+"reports of a giant horse.\n"
+"\n"
+"<3.so>And you brought it right to us!<4.pa> Thanks\n"
+"to you, we were able to meet the giant\n"
+"horse without having to search!"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk15"
+msgid ""
+"<1.so>Sorry, but can I take a good look\n"
+"at that horse?<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk16"
+msgid "<1.so>Thanks, I'll be right back."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: auto_advance
+msgctxt "talk17"
+msgid "<1.so>Hrmmm.<2.pa> This is impressive.<3.au_ad>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk18"
+msgid ""
+"<1.so>Wow. With this much info, I can feel my\n"
+"spirit for discovery murmuring in\n"
+"contentment.\n"
+"It's definitely different, seeing something\n"
+"with your own eyes rather than just\n"
+"reading about it. Thank you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: auto_advance
+msgctxt "talk19"
+msgid "<1.so>Ah, hmm.<2.pa> Quite interesting.<3.au_ad>"
+msgstr ""
+

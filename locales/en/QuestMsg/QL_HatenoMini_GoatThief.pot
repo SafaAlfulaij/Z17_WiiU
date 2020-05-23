@@ -1,0 +1,42 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_HatenoMini_GoatThief_Desc"
+msgid ""
+"A shepherd in Hateno Village named Koyin is\n"
+"worried that monsters will make off with her\n"
+"flock of sheep.\n"
+"\n"
+"According to her, the monsters in question\n"
+"congregate at <1.se_co>Hateno Beach<2.re_co>. She won't\n"
+"breathe easy until <3.se_co>every last<4.re_co> monster there\n"
+"is defeated."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_HatenoMini_GoatThief_Extermination"
+msgid ""
+"You defeated every last monster lurking\n"
+"on Hateno Beach! The village is safe for\n"
+"sheep at last.\n"
+"\n"
+"Go tell <1.se_co>Koyin<2.re_co> in Hateno Village that the\n"
+"monsters will trouble her flock no more."
+msgstr ""
+
+msgctxt "QL_HatenoMini_GoatThief_Finished"
+msgid ""
+"You told Koyin that you cleared out the\n"
+"monsters living on Hateno Beach. In return,\n"
+"she gave you a handsome reward.\n"
+"\n"
+"You feel like you're getting along quite well\n"
+"with Koyin now! Maybe?"
+msgstr ""
+
+msgctxt "QL_HatenoMini_GoatThief_Name"
+msgid "The Sheep Rustlers"
+msgstr ""
+

@@ -1,0 +1,374 @@
+msgctxt "0000"
+msgid "Elixirs?"
+msgstr ""
+
+msgctxt "0001"
+msgid "I know all about them."
+msgstr ""
+
+msgctxt "0002"
+msgid "Kakariko Village?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Ahh, I see..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "ByTheWay00"
+msgid ""
+"<1.so>Oh, you're going already?\n"
+"\n"
+"\n"
+"<2.so>Then I think I'll kill some time admiring\n"
+"this shrine."
+msgstr ""
+
+#. 1: sound
+msgctxt "First_Greeting00"
+msgid ""
+"<1.so>Hello there. Don't see a whole lot of\n"
+"travelers passing through here. "
+msgstr ""
+
+#. 1: sound
+msgctxt "First_Greeting01"
+msgid ""
+"<1.so>Good evening. Don't see a whole lot of\n"
+"travelers passing through here. "
+msgstr ""
+
+#. 1: sound
+msgctxt "First_Greeting02"
+msgid ""
+"<1.so>Good morning. Don't see a whole lot of\n"
+"travelers passing through here. "
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk100"
+msgid ""
+"<1.so>I was thinking about taking one of those\n"
+"<2.se_co>apples<3.re_co>. Apparently anything lying around\n"
+"here is up for grabs."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk101"
+msgid ""
+"<1.so>The guy at the stable said we could\n"
+"take those <2.se_co>apples <3.re_co>if we want them."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk102"
+msgid ""
+"<1.so>I ate one of those <2.se_co>apples<3.re_co>. It was nice \n"
+"and crisp. Don't you hate it when you\n"
+"bite into a soft apple?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk103"
+msgid ""
+"<1.so>If the <2.se_co>apples <3.re_co>run out, the children will go\n"
+"pick some more. They told me to take as\n"
+"many as I want."
+msgstr ""
+
+msgctxt "near00"
+msgid "Ahh. This is the life."
+msgstr ""
+
+msgctxt "near01"
+msgid "It's so nice here..."
+msgstr ""
+
+msgctxt "near02"
+msgid "Oh, yeah..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: choice
+msgctxt "talk00"
+msgid ""
+"<1.so>You know, with how peaceful it is around\n"
+"here, it's sometimes easy to forget that\n"
+"the world almost ended years ago.\n"
+"<2.so>But there are still monsters wandering\n"
+"around, and the area near <3.se_co>Hyrule Castle<4.re_co>\n"
+"is especially dangerous.\n"
+"<5.so>If you're going to be traveling, you\n"
+"should know a thing or two about\n"
+"<6.se_co>elixirs<7.re_co>.<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (longer)
+#. 9: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>That <2.se_co>shrine <3.re_co>only recently started\n"
+"glowing, but it's been there for\n"
+"something like 10,000 years.\n"
+"<4.so>It sometimes feels like there's a <5.se_co>shrine<6.re_co>\n"
+"sleeping behind every hill, there's so\n"
+"many of them.\n"
+"<7.so>Archaeologists get pretty fired up\n"
+"hunting down each one of them, but I\n"
+"haven't got time for mysteries...\n"
+"Still, looking at that glowing light...<8.pa>\n"
+"you do start to see something romantic\n"
+"about the whole endeavor.<9.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+msgctxt "talk02"
+msgid ""
+"<1.so>You can make elixirs by mixing bugs and\n"
+"other small creatures with monster parts.\n"
+"\n"
+"Most of them are no good for refilling\n"
+"your health, but they can have a lot of\n"
+"unique effects...\n"
+"Some elixirs can increase your speed.\n"
+"Others raise your resistance to extreme\n"
+"temperatures.\n"
+"<2.so>I'm actually impressed that you've made\n"
+"it this far without any knowledge of\n"
+"elixirs.\n"
+"<3.so>I can't have it on my conscience if\n"
+"something happens to you from here,\n"
+"so I'll give you one of mine."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "talk03"
+msgid ""
+"<1.so>Oh...<2.pa> Uh...<3.pa> Have you noticed it's mostly\n"
+"twins here at this stable?\n"
+"\n"
+"It's kind of creeping me out."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: choice
+msgctxt "talk04"
+msgid ""
+"<1.so>This area is nice and quiet...\n"
+"\n"
+"\n"
+"<2.so>But there are still monsters wandering\n"
+"around, and the area near <3.se_co>Hyrule Castle<4.re_co>\n"
+"is especially dangerous.\n"
+"<5.so>If you're going to be traveling, you\n"
+"should know a thing or two about\n"
+"<6.se_co>elixirs<7.re_co>.<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+msgctxt "talk05"
+msgid ""
+"<1.so>That <2.se_co>shrine <3.re_co>has been there for\n"
+"something like 10,000 years.\n"
+"\n"
+"<4.so>It sometimes feels like there's a <5.se_co>shrine<6.re_co>\n"
+"sleeping behind every hill, there's so\n"
+"many of them.\n"
+"<7.so>Archaeologists get pretty fired up\n"
+"hunting down each one of them, but I\n"
+"haven't got time for mysteries...\n"
+"I'll leave that kind of adventure to\n"
+"younger folks."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk06"
+msgid ""
+"<1.so>Ahh... I am powerfully hungry...<2.pa> If I don't\n"
+"eat soon, I may fall down right here."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "talk07"
+msgid ""
+"<1.so>Aww, dang, it started raining!\n"
+"\n"
+"\n"
+"<2.so>The lightning in Hyrule tends to strike\n"
+"metal objects...\n"
+"\n"
+"You watch yourself if you go wandering\n"
+"around with a metal weapon."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>I wish this rain would take a hint and\n"
+"lay off for a while...\n"
+"\n"
+"<2.so>The folks in Kakariko Village have really\n"
+"amazing clothes that let them work out in\n"
+"the rain with no problem. Amazing!\n"
+"<3.so>But only the Sheikah people can wear\n"
+"'em, so they won't sell us any...<4.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid ""
+"<1.so>Kakariko Village is a small village you can\n"
+"reach by following the road north\n"
+"from here. I came through there earlier.\n"
+"It's surrounded by tall mountains, and\n"
+"everyone there wears the same clothing.\n"
+"\n"
+"It's a strange little place, sort of like the\n"
+"original hidden village..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid ""
+"<1.so>The lightnin' in Hyrule tends to strike\n"
+"metal objects...\n"
+"\n"
+"So mind the steel, sonny!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk11"
+msgid ""
+"<1.so>Using a <2.se_co>hasty elixir <3.re_co>increases your run\n"
+"speed, so I use it to escape from\n"
+"enemies or any time I need to hurry.\n"
+"<4.so>The recipe is just <5.se_co>hightail lizard <6.re_co>and\n"
+"<7.se_co>monster parts<8.re_co>, so I usually have a\n"
+"stock of ten or so on hand."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk12"
+msgid ""
+"<1.so>You can make elixirs by mixing bugs and\n"
+"other small creatures with monster parts.\n"
+"\n"
+"They're no good for refilling your health,\n"
+"but they can have a lot of unique\n"
+"effects...\n"
+"Some elixirs can increase the speed you\n"
+"move... Others raise your resistance to\n"
+"extreme temperatures.\n"
+"<2.so>I use <3.se_co>hasty Elixirs <4.re_co>a lot. They let you\n"
+"move faster.\n"
+"\n"
+"You can make them with <5.se_co>hightail lizards<6.re_co>\n"
+"and <7.se_co>monster parts<8.re_co>. I always make sure to\n"
+"have ten or so on hand."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: text_size
+#. 4: set_colour (grey)
+#. 5: reset_colour
+#. 6: text_size
+msgctxt "talk13"
+msgid ""
+"<1.so>You can make elixirs by mixing bugs and\n"
+"other small creatures with monster parts.\n"
+"\n"
+"Most of them are no good for refilling\n"
+"your health, but they can have a lot of\n"
+"unique effects...\n"
+"Some elixirs can increase your speed.\n"
+"Others raise your resistance to extreme\n"
+"temperatures.\n"
+"<2.so>I'm actually impressed that you've made\n"
+"it this far without any knowledge of\n"
+"elixirs.\n"
+"<3.te_si><4.se_co>There's no way I could have done "
+"that...<5.re_co><6.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "talk14"
+msgid ""
+"<1.so>...<2.pa>\n"
+"\n"
+"\n"
+"<3.so>Just so you know, I'm not giving you\n"
+"any more elixirs."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "talk15"
+msgid ""
+"<1.so>...<2.pa>\n"
+"\n"
+"\n"
+"<3.so>Just so you know, I'm not giving you\n"
+"any elixirs."
+msgstr ""
+

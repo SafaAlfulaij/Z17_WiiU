@@ -1,0 +1,68 @@
+msgctxt "0000"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "NHateru_around_Near"
+msgid "Hmm..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: single_choice
+msgctxt "NHateru_around_Talk001"
+msgid ""
+"<1.so>Huh? <2.pa>It really is a rare thing to see\n"
+"another person all the way up here.<3.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+#. 6: sound
+#. 7: sound
+#. 8: pause (short)
+#. 9: pause (long)
+#. 10: pause (short)
+msgctxt "NHateru_around_Talk003"
+msgid ""
+"<1.so>Who am I?<2.pa> As you can see, I am a\n"
+"traveling adventurer, much like yourself.<3.pa>\n"
+"I'm sure our kind are found all over.\n"
+"<4.so>People rarely come to places like this, so\n"
+"there are lots of monsters. <5.pa>It's really\n"
+"pretty dangerous...\n"
+"<6.so>But it's all worthwhile when you stumble\n"
+"upon some treasure just lying around!\n"
+"\n"
+"<7.so>That's why I try to climb up to great\n"
+"vantage points like this! <8.pa>They're swell\n"
+"places for spotting anything suspicious.\n"
+"See that rock over there? <9.pa>You should\n"
+"stand on it and look around—<10.pa>I bet you'll\n"
+"spot something suspicious."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "NHateru_around_Talk006"
+msgid ""
+"<1.so>Oh, I know!<2.pa> To celebrate the good\n"
+"fortune of meeting someone else\n"
+"up here...\n"
+"<3.so>I invite you to help yourself to any of the\n"
+"cooking ingredients around here!\n"
+"Feel free to use that cooking pot, too!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "NHateru_around_Talk007"
+msgid ""
+"<1.so>If you're trying to find something,\n"
+"looking from somewhere high up is\n"
+"the best!<2.pa> Remember that!"
+msgstr ""
+

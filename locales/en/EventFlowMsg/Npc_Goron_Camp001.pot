@@ -1,0 +1,70 @@
+#. 1: text_size
+#. 2: sound
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+msgctxt "Talk_50"
+msgid ""
+"<1.te_si><2.so>PUMP IT UP, BROTHER!<3.ra><4.so><5.te_si>Ya did a good job"
+" stayin' strong during\n"
+"my <6.se_co>contest of ultimate endurance<7.re_co>!\n"
+"\n"
+"In fact, I devised the perfect training\n"
+"program to help take your strength\n"
+"to the next level!\n"
+"I'll be waitin' for ya to take the <8.se_co>Gut\n"
+"Check Challenge<9.re_co>. You'll find it to the\n"
+"north of <10.se_co>Death Mountain<11.re_co>, brother."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: text_size
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: text_size
+msgctxt "Talk_60"
+msgid ""
+"<1.te_si><2.so>PUMP IT UP, BROTHER!<3.ra><4.so><5.te_si>Aren't ya "
+"forgettin' somethin' way\n"
+"more important than chitchat?!\n"
+"\n"
+"<6.te_si>Go and take the <7.se_co>Gut Check\n"
+"Challenge<8.re_co> already!<9.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: text_size
+#. 13: text_size
+msgctxt "Talk_70"
+msgid ""
+"<1.te_si><2.so>PUMP IT UP, BROTHER!<3.ra><4.so><5.te_si>Ah, it's the "
+"fourth Goron Blood Brother!\n"
+"He who beat the <6.se_co>Gut Check Challenge<7.re_co>\n"
+"and the <8.se_co>contest of ultimate endurance<9.re_co>!\n"
+"That's why I'm preparin' somethin'\n"
+"worthy of a Goron brother like you.\n"
+"I call it...<10.se_co>Super Gut Check Challenge<11.re_co>!\n"
+"<12.te_si>The more gains the merrier,\n"
+"brother!<13.te_si>"
+msgstr ""
+

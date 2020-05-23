@@ -1,0 +1,67 @@
+msgctxt "Npc_Musician_002_R_Near0"
+msgid "The forest dragon..."
+msgstr ""
+
+msgctxt "Npc_Musician_002_R_Near1"
+msgid "Splays its jaws..."
+msgstr ""
+
+msgctxt "Npc_Musician_002_R_Near2"
+msgid "A shrine sleeps..."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (170f)
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Text004"
+msgid ""
+"<1.au_ad><2.ra>Where the forest <3.se_co>dragon<4.re_co> splays its "
+"jaws,<5.pa>\n"
+"A<6.se_co> shrine<7.re_co> sleeps with noble cause."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+msgctxt "Text005"
+msgid ""
+"<1.so>The forest dragon? I've never seen a\n"
+"dragon in a forest around these parts.\n"
+"\n"
+"<2.so>Though I suppose the forest from the\n"
+"song could be the <3.se_co>Damel Forest<4.re_co>, north of\n"
+"here.\n"
+"There's definitely a secret lying in wait—<5.pa>\n"
+"it's just a matter of tracking it down.\n"
+"\n"
+"May the light illuminate your path."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: sound
+#. 5: pause (long)
+#. 6: sound
+msgctxt "Text006"
+msgid ""
+"<1.so>Ah, <2.pa>you've already solved it, I see...<3.ra><4.so>Though I am"
+" impressed,<5.pa> an\n"
+"uncharacteristic fear hangs over me.\n"
+"\n"
+"<6.so>I hope that your journey remains free\n"
+"of misfortune."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Text007"
+msgid "<1.so>A visitor? So deep in the forest?<2.pa>"
+msgstr ""
+

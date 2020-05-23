@@ -1,0 +1,23 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_DontDamageFlower_Desc"
+msgid ""
+"Magda planted flowers all around the\n"
+"ancient shrine.\n"
+"\n"
+"Proceed with care so you <1.se_co>don't damage the\n"
+"flowers<2.re_co>."
+msgstr ""
+
+msgctxt "QL_DontDamageFlower_Finish"
+msgid ""
+"You reached the shrine amidst the flowers\n"
+"that Magda had planted.\n"
+"\n"
+"Try not to step on any flowers from here on out!"
+msgstr ""
+
+msgctxt "QL_DontDamageFlower_Name"
+msgid "Watch Out for the Flowers"
+msgstr ""
+

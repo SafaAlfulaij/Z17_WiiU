@@ -1,0 +1,272 @@
+#. 1: animation
+msgctxt "CannonBack_00"
+msgid "<1.an> "
+msgstr ""
+
+#. 1: animation
+msgctxt "CannonBack_01"
+msgid "<1.an> "
+msgstr ""
+
+#. 1: animation
+msgctxt "CannonBack_02"
+msgid "<1.an> "
+msgstr ""
+
+#. 1: animation
+msgctxt "CannonBack_03"
+msgid "<1.an> "
+msgstr ""
+
+#. 1: animation
+msgctxt "CannonBack_04"
+msgid "<1.an> "
+msgstr ""
+
+msgctxt "CannonFire_Battle_00"
+msgid "Hrahhh!"
+msgstr ""
+
+msgctxt "CannonFire_Battle_01"
+msgid "Eat this!"
+msgstr ""
+
+msgctxt "CannonFire_Battle_02"
+msgid "Take that!"
+msgstr ""
+
+msgctxt "CannonFire_Battle_03"
+msgid "GO!!"
+msgstr ""
+
+msgctxt "CannonFire_Battle_04"
+msgid "Heyaaaaah!!"
+msgstr ""
+
+msgctxt "CannonFire_Bridge_00"
+msgid "Oriiiight!!!"
+msgstr ""
+
+msgctxt "CannonFire_Bridge_01"
+msgid "Yaaaah!"
+msgstr ""
+
+msgctxt "CannonFire_Bridge_02"
+msgid "Huraaaah!!"
+msgstr ""
+
+msgctxt "CannonFire_Bridge_03"
+msgid "Go go go!!!"
+msgstr ""
+
+msgctxt "CannonFire_Bridge_04"
+msgid "Uraaagh!!"
+msgstr ""
+
+msgctxt "CannonInOut_00"
+msgid " "
+msgstr ""
+
+msgctxt "CannonInOut_01"
+msgid " "
+msgstr ""
+
+msgctxt "CannonInOut_02"
+msgid " "
+msgstr ""
+
+msgctxt "CannonInOut_03"
+msgid " "
+msgstr ""
+
+msgctxt "CannonInOut_04"
+msgid " "
+msgstr ""
+
+#. 1: animation
+msgctxt "Eruption_00"
+msgid "<1.an>Gah!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Eruption_01"
+msgid "<1.an>Yeek!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Eruption_02"
+msgid "<1.an>Watch out!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Eruption_03"
+msgid "<1.an>Out of the way!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Eruption_04"
+msgid "<1.an>Danger!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Follow_00"
+msgid "<1.an>Hah hah!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Follow_01"
+msgid "<1.an>Hee hee!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Follow_02"
+msgid "<1.an>Wait up!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Follow_03"
+msgid "<1.an>*pant pant*"
+msgstr ""
+
+#. 1: animation
+msgctxt "Follow_04"
+msgid "<1.an>*gasp*"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpEnemy_00"
+msgid "<1.an>Help me!"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpEnemy_01"
+msgid "<1.an>I'm scared!"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpEnemy_02"
+msgid "<1.an>!!!"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpEnemy_03"
+msgid "<1.an>!!!"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpEnemy_04"
+msgid "<1.an>!!!"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpStrage_00"
+msgid "<1.an>Somebody!"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpStrage_01"
+msgid "<1.an>Help me!"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpStrage_02"
+msgid "<1.an>I can't get out!"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpStrage_03"
+msgid "<1.an>...!"
+msgstr ""
+
+#. 1: animation
+msgctxt "HelpStrage_04"
+msgid "<1.an>..."
+msgstr ""
+
+msgctxt "PiyoPiyo_00"
+msgid " "
+msgstr ""
+
+msgctxt "PiyoPiyo_01"
+msgid " "
+msgstr ""
+
+msgctxt "PiyoPiyo_02"
+msgid " "
+msgstr ""
+
+#. 1: animation
+msgctxt "Search_00"
+msgid "<1.an>!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Search_01"
+msgid "<1.an>This is bad!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Search_02"
+msgid "<1.an>It saw us!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Search_03"
+msgid "<1.an>!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Search_04"
+msgid "<1.an>Watch out!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleGo_00"
+msgid "<1.an>All right!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleGo_01"
+msgid "<1.an>OK!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleGo_02"
+msgid "<1.an>Coming!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleGo_03"
+msgid "<1.an>Ready!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleGo_04"
+msgid "<1.an>Hyup!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleStop_00"
+msgid "<1.an>Right!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleStop_01"
+msgid "<1.an>Yup!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleStop_02"
+msgid "<1.an>Ope!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleStop_03"
+msgid "<1.an>Hup!"
+msgstr ""
+
+#. 1: animation
+msgctxt "WhistleStop_04"
+msgid "<1.an>Ho!"
+msgstr ""
+

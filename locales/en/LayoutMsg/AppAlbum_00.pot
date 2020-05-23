@@ -1,0 +1,102 @@
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0000"
+msgid "<1.te_si><2.fo>Sacred Ground Ruins<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0001"
+msgid "<1.te_si><2.fo>Lake Kolomo<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0002"
+msgid "<1.te_si><2.fo>Ancient Columns<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0003"
+msgid "<1.te_si><2.fo>Kara Kara Bazaar<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0004"
+msgid "<1.te_si><2.fo>Eldin Canyon<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0005"
+msgid "<1.te_si><2.fo>Irch Plain<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0006"
+msgid "<1.te_si><2.fo>Sanidin Park Ruins<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0007"
+msgid "<1.te_si><2.fo>West Necluda<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0008"
+msgid "<1.te_si><2.fo>Hyrule Castle<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0009"
+msgid "<1.te_si><2.fo>Spring of Power<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0010"
+msgid "<1.te_si><2.fo>Lanayru Road - East Gate<3.fo><4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: font
+#. 3: font
+#. 4: text_size
+msgctxt "0011"
+msgid "<1.te_si><2.fo>Hyrule Field<3.fo><4.te_si>"
+msgstr ""
+
+msgctxt "0012"
+msgid ""
+"The Sheikah Slate data has\n"
+"been damaged."
+msgstr ""
+

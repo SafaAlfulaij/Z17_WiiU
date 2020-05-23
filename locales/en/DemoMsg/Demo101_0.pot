@@ -1,0 +1,135 @@
+#. 1: raw
+msgctxt "Demo101_0_Text038"
+msgid ""
+"To know Calamity Ganon's true form, one must\n"
+"know the story from an age long past. <1.ra>The demon king was born into "
+"this kingdom, but his\n"
+"transformation into Malice created the horror you\n"
+"see now."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text039"
+msgid ""
+"Stories of Ganon were passed from generation to\n"
+"generation in the form of legends and fairy tales.<1.ra>But there was "
+"also...a prophecy."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text040"
+msgid ""
+"\"The signs of a resurrection of\n"
+"Calamity Ganon are clear. <1.ra>And the power to oppose it lies\n"
+"dormant beneath the ground.\""
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text042"
+msgid ""
+"These relics, the Divine Beasts, were giant machines\n"
+"piloted by warriors.<1.ra>We also found the Guardians, an army of "
+"mechanical\n"
+"soldiers who fought autonomously."
+msgstr ""
+
+msgctxt "Demo101_0_Text046"
+msgid ""
+"The princess, her appointed knight, and the rest\n"
+"of the Champions were on the brink of sealing\n"
+"away Ganon..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text047"
+msgid ""
+"But nay...<1.ra>Ganon was cunning, and he responded with a plan\n"
+"beyond our imagining."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text048"
+msgid ""
+"He appeared from deep below Hyrule Castle,\n"
+"seized control of the Guardians and the\n"
+"Divine Beasts,<1.ra>and turned them against us."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text049"
+msgid ""
+"The Champions lost their lives. Those residing in the\n"
+"castle as well.<1.ra>The appointed knight, gravely wounded, collapsed\n"
+"while defending the princess..."
+msgstr ""
+
+msgctxt "Demo101_0_Text050"
+msgid ""
+"And thus, the kingdom of Hyrule was devastated\n"
+"absolutely by Calamity Ganon."
+msgstr ""
+
+msgctxt "Demo101_0_Text051"
+msgid "However..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text052"
+msgid "The princess survived...<1.ra>to face Ganon alone."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo101_0_Text053"
+msgid ""
+"Link...<1.ra>You are our final hope. <2.ra>The fate of Hyrule rests with "
+"you."
+msgstr ""
+
+msgctxt "Demo101_0_Text054"
+msgid ""
+"This coincided with ancient legends, oft repeated\n"
+"throughout our land."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text055"
+msgid ""
+"We also learned of a princess with a sacred power\n"
+"and her appointed knight, chosen by the sword that\n"
+"seals the darkness. <1.ra>It was they who sealed Ganon away using the "
+"power\n"
+"of these ancient relics."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text056"
+msgid ""
+"One hundred years ago, there was a princess\n"
+"set to inherit a sacred power and a skilled knight\n"
+"at her side.<1.ra>It was clear that we must follow our ancestors' path."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text057"
+msgid ""
+"We decided to heed the prophecy and began\n"
+"excavating large areas of land. <1.ra>It wasn't long before we discovered"
+" several ancient\n"
+"relics made by the hands of our distant ancestors."
+msgstr ""
+
+msgctxt "Demo101_0_Text065"
+msgid ""
+"We selected four skilled individuals from across\n"
+"Hyrule and tasked them with the duty of piloting the\n"
+"Divine Beasts."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo101_0_Text066"
+msgid ""
+"With the princess as their commander, we dubbed\n"
+"these pilots Champions—<1.ra>a name that would solidify their unique bond."
+msgstr ""
+

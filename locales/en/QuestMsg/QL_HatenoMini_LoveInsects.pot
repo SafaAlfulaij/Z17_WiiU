@@ -1,0 +1,54 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_HatenoMini_LoveInsects_Answer"
+msgid ""
+"Prima said her dream is to have a collection of\n"
+"100 <1.se_co>restless crickets<2.re_co>.\n"
+"\n"
+"You should break the news to <3.se_co>Manny<4.re_co>."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_HatenoMini_LoveInsects_Desc"
+msgid ""
+"A friend of Manny's wants more than anything\n"
+"to catch the eye of Prima, owner of the\n"
+"Ton Pu Inn.\n"
+"\n"
+"All you have to do is <1.se_co>ask<2.re_co> Prima what she\n"
+"loves most."
+msgstr ""
+
+msgctxt "QL_HatenoMini_LoveInsects_Finish"
+msgid ""
+"You delivered the 10 restless crickets to\n"
+"Manny and received a reward.\n"
+"\n"
+"He confessed that he was the one who wanted\n"
+"to catch Prima's eye. His plan now is to find the\n"
+"other 90 restless crickets on his own and\n"
+"present them to Prima when he asks her out\n"
+"on a date.\n"
+"\n"
+"It seems you're off the hook..."
+msgstr ""
+
+msgctxt "QL_HatenoMini_LoveInsects_Name"
+msgid "A Gift for My Beloved"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_HatenoMini_LoveInsects_Report"
+msgid ""
+"Upon learning that Prima's dream is to have\n"
+"a collection of 100 restless crickets,\n"
+"Manny enlisted your help as a bug catcher.\n"
+"\n"
+"Start by collecting <1.se_co>10 restless crickets<2.re_co> and\n"
+"bringing them to Manny."
+msgstr ""
+

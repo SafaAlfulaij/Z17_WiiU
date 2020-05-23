@@ -1,0 +1,226 @@
+msgctxt "0000"
+msgid "So... Misko's treasure?"
+msgstr ""
+
+msgctxt "0001"
+msgid "I...see."
+msgstr ""
+
+msgctxt "0002"
+msgid "Deal!"
+msgstr ""
+
+msgctxt "0003"
+msgid "No way!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk00"
+msgid "<1.so>Prissen! Hang on!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Talk01"
+msgid ""
+"<1.so>I've got the scoop on Misko's <2.se_co>treasure<3.re_co>,\n"
+"and it's great! Listen up, Dak..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk02"
+msgid "<1.so>Prissen! You're going to give it all away!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk03"
+msgid "<1.so>Sorry, Dak... <2.pa>I got carried away."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk04"
+msgid ""
+"<1.so>Anyway, we're busy here, dude.\n"
+"If you need something, take it up\n"
+"with someone else."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk05"
+msgid ""
+"<1.so>You again? Pay no mind to my little bro's\n"
+"chatter from before. He's got a penchant\n"
+"for running his mouth with crazy talk.<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk06"
+msgid ""
+"<1.so>Ahhh shoot. Welp. Can't say I didn't try\n"
+"to throw him off..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Talk07"
+msgid ""
+"<1.so>Anyway. Misko's treasure—not that we\n"
+"were talking about such a thing—is only\n"
+"for the BEST of treasure hunters. \n"
+"That probably rules you out, bub.\n"
+"\n"
+"\n"
+"<2.te_si>The fewer people after it, the better.\n"
+"And we've still got the scoop!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk08"
+msgid ""
+"<1.so>Hey, Dak... Why don't we just tell him?\n"
+"Maybe he'll leave us alone if we do.\n"
+"\n"
+"I mean, if we can't figure this riddle out,\n"
+"there's no way someone like him will be\n"
+"able to."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk09"
+msgid ""
+"<1.so>...That's a good point.\n"
+"\n"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk10"
+msgid "<1.so>Heh.<2.pa> Good deal."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk11"
+msgid ""
+"<1.so>Well, I've got nothing to say to some\n"
+"bum without even two rupees to rub\n"
+"together."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk12"
+msgid "<1.so>Way to go, Dak. You did it!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk13"
+msgid ""
+"<1.so>Misko hid the location of the treasure in\n"
+"some kind of strange secret code.\n"
+"\n"
+"I heard this from a former dog walker of\n"
+"one of Misko's underling's descendant's\n"
+"neighbors. As solid a lead as any."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk14"
+msgid ""
+"<1.so>Just knowing someone with good intel\n"
+"like that? Exactly what I'd expect from\n"
+"you, Dak!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+#. 4: pause (long)
+msgctxt "Talk15"
+msgid ""
+"<1.so>But this riddle has even I, Domidak,\n"
+"the premier treasure hunter,\n"
+"scratching my head.\n"
+"<2.so>So that you can tell how challenging my\n"
+"work is, <3.pa>I'll tell it to you. <4.pa>You'll never\n"
+"solve it, though."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk16"
+msgid ""
+"<1.so>The little twin steps over the little river.\n"
+"My cave rests above that river's source."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (long)
+#. 7: choice
+msgctxt "Talk17"
+msgid ""
+"<1.so>It'll be <2.se_co>100 rupees<3.re_co> to learn what\n"
+"we know.\n"
+"\n"
+"Truth is, it'd be a steal to get this\n"
+"exclusive scoop for <4.se_co>1,000 rupees<5.re_co>...<6.pa>\n"
+"So what do you say?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk18"
+msgid ""
+"<1.so>Hey, buddy! What's your problem?<2.pa> You\n"
+"aren't being incredibly rude and listening\n"
+"to our conversation, are you?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Talk19"
+msgid ""
+"<1.so>We're treasure hunters, on the trail of\n"
+"our latest score... The<2.se_co> treasure of the\n"
+"great bandit Misko<3.re_co>!<4.pa> It's as good as ours!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk20"
+msgid ""
+"<1.so>That's the keen sense of the strongest\n"
+"treasure hunter at work! No gold left\n"
+"behind—not by Domidak!\n"
+"You're great, Dak!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Talk22"
+msgid ""
+"<1.so><2.pa>We're after nothing less than the\n"
+"<3.se_co>treasure of Misko, the Great Bandit<4.re_co>!\n"
+"Finding it would mean incredible riches...\n"
+"I'm not about to give this information\n"
+"away for free. I'm no fool!"
+msgstr ""
+
+#. 1: sound
+msgctxt "near00"
+msgid "<1.so>Hrm..."
+msgstr ""
+
+#. 1: sound
+msgctxt "near01"
+msgid "<1.so>I bet it's over there!"
+msgstr ""
+

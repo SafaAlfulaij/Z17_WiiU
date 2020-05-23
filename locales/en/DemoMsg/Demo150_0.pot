@@ -1,0 +1,99 @@
+#. 1: raw
+#. 2: raw
+msgctxt "Demo150_0_Text002"
+msgid ""
+"Speaking of which, can you believe this view?<1.ra>Just look at all those"
+" delectable rocks sprinkled\n"
+"on those mountains...<2.ra>Mighty tasty. "
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo150_0_Text003"
+msgid ""
+"I may not know a whole lot about this\n"
+"Calamity Ganon thing...<1.ra>but mark my words, I'll protect this land\n"
+"of ours to the death!"
+msgstr ""
+
+msgctxt "Demo150_0_Text004"
+msgid "Right, little guy?"
+msgstr ""
+
+msgctxt "Demo150_0_Text005"
+msgid "Yow!"
+msgstr ""
+
+msgctxt "Demo150_0_Text008"
+msgid "What the—?!"
+msgstr ""
+
+msgctxt "Demo150_0_Text009"
+msgid " "
+msgstr ""
+
+msgctxt "Demo150_0_Text010"
+msgid "All right, so what was I saying..."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo150_0_Text014"
+msgid ""
+"Hey, by the way...congrats on becoming\n"
+"the princess's appointed knight.<1.ra>That's a really big deal! "
+"Protecting\n"
+"the king's daughter...<2.ra>No pressure!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo150_0_Text015"
+msgid ""
+"That was a little strange...<1.ra>As far as I know, Death Mountain\n"
+"has been quiet for decades."
+msgstr ""
+
+msgctxt "Demo150_0_Text018"
+msgid "huh?"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo150_0_Text019"
+msgid ""
+"Yeah!<1.ra>I think I'm finally getting the hang of\n"
+"controlling this Divine Beast!"
+msgstr ""
+
+msgctxt "Demo150_0_Text021"
+msgid ""
+"But if the mountain is shivering enough to send\n"
+"down a bunch of boulders that size, then—"
+msgstr ""
+
+msgctxt "Demo150_0_Text022"
+msgid "Never mind. Forget I said anything."
+msgstr ""
+
+msgctxt "Demo150_0_Text024"
+msgid ""
+"I tell you what...sure is a blast piloting a toy\n"
+"like this around."
+msgstr ""
+
+msgctxt "Demo150_0_Text025"
+msgid ""
+"Let those other Champions know, they better eat\n"
+"their gravel if they wanna keep up with Daruk."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo150_0_Text026"
+msgid ""
+"Seriously, though. The princess is a strong\n"
+"personality—so strong she can't quite see the range\n"
+"for the peaks. <1.ra>Remember that, and you'll be fine."
+msgstr ""
+
+msgctxt "Demo150_0_Text027"
+msgid " "
+msgstr ""
+

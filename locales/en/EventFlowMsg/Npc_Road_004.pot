@@ -1,0 +1,725 @@
+msgctxt "0000"
+msgid "Buy."
+msgstr ""
+
+msgctxt "0001"
+msgid "Sell."
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "5500"
+msgid "Yes."
+msgstr ""
+
+msgctxt "5501"
+msgid "No."
+msgstr ""
+
+msgctxt "5502"
+msgid "Buy."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "5508"
+msgid "Sell all."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>Haa...<2.pa> Hoo...<3.pa> Haa...<4.pa> Oof...<5.pa> This...\n"
+"This is rough... Seriously rough."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Atacked01"
+msgid ""
+"<1.so>I can't turn a profit like this...<2.pa> If only\n"
+"some righteous-defender type would\n"
+"show up..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_00"
+msgid "<1.so>What did you want to sell?"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_01"
+msgid ""
+"Let's see. I could give you...<1.pa>\n"
+"<2.se_co><3.va> rupees<4.re_co> for that. Sound good?<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02"
+msgid "<1.so>Thanks!<2.pa> Anything else I can do for you?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Com_Talk_02b"
+msgid ""
+"<1.so>Great!<2.pa> If there's anything else you want\n"
+"to sell,<3.pa> you let me know."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02c"
+msgid ""
+"<1.so>Thank you.<2.pa> Listen, I'm willing to buy\n"
+"more, if you want. What do you say?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02d"
+msgid ""
+"<1.so>Aw, that's just great. Perfect.<2.pa> Is there...\n"
+"anything else you maybe wanted to sell?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_04"
+msgid "<1.so>Oh, well...<2.pa> That's a shame."
+msgstr ""
+
+msgctxt "Com_Talk_05"
+msgid "I'll buy whatever you've got."
+msgstr ""
+
+msgctxt "Com_Talk_05b"
+msgid "I'll buy anything."
+msgstr ""
+
+msgctxt "Com_Talk_05c"
+msgid "Anything you wanted to sell?"
+msgstr ""
+
+msgctxt "Com_Talk_05d"
+msgid "I'll buy anything. Like, ANYTHING."
+msgstr ""
+
+msgctxt "Com_Talk_06"
+msgid "What do you want to buy?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_07"
+msgid "<1.so>Oh, sorry...<2.pa> I'm fresh out of that..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Com_Talk_08"
+msgid ""
+"<1.so>Ummm...<2.pa> Boy, this is awkward...<3.pa>\n"
+"You don't have enough rupees..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Com_Talk_09"
+msgid ""
+"<1.so>Er,<2.pa> your inventory seems to be full.<3.pa>\n"
+"You better sell something or maybe\n"
+"just toss out some junk."
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_10"
+msgid "Ah, found something you want to buy?<1.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11"
+msgid "<1.so>Thank you!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11b"
+msgid "<1.so>Thanks, really."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11c"
+msgid "<1.so>Thanks so much."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11d"
+msgid "<1.so>Thanks, as always."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_12"
+msgid ""
+"<1.so>Take your time looking around.<2.pa> Being in\n"
+"a hurry never did any good for anyone."
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_13"
+msgid ""
+"And how many of them were you\n"
+"interested in selling?<1.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"Let's see... That should come to\n"
+"<1.se_co><2.va> rupees<3.re_co>. Does that sound OK?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_15"
+msgid "<1.so>Oh, I'm sorry. I can't buy that."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>Look, I'm happy to buy that off you,\n"
+"but...at least take it off first."
+msgstr ""
+
+#. 1: pause (long)
+msgctxt "Com_Talk_20"
+msgid ""
+"Lots of folks sell their best stuff or cut\n"
+"you a deal when the weather's bad...<1.pa>\n"
+"Have you noticed that?"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_30"
+msgid ""
+"Let's see... I guess that comes\n"
+"to <1.se_co><2.va> rupees<3.re_co>...<4.ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_31"
+msgid "How many you need?<1.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_33"
+msgid "Just the one?<1.pa> That'll be <2.se_co><3.va> rupees<4.re_co>...<5.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_34"
+msgid ""
+"All of them? Huh. OK, that'll be\n"
+"<1.se_co><2.va> rupees<3.re_co>. Does that sound all right?<4.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_35"
+msgid "I'll buy all of them for <1.se_co><2.va> rupees<3.re_co>.<4.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Com_Talk_36"
+msgid ""
+"<1.so>That's the last of them.<2.pa> Thanks for\n"
+"buying out my stock!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Com_Talk_37"
+msgid ""
+"<1.so>I don't have anything left to sell, so\n"
+"I'm calling it a day.<2.pa> If you want a sneak\n"
+"peek, I'll show you what I'm restocking.<3.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_56"
+msgid "Sure thing.<1.pa> That'll be <2.se_co><3.va> rupees<4.re_co>...<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Failed00"
+msgid ""
+"<1.so>I don't mean to sound ungrateful,<2.pa> but\n"
+"you couldn't have come running to help\n"
+"me just a TEENSY bit sooner?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Ow, ow, ow, ow...<2.pa> I got roughed up \n"
+"pretty bad.<3.pa>"
+msgstr ""
+
+#. 1: sound
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>Who knows, maybe we'll meet again \n"
+"someday. Or maybe not. Can't waste\n"
+"your time stressing about unknowns."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Guardian00"
+msgid ""
+"<1.so>You're going to want to run away now.<2.pa>\n"
+"Unless you WANT to be attacked by a\n"
+"Guardian."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (short)
+#. 9: pause (longer)
+msgctxt "MSG_Futa_00"
+msgid ""
+"<1.so>I'm hoping to do a lot of business at\n"
+"<2.se_co>Dueling Peaks Stable<3.re_co>...<4.pa> Me and my buddy\n"
+"came all the way from <5.se_co>Hateno Village<6.re_co>!\n"
+"<7.so>...Huh? <8.pa>Whaddaya mean, \"what buddy?\"<9.pa>\n"
+"You got donkey blindness or something?\n"
+"He's right here!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "MSG_Futa_00_1"
+msgid "<1.so>Finally arrived at <2.se_co>Dueling Peaks Stable<3.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "MSG_Futa_01"
+msgid ""
+"<1.so>Feeling a little donkey envy, huh?<2.pa> Horses\n"
+"are faster, sure, but donkeys are more\n"
+"my style.\n"
+"People talk about horsepower, but they\n"
+"forget about donkeypower.<3.pa> That's the\n"
+"power to stay chill and be good buds.\n"
+"But that's neither here nor there."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Futa_01_1"
+msgid ""
+"<1.so>Let's see... I already talked about\n"
+"donkeypower..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "MSG_Futa_02"
+msgid ""
+"<1.so><2.se_co>Kakariko Village <3.re_co>is just beyond that\n"
+"bridge up ahead...\n"
+"\n"
+"<4.so>But they raise their own vegetables\n"
+"there, so they don't buy much of\n"
+"anything from me..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "MSG_Futa_02_1"
+msgid ""
+"<1.so>Yeah,<2.pa> I just can't seem to sell anything in\n"
+"<3.se_co>Kakariko Village<4.re_co>. So...yeah."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (longer)
+#. 10: text_size
+#. 11: sound
+#. 12: text_size
+#. 13: pause (short)
+msgctxt "MSG_Futa_03"
+msgid ""
+"<1.so>...This is just something I heard, but...<2.ra><3.so>If you take "
+"<4.se_co>goat butter<5.re_co>...<6.pa>and \n"
+"<7.se_co>Tabantha wheat <8.re_co>and...<9.pa>\n"
+"<10.te_si>Wait, what was the other thing...\n"
+"<11.so><12.te_si>Anyway, you combine all that stuff,<13.pa>\n"
+"and apparently it comes out real, real\n"
+"yummy.\n"
+"I mean, I like it. I'm not saying you have\n"
+"to give it a try or anything."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "MSG_Futa_03_1"
+msgid ""
+"<1.so>If you want to make something really\n"
+"delicious,<2.pa> whip up some <3.se_co>goat butter <4.re_co>and\n"
+"<5.se_co>Tabantha wheat<6.re_co>!<7.pa>\n"
+"I mean, not that you HAVE to..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (long)
+#. 6: sound
+msgctxt "MSG_Futa_04"
+msgid ""
+"<1.so>The foodstuffs you get in <2.se_co>Hateno Village<3.re_co>\n"
+"are way fresher than anywhere else.<4.pa>\n"
+"The vendors there know it, too!<5.pa>\n"
+"<6.so>And on that note..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "MSG_Futa_04_1"
+msgid ""
+"<1.so>Do you need any ingredients from\n"
+"<2.se_co>Hateno Village<3.re_co>?"
+msgstr ""
+
+msgctxt "Near00"
+msgid "I'm not quite awake yet..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Um... Uh..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "My donkey..."
+msgstr ""
+
+msgctxt "Near03"
+msgid "Yaaaaawn... So sleepy..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "Rain! Typical..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "Rest_00"
+msgid ""
+"<1.so>Sales pick up, and sales slow down,<2.pa>\n"
+"but I know my donkey will stick around<3.pa>.\n"
+"\n"
+"I wonder if I can find someone to set\n"
+"my poem to music..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Rest_01"
+msgid ""
+"<1.so>They say no rain's so bad it never lets \n"
+"up, but they also say there's a first time\n"
+"for everything..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>I don't mind the rain, really.<2.pa> It gives you\n"
+"a good excuse to stay put for a while."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+msgctxt "RetMSG_Futa_00"
+msgid ""
+"<1.so>I grow vegetables in Hateno Village, sell\n"
+"'em at Dueling Peaks Stable...then I use\n"
+"the money to buy meat and head back.\n"
+"<2.so>So I guess my job is to make sure folks in\n"
+"Hateno Village have full bellies?\n"
+"\n"
+"By the by...<3.pa>how's your belly?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "RetMSG_Futa_00_1"
+msgid ""
+"<1.so>I sell vegetables I grow in Hateno Village\n"
+"at Dueling Peaks Stable, then I buy meat\n"
+"and head back.<2.pa> And on that note..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "RetMSG_Futa_01"
+msgid ""
+"<1.so>You should try <2.se_co>Hateno Village<3.re_co>'s signature\n"
+"dish.<4.pa> Get some goat butter, eggs, milk—\n"
+"cook 'em all up. Makes a nice meal!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "RetMSG_Futa_01_1"
+msgid ""
+"<1.so>I've got goat butter and other specialties\n"
+"from <2.se_co>Hateno Village<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: pause (longer)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "RetMSG_Futa_02"
+msgid ""
+"<1.so>Whoa there!\n"
+"\n"
+"\n"
+"<2.so>Oh...<3.pa>it's just a normal person... <4.pa>What a\n"
+"relief!<5.pa> Sorry for freaking out like that.\n"
+"\n"
+"A little while back, just on the other side\n"
+"of <6.se_co>Lake Siela<7.re_co>,<8.pa> I got spooked bad by this\n"
+"weird tree ghost, so I'm a little jumpy.\n"
+"Anyway, seeing as how you're a nice,\n"
+"normal person and not a ghost, how\n"
+"about we do some business?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: sound
+msgctxt "RetMSG_Futa_02_1"
+msgid ""
+"<1.so>Take a look at that tree on the other side\n"
+"of <2.se_co>Lake Siela<3.re_co>...<4.pa> Did it just move, or are\n"
+"my eyes playing tricks on me?\n"
+"<5.so>Anyway, that's neither here nor there.\n"
+"It's time to get down to business."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: pause (long)
+msgctxt "RetMSG_Futa_03"
+msgid ""
+"<1.so>You're almost at my hometown,<2.pa>\n"
+"<3.se_co>Hateno Village<4.re_co>!\n"
+"\n"
+"They've got the freshest vegetables, the\n"
+"friendliest village folk,<5.pa> and a mysterious\n"
+"laboratory...\n"
+"Those are pretty much the village's\n"
+"three main tourist attractions. Anyway,\n"
+"speaking of vegetables...<6.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "RetMSG_Futa_03_1"
+msgid ""
+"<1.so>Pretty soon, I'll head back to my\n"
+"hometown, <2.se_co>Hateno Village<3.re_co>!<4.pa> Care to do\n"
+"a little business before I go?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "RetMSG_Futa_04"
+msgid ""
+"<1.so>Ah, it's been a good, long while since I\n"
+"was back in my hometown...<2.pa> I'd love to\n"
+"just kick back, but I can't.\n"
+"<3.so>I gotta load up my buddy with vegetables<4.pa>\n"
+"an' get 'em over to Dueling Peaks Stable,\n"
+"so I can sell 'em while they're fresh.\n"
+"But first...<5.pa>let's talk business."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "RetMSG_Futa_04_1"
+msgid ""
+"<1.so>Soon as I arrive at <2.se_co>Hateno Village<3.re_co>,\n"
+"I have to turn around and head back\n"
+"to Dueling Peaks Stable.<4.pa> But first..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>Wow, that was scary!<2.pa>\n"
+"Thanks for saving me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>When I first got a look at you I was like,\n"
+"I bet he's strong...<2.pa> And I was right!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>What would have even happened to me\n"
+"if you hadn't come along?<2.pa> I don't want\n"
+"to think about it...<3.pa>\n"
+"Thank you, really."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>Say, are you some famous swordsman\n"
+"or something?<2.pa> Because if you're not,\n"
+"you should be!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>I would definitely be dead if you hadn't\n"
+"come along!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>Oh, wow!<2.pa> It is SO great to be not dead\n"
+"right now!<3.pa> I owe you my life! I have to\n"
+"give you something in return!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk01"
+msgid ""
+"<1.so>I'd love it if you bought something,<2.pa> but,\n"
+"I mean, I'm happy just to show you what\n"
+"I've got for sale. The rest is up to you!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk02"
+msgid "<1.so>Um...<2.pa> Are you ready?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Thanks00"
+msgid "<1.so>You deserve a reward.<2.pa> Here, take this."
+msgstr ""
+

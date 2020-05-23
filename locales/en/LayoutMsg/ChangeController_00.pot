@@ -1,0 +1,28 @@
+msgctxt "T_Text_00"
+msgid ""
+"Control with\n"
+"Wii U GamePad"
+msgstr ""
+
+msgctxt "T_Text_01"
+msgid ""
+"Control with\n"
+"Wii U Pro Controller"
+msgstr ""
+
+msgctxt "T_Text_02"
+msgid ""
+"Playing on\n"
+"Television"
+msgstr ""
+
+msgctxt "T_Text_03"
+msgid ""
+"Playing on\n"
+"Wii U GamePad"
+msgstr ""
+
+msgctxt "T_Text_04"
+msgid "You can't change play modes now."
+msgstr ""
+

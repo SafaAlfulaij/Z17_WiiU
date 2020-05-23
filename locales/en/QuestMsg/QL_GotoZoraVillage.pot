@@ -1,0 +1,35 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_GotoZoraVillage_Desc"
+msgid ""
+"Sidon, prince of the Zora, invited you to\n"
+"<1.se_co>come to Zora's Domain<2.re_co>.\n"
+"\n"
+"He warned you that owing to the heavy rains,\n"
+"the rocks along the path are dangerously\n"
+"slippery."
+msgstr ""
+
+msgctxt "QL_GotoZoraVillage_Finish"
+msgid ""
+"You arrived at the throne room in\n"
+"Zora's Domain.\n"
+"\n"
+"According to Sidon, Zora's Domain is in\n"
+"danger, and they need the help of a strong\n"
+"Hylian."
+msgstr ""
+
+msgctxt "QL_GotoZoraVillage_Name"
+msgid "Reach Zora's Domain"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_GotoZoraVillage_Step1"
+msgid ""
+"You arrived at Zora's Domain. The next step\n"
+"is to visit King Dorephan in the <1.se_co>throne room<2.re_co>\n"
+"on the top floor."
+msgstr ""
+

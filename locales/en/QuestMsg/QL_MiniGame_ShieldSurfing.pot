@@ -1,0 +1,20 @@
+msgctxt "QL_MiniGame_ShieldSurfing_Exit"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_MiniGame_ShieldSurfing_Explain"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_MiniGame_ShieldSurfing_Failed"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_MiniGame_ShieldSurfing_Finish"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_MiniGame_ShieldSurfing_Game"
+msgid "<NO_STRING>"
+msgstr ""
+

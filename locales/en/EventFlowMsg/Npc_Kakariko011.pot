@@ -1,0 +1,222 @@
+msgctxt "0000"
+msgid "Regular bed."
+msgstr ""
+
+msgctxt "0001"
+msgid "Soft bed."
+msgstr ""
+
+msgctxt "0002"
+msgid "The difference?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Morning."
+msgstr ""
+
+msgctxt "0004"
+msgid "Noon."
+msgstr ""
+
+msgctxt "0005"
+msgid "Night."
+msgstr ""
+
+msgctxt "0006"
+msgid "Changed my mind."
+msgstr ""
+
+msgctxt "0007"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "0008"
+msgid "Nah, never mind."
+msgstr ""
+
+msgctxt "0009"
+msgid "Bye."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: pause (longer)
+#. 7: reset_colour
+#. 8: pause (long)
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: choice
+msgctxt "Talk00"
+msgid ""
+"<1.so>Well...<2.pa> The regular bed is <3.se_co>20 "
+"rupees<4.re_co>.<5.se_co><6.pa><7.re_co>\n"
+"And...<8.pa>th-the soft bed is <9.se_co>40 rupees<10.re_co>.<11.pa>\n"
+"I guess...<12.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: choice
+msgctxt "Talk02"
+msgid ""
+"<1.so>Th-thank you...<2.pa> So, um...<3.pa>\n"
+"When should I wake you?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "Talk03"
+msgid ""
+"<1.so>Well...<2.pa>d-do come again...<3.pa>OK?<4.pa>\n"
+"Good night..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: text_size
+#. 4: pause (short)
+#. 5: text_size
+msgctxt "Talk04"
+msgid ""
+"<1.so>M-morning?<2.pa> Alrighty.\n"
+"If you insist.\n"
+"\n"
+"<3.te_si>I wonder...<4.pa>if I'll be awake...<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk05"
+msgid ""
+"<1.so>Um...<2.pa> Oh, my... It seems you don't...<3.pa>\n"
+"have enough rupees."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk06"
+msgid "<1.so>Um...<2.pa> Well...<3.pa> OK, I guess."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk08"
+msgid "<1.so>Good m-morning."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: text_size
+#. 6: set_colour (grey)
+#. 7: sound
+#. 8: reset_colour
+#. 9: text_size
+msgctxt "Talk10"
+msgid ""
+"<1.so>Ack! <2.pa>Are you...<3.pa>a g-guest?\n"
+"<4.pa>I suppose so...\n"
+"\n"
+"<5.te_si><6.se_co><7.so>You s-scared me half to death...<8.re_co><9.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: choice
+msgctxt "Talk11"
+msgid ""
+"<1.so>Hrm... <2.pa>Well... I guess it's OK.<3.pa>\n"
+"It is your first time here...<4.pa>right?\n"
+"\n"
+"I'll give you a freebie...<5.pa>just this once.<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: pause (short)
+msgctxt "Talk12"
+msgid ""
+"<1.so>The soft bed is stuffed with premium\n"
+"Cucco feathers...<2.pa>or something.<3.pa>\n"
+"I think.\n"
+"Sleep on that, and...<4.pa> Um...<5.pa> Ya know...<6.pa>\n"
+"You'll be more energized<7.pa> than usual."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk13"
+msgid "<1.so>Oh, OK... <2.pa>You'd sleep great, though..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: text_size
+#. 4: pause (short)
+#. 5: text_size
+msgctxt "Talk14"
+msgid ""
+"<1.so>Noon?<2.pa> Alrighty. If you insist.\n"
+"\n"
+"\n"
+"<3.te_si>I wonder...<4.pa>if I'll be awake...<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: text_size
+#. 4: pause (short)
+#. 5: text_size
+msgctxt "Talk15"
+msgid ""
+"<1.so>Night?<2.pa> Got it. If you insist.\n"
+"\n"
+"\n"
+"<3.te_si>I wonder...<4.pa>if I'll be awake...<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk16"
+msgid ""
+"<1.so>Good m-morning.<2.pa> Or wait... Good day.<3.pa>\n"
+"I guess."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk17"
+msgid ""
+"<1.so>Good mor...<2.pa> Wait. I mean, good evening.<3.pa>\n"
+"I guess."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Talk18"
+msgid "<1.so>When should I...<2.pa>wake you up?<3.ch>"
+msgstr ""
+

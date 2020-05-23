@@ -1,0 +1,438 @@
+msgctxt "0000"
+msgid "Blood moon?"
+msgstr ""
+
+msgctxt "0001"
+msgid "I've seen it."
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "1000"
+msgid "Blood moon?"
+msgstr ""
+
+msgctxt "1001"
+msgid "Tonight's moon?"
+msgstr ""
+
+msgctxt "1002"
+msgid "Good-bye."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "BloodyMoon00"
+msgid ""
+"<1.so>Whenever the clock strikes midnight on\n"
+"unlucky nights, the sky turns blood red.\n"
+"That's the <2.se_co>blood moon<3.re_co>.\n"
+"When that happens, <4.se_co>monsters<5.re_co> come back\n"
+"to life, no matter how many times you've\n"
+"defeated them.\n"
+"It's happened for so long now that no\n"
+"one really pays it any mind, but I have no\n"
+"plans to give up on my research."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: reset_colour
+msgctxt "BloodyTalk00"
+msgid ""
+"<1.se_co><2.te_si><3.so>It's...so...RED!\n"
+"So gloriously RED!<4.te_si><5.re_co>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: reset_colour
+msgctxt "BloodyTalk01"
+msgid "<1.se_co><2.te_si><3.so>My blood...it's boiling!<4.te_si><5.re_co>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: reset_colour
+msgctxt "BloodyTalk02"
+msgid "<1.se_co><2.te_si><3.so>Arise, monsters!<4.te_si><5.re_co>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: reset_colour
+msgctxt "BloodyTalk03"
+msgid "<1.se_co><2.te_si><3.so>Gr...gr...gr...<4.te_si><5.re_co>"
+msgstr ""
+
+#. 1: sound
+msgctxt "FirstTalk00"
+msgid "<1.so>Hmm..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "FirstTalk01"
+msgid ""
+"<1.so>Oh, sorry...\n"
+"\n"
+"\n"
+"<2.so>I didn't notice you... I was a bit lost in\n"
+"thought there."
+msgstr ""
+
+#. 1: sound
+msgctxt "FirstTalk01_1"
+msgid "<1.so>What's up?"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "FirstTalk02"
+msgid ""
+"I've been doing rigorous research day\n"
+"and night to figure out the mystery of \n"
+"that <1.se_co>blood moon<2.re_co>.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "FirstTalk03"
+msgid ""
+"<1.so>You don't know it?\n"
+"\n"
+"\n"
+"<2.so>That's inexcusable. Listen up and I'll tell\n"
+"you about it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+msgctxt "FirstTalk04"
+msgid ""
+"<1.so>Hmmm...<2.pa> Are you just pretending to\n"
+"know what I was talking about?\n"
+"\n"
+"<3.so>That's fine, so long as you'll listen to me\n"
+"now while I tell you about it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "FirstTalk05"
+msgid ""
+"<1.so>Hmm...<2.pa>\n"
+"All the same, take a minute and listen\n"
+"while I tell you about it."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "FirstTalk06"
+msgid ""
+"<1.so>For 100 years now, every so often when\n"
+"the clock strikes midnight, the sky turns\n"
+"red and a full moon rises...\n"
+"At that moment, <2.se_co>monsters<3.re_co> that had been\n"
+"previously defeated will come back\n"
+"to life."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: text_size
+msgctxt "FirstTalk07"
+msgid ""
+"<1.so><2.te_si>And that's what is known as the\n"
+"<3.se_co>blood moon<4.re_co>!<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "FirstTalk08"
+msgid ""
+"<1.so>Why do the <2.se_co>monsters<3.re_co> return to life? <4.pa>\n"
+"Why does it only happen when the sky\n"
+"turns red?\n"
+"No one really has the answers to those\n"
+"questions. It's a mysterious\n"
+"phenomenon...\n"
+"<5.so>If you learn anything about the <6.se_co>blood\n"
+"moon<7.re_co> as you travel, be sure to come\n"
+"back and tell me."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>Hmm...\n"
+"\n"
+"\n"
+"<2.so>Oh, I'm sorry...\n"
+"\n"
+"\n"
+"<3.so>I spend so much time thinking about the\n"
+"moon that it's all I can talk about."
+msgstr ""
+
+#. 1: sound
+msgctxt "GoodBye01"
+msgid "<1.so>Hmm..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Moon00"
+msgid "<1.so>Tonight is the <2.se_co>blood moon<3.re_co>, at last..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Moon00_After"
+msgid ""
+"<1.so>The <2.se_co>blood moon <3.re_co>has come and gone.\n"
+"Time to start waiting for the next one..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Moon00_Befor"
+msgid ""
+"<1.so>I'm getting that feeling again...<2.pa>\n"
+"Something is going to happen tonight.<3.pa>\n"
+"I can taste it!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Moon00_Full"
+msgid ""
+"<1.so>Tonight is a full moon...\n"
+"\n"
+"\n"
+"Looks like it could come falling down any\n"
+"minute. I can't take my eyes off of it."
+msgstr ""
+
+#. 1: sound
+msgctxt "Moon01"
+msgid ""
+"<1.so>Tonight's moon will be a little smaller\n"
+"than yesterday's full moon. It's nice in\n"
+"its own way, really..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Moon02"
+msgid ""
+"<1.so>Tonight is the third-quarter moon.<2.pa>\n"
+"Like a bow aiming for the heavens above."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Moon03"
+msgid ""
+"<1.so>Tonight is the 26th-day moon...<2.pa>\n"
+"Its sloping line is really wonderful."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Moon04"
+msgid ""
+"<1.so>Tonight is a new moon...<2.pa>\n"
+"Even though we can't see it, isn't it\n"
+"great just knowing it's there?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Moon05"
+msgid ""
+"<1.so>Tonight is a crescent moon...<2.pa>\n"
+"That shape makes me hungry for some\n"
+"reason..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Moon06"
+msgid ""
+"<1.so>Tonight is a seven-day moon...\n"
+"Like a bow aiming for the land below,\n"
+"it really is quite beautiful."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Moon07"
+msgid ""
+"<1.so>Tonight is the 13th-day moon...<2.pa>\n"
+"Now it will slowly expand. So beautiful..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>Hmm..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "ZZZzzz..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near02"
+msgid "<1.so>Tonight..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near03"
+msgid "<1.so>Rain..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "Rain!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near05"
+msgid "<1.so>I'm sleeping..."
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Near06"
+msgid "<1.so><2.se_co>BLOOD!<3.re_co>"
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Near07"
+msgid "<1.so><2.se_co>Here...it...COMES!<3.re_co>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Rain00"
+msgid "<1.so>Hmm...<2.pa> Can't see the moon like this.<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Rain01"
+msgid ""
+"<1.so>I'm taking cover from the rain!\n"
+"We'll talk later!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Rain02"
+msgid "<1.so>Can't see anything in this rain!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk00"
+msgid ""
+"<1.so>Oh, you again...\n"
+"Are you interested in my research?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk01"
+msgid "<1.so>Well, ask me anything.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Talk02"
+msgid ""
+"<1.so>Oh, you again.<2.pa>\n"
+"The moon is about to come out...<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Talk03"
+msgid ""
+"<1.so>Oh, you again.<2.pa>\n"
+"A beautiful moon tonight, isn't it?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Talk03_1"
+msgid ""
+"<1.so>Oh...<2.pa> You were researching the\n"
+"<3.se_co>blood moon<4.re_co>, as well?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk04"
+msgid ""
+"<1.so>Oh...\n"
+"It looks like the moon has already\n"
+"disappeared today...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk05"
+msgid "<1.so>Anything else you want to ask?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk06"
+msgid ""
+"<1.so>What is it? I was just about to get some\n"
+"sleep so I can be rested for researching\n"
+"the moon tonight...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk07"
+msgid ""
+"<1.so>What is it? I was just sleeping so I'd be\n"
+"well rested for researching the moon\n"
+"tonight...<2.ch>"
+msgstr ""
+

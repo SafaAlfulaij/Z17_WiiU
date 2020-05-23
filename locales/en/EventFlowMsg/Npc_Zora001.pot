@@ -1,0 +1,248 @@
+msgctxt "0003"
+msgid "What is this place?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0006"
+msgid "What?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0009"
+msgid "It's not much."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: sound
+#. 7: pause (long)
+msgctxt "talk00"
+msgid ""
+"<1.so>Oh! <2.pa>You're that Hylian I met at\n"
+"<3.se_co>Zora River<4.re_co>!\n"
+"\n"
+"<5.so>Are you here at Prince Sidon's request?\n"
+"\n"
+"\n"
+"<6.so>Well, King Dorephan and Prince Sidon\n"
+"are waiting for you.<7.pa> Please help them!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>Ohoho... <2.pa>So you're back.<3.pa>\n"
+"You're that Hylian our Prince Sidon\n"
+"brought here, aren't you?\n"
+"Please go and meet with him right away."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>Good morning."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid "<1.so>Good day."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Good evening."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk06"
+msgid "<1.so>Yes, sir! <2.pa>Nothing to report, sir!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+msgctxt "talk07"
+msgid "<1.so>...Yes? <2.pa>Did you need something?<3.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "talk08"
+msgid ""
+"<1.so>Ohoho, a Hylian, eh?<2.pa> The path\n"
+"to <3.se_co>Zora's Domain<4.re_co> is paved with\n"
+"monsters, is it not?\n"
+"Here in the domain, <5.pa>we are currently\n"
+"recruiting warriors to join Prince Sidon\n"
+"in his fight.\n"
+"Please hurry up and meet with him."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid "<1.so>Farewell!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid ""
+"<1.so>At the top of these stairs is the throne\n"
+"room of King Dorephan and his son,\n"
+"Prince Sidon."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid "<1.so>Me?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk12"
+msgid "<1.so>My name is Tottika.<2.pa> I'm a novice soldier."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: single_choice
+msgctxt "talk13"
+msgid "<1.so>By the way...<2.pa>HYLIAN...<3.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: choice
+msgctxt "talk14"
+msgid ""
+"<1.so>You managed to make it to <2.se_co>Zora's Domain<3.re_co>\n"
+"all by yourself, eh?\n"
+"\n"
+"<4.so>That would mean you've got a pretty\n"
+"reliable weapon on you, yes?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "talk15"
+msgid ""
+"<1.so>I see.\n"
+"\n"
+"\n"
+"I've been supplied a <2.se_co>silverscale spear<3.re_co>.<4.pa>\n"
+"I have no complaints about it, but...\n"
+"\n"
+"<5.so>There are rumors of a <6.se_co>legendary blade<7.re_co>...<8.pa>\n"
+"one that chooses its wielder."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk16"
+msgid ""
+"<1.so>I want to become an important soldier...<2.pa>\n"
+"one who's worthy of being chosen by\n"
+"a legendary weapon!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "talk17"
+msgid ""
+"<1.so>Hylian!<2.pa> Have you seen?!\n"
+"\n"
+"\n"
+"The rain that has been falling ever since\n"
+"<3.se_co>Divine Beast Vah Ruta<4.re_co> was angered...<5.pa>\n"
+"has finally stopped!\n"
+"Was that you and Prince Sidon?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+msgctxt "talk18"
+msgid ""
+"<1.so>Oh! <2.pa>Hylian!<3.pa> You have done us a\n"
+"great service!\n"
+"\n"
+"<4.so>Captain Bazz filled me in.<5.pa> He told me you\n"
+"are the Champion who visited Zora's\n"
+"Domain 100 years ago. Or...something."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.so>Great Hylian Champion...<2.pa> Thank you so\n"
+"much for all you have done for us."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk20"
+msgid ""
+"<1.so>Now, even the elders who were so down\n"
+"on you are likely looking upon you with\n"
+"regard and triumph!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk21"
+msgid ""
+"<1.so>Because of your glorious deeds, I'm sure\n"
+"the elders will be content to let the\n"
+"subject of Mipha finally wash away."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (short)
+msgctxt "talk22"
+msgid ""
+"<1.so>Here in <2.se_co>Zora's Domain<3.re_co>, we're currently\n"
+"recruiting warriors to join Prince Sidon\n"
+"in his noble struggle.\n"
+"<4.so>However, the elders are...stubborn.<5.pa>\n"
+"They are wholly against outsiders\n"
+"getting involved in Zora affairs.\n"
+"But King Dorephan, as well as the young\n"
+"folk, are ready to accept anyone's help...<6.pa>\n"
+"Well, so long as they are trustworthy.\n"
+"If you wish to learn more, please go and\n"
+"speak with King Dorephan directly."
+msgstr ""
+

@@ -1,0 +1,153 @@
+msgctxt "0000"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "0001"
+msgid "What's a Guardian?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Cherry?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "NakedPlayer"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "What?!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "Remote Bombs..."
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "Goodness gracious!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "What?!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk00"
+msgid ""
+"<1.se_co><2.so>Cherry <3.re_co>is safely back to work. All that's\n"
+"left is for you to destroy the <4.se_co>Calamity<5.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Bye-bye."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk02"
+msgid ""
+"<1.so>Good morning.<2.pa>\n"
+"This morning really is quite good..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk03"
+msgid ""
+"<1.so>Good day.<2.pa>\n"
+"And a good day it is."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk04"
+msgid ""
+"<1.so>Good evening.<2.pa>\n"
+"Yes, yes, I would describe this evening\n"
+"as good."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk06"
+msgid ""
+"<1.so>But I think it's unwise<2.pa> to try and make\n"
+"the <3.se_co>Guardians <4.re_co>our allies now... <5.pa>\n"
+"Just...too difficult...\n"
+"I think I'll offer you ancient equipment<6.pa>\n"
+"in exchange for <7.se_co>Guardian <8.re_co>parts, instead."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk07"
+msgid "<1.so>What's up? <2.pa>How are you doing?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>By the way...<2.pa>\n"
+"Did you need something from me?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk09"
+msgid ""
+"<1.so>Good afternoon.<2.pa>\n"
+"Or is it good morning?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+#. 9: sound
+msgctxt "talk10"
+msgid ""
+"<1.so>The <2.se_co>Guardians<3.re_co> are self-guided weapons\n"
+"built to fight Calamity Ganon and\n"
+"developed by our Sheikah ancestors.\n"
+"For many years, the <4.se_co>Guardians<5.re_co> were kept\n"
+"below <6.se_co>Hyrule Castle<7.re_co>. <8.so>However, when the\n"
+"Calamity struck, they were stolen away.\n"
+"<9.so>I've been researching ways to take\n"
+"them back..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk11"
+msgid "<1.so>Have you got any other questions?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk12"
+msgid ""
+"<1.so>When one receives such scars on\n"
+"their body...<2.pa> Well, they can leave\n"
+"lasting memories in their mind as well."
+msgstr ""
+

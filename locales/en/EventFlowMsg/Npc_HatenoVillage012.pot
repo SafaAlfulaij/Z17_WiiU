@@ -1,0 +1,438 @@
+msgctxt "0000"
+msgid "Nothing of interest?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Mount Lanayru?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "0005"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Spring of Wisdom?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Yes, please."
+msgstr ""
+
+msgctxt "near00"
+msgid "Time for a breather..."
+msgstr ""
+
+msgctxt "near02"
+msgid "Phew..."
+msgstr ""
+
+msgctxt "near03"
+msgid "Gotta get workin'..."
+msgstr ""
+
+msgctxt "near04"
+msgid "Hup! There we go."
+msgstr ""
+
+msgctxt "near05"
+msgid "Zzzrrnnngh..."
+msgstr ""
+
+msgctxt "near06"
+msgid "♪At Mount Lanayru...♪"
+msgstr ""
+
+msgctxt "near07"
+msgid "♪Spring of Wisdom...♪"
+msgstr ""
+
+msgctxt "near08"
+msgid "♪Goddess attendants...♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: single_choice
+msgctxt "talk00"
+msgid ""
+"<1.so>Hey! <2.pa>Traveler, right? I could tell.\n"
+"\n"
+"\n"
+"Well, there's not a whole lot to see\n"
+"in this village, but knock yourself out.<3.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk01"
+msgid ""
+"<1.so>Well... <2.pa>\"Nothing\" might be going a little\n"
+"bit overboard...\n"
+"\n"
+"We do have a <3.se_co>dye shop<4.re_co>. I don't think \n"
+"they have one of those in other towns."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "talk02"
+msgid ""
+"<1.so>Say, isn't that <2.se_co>blue flame<3.re_co>...<4.pa> \n"
+"Isn't that Grandma Purah's?\n"
+"\n"
+"<5.so><6.se_co>Her house <7.re_co>isn't near here.<8.pa> It's way on\n"
+"the eastern edge of the village."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>Well, see ya."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: set_colour (red)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: pause (short)
+#. 13: pause (long)
+#. 14: sound
+#. 15: pause (short)
+#. 16: set_colour (blue)
+#. 17: reset_colour
+#. 18: pause (longer)
+msgctxt "talk04"
+msgid ""
+"<1.so>Yeah, <2.se_co>Mount Lanayru<3.re_co>'s interesting...<4.pa>\n"
+"\n"
+"\n"
+"The <5.se_co><6.se_co>Spring of Wisdom<7.se_co> <8.re_co>the princess of"
+" \n"
+"<9.se_co>Hyrule<10.re_co> used for<11.pa> purification is said to\n"
+"be somewhere on that mountain.\n"
+"A special fountain? <12.pa>That the princess\n"
+"had to endure hardship to visit?<13.pa> I bet \n"
+"the royal family left a treasure there!\n"
+"<14.so>...Well,<15.pa> at least maybe they could've.\n"
+"I would've if I was royal.\n"
+"\n"
+"Anyway, <16.se_co>Mount Lanayru<17.re_co> is a mysterious\n"
+"place, and it's engulfed in ice.<18.pa>\n"
+"If there IS treasure, no one's getting it."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: pause (short)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: pause (short)
+msgctxt "talk05"
+msgid ""
+"<1.so>That <2.se_co>blue flame<3.re_co>...<4.se_co><5.pa> <6.re_co>It "
+"belongs to the \n"
+"<7.se_co>director <8.re_co>at the research center, right?\n"
+"\n"
+"<9.so>The <10.se_co>research center<11.re_co> isn't near here.<12.pa>\n"
+"It's way on the east side of the village."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: pause (short)
+#. 4: reset_colour
+#. 5: single_choice
+msgctxt "talk06"
+msgid ""
+"<1.so>We also have <2.se_co>Mount Lanayru<3.pa><4.re_co> way up to\n"
+"the north. See it?<5.si_ch>\n"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk07"
+msgid ""
+"<1.so>Well...<2.pa>if you have some time to kill,<3.pa>\n"
+"feel free to have a look around up there."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk08"
+msgid "<1.so>*yawn* <2.pa>Hm..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid "<1.so>Hm?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid "<1.so>Hey, you're out early."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid "<1.so>Hey, how are you?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid "<1.so>Good evenin' there."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk13"
+msgid "<1.so>You need something?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk14"
+msgid ""
+"<1.so>Ask anyone what the most famous\n"
+"mountain visible<2.pa> from Hateno Village is,<3.pa>\n"
+"and they'll tell you <4.se_co>Mount Lanayru<5.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk15"
+msgid ""
+"<1.so>So, yeah...<2.pa> Not sure if any of that\n"
+"information was actually useful..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+#. 5: single_choice
+msgctxt "talk17"
+msgid ""
+"<1.so>Oh, hey!<2.pa> Traveler, right?\n"
+"\n"
+"\n"
+"Welcome! <3.pa>Or that's what I WOULD say...<4.pa>\n"
+"This is a pretty abnormal hour for\n"
+"official welcoming, though.<5.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (short)
+#. 7: single_choice
+#. 8: pause (short)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: pause (short)
+#. 13: sound
+#. 14: pause (short)
+#. 15: set_colour (blue)
+#. 16: reset_colour
+#. 17: single_choice
+msgctxt "talk18"
+msgid ""
+"<1.so>Well...<2.pa> I guess it's OK this time, but...<3.pa>\n"
+"I don't really have any welcome gossip...<4.pa>\n"
+"\n"
+"<5.so>No real \"talk of the town,\" per se...<6.pa>\n"
+"I guess I could give my personal \n"
+"highlights?<7.si_ch>\n"
+"I guess if I had to name attractions...<8.pa>\n"
+"I'm partial to the funny-talking guy at the\n"
+"<9.se_co>dye shop<10.re_co><11.pa> or <12.pa>Mr. Seldon's running...\n"
+"<13.so>Guess a running man isn't an attraction...<14.pa>\n"
+"Oh, but we have a view of that famous\n"
+"mountain to the north, <15.se_co>Mount Lanayru<16.re_co>.<17.si_ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: set_colour (red)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (short)
+#. 11: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.se_co><2.so><3.re_co>The <4.se_co><5.se_co>Spring of Wisdom<6.se_co> "
+"<7.re_co>is a place where\n"
+"the princesses of <8.se_co>Hyrule Castle <9.re_co>used to\n"
+"go to do <10.pa>some kind of ceremony. \n"
+"No idea exactly what kind of ceremony, \n"
+"but<11.pa> anyway, it's not a place where us\n"
+"ordinary folk go. No princesses here."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk20"
+msgid ""
+"<1.so>I'm the guy that works the field,\n"
+"obviously. Sometimes, the crops yield\n"
+"more than I need to feed myself.\n"
+"When that happens, I harvest all the\n"
+"produce<2.pa> and send it over to Mr. Pruce's\n"
+"place, East Wind."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk21"
+msgid ""
+"<1.so>You can probably tell, but I'm checking\n"
+"the reservoir... Irrigation, you know?\n"
+"\n"
+"If you don't keep an eye on the water\n"
+"flow,<2.pa> the crops can drown."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "talk22"
+msgid ""
+"<1.so>Sometimes, I can't help but watch my\n"
+"sweet little daughter sleep at night.\n"
+"Dreaming her dreams...\n"
+"Guess you'd have to be a parent to\n"
+"understand. <2.pa><3.so>But lemme tell you, it sure\n"
+"leaves me sleepy in the morning!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk23"
+msgid "<1.so>Anything else you want to ask me?<2.ra>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk24"
+msgid "<1.so>Awwwww..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "talk25"
+msgid "<1.te_si><2.so>I'll stay up and watch my daughter sleep...<3.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "talk26"
+msgid "<1.te_si><2.so>Guess it's time to knock off for the day...<3.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: text_size
+msgctxt "talk27"
+msgid "<1.te_si><2.so>♪Another day of work!♪ <3.pa>Yup...<4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: text_size
+msgctxt "talk28"
+msgid ""
+"<1.te_si><2.so>♪Rain or shine, do that work for my daughter.♪\n"
+"<3.pa>Guess that's life, and not a bad one.<4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: text_size
+msgctxt "talk29"
+msgid ""
+"<1.te_si><2.so>♪If it rains, I'll go to the reservoir.♪ <3.pa>I "
+"guess...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk30"
+msgid ""
+"<1.so>...Uh-oh.<2.pa> Someone heard me talking to\n"
+"myself. Oh, well."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk31"
+msgid ""
+"<1.so>If you want to talk,<2.pa> come find me when\n"
+"I get settled. Not a good walk-and-talker."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk32"
+msgid ""
+"<1.so>If you need to talk to me,<2.pa> just give me\n"
+"a chance to park myself, OK?<3.pa>\n"
+"I think better when I'm not moving."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk33"
+msgid ""
+"<1.so>...Oops, <2.pa>someone heard me singing...\n"
+"badly."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk34"
+msgid "<1.so>Uh-oh,<2.pa> you again."
+msgstr ""
+

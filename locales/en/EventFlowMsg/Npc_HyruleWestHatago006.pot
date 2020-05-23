@@ -1,0 +1,84 @@
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (long)
+#. 6: pause (long)
+msgctxt "talk00"
+msgid ""
+"<1.so>You stayin' here at our stable?\n"
+"That's nice, but check this out.\n"
+"\n"
+"Go way out south of here, and you'll \n"
+"find a flat hill called <2.se_co>Washa's Bluff<3.re_co>.\n"
+"\n"
+"<4.so>On that hill, there's this mysterious-\n"
+"lookin' platform thingie...<5.pa>\n"
+"\n"
+"Me and Geggle tried all day to figure out\n"
+"what it does, but we're stumped...<6.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk01"
+msgid ""
+"<1.so>If you want to see the platform thingie, \n"
+"go south toward <2.se_co>Washa's Bluff<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: sound
+msgctxt "talk02"
+msgid ""
+"<1.so>Huh?! An <2.se_co>ancient shrine<3.re_co> thingie\n"
+"appeared? Who'da thunk that platform\n"
+"thingie was hidin' a mystery like that!<4.pa>\n"
+"<5.so>I guess that means I have to solve the\n"
+"mystery of the shrine thingie now."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: pause (long)
+msgctxt "talk03"
+msgid ""
+"<1.so><2.se_co>Ancient shrine<3.re_co>...<4.pa>\n"
+"The mystery deepens...<5.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk04"
+msgid ""
+"<1.so>Oooh, I don't have time to be lookin'\n"
+"after mountain goats right now...<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk05"
+msgid ""
+"<1.so>Oooh, I don't have time to be drinkin'\n"
+"right now...<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk06"
+msgid ""
+"<1.so>There was this one...<2.se_co>Rito<3.re_co> guy that went\n"
+"flying to the south after I told him about\n"
+"it.\n"
+"He was a big ol' bard with some fancy\n"
+"instrument thingie. He probably wanted\n"
+"to see the altar thingie himself."
+msgstr ""
+

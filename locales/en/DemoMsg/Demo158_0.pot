@@ -1,0 +1,15 @@
+#. 1: raw
+msgctxt "Demo158_0_Text000"
+msgid ""
+"Stay on your edge, Link!<1.ra>This formidable adversary was made by Ganon"
+" and\n"
+"brought me to a warrior's demise 100 years ago."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo158_0_Text001"
+msgid ""
+"Do not allow this to be your end.<1.ra>Fight for your life...and its "
+"death!"
+msgstr ""
+

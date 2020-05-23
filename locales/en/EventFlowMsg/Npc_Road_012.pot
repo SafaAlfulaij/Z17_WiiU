@@ -1,0 +1,389 @@
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>I should have stomped all over such a\n"
+"weak monster. <2.pa>Where did I go wrong?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid ""
+"<1.so>If I was just a few years younger, that\n"
+"monster would rue the day it met me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed00"
+msgid "<1.so>I'm—<2.pa> I'm alive! Praise the gods!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed01"
+msgid "<1.so>Oof...<2.pa> Curse those monsters!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: raw
+#. 9: pause (long)
+msgctxt "MSG_Gerud_00"
+msgid ""
+"<1.so>I'm a legendary treasure hunter. <2.pa>Been at\n"
+"it for 20 years...<3.ra><4.so>The whole town's buzzing about that\n"
+"<5.se_co>Yiga Clan<6.re_co>. <7.pa>You heard of 'em?<8.ra>If you ask me, "
+"treasure hunters are a few\n"
+"cuts above common bandits... <9.pa>But in an\n"
+"odd sense, they're my competition."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "MSG_Gerud_00_1"
+msgid ""
+"<1.so>The whole town's been buzzing about\n"
+"that <2.se_co>Yiga Clan<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "MSG_Gerud_01"
+msgid ""
+"<1.so>You're looking at Calisa, legendary\n"
+"treasure hunter. <2.pa>The treasure I'm\n"
+"after these days is voe.\n"
+"<3.so>I think your word for voe is...\"man\"?<4.pa>\n"
+"That sounds right. <5.pa>I'm after the roughest,\n"
+"toughest voe this world has to offer!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (long)
+msgctxt "MSG_Gerud_0100"
+msgid ""
+"<1.so>I'm a legendary treasure hunter, and \n"
+"you caught me in a good mood.<2.ra><3.so>They finally cracked the "
+"<4.se_co>Yiga Clan<5.re_co> case!<6.pa>\n"
+"Now I can hunt for voe—I mean\n"
+"treasure—without worrying about it."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "MSG_Gerud_0100_1"
+msgid ""
+"<1.so>Now that they cracked the <2.se_co>Yiga Clan<3.re_co>\n"
+"case, I can hunt for voe—I mean\n"
+"treasure—without worrying about it."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "MSG_Gerud_01_1"
+msgid ""
+"<1.so>The main treasure I'm after right now\n"
+"is a big, strapping voe.<2.ra>I think your word for voe "
+"is...\"man\"?<3.pa>\n"
+"And not just any voe. <4.pa>The roughest,\n"
+"toughest voe I can find!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: sound
+msgctxt "MSG_Gerud_02"
+msgid ""
+"<1.so>If you're searching for Calisa, legendary\n"
+"treasure hunter, then your search is over.<2.pa>\n"
+"You're looking at her!\n"
+"I've been in the game for over 20 years.<3.pa>\n"
+"<4.so>When I set my sights on a treasure, you\n"
+"can be sure that I'll claim it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Gerud_02_1"
+msgid ""
+"<1.so>I never rest until I get my hands on the\n"
+"treasure I'm after. <2.pa>I've been at this job\n"
+"for 20 years, after all!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "MSG_Gerud_03"
+msgid ""
+"<1.so>You're in the presence of the legendary\n"
+"treasure hunter Calisa. <2.pa>I'm chasing down\n"
+"rumors of treasure chests in the desert.\n"
+"<3.so>No idea if people buried them or if the\n"
+"sands claimed them...<4.pa> I care more about\n"
+"digging them up and opening them!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Gerud_03_1"
+msgid ""
+"<1.so>They say there's buried chests in these\n"
+"sands. <2.pa>I aim to dig them up and find out\n"
+"what's inside."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "MSG_Gerud_04"
+msgid ""
+"<1.so>I'm Calisa, legendary treasure hunter.<2.pa>\n"
+"Right now I've got my eye on the voe\n"
+"at this stable.\n"
+"<3.so>I wouldn't rate any of them as treasure,\n"
+"though... <4.pa>Except maybe you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "MSG_Gerud_04_1"
+msgid ""
+"<1.so>I look at the voe at this stable with a\n"
+"treasure hunter's eye. <2.pa>Not much value\n"
+"in these runts, sad to say."
+msgstr ""
+
+msgctxt "Near00"
+msgid "Where's that treasure..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Leviathan bones..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "In the desert, though?"
+msgstr ""
+
+msgctxt "Near03"
+msgid "If only I had a sand seal..."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: raw
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Rest_00"
+msgid ""
+"<1.so>Have you heard of Calisa, legendary\n"
+"treasure hunter?<2.ra>If not, let me inform you that you have\n"
+"the honor of looking upon her.<3.ra>I've traveled to <4.se_co>Kara Kara "
+"Bazaar<5.re_co>,\n"
+"<6.se_co>Gerudo Canyon Stable<7.re_co>, and beyond in\n"
+"search of desert treasures."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (long)
+#. 5: raw
+#. 6: sound
+#. 7: pause (long)
+msgctxt "RetMSG_Gerud_00"
+msgid ""
+"<1.so>My name is Ca<2.pa>li<3.pa>sa! <4.pa>Legendary treasure\n"
+"hunter!<5.ra><6.so>And when I find a voe who meets\n"
+"my standards...<7.pa> I'll lock him in my vault,\n"
+"heh heh."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "RetMSG_Gerud_00_1"
+msgid ""
+"<1.so>Any treasure, or any voe, I get my hands\n"
+"on is mine forever. <2.pa>Heh heh."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "RetMSG_Gerud_01"
+msgid ""
+"<1.so>A runt like you wants to cross the \n"
+"desert? <2.pa>You have a Gerudo's daring,\n"
+"little one!\n"
+"<3.so>I like that, so I'll share a secret with you.<4.pa>\n"
+"Buried in those sands somewhere is a\n"
+"great treasure."
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Gerud_01_1"
+msgid ""
+"<1.so>They say that buried in those sands\n"
+"somewhere is a great treasure."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "RetMSG_Gerud_02"
+msgid ""
+"<1.so>Crossing the desert on foot would be\n"
+"hard even for me. With a <2.se_co>sand seal<3.re_co>,\n"
+"though, it's another story.\n"
+"<4.so>You have a sand seal and a shield,\n"
+"they do all the work for you!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "RetMSG_Gerud_02_1"
+msgid ""
+"<1.so>If only we had <2.se_co>sand seals<3.re_co>, then we\n"
+"wouldn't need to think twice about\n"
+"traveling across these sands."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "RetMSG_Gerud_03"
+msgid ""
+"<1.so>How do you wring such strength, such\n"
+"endurance, out of that runty body?<2.ra><3.so>Very few have ever seen the"
+" <4.se_co>leviathan\n"
+"bones<5.re_co>, but keep an eye out in the desert\n"
+"and you might just get lucky!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "RetMSG_Gerud_03_1"
+msgid ""
+"<1.so>Few travelers have seen the <2.se_co>leviathan\n"
+"bones<3.re_co>, but keep an eye out in the desert\n"
+"and you might just get lucky!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "RetMSG_Gerud_04"
+msgid ""
+"<1.so>You're talking to none other than Calisa,\n"
+"legendary treasure hunter. <2.pa>Right now I\n"
+"have my eye on the voe at this stable.\n"
+"<3.so>Calling any of these runts a treasure is\n"
+"a stretch, though. <4.pa>When will the voe who\n"
+"can steal my heart arrive?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "RetMSG_Gerud_04_1"
+msgid ""
+"<1.so>When I get bored of treasure hunting,\n"
+"I come to this stable to check out\n"
+"the voe.\n"
+"I'm looking for the voe who'll steal my\n"
+"heart for good...<2.pa>but it sure isn't any\n"
+"of these."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_00"
+msgid "<1.so>Are the monsters gone now?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>That could've been bad, huh? <2.pa>Once was\n"
+"enough for me!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_00"
+msgid "<1.so>I don't know how, but I made it!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv2_01"
+msgid "<1.so>You OK?<2.pa> No broken bones or anything?"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>Sa'oten! Why are there so many\n"
+"monsters all over the place?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>*pant pant*... <2.pa>How do I get into these\n"
+"scrapes?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk04"
+msgid "<1.so><2.so>Sav'otta!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk05"
+msgid "<1.so><2.so>Sav'aaq."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk06"
+msgid "<1.so><2.so>Sav'saaba!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Thanks00"
+msgid "<1.so>Here. <2.pa>If you want it, it's yours."
+msgstr ""
+

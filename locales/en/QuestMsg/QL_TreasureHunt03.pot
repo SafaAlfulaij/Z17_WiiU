@@ -1,0 +1,54 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt03_Desc"
+msgid ""
+"Rumor has it there's a bridle that enhances a\n"
+"horse's skill and a saddle that can summon\n"
+"your horse right to you. Does this supposed\n"
+"ancient horse gear really exist?\n"
+"\n"
+"Apparently <1.se_co>Highland Stable<2.re_co> has a copy of\n"
+"Super Rumor Mill EX, which details some\n"
+"rumors about this rare horse gear."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt03_Finish"
+msgid ""
+"You found the <1.se_co>ancient horse gear<2.re_co> at\n"
+"Satori Mountain and Malanya Spring!\n"
+"\n"
+"Equip your horse with the Ancient Bridle for a\n"
+"longer-lasting gallop. Equip the Ancient Saddle\n"
+"and your horse will come running whenever\n"
+"you call, no matter how far you are.\n"
+"Believing those rumors really paid off!"
+msgstr ""
+
+msgctxt "QL_TreasureHunt03_Name"
+msgid "EX Ancient Horse Rumors"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: variable (TreasureHunt03_RemainingBox)
+#. 7: reset_colour
+msgctxt "QL_TreasureHunt03_Step01"
+msgid ""
+"You read Super Rumor Mill EX: Volume 3!\n"
+"According to this special issue, there's a bridle\n"
+"that enhances your horse's skill and a saddle\n"
+"that summons your horse to your side.\n"
+"One is supposedly <1.se_co>under a cherry blossom tree\n"
+"at a mountain where creatures gather<2.re_co>, and the\n"
+"other is <3.se_co>at a spring where a horse spirit resides<4.re_co>.\n"
+"\n"
+"If you believe the rumors, try to find\n"
+"the hidden treasure!\n"
+"Treasure chests remaining: <5.se_co><6.va><7.re_co>"
+msgstr ""
+

@@ -1,0 +1,72 @@
+#. 1: animation
+msgctxt "Demo004_0_Text014"
+msgid "<1.an>Scanning area..."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo004_0_Text015"
+msgid "<1.an>Sheikah Tower activated."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo004_0_Text016"
+msgid "<1.an>Please watch for falling rocks."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo004_0_Text017"
+msgid "<1.an>Distilling local information..."
+msgstr ""
+
+#. 1: animation
+#. 2: pause (20f)
+msgctxt "Demo004_0_Text019"
+msgid ""
+"<1.an>Regional map extracted.\n"
+"\n"
+"\n"
+"Sheikah Slate updated.<2.pa>\n"
+"Additional functionality detected."
+msgstr ""
+
+#. 1: animation
+#. 2: icon
+msgctxt "Demo004_0_Text020"
+msgid ""
+"<1.an>Sheikah Sensor acquired. \n"
+"\n"
+"\n"
+"You can enable or disable the Sheikah\n"
+"Sensor with <2.ic> on the map screen."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo004_0_Text021"
+msgid "<1.an>Place the Sheikah Slate in the pedestal."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo004_0_Text023"
+msgid "<1.an>Sheikah Sensor now operational."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo004_0_Text025"
+msgid "<1.an>Complete map of Hyrule extracted."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo004_0_Text026"
+msgid "<1.an>Regional map extracted."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo004_0_Text027"
+msgid ""
+"<1.an>The sensor indicator has been placed\n"
+"near the minimap.\n"
+"\n"
+"Search for shrines by moving in the\n"
+"direction with the strongest signal."
+msgstr ""
+

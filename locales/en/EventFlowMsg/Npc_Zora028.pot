@@ -1,0 +1,293 @@
+msgctxt "0000"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0001"
+msgid "No."
+msgstr ""
+
+msgctxt "0002"
+msgid "Prince Sidon?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Pack of geezers?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0005"
+msgid "Ruta?"
+msgstr ""
+
+#. 1: sound
+msgctxt "near00"
+msgid "<1.so>♪Prince Sidon...♪ "
+msgstr ""
+
+#. 1: sound
+msgctxt "near01"
+msgid "<1.so>Amazing!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid "<1.so>Good morning."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Good day."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Good evening."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>Yes?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk05"
+msgid "<1.so>Do you need something?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk06"
+msgid ""
+"<1.so>Hm? <2.pa>You don't have any fins...<3.pa>\n"
+"Are you a Hylian?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk07"
+msgid ""
+"<1.so>Oh! <2.pa>Are you?!\n"
+"\n"
+"\n"
+"<3.so>I feel like we may or may not have\n"
+"met before...<4.pa>at <5.se_co>Zora River<6.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>I am the president of Prince Sidon's\n"
+"fan club. <2.pa>My name is Tula.\n"
+"\n"
+"<3.so>Do you...<4.pa>know Prince Sidon?<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid "<1.so>Farewell."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: text_size
+#. 6: sound
+#. 7: text_size
+#. 8: sound
+#. 9: pause (short)
+#. 10: pause (short)
+msgctxt "talk10"
+msgid ""
+"<1.so>Ahhh... <2.pa>Mmm... <3.pa>Prince Sidon...<4.pa>\n"
+"Just thinking of you turns me\n"
+"to mush...\n"
+"<5.te_si><6.so>On the other hand, if that pack of geezers shows\n"
+"up again, I swear...<7.te_si>\n"
+"\n"
+"<8.so>Oh! I'm sorry...\n"
+"\n"
+"\n"
+"*ahem* Anyway... <9.pa>Prince Sidon is a man\n"
+"with magnificent ideas.\n"
+"\n"
+"Oh, I know! <10.pa>Why don't you go and have\n"
+"a chat with Prince Sidon? Yes, do!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk11"
+msgid ""
+"<1.so>That's just what I'd expect from our\n"
+"Prince Sidon! <2.pa>His renown has even\n"
+"reached you, Hylian."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid "<1.so>Oh. I see..."
+msgstr ""
+
+#. 1: set_colour (grey)
+#. 2: text_size
+#. 3: sound
+#. 4: pause (short)
+#. 5: text_size
+#. 6: reset_colour
+msgctxt "talk13"
+msgid "<1.se_co><2.te_si><3.so>You're...<4.pa>in my way...<5.te_si><6.re_co>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk14"
+msgid "<1.so>Do you have any more questions?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "talk15"
+msgid ""
+"<1.so>He has shiny, glorious fangs...<2.pa>\n"
+"and smooth, shimmering skin...\n"
+"\n"
+"<3.so>Just imagining Prince Sidon's fine form...<4.pa>\n"
+"I just... <5.pa>*siiiigh*"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: text_size
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: text_size
+#. 10: pause (short)
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: sound
+#. 14: pause (short)
+msgctxt "talk16"
+msgid ""
+"<1.so>The Zora elders intend for our people to\n"
+"stop <2.se_co>Ruta<3.re_co> <4.pa>without any outside help.\n"
+"\n"
+"<5.te_si>Even though touching <6.se_co>shock arrows<7.re_co> for an\n"
+"extended period of time<8.pa> is impossible for us...<9.te_si>\n"
+"\n"
+"Prince Sidon, on the other hand, <10.pa>had the\n"
+"idea that we could ask an outsider to\n"
+"shoot the <11.se_co>shock arrows<12.re_co> for us!\n"
+"<13.so>That's our Prince Sidon for you...<14.pa>\n"
+"He has such bold ideas!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk17"
+msgid ""
+"<1.so>By <2.se_co>Ruta<3.re_co>, <4.pa>I mean <5.se_co>Divine Beast Vah "
+"Ruta<6.re_co> in\n"
+"<7.se_co>East Reservoir Lake<8.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: sound
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (short)
+#. 11: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.so>He's the culprit. The one who's making\n"
+"it rain and causing all this trouble.\n"
+"\n"
+"Prince Sidon needs <2.se_co>shock arrows<3.re_co>\n"
+"to stop <4.se_co>Ruta<5.re_co>... <6.pa>That much he knows\n"
+"for sure.\n"
+"<7.so>But we Zora can only hold <8.se_co>shock arrows<9.re_co>\n"
+"for a very limited time before...<10.pa>you know.\n"
+"Let's just say it's very dangerous for us.\n"
+"However, if a Hylian like you were to help\n"
+"us out, <11.pa>I know Prince Sidon would be\n"
+"very grateful!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk20"
+msgid ""
+"<1.so>Speaking of which... <2.pa>The bad weather\n"
+"seems to have calmed down a bit lately.\n"
+"\n"
+"Is it possible...<3.pa>that Prince Sidon finally\n"
+"appeased <4.se_co>Ruta<5.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "talk21"
+msgid ""
+"<1.so>Yes, I've heard all about it.<2.pa> You...<3.pa>\n"
+"You're an amazing guy, aren't you?\n"
+"\n"
+"Yes, you are. You saved us all.<4.pa>\n"
+"Thank you."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk22"
+msgid "<1.so>Thank you for saving the domain!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk23"
+msgid ""
+"<1.so>Now Lady Mipha's spirit can finally rest\n"
+"in peace."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk24"
+msgid ""
+"<1.so>Oh! <2.pa>So the Hylian chosen by Prince\n"
+"Sidon...<3.pa> That's you, isn't it?"
+msgstr ""
+

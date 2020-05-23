@@ -1,0 +1,25 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Desert_Maze_Desc"
+msgid ""
+"As you advanced through the Gerudo Desert\n"
+"and arrived in front of the suspicious ruins\n"
+"resting at the foot of Daval Peak, you heard\n"
+"a voice.\n"
+"\n"
+"It seems that, if you're able to <1.se_co>make it through\n"
+"this labyrinth<2.re_co>, you will receive a blessing."
+msgstr ""
+
+msgctxt "QL_Desert_Maze_Finish"
+msgid ""
+"A labyrinth built at the foot of Daval Peak...\n"
+"\n"
+"There was a shrine waiting for you\n"
+"at the end of the labyrinth."
+msgstr ""
+
+msgctxt "QL_Desert_Maze_Name"
+msgid "The Desert Labyrinth"
+msgstr ""
+

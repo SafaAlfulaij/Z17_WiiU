@@ -1,0 +1,1772 @@
+msgctxt "Dm_DLC_GerudoBigPointLight_A_01_Name"
+msgid "Champion demo 663 Gerudo Town point light (small)"
+msgstr ""
+
+msgctxt "Dm_DLC_GerudoBigPointLight_B_01_Name"
+msgid "Champion demo 663 Gerudo Town point light (big)"
+msgstr ""
+
+msgctxt "Dm_Npc_Gerdo_Hero_Name"
+msgid "Urbosa"
+msgstr ""
+
+msgctxt "Dm_Npc_Goron_Hero_Name"
+msgid "Daruk"
+msgstr ""
+
+msgctxt "Dm_Npc_Hyrule_KingSoul_Name"
+msgid "King Rhoam"
+msgstr ""
+
+msgctxt "Dm_Npc_Rito_Hero_Name"
+msgid "Revali"
+msgstr ""
+
+msgctxt "Dm_Npc_Zora_Hero_Name"
+msgid "Mipha"
+msgstr ""
+
+msgctxt "GreatFairyBeforeRevival_Name"
+msgid "???"
+msgstr ""
+
+msgctxt "HorseAssociationCustum001_Name"
+msgid "Tenne"
+msgstr ""
+
+msgctxt "HorseAssociationCustum002_Name"
+msgid "Phanna"
+msgstr ""
+
+msgctxt "HorseAssociationCustum003_Name"
+msgid "Canni"
+msgstr ""
+
+msgctxt "HorseAssociationCustum004_Name"
+msgid "Breen"
+msgstr ""
+
+msgctxt "HorseGod001_Name"
+msgid "Malanya"
+msgstr ""
+
+msgctxt "NPC_Lanayru001_Name"
+msgid "Russ"
+msgstr ""
+
+msgctxt "NPC_Lanayru002_Name"
+msgid "Fin"
+msgstr ""
+
+msgctxt "NPC_SystemTextBoard_Name"
+msgid "Stone Tablet"
+msgstr ""
+
+msgctxt "NPC_SystemTextBook_Name"
+msgid "Old Journal"
+msgstr ""
+
+msgctxt "NPC_SystemTextDemonStatue_Name"
+msgid "Horned Statue"
+msgstr ""
+
+msgctxt "NPC_artist_000_Name"
+msgid "Pikango"
+msgstr ""
+
+msgctxt "NPC_oasis004_Name"
+msgid "Sesami"
+msgstr ""
+
+msgctxt "NPC_oasis004_fr01_Name"
+msgid "Canolo"
+msgstr ""
+
+msgctxt "NPC_oasis004_fr02_Name"
+msgid "Flaxel"
+msgstr ""
+
+msgctxt "NPC_oasis004_fr03_Name"
+msgid "Palme"
+msgstr ""
+
+msgctxt "NPC_oasis004_fr04_Name"
+msgid "Oliff"
+msgstr ""
+
+msgctxt "Npc_AncientAssistant001_Name"
+msgid "Symin"
+msgstr ""
+
+msgctxt "Npc_AncientAssistant003_Name"
+msgid "Granté"
+msgstr ""
+
+msgctxt "Npc_AncientAssistant004_Name"
+msgid "Jerrin"
+msgstr ""
+
+msgctxt "Npc_AncientDoctor_Hateno_Name"
+msgid "Robbie"
+msgstr ""
+
+msgctxt "Npc_AncientDoctor_Name"
+msgid "Purah"
+msgstr ""
+
+msgctxt "Npc_Assassin_001_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Assassin_002_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Assassin_003_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Assassin_004_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Assassin_005_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Assassin_006_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Assassin_007_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Assassin_008_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Assassin_009_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Assassin_010_Name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "Npc_Attacked_001_Name"
+msgid "Leekah"
+msgstr ""
+
+msgctxt "Npc_Attacked_002_Name"
+msgid "Dillie"
+msgstr ""
+
+msgctxt "Npc_Attacked_003_Name"
+msgid "Regan"
+msgstr ""
+
+msgctxt "Npc_Attacked_004_Name"
+msgid "Tye"
+msgstr ""
+
+msgctxt "Npc_Attacked_005_Name"
+msgid "Chabi"
+msgstr ""
+
+msgctxt "Npc_Attacked_006_Name"
+msgid "Mils"
+msgstr ""
+
+msgctxt "Npc_Attacked_007_Name"
+msgid "Jora"
+msgstr ""
+
+msgctxt "Npc_Attacked_008_Name"
+msgid "Nat"
+msgstr ""
+
+msgctxt "Npc_Attacked_009_Name"
+msgid "Meghyn"
+msgstr ""
+
+msgctxt "Npc_Attacked_010_Name"
+msgid "Sorelia"
+msgstr ""
+
+msgctxt "Npc_Attacked_011_Name"
+msgid "Mina"
+msgstr ""
+
+msgctxt "Npc_Attacked_012_Name"
+msgid "Nell"
+msgstr ""
+
+msgctxt "Npc_Bottle_Mes001_Name"
+msgid "Sasan"
+msgstr ""
+
+msgctxt "Npc_Bowling_Name"
+msgid "Pondo"
+msgstr ""
+
+msgctxt "Npc_Challenge093Lady_Name"
+msgid "Magda"
+msgstr ""
+
+msgctxt "Npc_DeathEastHatago_001_Name"
+msgid "Ozunda"
+msgstr ""
+
+msgctxt "Npc_DeathEastHatago_002_Name"
+msgid "Kima"
+msgstr ""
+
+msgctxt "Npc_DeathEastHatago_003_Name"
+msgid "Gaile"
+msgstr ""
+
+msgctxt "Npc_DeathMt001_Name"
+msgid "Mayro"
+msgstr ""
+
+msgctxt "Npc_DeathWestHatago_002_Name"
+msgid "Kish"
+msgstr ""
+
+msgctxt "Npc_DressFairy_00_Name"
+msgid "Cotera"
+msgstr ""
+
+msgctxt "Npc_DressFairy_01_Name"
+msgid "Mija"
+msgstr ""
+
+msgctxt "Npc_DressFairy_02_Name"
+msgid "Kaysa"
+msgstr ""
+
+msgctxt "Npc_DressFairy_03_Name"
+msgid "Tera"
+msgstr ""
+
+msgctxt "Npc_FaronHatago_001_Name"
+msgid "Padok"
+msgstr ""
+
+msgctxt "Npc_FaronWoods001_Name"
+msgid "Perosa"
+msgstr ""
+
+msgctxt "Npc_FaronWoods003_Name"
+msgid "Shay"
+msgstr ""
+
+msgctxt "Npc_FaronWoods006_Name"
+msgid "Brigo"
+msgstr ""
+
+msgctxt "Npc_FaronWoods007_Name"
+msgid "Giro"
+msgstr ""
+
+msgctxt "Npc_FaronWoods008_Name"
+msgid "Straia"
+msgstr ""
+
+msgctxt "Npc_FaronWoods009_Name"
+msgid "Jini"
+msgstr ""
+
+msgctxt "Npc_FaronWoods010_Name"
+msgid "Blynne"
+msgstr ""
+
+msgctxt "Npc_FarthestIsland002_Name"
+msgid "Mimo"
+msgstr ""
+
+msgctxt "Npc_FirstColony004_Name"
+msgid "Dai"
+msgstr ""
+
+msgctxt "Npc_GerudoCanyonHatago001_Name"
+msgid "Piaffe"
+msgstr ""
+
+msgctxt "Npc_GerudoDesert001_Name"
+msgid "Sudrey"
+msgstr ""
+
+msgctxt "Npc_GerudoDesert002_Name"
+msgid "Pokki"
+msgstr ""
+
+msgctxt "Npc_GerudoDesert003_Name"
+msgid "Anche"
+msgstr ""
+
+msgctxt "Npc_GerudoDesert004_Name"
+msgid "Barta"
+msgstr ""
+
+msgctxt "Npc_Goron005_Name"
+msgid "Aji"
+msgstr ""
+
+msgctxt "Npc_Goron006_Name"
+msgid "Bludo"
+msgstr ""
+
+msgctxt "Npc_Goron011_Name"
+msgid "Slergo"
+msgstr ""
+
+msgctxt "Npc_Goron012_Name"
+msgid "Dorill"
+msgstr ""
+
+msgctxt "Npc_Goron013_Name"
+msgid "Jengo"
+msgstr ""
+
+msgctxt "Npc_Goron014_Name"
+msgid "Bohrin"
+msgstr ""
+
+msgctxt "Npc_Goron015_Name"
+msgid "Axyl"
+msgstr ""
+
+msgctxt "Npc_Goron016_Name"
+msgid "Rohan"
+msgstr ""
+
+msgctxt "Npc_Goron017_Name"
+msgid "Fugo"
+msgstr ""
+
+msgctxt "Npc_Goron018_Name"
+msgid "Ramella"
+msgstr ""
+
+msgctxt "Npc_Goron020_Name"
+msgid "Yunobo"
+msgstr ""
+
+msgctxt "Npc_Goron021_Name"
+msgid "Bargoh"
+msgstr ""
+
+msgctxt "Npc_Goron022_Name"
+msgid "Krane"
+msgstr ""
+
+msgctxt "Npc_Goron023_Name"
+msgid "Greyson"
+msgstr ""
+
+msgctxt "Npc_Goron025_Name"
+msgid "Pelison"
+msgstr ""
+
+msgctxt "Npc_Goron030_Name"
+msgid "Drak"
+msgstr ""
+
+msgctxt "Npc_Goron031_Name"
+msgid "Dugby"
+msgstr ""
+
+msgctxt "Npc_Goron032_Name"
+msgid "Grapp"
+msgstr ""
+
+msgctxt "Npc_Goron033_Name"
+msgid "Offrak"
+msgstr ""
+
+msgctxt "Npc_Goron109_Name"
+msgid "Gonguron"
+msgstr ""
+
+msgctxt "Npc_Goron110_Name"
+msgid "Bladon"
+msgstr ""
+
+msgctxt "Npc_Goron_Camp001_Name"
+msgid "Bayge"
+msgstr ""
+
+msgctxt "Npc_Goron_Camp002_Name"
+msgid "Heehl"
+msgstr ""
+
+msgctxt "Npc_Goron_Camp003_Name"
+msgid "Kabetta"
+msgstr ""
+
+msgctxt "Npc_HatenoGate001_Name"
+msgid "Calip"
+msgstr ""
+
+msgctxt "Npc_HatenoGate002_Name"
+msgid "Mimos"
+msgstr ""
+
+msgctxt "Npc_HatenoGate003_Name"
+msgid "Garill"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage001_Name"
+msgid "Sayge"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage002_Name"
+msgid "Pruce"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage003_Name"
+msgid "Ivee"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage004_Name"
+msgid "Seldon"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage005_Name"
+msgid "Nack"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage006_Name"
+msgid "Nikki"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage007_Name"
+msgid "Narah"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage008_Name"
+msgid "Nebb"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage009_Name"
+msgid "Senna"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage010_Name"
+msgid "Leop"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage011_Name"
+msgid "Worten"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage012_Name"
+msgid "Medda"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage013_Name"
+msgid "Tokk"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage014_Name"
+msgid "Prima"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage015_Name"
+msgid "Thadd"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage016_Name"
+msgid "Dantz"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage017_Name"
+msgid "Rhodes"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage018_Name"
+msgid "Clavia"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage019_Name"
+msgid "Sophie"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage020_Name"
+msgid "Amira"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage021_Name"
+msgid "Sefaro"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage022_Name"
+msgid "Manny"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage023_Name"
+msgid "Uma"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage024_Name"
+msgid "Ralera"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage025_Name"
+msgid "Koyin"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage026_Name"
+msgid "Aster"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage027_Name"
+msgid "Azu"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage028_Name"
+msgid "Teebo"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage029_Name"
+msgid "Karin"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage030_Name"
+msgid "Karson"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage031_Name"
+msgid "Hudson"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage032_Name"
+msgid "Bolson"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage033_Name"
+msgid "Tamana"
+msgstr ""
+
+msgctxt "Npc_HatenoVillage_Name"
+msgid "Reede"
+msgstr ""
+
+msgctxt "Npc_HiddenKorokFly_Name"
+msgid "Korok"
+msgstr ""
+
+msgctxt "Npc_HiddenKorokGround_Name"
+msgid "Korok"
+msgstr ""
+
+msgctxt "Npc_HighMountain001_Name"
+msgid "Tulin"
+msgstr ""
+
+msgctxt "Npc_HighMountain003_Name"
+msgid "Molli"
+msgstr ""
+
+msgctxt "Npc_HighMountain004_Name"
+msgid "Kaneli"
+msgstr ""
+
+msgctxt "Npc_HighMountain005_Name"
+msgid "Saki"
+msgstr ""
+
+msgctxt "Npc_HighMountain008_Name"
+msgid "Nekk"
+msgstr ""
+
+msgctxt "Npc_HighMountain009_Name"
+msgid "Harth"
+msgstr ""
+
+msgctxt "Npc_HighMountain010_Name"
+msgid "Fyson"
+msgstr ""
+
+msgctxt "Npc_HighMountain011_Name"
+msgid "Mazli"
+msgstr ""
+
+msgctxt "Npc_HighMountain012_Name"
+msgid "Bedoli"
+msgstr ""
+
+msgctxt "Npc_HighMountain013_Name"
+msgid "Huck"
+msgstr ""
+
+msgctxt "Npc_HighMountain020_Name"
+msgid "Cecili"
+msgstr ""
+
+msgctxt "Npc_HighMountain021_Name"
+msgid "Misa"
+msgstr ""
+
+msgctxt "Npc_HighMountain025_Name"
+msgid "Verla"
+msgstr ""
+
+msgctxt "Npc_HighMountain030_Name"
+msgid "Laissa"
+msgstr ""
+
+msgctxt "Npc_HighMountain031_Name"
+msgid "Notts"
+msgstr ""
+
+msgctxt "Npc_HighMountain032_Name"
+msgid "Kotts"
+msgstr ""
+
+msgctxt "Npc_HighMountain033_Name"
+msgid "Genli"
+msgstr ""
+
+msgctxt "Npc_HighMountain034_Name"
+msgid "Cree"
+msgstr ""
+
+msgctxt "Npc_HighMountain035_Name"
+msgid "Kheel"
+msgstr ""
+
+msgctxt "Npc_HighMountain036_Name"
+msgid "Amali"
+msgstr ""
+
+msgctxt "Npc_HighMountain037_Name"
+msgid "Gesane"
+msgstr ""
+
+msgctxt "Npc_HighMountain040_Name"
+msgid "Jogo"
+msgstr ""
+
+msgctxt "Npc_HighMountain041_Name"
+msgid "Juney"
+msgstr ""
+
+msgctxt "Npc_HorseBuyer_Name"
+msgid "Zyle"
+msgstr ""
+
+msgctxt "Npc_Hunters_Lost_Name"
+msgid "Juannelle"
+msgstr ""
+
+msgctxt "Npc_HutagoHatago_001_Name"
+msgid "Tasseren"
+msgstr ""
+
+msgctxt "Npc_HutagoHatago_002_Name"
+msgid "Darton"
+msgstr ""
+
+msgctxt "Npc_HutagoHatago_Woman_01_Name"
+msgid "Sagessa"
+msgstr ""
+
+msgctxt "Npc_HyruleDepthHatago001_Name"
+msgid "Haite"
+msgstr ""
+
+msgctxt "Npc_HyruleDepthHatago002_Name"
+msgid "Myti"
+msgstr ""
+
+msgctxt "Npc_HyruleDepthHatago003_Name"
+msgid "Trott"
+msgstr ""
+
+msgctxt "Npc_HyruleDepthHatago004_Name"
+msgid "Geggle"
+msgstr ""
+
+msgctxt "Npc_HyruleDepthHatago005_Name"
+msgid "Embry"
+msgstr ""
+
+msgctxt "Npc_HyruleDepthHatago006_Name"
+msgid "Aliza"
+msgstr ""
+
+msgctxt "Npc_HyruleDepthHatago007_Name"
+msgid "Toffa"
+msgstr ""
+
+msgctxt "Npc_HyrulePlain004_Name"
+msgid "Shamae"
+msgstr ""
+
+msgctxt "Npc_HyrulePlain005_Name"
+msgid "Ashe"
+msgstr ""
+
+msgctxt "Npc_HyrulePlain006_Name"
+msgid "Molo"
+msgstr ""
+
+msgctxt "Npc_HyruleWestHatago001_Name"
+msgid "Zumi"
+msgstr ""
+
+msgctxt "Npc_HyruleWestHatago002_Name"
+msgid "Garshon"
+msgstr ""
+
+msgctxt "Npc_HyruleWestHatago003_Name"
+msgid "Onya"
+msgstr ""
+
+msgctxt "Npc_HyruleWestHatago004_Name"
+msgid "Akrah"
+msgstr ""
+
+msgctxt "Npc_HyruleWestHatago005_Name"
+msgid "Sprinn"
+msgstr ""
+
+msgctxt "Npc_HyruleWestHatago006_Name"
+msgid "Chork"
+msgstr ""
+
+msgctxt "Npc_IceVillage011_Name"
+msgid "Selmie"
+msgstr ""
+
+msgctxt "Npc_Kakariko001_Name"
+msgid "Impa"
+msgstr ""
+
+msgctxt "Npc_Kakariko002_Name"
+msgid "Paya"
+msgstr ""
+
+msgctxt "Npc_Kakariko003_Name"
+msgid "Koko"
+msgstr ""
+
+msgctxt "Npc_Kakariko004_Name"
+msgid "Cottla"
+msgstr ""
+
+msgctxt "Npc_Kakariko005_Name"
+msgid "Cado"
+msgstr ""
+
+msgctxt "Npc_Kakariko006_Name"
+msgid "Olkin"
+msgstr ""
+
+msgctxt "Npc_Kakariko007_Name"
+msgid "Dorian"
+msgstr ""
+
+msgctxt "Npc_Kakariko008_Name"
+msgid "Mellie"
+msgstr ""
+
+msgctxt "Npc_Kakariko010_Name"
+msgid "Rola"
+msgstr ""
+
+msgctxt "Npc_Kakariko011_Name"
+msgid "Ollie"
+msgstr ""
+
+msgctxt "Npc_Kakariko012_Name"
+msgid "Claree"
+msgstr ""
+
+msgctxt "Npc_Kakariko013_Name"
+msgid "Steen"
+msgstr ""
+
+msgctxt "Npc_Kakariko014_Name"
+msgid "Trissa"
+msgstr ""
+
+msgctxt "Npc_Kakariko015_Name"
+msgid "Nanna"
+msgstr ""
+
+msgctxt "Npc_Kakariko016_Name"
+msgid "Lasli"
+msgstr ""
+
+msgctxt "Npc_King_Vagrant001_Name"
+msgid "Old Man"
+msgstr ""
+
+msgctxt "Npc_Kokiri007_Name"
+msgid "Peeks"
+msgstr ""
+
+msgctxt "Npc_Kokiri008_Name"
+msgid "Chio"
+msgstr ""
+
+msgctxt "Npc_Kokiri010_Name"
+msgid "Zooki"
+msgstr ""
+
+msgctxt "Npc_Kokiri011_Name"
+msgid "Damia"
+msgstr ""
+
+msgctxt "Npc_LakeSideHatago004_Name"
+msgid "Anly"
+msgstr ""
+
+msgctxt "Npc_LakeSideHatago005_Name"
+msgid "Kampo"
+msgstr ""
+
+msgctxt "Npc_LakeSideHatago006_Name"
+msgid "Cima"
+msgstr ""
+
+msgctxt "Npc_Lanayru003_Name"
+msgid "Douma"
+msgstr ""
+
+msgctxt "Npc_Lanayru004_Name"
+msgid "Eryck"
+msgstr ""
+
+msgctxt "Npc_MamonoShop_Name"
+msgid "Kilton"
+msgstr ""
+
+msgctxt "Npc_MiniGame_Crosscountry_Name"
+msgid "Konba"
+msgstr ""
+
+msgctxt "Npc_MiniGame_Golf_Name"
+msgid "Modar"
+msgstr ""
+
+msgctxt "Npc_Minigame_BirdMan001_Name"
+msgid "Branli"
+msgstr ""
+
+msgctxt "Npc_Musician_001_Name"
+msgid "Kass"
+msgstr ""
+
+msgctxt "Npc_NorthHatelHatago001_Name"
+msgid "Izra"
+msgstr ""
+
+msgctxt "Npc_NorthHatelHatago002_Name"
+msgid "Ami"
+msgstr ""
+
+msgctxt "Npc_NorthHatelHatago006_Name"
+msgid "Lawdon"
+msgstr ""
+
+msgctxt "Npc_NorthHateru003_Name"
+msgid "Yolero"
+msgstr ""
+
+msgctxt "Npc_NorthHateru005_Name"
+msgid "Quince"
+msgstr ""
+
+msgctxt "Npc_NorthHateru_around001_Name"
+msgid "Benny"
+msgstr ""
+
+msgctxt "Npc_OasisGoddess_Name"
+msgid "Muava"
+msgstr ""
+
+msgctxt "Npc_OasisGoron_001_Name"
+msgid "Lyndae"
+msgstr ""
+
+msgctxt "Npc_OasisHighMountain_001_Name"
+msgid "Frita"
+msgstr ""
+
+msgctxt "Npc_OasisHylia_001_Name"
+msgid "Jules"
+msgstr ""
+
+msgctxt "Npc_OasisHylia_002_Name"
+msgid "Bozai"
+msgstr ""
+
+msgctxt "Npc_OasisHylia_003_Name"
+msgid "Tauma"
+msgstr ""
+
+msgctxt "Npc_OasisMilk_A_Name"
+msgid "Yaido"
+msgstr ""
+
+msgctxt "Npc_OasisMilk_B_Name"
+msgid "Sumati"
+msgstr ""
+
+msgctxt "Npc_OasisMilk_C_Name"
+msgid "Pyra"
+msgstr ""
+
+msgctxt "Npc_OasisMilk_D_Name"
+msgid "Deltan"
+msgstr ""
+
+msgctxt "Npc_OasisMilk_E_Name"
+msgid "Furosa"
+msgstr ""
+
+msgctxt "Npc_OasisSoldier_A_Name"
+msgid "Marta"
+msgstr ""
+
+msgctxt "Npc_OasisSoldier_B_Name"
+msgid "Smaude"
+msgstr ""
+
+msgctxt "Npc_OasisSoldier_C_Name"
+msgid "Babi"
+msgstr ""
+
+msgctxt "Npc_OasisStep_A_Name"
+msgid "Katta"
+msgstr ""
+
+msgctxt "Npc_OasisStep_B_Name"
+msgid "Bertri"
+msgstr ""
+
+msgctxt "Npc_OasisStudent_A_Name"
+msgid "Pasha"
+msgstr ""
+
+msgctxt "Npc_OasisStudent_B_Name"
+msgid "Risa"
+msgstr ""
+
+msgctxt "Npc_OasisStudent_C_Name"
+msgid "Dina"
+msgstr ""
+
+msgctxt "Npc_OasisTeacher_Name"
+msgid "Ashai"
+msgstr ""
+
+msgctxt "Npc_OasisWaterChannel_Name"
+msgid "Calyban"
+msgstr ""
+
+msgctxt "Npc_OldKorok_Name"
+msgid "Hestu"
+msgstr ""
+
+msgctxt "Npc_Remains_Fancier001_Name"
+msgid "Loone"
+msgstr ""
+
+msgctxt "Npc_RitoHatago001_Name"
+msgid "Lester"
+msgstr ""
+
+msgctxt "Npc_RitoHatago002_Name"
+msgid "Ariane"
+msgstr ""
+
+msgctxt "Npc_RitoHatago003_Name"
+msgid "Ponthos"
+msgstr ""
+
+msgctxt "Npc_RitoHatago004_Name"
+msgid "Galli"
+msgstr ""
+
+msgctxt "Npc_RiverSideHatago001_Name"
+msgid "Gotter"
+msgstr ""
+
+msgctxt "Npc_RiverSideHatago002_Name"
+msgid "Parcy"
+msgstr ""
+
+msgctxt "Npc_RiverSideHatago003_Name"
+msgid "Ember"
+msgstr ""
+
+msgctxt "Npc_Road_001_Name"
+msgid "Botrick"
+msgstr ""
+
+msgctxt "Npc_Road_002_Name"
+msgid "Mezer"
+msgstr ""
+
+msgctxt "Npc_Road_003_Name"
+msgid "Rik"
+msgstr ""
+
+msgctxt "Npc_Road_004_Name"
+msgid "Agus"
+msgstr ""
+
+msgctxt "Npc_Road_005_Name"
+msgid "Kanny"
+msgstr ""
+
+msgctxt "Npc_Road_006_Name"
+msgid "Zorona"
+msgstr ""
+
+msgctxt "Npc_Road_007_Name"
+msgid "Kairo"
+msgstr ""
+
+msgctxt "Npc_Road_008_Name"
+msgid "Toma"
+msgstr ""
+
+msgctxt "Npc_Road_009_Name"
+msgid "Letty"
+msgstr ""
+
+msgctxt "Npc_Road_010_Name"
+msgid "Yammo"
+msgstr ""
+
+msgctxt "Npc_Road_011_Name"
+msgid "Kyra"
+msgstr ""
+
+msgctxt "Npc_Road_012_Name"
+msgid "Calisa"
+msgstr ""
+
+msgctxt "Npc_Road_013_Name"
+msgid "Meeshy"
+msgstr ""
+
+msgctxt "Npc_Road_014_Name"
+msgid "Spinch"
+msgstr ""
+
+msgctxt "Npc_Road_015_Name"
+msgid "Chumin"
+msgstr ""
+
+msgctxt "Npc_Road_016_Name"
+msgid "Totsuna"
+msgstr ""
+
+msgctxt "Npc_Road_017_Name"
+msgid "Glendo"
+msgstr ""
+
+msgctxt "Npc_Road_018_Name"
+msgid "Brokka"
+msgstr ""
+
+msgctxt "Npc_Road_019_Name"
+msgid "Bugut"
+msgstr ""
+
+msgctxt "Npc_Road_020_Name"
+msgid "Teli"
+msgstr ""
+
+msgctxt "Npc_Road_021_Name"
+msgid "Joute"
+msgstr ""
+
+msgctxt "Npc_Road_022_Name"
+msgid "Celessa"
+msgstr ""
+
+msgctxt "Npc_Road_023_Name"
+msgid "Kazul"
+msgstr ""
+
+msgctxt "Npc_Road_024_Name"
+msgid "Cambo"
+msgstr ""
+
+msgctxt "Npc_Road_025_Name"
+msgid "Endai"
+msgstr ""
+
+msgctxt "Npc_Road_026_Name"
+msgid "Spoone"
+msgstr ""
+
+msgctxt "Npc_Road_027_Name"
+msgid "Dayto"
+msgstr ""
+
+msgctxt "Npc_Road_028_Name"
+msgid "Boldon"
+msgstr ""
+
+msgctxt "Npc_Road_029_Name"
+msgid "Karsh"
+msgstr ""
+
+msgctxt "Npc_Road_030_Name"
+msgid "Gartan"
+msgstr ""
+
+msgctxt "Npc_Road_031_Name"
+msgid "Maypin"
+msgstr ""
+
+msgctxt "Npc_Road_032_Name"
+msgid "Lukan"
+msgstr ""
+
+msgctxt "Npc_Road_033_Name"
+msgid "Nazbi"
+msgstr ""
+
+msgctxt "Npc_Road_034_Name"
+msgid "Ronn"
+msgstr ""
+
+msgctxt "Npc_Road_035_Name"
+msgid "Baddek"
+msgstr ""
+
+msgctxt "Npc_Road_036_Name"
+msgid "Savelle"
+msgstr ""
+
+msgctxt "Npc_Road_037_Name"
+msgid "Falmark"
+msgstr ""
+
+msgctxt "Npc_Road_040_Name"
+msgid "Baumar"
+msgstr ""
+
+msgctxt "Npc_Road_041_Name"
+msgid "Pitar"
+msgstr ""
+
+msgctxt "Npc_Road_042_Name"
+msgid "Naddon"
+msgstr ""
+
+msgctxt "Npc_Road_043_Name"
+msgid "Laroba"
+msgstr ""
+
+msgctxt "Npc_Road_044_Name"
+msgid "Stamm"
+msgstr ""
+
+msgctxt "Npc_Road_045_Name"
+msgid "Lonni"
+msgstr ""
+
+msgctxt "Npc_Road_Firone002_Name"
+msgid "Suzuna"
+msgstr ""
+
+msgctxt "Npc_SmallOasis001_Name"
+msgid "Strade"
+msgstr ""
+
+msgctxt "Npc_SmallOasis002_Name"
+msgid "Guy"
+msgstr ""
+
+msgctxt "Npc_SmallOasis003_Name"
+msgid "Shaillu"
+msgstr ""
+
+msgctxt "Npc_SmallOasis004_Name"
+msgid "Kachoo"
+msgstr ""
+
+msgctxt "Npc_SmallOasis005_Name"
+msgid "Robsten"
+msgstr ""
+
+msgctxt "Npc_SmallOasis006_Name"
+msgid "Benja"
+msgstr ""
+
+msgctxt "Npc_SmallOasis007_Name"
+msgid "Nobiro"
+msgstr ""
+
+msgctxt "Npc_SmallOasis008_Name"
+msgid "Vilia"
+msgstr ""
+
+msgctxt "Npc_SmallOasis009_Name"
+msgid "Maike"
+msgstr ""
+
+msgctxt "Npc_SmallOasis010_Name"
+msgid "Emri"
+msgstr ""
+
+msgctxt "Npc_SmallOasis011_Name"
+msgid "Ripp"
+msgstr ""
+
+msgctxt "Npc_SmallOasis012_Name"
+msgid "Konora"
+msgstr ""
+
+msgctxt "Npc_SouthHateru005_Name"
+msgid "Shibo"
+msgstr ""
+
+msgctxt "Npc_SouthHateru006_Name"
+msgid "Rensa"
+msgstr ""
+
+msgctxt "Npc_SouthHateru007_Name"
+msgid "Hino"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage001_Name"
+msgid "Chessica"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage004_Name"
+msgid "Armes"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage005_Name"
+msgid "Mubs"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage006_Name"
+msgid "Sebasto"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage007_Name"
+msgid "Kiana"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage008_Name"
+msgid "Kinov"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage009_Name"
+msgid "Zuta"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage010_Name"
+msgid "Numar"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage012_Name"
+msgid "Flavi"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage013_Name"
+msgid "Rozel"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage014_Name"
+msgid "Garini"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage015_Name"
+msgid "Perda"
+msgstr ""
+
+msgctxt "Npc_SouthernVillage016_Name"
+msgid "Wabbin"
+msgstr ""
+
+msgctxt "Npc_SouthernVillageGambler_Name"
+msgid "Cloyne"
+msgstr ""
+
+msgctxt "Npc_Strange_Beacon_Name"
+msgid "Moza"
+msgstr ""
+
+msgctxt "Npc_TabantaBridgeHatago001_Name"
+msgid "Banji"
+msgstr ""
+
+msgctxt "Npc_TabantaBridgeHatago002_Name"
+msgid "Kenyo"
+msgstr ""
+
+msgctxt "Npc_TabantaBridgeHatago003_Name"
+msgid "Ena"
+msgstr ""
+
+msgctxt "Npc_TabantaBridgeHatago004_Name"
+msgid "Sho"
+msgstr ""
+
+msgctxt "Npc_TabantaBridgeHatago005_Name"
+msgid "Toren"
+msgstr ""
+
+msgctxt "Npc_TabantaBridgeHatago006_Name"
+msgid "Dabi"
+msgstr ""
+
+msgctxt "Npc_TabantaHatago001_Name"
+msgid "Monkton"
+msgstr ""
+
+msgctxt "Npc_TabantaHatago002_Name"
+msgid "Harlow"
+msgstr ""
+
+msgctxt "Npc_TabantaHatago003_Name"
+msgid "Danton"
+msgstr ""
+
+msgctxt "Npc_TabantaHatago004_Name"
+msgid "Varke"
+msgstr ""
+
+msgctxt "Npc_TamourHatago001_Name"
+msgid "Aya"
+msgstr ""
+
+msgctxt "Npc_TamourHatago002_Name"
+msgid "Nobo"
+msgstr ""
+
+msgctxt "Npc_TamourHatago003_Name"
+msgid "Khini"
+msgstr ""
+
+msgctxt "Npc_TamourHatago004_Name"
+msgid "Hoz"
+msgstr ""
+
+msgctxt "Npc_TamourHatago005_Name"
+msgid "Rudi"
+msgstr ""
+
+msgctxt "Npc_TamourHatago2_001_Name"
+msgid "Rex"
+msgstr ""
+
+msgctxt "Npc_TamourPlainHatago_001_Name"
+msgid "Kaifa"
+msgstr ""
+
+msgctxt "Npc_TamourPlainHatago_002_Name"
+msgid "Jana"
+msgstr ""
+
+msgctxt "Npc_TamourPlainHatago_003_Name"
+msgid "Gleema"
+msgstr ""
+
+msgctxt "Npc_TamourPlainHatago_004_Name"
+msgid "Dmitri"
+msgstr ""
+
+msgctxt "Npc_TripMaster_00_Name"
+msgid "Beedle"
+msgstr ""
+
+msgctxt "Npc_UMiiVillage003_Name"
+msgid "Hunnie"
+msgstr ""
+
+msgctxt "Npc_UMiiVillage007_Name"
+msgid "Monari"
+msgstr ""
+
+msgctxt "Npc_UMiiVillage008_Name"
+msgid "Moggs"
+msgstr ""
+
+msgctxt "Npc_UMiiVillage009_Name"
+msgid "Hagie"
+msgstr ""
+
+msgctxt "Npc_UMiiVillage010_Name"
+msgid "Ruli"
+msgstr ""
+
+msgctxt "Npc_ValleyVillage010_Name"
+msgid "Teba"
+msgstr ""
+
+msgctxt "Npc_Zora001_Name"
+msgid "Tottika"
+msgstr ""
+
+msgctxt "Npc_Zora002_Name"
+msgid "Cleff"
+msgstr ""
+
+msgctxt "Npc_Zora003_Name"
+msgid "King Dorephan"
+msgstr ""
+
+msgctxt "Npc_Zora004_Name"
+msgid "Muzu"
+msgstr ""
+
+msgctxt "Npc_Zora005_Name"
+msgid "Kapson"
+msgstr ""
+
+msgctxt "Npc_Zora006_Name"
+msgid "Fronk"
+msgstr ""
+
+msgctxt "Npc_Zora007_Name"
+msgid "Laruta"
+msgstr ""
+
+msgctxt "Npc_Zora008_Name"
+msgid "Kodah"
+msgstr ""
+
+msgctxt "Npc_Zora009_Name"
+msgid "Marot"
+msgstr ""
+
+msgctxt "Npc_Zora010_Name"
+msgid "Mei"
+msgstr ""
+
+msgctxt "Npc_Zora011_Name"
+msgid "Tumbo"
+msgstr ""
+
+msgctxt "Npc_Zora012_Name"
+msgid "Keye"
+msgstr ""
+
+msgctxt "Npc_Zora013_Name"
+msgid "Ledo"
+msgstr ""
+
+msgctxt "Npc_Zora014_Name"
+msgid "Seggin"
+msgstr ""
+
+msgctxt "Npc_Zora015_Name"
+msgid "Laflat"
+msgstr ""
+
+msgctxt "Npc_Zora020_Name"
+msgid "Kayden"
+msgstr ""
+
+msgctxt "Npc_Zora025_Name"
+msgid "Tona"
+msgstr ""
+
+msgctxt "Npc_Zora026_Name"
+msgid "Finley"
+msgstr ""
+
+msgctxt "Npc_Zora027_Name"
+msgid "Trello"
+msgstr ""
+
+msgctxt "Npc_Zora028_Name"
+msgid "Tula"
+msgstr ""
+
+msgctxt "Npc_Zora029_Name"
+msgid "Gruve"
+msgstr ""
+
+msgctxt "Npc_Zora031_Name"
+msgid "Rivan"
+msgstr ""
+
+msgctxt "Npc_Zora032_Name"
+msgid "Bazz"
+msgstr ""
+
+msgctxt "Npc_Zora033_Name"
+msgid "Dento"
+msgstr ""
+
+msgctxt "Npc_Zora034_Name"
+msgid "Gaddison"
+msgstr ""
+
+msgctxt "Npc_Zora035_Name"
+msgid "Jiahto"
+msgstr ""
+
+msgctxt "Npc_Zora036_Name"
+msgid "Torfeau"
+msgstr ""
+
+msgctxt "Npc_Zora037_Name"
+msgid "Dunma"
+msgstr ""
+
+msgctxt "Npc_Zora126_Name"
+msgid "Finley"
+msgstr ""
+
+msgctxt "Npc_ZoraB001_Name"
+msgid "Sidon"
+msgstr ""
+
+msgctxt "Npc_ZoraGoron_001_Name"
+msgid "Reagah"
+msgstr ""
+
+msgctxt "Npc_gerudovalley001_Name"
+msgid "Pirou"
+msgstr ""
+
+msgctxt "Npc_goron001_Name"
+msgid "Tray"
+msgstr ""
+
+msgctxt "Npc_goron002_Name"
+msgid "Tanko"
+msgstr ""
+
+msgctxt "Npc_goron003_Name"
+msgid "Pyle"
+msgstr ""
+
+msgctxt "Npc_goron004_Name"
+msgid "Rogaro"
+msgstr ""
+
+msgctxt "Npc_goron026_Name"
+msgid "Volcon"
+msgstr ""
+
+msgctxt "Npc_kokiri001_Name"
+msgid "Tasho"
+msgstr ""
+
+msgctxt "Npc_kokiri002_Name"
+msgid "Walton"
+msgstr ""
+
+msgctxt "Npc_kokiri003_Name"
+msgid "Daz"
+msgstr ""
+
+msgctxt "Npc_kokiri004_Name"
+msgid "Natie"
+msgstr ""
+
+msgctxt "Npc_kokiri005_Name"
+msgid "Maca"
+msgstr ""
+
+msgctxt "Npc_kokiri006_Name"
+msgid "Pepp"
+msgstr ""
+
+msgctxt "Npc_kokiri009_Name"
+msgid "Oaki"
+msgstr ""
+
+msgctxt "Npc_kokiri012_Name"
+msgid "Kula"
+msgstr ""
+
+msgctxt "Npc_oasis001_Name"
+msgid "Isha"
+msgstr ""
+
+msgctxt "Npc_oasis002_Name"
+msgid "Danda"
+msgstr ""
+
+msgctxt "Npc_oasis003_Name"
+msgid "Riju"
+msgstr ""
+
+msgctxt "Npc_oasis005_Name"
+msgid "Greta"
+msgstr ""
+
+msgctxt "Npc_oasis006_Name"
+msgid "Romah"
+msgstr ""
+
+msgctxt "Npc_oasis007_Name"
+msgid "Buliara"
+msgstr ""
+
+msgctxt "Npc_oasis008_Name"
+msgid "Pritana"
+msgstr ""
+
+msgctxt "Npc_oasis009_Name"
+msgid "Laine"
+msgstr ""
+
+msgctxt "Npc_oasis010_Name"
+msgid "Merina"
+msgstr ""
+
+msgctxt "Npc_oasis011_Name"
+msgid "Makure"
+msgstr ""
+
+msgctxt "Npc_oasis012_Name"
+msgid "Cara"
+msgstr ""
+
+msgctxt "Npc_oasis013_Name"
+msgid "Kalani"
+msgstr ""
+
+msgctxt "Npc_oasis014_Name"
+msgid "Rima"
+msgstr ""
+
+msgctxt "Npc_oasis015_Name"
+msgid "Saula"
+msgstr ""
+
+msgctxt "Npc_oasis016_Name"
+msgid "Dalia"
+msgstr ""
+
+msgctxt "Npc_oasis017_Name"
+msgid "Pearle"
+msgstr ""
+
+msgctxt "Npc_oasis018_Name"
+msgid "Nellie"
+msgstr ""
+
+msgctxt "Npc_oasis019_Name"
+msgid "Olu"
+msgstr ""
+
+msgctxt "Npc_oasis020_Name"
+msgid "Frelly"
+msgstr ""
+
+msgctxt "Npc_oasis021_Name"
+msgid "Nali"
+msgstr ""
+
+msgctxt "Npc_oasis022_Name"
+msgid "Fegran"
+msgstr ""
+
+msgctxt "Npc_oasis023_Name"
+msgid "Lashley"
+msgstr ""
+
+msgctxt "Npc_oasis024_Name"
+msgid "Dorrah"
+msgstr ""
+
+msgctxt "Npc_oasis025_Name"
+msgid "Teake"
+msgstr ""
+
+msgctxt "Npc_oasis026_Name"
+msgid "Ploka"
+msgstr ""
+
+msgctxt "Npc_oasis027_Name"
+msgid "Rotana"
+msgstr ""
+
+msgctxt "Npc_oasis028_Name"
+msgid "Malena"
+msgstr ""
+
+msgctxt "Npc_oasis029_Name"
+msgid "Kohm"
+msgstr ""
+
+msgctxt "Npc_oasis032_Name"
+msgid "Essa"
+msgstr ""
+
+msgctxt "Npc_oasis036_Name"
+msgid "Reeza"
+msgstr ""
+
+msgctxt "Npc_oasis037_Name"
+msgid "Traysi"
+msgstr ""
+
+msgctxt "Npc_oasis038_Name"
+msgid "Tali"
+msgstr ""
+
+msgctxt "Npc_oasis039_Name"
+msgid "Shabonne"
+msgstr ""
+
+msgctxt "Npc_oasis040_Name"
+msgid "Leena"
+msgstr ""
+
+msgctxt "Npc_oasis041_Name"
+msgid "Kotta"
+msgstr ""
+
+msgctxt "Npc_oasis042_Name"
+msgid "Liana"
+msgstr ""
+
+msgctxt "Npc_oasis043_Name"
+msgid "Ardin"
+msgstr ""
+
+msgctxt "Npc_oasis044_Name"
+msgid "Spera"
+msgstr ""
+
+msgctxt "Npc_oasis045_Name"
+msgid "Lorn"
+msgstr ""
+
+msgctxt "Npc_oasis046_Name"
+msgid "Estan"
+msgstr ""
+
+msgctxt "Npc_oasis047_Name"
+msgid "Padda"
+msgstr ""
+
+msgctxt "Npc_oasis050_Name"
+msgid "Rhondson"
+msgstr ""
+
+msgctxt "UnKnownNPC_2_Name"
+msgid "Zelda"
+msgstr ""
+
+msgctxt "subchallnpc000_Name"
+msgid "Domidak"
+msgstr ""
+
+msgctxt "subchallnpc000_twin_Name"
+msgid "Prissen"
+msgstr ""
+

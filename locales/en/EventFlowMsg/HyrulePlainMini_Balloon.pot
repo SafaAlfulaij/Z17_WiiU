@@ -1,0 +1,212 @@
+msgctxt "0000"
+msgid "Leave it to me."
+msgstr ""
+
+msgctxt "0001"
+msgid "No."
+msgstr ""
+
+msgctxt "Near_00"
+msgid "Balloons. Floaty balloons."
+msgstr ""
+
+msgctxt "Near_01"
+msgid "In the sky..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (long)
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: text_size
+#. 9: pause (long)
+#. 10: text_size
+#. 11: text_size
+#. 12: pause (long)
+#. 13: text_size
+msgctxt "Talk_0000"
+msgid ""
+"<1.so><2.te_si>Zzz...<3.pa>zzz...<4.te_si><5.pa>\n"
+"\n"
+"\n"
+"<6.se_co>Balloons<7.re_co>... Floaty, floaty...<8.te_si><9.pa><10.te_si>\n"
+"\n"
+"\n"
+"Zzz...<11.te_si><12.pa><13.te_si>zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "Talk_0001"
+msgid ""
+"<1.so>You brought me <2.se_co>balloons<3.re_co> even though\n"
+"the weather is bad?<4.pa>\n"
+"\n"
+"I wonder if the <5.se_co>balloons <6.re_co>will break\n"
+"through the clouds and soar in the\n"
+"clear skies."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: text_size
+#. 6: pause (short)
+#. 7: text_size
+msgctxt "Talk_0002"
+msgid ""
+"<1.so>Good kid,<2.pa> good kid!<3.pa> Goes to bed early!<4.pa>\n"
+"It's already sleepy time.<5.te_si><6.pa><7.te_si>\n"
+"See you tomorrow!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "Talk_0003"
+msgid ""
+"<1.so>Good kid!<2.pa> Good kid!<3.pa> Gets up early!<4.pa>\n"
+"I have a favor to ask you! <5.pa>Come with me!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk_0004"
+msgid ""
+"<1.so>I sometimes see it in my dreams. <2.pa>\n"
+"Do you think that a long time ago people\n"
+"used to live in the sky?<3.pa> I think so..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (long)
+#. 8: choice
+msgctxt "Talk_0005"
+msgid ""
+"<1.so>Hey, mister!<2.pa> Just once in my life, I want\n"
+"to see <3.se_co>balloons<4.re_co> float right up into the\n"
+"sky!\n"
+"If you'll help me realize my <5.se_co>balloon<6.re_co>\n"
+"dream,<7.pa> I'll give you a treasure I got\n"
+"from the sky as thanks!<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk_0006"
+msgid ""
+"<1.so>The weather's so bad you can't even\n"
+"see the sky!<2.pa> Hey, listen to me, mister!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: set_colour (red)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Talk_0007"
+msgid ""
+"<1.so>Thank you!<2.pa> Now put some <3.se_co><4.se_co>balloons<5.se_co> "
+"<6.re_co>onto\n"
+"a barrel<7.se_co> <8.re_co>and make it float up high!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: set_colour (red)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "Talk_0009"
+msgid ""
+"<1.so>You brought me <2.se_co><3.se_co>balloons<4.se_co> <5.re_co>in this"
+" rain?<6.pa>\n"
+"What a nice guy!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Talk_0010"
+msgid ""
+"<1.so>Yaaaaay!<2.pa> You brought me <3.se_co>balloons<4.re_co>!\n"
+"<5.pa>What a guy!\n"
+"\n"
+"You should tie those <6.se_co>balloons<7.re_co> on to that\n"
+"barrel and make it soar into the sky!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: sound
+#. 6: pause (long)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (long)
+msgctxt "Talk_0012"
+msgid ""
+"<1.so>I want to visit the land in the sky by\n"
+"<2.se_co>balloon<3.re_co>.<4.pa> Then, I'm going to ride a really\n"
+"big bird. Yep, that's my dream!\n"
+"<5.so>Thank you, mister!<6.pa> This is a <7.se_co>treasure<8.re_co>\n"
+"from the sky! <9.pa>Here, take it!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "Talk_0013"
+msgid ""
+"<1.so>Floaty!<2.pa> <3.se_co>Balloons<4.re_co> soaring high in the "
+"sky!<5.pa>\n"
+"Fly up and away to the land in the\n"
+"clouds!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Talk_0014"
+msgid ""
+"<1.so>Aww... <2.pa>You've popped the<3.se_co> balloon <4.re_co>of my\n"
+"dreams."
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Talk_0018"
+msgid ""
+"The barrel is quite heavy!<1.pa> If you don't\n"
+"have at least a few <2.se_co>balloons<3.re_co>, it might be\n"
+"hard to make it soar into the sky..."
+msgstr ""
+

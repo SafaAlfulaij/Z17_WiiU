@@ -1,0 +1,562 @@
+msgctxt "Obj_Album_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_Album_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_Album_Name"
+msgid "Album"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+msgctxt "Obj_AmiiboItem_Desc"
+msgid ""
+"amiiboをかざす<1.ra>こと事で<2.ra>いろいろ色々な<3.ra>もの物を\n"
+"<4.ra>よ呼び<5.ra>だ出す<6.ra>こと事のできる\n"
+"<7.ra>こだい古代シーカー<8.ra>ぞく族の<9.ra>ぎじゅつふしぎ技術不思議なRune"
+msgstr ""
+
+msgctxt "Obj_AmiiboItem_MenuDesc"
+msgid ""
+"A mysterious rune that can summon various\n"
+"things when an amiibo is tapped."
+msgstr ""
+
+msgctxt "Obj_AmiiboItem_Name"
+msgid "amiibo"
+msgstr ""
+
+msgctxt "Obj_Camera_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+msgctxt "Obj_Camera_MenuDesc"
+msgid ""
+"見ている風景や人物を画像として\n"
+"シーカーストーンに残す事ができる\n"
+"<1.ra>こだい古代シーカー<2.ra>ぞく族の<3.ra>ぎじゅつ技術"
+msgstr ""
+
+msgctxt "Obj_Camera_Name"
+msgid "Camera"
+msgstr ""
+
+msgctxt "Obj_DRStone_Get_Desc"
+msgid ""
+"A mysterious tablet with a glowing center.\n"
+"You've never seen this device before, and\n"
+"yet...there's something familiar about it."
+msgstr ""
+
+msgctxt "Obj_DRStone_Get_MenuDesc"
+msgid ""
+"A mysterious rectangular tablet that glows in the\n"
+"center. You've never seen this device before,\n"
+"but somehow it conjures nostalgic feelings."
+msgstr ""
+
+msgctxt "Obj_DRStone_Get_Name"
+msgid "Sheikah Slate"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+#. 11: raw
+msgctxt "Obj_IceMaker_Desc"
+msgid ""
+"<1.ra>みず水のある<2.ra>ばしょ場所に<3.ra>しょうしゃ照射すると\n"
+"<4.ra>こおり氷の<5.ra>はしら柱を<6.ra>つく作る<7.ra>こと事が<8.ra>でき出来る\n"
+"<9.ra>こだい古代シーカー<10.ra>ぞく族の<11.ra>ぎじゅつ技術"
+msgstr ""
+
+msgctxt "Obj_IceMaker_MenuDesc"
+msgid ""
+"Activate this ancient Sheikah technology\n"
+"while aiming at a body of water\n"
+"to create an ice pillar."
+msgstr ""
+
+msgctxt "Obj_IceMaker_Name"
+msgid "Cryonis"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+msgctxt "Obj_Magnetglove_Desc"
+msgid ""
+"<1.ra>きんぞくせい金属製の<2.ra>もの物に<3.ra>しょうしゃ照射することで\n"
+"その<4.ra>ぶったい物体を<5.ra>えんかくそうさ遠隔操作できるようになる\n"
+"<6.ra>こだい古代シーカー<7.ra>ぞく族の<8.ra>ぎじゅつ技術"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+msgctxt "Obj_Magnetglove_MenuDesc"
+msgid ""
+"<1.ra>きんぞくせい金属製の<2.ra>もの物に<3.ra>しょうしゃ照射することで\n"
+"その<4.ra>ぶったい物体を<5.ra>えんかくそうさ遠隔操作できるようになる\n"
+"<6.ra>こだい古代シーカー<7.ra>ぞく族の<8.ra>ぎじゅつ技術"
+msgstr ""
+
+msgctxt "Obj_Magnetglove_Name"
+msgid "Magnesis"
+msgstr ""
+
+msgctxt "Obj_Motorcycle_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_Motorcycle_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_Motorcycle_Name"
+msgid "Master Cycle Zero"
+msgstr ""
+
+msgctxt "Obj_PictureBook_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_PictureBook_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_PictureBook_Name"
+msgid "Hyrule Compendium"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+msgctxt "Obj_Porch_Bow_Desc"
+msgid ""
+"<1.ra>ゆみ弓をコンパクトに<2.ra>しゅうのう収納できるInventory\n"
+"たくさんあればそれだけ<3.ra>おお多くの<4.ra>ゆみ弓を\n"
+"<5.ra>も持ち<6.ra>はこ運べる"
+msgstr ""
+
+msgctxt "Obj_Porch_Bow_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_Porch_Bow_Name"
+msgid "Bow Stash"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+msgctxt "Obj_Porch_Shield_Desc"
+msgid ""
+"<1.ra>たて盾をコンパクトに<2.ra>しゅうのう収納できるInventory\n"
+"たくさんあればそれだけ<3.ra>おお多くの<4.ra>たて盾を\n"
+"<5.ra>も持ち<6.ra>はこ運べる"
+msgstr ""
+
+msgctxt "Obj_Porch_Shield_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_Porch_Shield_Name"
+msgid "Shield Stash"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+msgctxt "Obj_Porch_Weapon_Desc"
+msgid ""
+"<1.ra>ぶき武器をコンパクトに<2.ra>しゅうのう収納できるInventory\n"
+"たくさんあればそれだけ<3.ra>おお多くの<4.ra>ぶき武器を\n"
+"<5.ra>も持ち<6.ra>はこ運べる"
+msgstr ""
+
+msgctxt "Obj_Porch_Weapon_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_Porch_Weapon_Name"
+msgid "Weapon Stash"
+msgstr ""
+
+msgctxt "Obj_RemainInsideMap_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_RemainInsideMap_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_RemainInsideMap_Name"
+msgid "Relic Map"
+msgstr ""
+
+msgctxt "Obj_RemoteBombBall2_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+msgctxt "Obj_RemoteBombBall2_MenuDesc"
+msgid ""
+"<1.ra>ばくはつ爆発による<2.ra>はかい破壊を<3.ra>もくてき目的とした\n"
+"<4.ra>こだい古代シーカー<5.ra>ぞく族の<6.ra>ぎじゅつ技術\n"
+"<7.ra>ばくはつ爆発の<8.ra>いりょく威力と<9.ra>そうてんそくど装填速度が<10.ra>じょうしょう上昇した"
+msgstr ""
+
+msgctxt "Obj_RemoteBombBall2_Name"
+msgid "Remote Bomb +"
+msgstr ""
+
+msgctxt "Obj_RemoteBombBall_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_RemoteBombBall_MenuDesc"
+msgid ""
+"Ancient Sheikah explosive technology.\n"
+"Can be detonated remotely to destroy\n"
+"objects and damage enemies."
+msgstr ""
+
+msgctxt "Obj_RemoteBombBall_Name"
+msgid "Remote Bomb"
+msgstr ""
+
+msgctxt "Obj_RemoteBombCube2_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+msgctxt "Obj_RemoteBombCube2_MenuDesc"
+msgid ""
+"<1.ra>ばくはつ爆発による<2.ra>はかい破壊を<3.ra>もくてき目的とした\n"
+"<4.ra>こだい古代シーカー<5.ra>ぞく族の<6.ra>ぎじゅつ技術\n"
+"<7.ra>ばくはつ爆発の<8.ra>いりょく威力と<9.ra>そうてんそくど装填速度が<10.ra>じょうしょう上昇した"
+msgstr ""
+
+msgctxt "Obj_RemoteBombCube2_Name"
+msgid "Remote Bomb +"
+msgstr ""
+
+msgctxt "Obj_RemoteBombCube_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_RemoteBombCube_MenuDesc"
+msgid ""
+"Ancient Sheikah explosive technology.\n"
+"Can be detonated remotely to destroy\n"
+"objects and damage enemies."
+msgstr ""
+
+msgctxt "Obj_RemoteBombCube_Name"
+msgid "Remote Bomb"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+msgctxt "Obj_RemoteBombLv2_Desc"
+msgid ""
+"<1.ra>ばくはつ爆発による<2.ra>はかい破壊を<3.ra>もくてき目的とした\n"
+"<4.ra>こだい古代シーカー<5.ra>ぞく族の<6.ra>ぎじゅつ技術\n"
+"<7.ra>ばくはつ爆発の<8.ra>いりょく威力と<9.ra>そうてんそくど装填速度が<10.ra>じょうしょう上昇した"
+msgstr ""
+
+msgctxt "Obj_RemoteBombLv2_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_RemoteBombLv2_Name"
+msgid "Remote Bomb +"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+msgctxt "Obj_RemoteBomb_Desc"
+msgid ""
+"<1.ra>ばくはつ爆発による<2.ra>はかい破壊を<3.ra>もくてき目的とした\n"
+"<4.ra>こだい古代シーカー<5.ra>ぞく族の<6.ra>ぎじゅつ技術\n"
+"<7.ra>せっちご設置後 <8.ra>す好きなタイミングで<9.ra>ばくはつ爆発させられる"
+msgstr ""
+
+msgctxt "Obj_RemoteBomb_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_RemoteBomb_Name"
+msgid "Remote Bomb"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+msgctxt "Obj_SheikPadLv2_Desc"
+msgid ""
+"<1.ra>しゅうり修理してもらう<2.ra>こと事で\n"
+"<3.ra>ほんらい本来の<4.ra>きのう機能が<5.ra>ふっかつ復活したSheikah Slate"
+msgstr ""
+
+msgctxt "Obj_SheikPadLv2_MenuDesc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Obj_SheikPadLv2_Name"
+msgid "Sheikah Slate"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+msgctxt "Obj_SheikSensorLv2_Desc"
+msgid ""
+"Albumに<1.ra>おさ収められた<2.ra>ぶったい物体を\n"
+"<3.ra>たんち探知できる <4.ra>こだい古代シーカー<5.ra>ぞく族の<6.ra>ぎじゅつ技術\n"
+"<7.ra>おと音と<8.ra>きょり距離で<9.ra>たいしょうぶつ対象物まで<10.ra>みちび導いてくれる"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+msgctxt "Obj_SheikSensorLv2_MenuDesc"
+msgid ""
+"Albumに<1.ra>おさ収められた<2.ra>ぶったい物体を\n"
+"<3.ra>たんち探知できる <4.ra>こだい古代シーカー<5.ra>ぞく族の<6.ra>ぎじゅつ技術\n"
+"<7.ra>おと音と<8.ra>きょり距離で<9.ra>たいしょうぶつ対象物まで<10.ra>みちび導いてくれる"
+msgstr ""
+
+msgctxt "Obj_SheikSensorLv2_Name"
+msgid "Sheikah Sensor +"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+msgctxt "Obj_SheikSensor_Desc"
+msgid ""
+"<1.ra>いせき遺跡を<2.ra>たんち探知するために<3.ra>かいはつ開発された\n"
+"<4.ra>こだい古代シーカー<5.ra>ぞく族の<6.ra>ぎじゅつ技術\n"
+"<7.ra>おと音と<8.ra>きょり距離で<9.ra>いせき遺跡まで<10.ra>みちび導いてくれる"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+msgctxt "Obj_SheikSensor_MenuDesc"
+msgid ""
+"<1.ra>いせき遺跡を<2.ra>たんち探知するために<3.ra>かいはつ開発された\n"
+"<4.ra>こだい古代シーカー<5.ra>ぞく族の<6.ra>ぎじゅつ技術\n"
+"<7.ra>おと音と<8.ra>きょり距離で<9.ra>いせき遺跡まで<10.ra>みちび導いてくれる"
+msgstr ""
+
+msgctxt "Obj_SheikSensor_Name"
+msgid "Sheikah Sensor"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+#. 11: raw
+#. 12: raw
+#. 13: raw
+#. 14: raw
+msgctxt "Obj_StopTimerLv2_Desc"
+msgid ""
+"<1.ra>しょうしゃ照射することで <2.ra>むきぶつ無機物と <3.ra>じゃあく邪悪なる<4.ra>もの者の<5.ra>うご動きを\n"
+"<6.ra>いっていじかんと一定時間止められる <7.ra>こだい古代シーカー<8.ra>ぞく族の<9.ra>ぎじゅつ技術\n"
+"<10.ra>と止めた<11.ra>もの物には<12.ra>こうげき攻撃などで<13.ra>しょうげき衝撃を<14.ra>た貯められる"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+#. 11: raw
+#. 12: raw
+#. 13: raw
+#. 14: raw
+#. 15: raw
+#. 16: raw
+msgctxt "Obj_StopTimerLv2_MenuDesc"
+msgid ""
+"<1.ra>ねら狙って<2.ra>しょうしゃ照射することで <3.ra>むきぶつ無機物に<4.ra>くわ加え "
+"<5.ra>じゃあく邪悪なる<6.ra>もの者の\n"
+"<7.ra>うご動きも<8.ra>いっていじかんと一定時間止められる "
+"<9.ra>こだい古代シーカー<10.ra>ぞく族の<11.ra>ぎじゅつ技術\n"
+"<12.ra>と止めた<13.ra>もの物には<14.ra>こうげき攻撃などで<15.ra>しょうげき衝撃を<16.ra>た貯められる"
+msgstr ""
+
+msgctxt "Obj_StopTimerLv2_Name"
+msgid "Stasis +"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: raw
+#. 7: raw
+#. 8: raw
+#. 9: raw
+#. 10: raw
+#. 11: raw
+#. 12: raw
+#. 13: raw
+msgctxt "Obj_StopTimer_Desc"
+msgid ""
+"<1.ra>ねら狙って<2.ra>しょうしゃ照射することで <3.ra>むきぶつ無機物の<4.ra>うご動きを\n"
+"<5.ra>いっていじかんと一定時間止められる<6.ra>こだい古代シーカー<7.ra>ぞく族の<8.ra>ぎじゅつ技術\n"
+"<9.ra>と止めた<10.ra>もの物には<11.ra>こうげき攻撃などで<12.ra>しょうげき衝撃を<13.ra>た貯められる"
+msgstr ""
+
+msgctxt "Obj_StopTimer_MenuDesc"
+msgid ""
+"Ancient Sheikah technology that can stop\n"
+"an object's motion for a short time. Locked\n"
+"objects can be attacked to build force that\n"
+"will be released when the object is freed."
+msgstr ""
+
+msgctxt "Obj_StopTimer_Name"
+msgid "Stasis"
+msgstr ""
+
+#. 1: icon
+msgctxt "PlayerStole2_Desc"
+msgid ""
+"An item that you received from the king on\n"
+"the Great Plateau. It allows you to sail\n"
+"through the sky. Press <1.ic> while you're in\n"
+"the air to use it."
+msgstr ""
+
+msgctxt "PlayerStole2_MenuDesc"
+msgid ""
+"A glider given to you by King Rhoam. \n"
+"It allows you to safely glide down from high\n"
+"places while enjoying the scenery of Hyrule."
+msgstr ""
+
+msgctxt "PlayerStole2_Name"
+msgid "Paraglider"
+msgstr ""
+

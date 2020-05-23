@@ -1,0 +1,637 @@
+msgctxt "0000"
+msgid "A gift from that guy."
+msgstr ""
+
+msgctxt "0001"
+msgid "Who knows?"
+msgstr ""
+
+msgctxt "0004"
+msgid "If you say so..."
+msgstr ""
+
+msgctxt "0005"
+msgid "Get your own!"
+msgstr ""
+
+msgctxt "0012"
+msgid "No problem."
+msgstr ""
+
+msgctxt "0013"
+msgid "Nope. Rival time!"
+msgstr ""
+
+msgctxt "0014"
+msgid "Sure!"
+msgstr ""
+
+msgctxt "0015"
+msgid "Ehhh..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Boy00"
+msgid ""
+"<1.so>Hah, I'm lucky it's crying...er...I mean,\n"
+"raining today..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Boy01"
+msgid ""
+"<1.so>If there's no way to win her heart, I may\n"
+"as well stand here until the lightning\n"
+"strikes me down..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Boy02"
+msgid ""
+"<1.so>If there's no way for me to win her heart,\n"
+"then I hope to at least burn the memory\n"
+"of her beauty into my mind forever..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Boy04"
+msgid "<1.so><2.te_si>Thank you!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Boy05"
+msgid ""
+"<1.so>...I suppose I can understand your\n"
+"hesitation.\n"
+"\n"
+"Though, I think that my <2.se_co>blue nightshade<3.re_co>\n"
+"will have dried out and died before I find\n"
+"the nerve to do this myself..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Boy06"
+msgid "<1.so>I'll give you back this <2.se_co>blue nightshade<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Boy07"
+msgid ""
+"<1.so>Oh! <2.pa>And don't forget to mention it's a\n"
+"present from ME!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Boy08"
+msgid ""
+"<1.so>Remember—this is a request carrying all\n"
+"the weight of this life and the next. Tell\n"
+"her how I feel. <2.pa>Please!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Boy10"
+msgid ""
+"<1.so>Eeek, I'm sorry!!!<2.pa>\n"
+"\n"
+"\n"
+"<3.so>Could...could it be that you don't\n"
+"like <4.se_co>blue nightshade<5.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Boy11"
+msgid ""
+"<1.so>N-no...\n"
+"Th-that's not it!\n"
+"\n"
+"<2.se_co>Blue nightshade<3.re_co> just happens to be my\n"
+"favorite <4.se_co>flower<5.re_co>! Long ago, I decided to\n"
+"give my true love this flower..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Boy12"
+msgid "<1.so>What do you mean?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Boy13"
+msgid ""
+"<1.so>H-hey! I'm trying to work up the courage\n"
+"to talk to her. Just... Let me, yeah?<2.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+#. 5: choice
+msgctxt "Boy14"
+msgid ""
+"But...<1.pa> Please! I beg you! <2.pa>She's the girl\n"
+"of my dreams—I know it!<3.pa> I'll pay you\n"
+"back, just... <4.pa>Please!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Boy15"
+msgid ""
+"<1.so>I...<2.pa>I can't give up! But I also can't get\n"
+"my legs to move...\n"
+"\n"
+"<3.so>I beg of you... Please fulfill my one wish\n"
+"in this life. It can be my wish in the next\n"
+"life too, if that helps!\n"
+"Just please...<4.pa>give the <5.se_co>blue nightshade <6.re_co>\n"
+"to her for me!<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: sound
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: sound
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: sound
+msgctxt "Boy18"
+msgid ""
+"<1.so>I decided long ago that when I meet the\n"
+"girl of my dreams, I'll hand her a\n"
+"<2.se_co>blue nightshade <3.re_co>and confess my love!\n"
+"<4.se_co><5.so><6.re_co>If I had a <7.se_co>blue nightshade<8.re_co>, I'd"
+" head\n"
+"straight over to that woman...\n"
+"\n"
+"<9.so>I mean, imagine her and a \n"
+"<10.se_co>blue nightshade<11.re_co>...\n"
+"\n"
+"<12.so>That'd make a beautiful scene. Don't\n"
+"you think?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+#. 4: sound
+msgctxt "Boy23"
+msgid ""
+"<1.so>...Phew.\n"
+"\n"
+"\n"
+"<2.so>I'm so glad!<3.pa> Oh, by the way, my name\n"
+"is Wabbin!\n"
+"\n"
+"<4.so>To be honest, I lost my way earlier."
+msgstr ""
+
+#. 1: sound
+msgctxt "Boy24"
+msgid ""
+"<1.so>Grrr...\n"
+"I won't let you stand in the way of my\n"
+"destiny!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Boy25"
+msgid ""
+"<1.so>Ah...<2.pa> I just... Ugh.<3.pa>\n"
+"When I look at her, my legs freeze up.\n"
+"My throat goes dry. I...<4.pa>I can't do it.\n"
+"Please, could you take <5.se_co>my gift<6.re_co> to her?<7.ch>"
+msgstr ""
+
+msgctxt "Boy26"
+msgid ""
+"A little rain and lightning doesn't scare\n"
+"her at all. Just look at her standing\n"
+"over there... So beautiful!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Boy27"
+msgid ""
+"<1.so>She stands there, completely unfazed\n"
+"by the rain falling around her...\n"
+"So splendid!"
+msgstr ""
+
+msgctxt "Boy28"
+msgid "I can't tear my eyes away from her..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Boy29"
+msgid ""
+"<1.so>I want to talk to her, but I don't have\n"
+"anything worthy of being a gift. If only\n"
+"I had <2.se_co>blue nightshade<3.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: sound
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: sound
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: choice
+msgctxt "Boy30"
+msgid ""
+"<1.so>I want to talk to her, but I don't have\n"
+"anything worthy of being a gift. If only\n"
+"I had <2.se_co>blue nightshade<3.re_co>...\n"
+"<4.so>Ahh, the smell of it... I can almost\n"
+"imagine it right now. It's so clear, almost\n"
+"like...it's...\n"
+"<5.so>Wait,<6.pa> do you have some <7.se_co>blue nightshade<8.re_co>\n"
+"on you right now?\n"
+"\n"
+"<9.so>Please! You must give me that <10.se_co>flower<11.re_co>!\n"
+"It couldn't be more important!<12.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Boy31"
+msgid ""
+"<1.so>I'll need to leave this place if I want to\n"
+"find any <2.se_co>blue nightshade<3.re_co>...but if I go,\n"
+"she might leave too..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (longer)
+msgctxt "Boy32"
+msgid ""
+"<1.so><2.te_si>Thank you!!!<3.te_si><4.pa>\n"
+"This is so perfect! It's exactly what I\n"
+"needed!"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+#. 3: pause (longer)
+msgctxt "Boy33"
+msgid "<1.te_si>Ohh la la!<2.te_si><3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (short)
+msgctxt "Boy34"
+msgid ""
+"<1.so>I closed my eyes for a minute, and when\n"
+"I opened them, the most beautiful woman\n"
+"I've ever seen was standing before me.\n"
+"<2.so>At first I thought I was dreaming...or that\n"
+"she was a ghost or something.\n"
+"\n"
+"<3.so>I mean, it's not every day you run into a\n"
+"gorgeous woman in the middle of\n"
+"nowhere...<4.pa>\n"
+"<5.so>But figment of my imagination or not, it\n"
+"was love at first sight.<6.pa>\n"
+"\n"
+"And so I've decided to gather my\n"
+"courage and go confess my feelings to\n"
+"her!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Boy35"
+msgid ""
+"<1.so>Oh! Uh, sure! Asking so directly, how\n"
+"could I possibly say no?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: sound
+#. 5: pause (short)
+#. 6: sound
+msgctxt "Boy36"
+msgid ""
+"<1.so>Oh, wow! Did you hear that?!<2.pa>\n"
+"She said she likes me, and she wants to\n"
+"go out!\n"
+"This is the first time anyone has ever said\n"
+"they like me, and for it to come from the\n"
+"woman of my dreams...\n"
+"<3.so>This is such an amazing feeling...\n"
+"\n"
+"\n"
+"<4.so>I'm so glad I was born into this world...<5.pa>\n"
+"\n"
+"\n"
+"<6.so>There's no way I can truly thank you, but\n"
+"please take this as a token of my thanks."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Boy37"
+msgid ""
+"<1.so>I... No, of course not!<2.pa>\n"
+"Here, this is what I meant to give you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (long)
+#. 6: pause (short)
+#. 7: sound
+#. 8: pause (short)
+msgctxt "Lady01"
+msgid ""
+"<1.so>Are you...<2.pa>\n"
+"Could you be the voe I am destined to\n"
+"meet?\n"
+"<3.so>No...<4.pa> No, I don't think so. But then...<5.pa>\n"
+"This IS the pond of legend, is it not?<6.pa>\n"
+"The one where a person finds true love?\n"
+"<7.so>Yet all I see right now is that strange\n"
+"voe on the other side of the pond.<8.pa>\n"
+"Could I be at the wrong one?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Lady02"
+msgid "<1.so>What's this?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "Lady03"
+msgid ""
+"<1.so>Well, that voe over there doesn't seem\n"
+"so bad, but...<2.pa>I was always told not to\n"
+"make the first move.\n"
+"<3.so>But all he's doing is looking over here,\n"
+"then quickly looking away. Does he have\n"
+"no idea what to do next?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Lady05"
+msgid ""
+"<1.so>So you're the one who gave me\n"
+"the<2.se_co> flowers<3.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: pause (short)
+msgctxt "Lady06"
+msgid ""
+"<1.so>Why would you say that?<2.pa> This is my\n"
+"favorite kind of <3.se_co>flower<4.re_co>!<5.pa> How did you\n"
+"know that anyway? <6.pa>Are you a Yiga spy?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+msgctxt "Lady07"
+msgid ""
+"<1.so>Your true love...<2.pa>\n"
+"So this is what they call destiny...\n"
+"\n"
+"<3.so>You're the voe that destiny has chosen\n"
+"for me, then? All right! Go ahead and\n"
+"speak your piece!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Lady08"
+msgid ""
+"<1.so>I see...<2.pa> So...you're delivering these\n"
+"<3.se_co>flowers<4.re_co> for that voe over there?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (long)
+msgctxt "Lady09"
+msgid ""
+"<1.so>So...<2.pa> What about that voe over there?\n"
+"\n"
+"\n"
+"<3.so>You...\n"
+"\n"
+"\n"
+"<4.so>Wait, are you guys mocking me?<5.pa> You\n"
+"know it isn't wise to upset a Gerudo...<6.pa>\n"
+"We're a strong and proud people."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Lady10"
+msgid ""
+"<1.so>Wait, are you guys mocking me?<2.pa> You\n"
+"know it isn't wise to upset a Gerudo...<3.pa>\n"
+"We're a strong and proud people."
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "Lady11"
+msgid "...<1.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Lady16"
+msgid "<1.so><2.so>Sav'otta."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Lady17"
+msgid "<1.so><2.so>Sav'aaq."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (long)
+#. 6: pause (short)
+#. 7: sound
+#. 8: pause (short)
+msgctxt "Lady18"
+msgid ""
+"<1.so>I didn't think I'd meet you during\n"
+"a downpour...\n"
+"\n"
+"Are you...<2.pa> Could you be the voe I am\n"
+"destined to meet?\n"
+"\n"
+"<3.so>No...<4.pa> No, I don't think so. But then...<5.pa>\n"
+"This IS the pond of legend, is it not?<6.pa>\n"
+"The one where a person finds true love?\n"
+"<7.so>Yet all I see right now is that strange\n"
+"voe on the other side of the pond.<8.pa>\n"
+"Could I be at the wrong one?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (long)
+#. 6: pause (short)
+#. 7: sound
+#. 8: pause (short)
+msgctxt "Lady19"
+msgid ""
+"<1.so>I didn't think I'd meet you in the middle\n"
+"of a thunderstorm...\n"
+"\n"
+"Are you...<2.pa> Could you be the voe I am\n"
+"destined to meet?\n"
+"\n"
+"<3.so>No...<4.pa> No, I don't think so. But then...<5.pa>\n"
+"This IS the pond of legend, is it not?<6.pa>\n"
+"The one where a person finds true love?\n"
+"<7.so>Yet all I see right now is that strange\n"
+"voe on the other side of the pond.<8.pa>\n"
+"Could I be at the wrong one?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Lady20"
+msgid "<1.so>I don't sense any deceit from you..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Lady21"
+msgid ""
+"<1.so>No, that's not right at all!\n"
+"\n"
+"\n"
+"<2.so>I'm talking about what a voe says\n"
+"to a vai!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Lady22"
+msgid ""
+"<1.so>You know, something like, \"I like you,\" or,\n"
+"\"Please, go out with me!\""
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Lady23"
+msgid "<1.so>Wh...<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Lady24"
+msgid ""
+"<1.so>What?<2.pa> That's it?!\n"
+"\n"
+"\n"
+"That's all you're willing to offer him for\n"
+"everything he's done for you?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Lady25"
+msgid "<1.so>Much better.<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Lady26"
+msgid ""
+"<1.so>Hey, you!\n"
+"\n"
+"\n"
+"<2.so>I guess I owe you too... I hope you have\n"
+"as much luck finding someone as I did...\n"
+"thanks to you!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Lady27"
+msgid "<1.so><2.so>Sav'saaba."
+msgstr ""
+
+msgctxt "Near_01"
+msgid "Ohh la la!"
+msgstr ""
+
+msgctxt "Near_04"
+msgid "Am I in the right place?"
+msgstr ""
+

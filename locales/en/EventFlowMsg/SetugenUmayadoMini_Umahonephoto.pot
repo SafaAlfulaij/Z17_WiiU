@@ -1,0 +1,197 @@
+msgctxt "0000"
+msgid "Found it!"
+msgstr ""
+
+msgctxt "0001"
+msgid "No luck yet."
+msgstr ""
+
+msgctxt "0002"
+msgid "A Stalhorse?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Don't give up."
+msgstr ""
+
+msgctxt "0004"
+msgid "I can do it."
+msgstr ""
+
+msgctxt "0005"
+msgid "Creepy horse? Pass."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: choice
+msgctxt "NPC_Umahonephoto001_R_001"
+msgid ""
+"<1.so>How goes it? <2.pa>Did you find the <3.se_co>Stalhorse<4.re_co>?\n"
+"\n"
+"\n"
+"The last I'd heard, it supposedly wanders\n"
+"around the <5.se_co>North Tabantha Snowfield<6.re_co>\n"
+"near the weird <7.se_co>ruins <8.re_co>to the east.<9.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "NPC_Umahonephoto001_R_002"
+msgid "<1.so>Yup, that picture's all I need!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "NPC_Umahonephoto001_R_003"
+msgid ""
+"<1.so>Well, don't give up! Keep working on this\n"
+"scoop for me!\n"
+"\n"
+"A <2.se_co>Stalhorse<3.re_co> is probably a lot like a\n"
+"Stalkoblin... I bet it only comes out at\n"
+"night too!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "NPC_Umahonephoto001_R_004"
+msgid ""
+"<1.so>What's the deal?<2.pa> You haven't got a\n"
+"picture or anything...<3.pa> I guess it must be\n"
+"really, really tough to track down..."
+msgstr ""
+
+#. 1: sound
+msgctxt "NPC_Umahonephoto001_R_005"
+msgid ""
+"<1.so>Oh, thank you! This is a great picture!\n"
+"It'll be perfect inspiration for the article\n"
+"I'm going to write!\n"
+"Here's your reward, just as I promised!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "NPC_Umahonephoto001_R_006"
+msgid ""
+"<1.so>I've traveled to the east and the west in\n"
+"my great hunt for information, and now\n"
+"I find myself here in the freezing north...\n"
+"I heard there was a <2.se_co>Stalhorse<3.re_co> in this\n"
+"area, but I can't take it any longer! It's\n"
+"too cold to look anymore!<4.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "NPC_Umahonephoto001_R_007"
+msgid ""
+"<1.so>Yeah, thanks. I'll keep at it. I've gotta set\n"
+"an example, being the oldest sister\n"
+"and all."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: sound
+#. 9: pause (short)
+#. 10: pause (long)
+#. 11: sound
+#. 12: pause (short)
+#. 13: choice
+msgctxt "NPC_Umahonephoto001_R_008"
+msgid ""
+"<1.so><2.te_si>Beep-beep!<3.te_si>\n"
+"\n"
+"\n"
+"You just set off Juannelle's intuition\n"
+"sensors! You're interested in the\n"
+"<4.se_co>Stalhorse<5.re_co> too, huh?\n"
+"I just wanted to see this creepy\n"
+"<6.se_co>Stalhorse monster<7.re_co> once with my\n"
+"own eyes!\n"
+"If it really does exist, it'd be such\n"
+"a big scoop!\n"
+"\n"
+"<8.so>But... <9.pa>Well, I can handle all kinds of\n"
+"dangers and hazards, but this cold...<10.pa>\n"
+"Brrr, I can't stand it!\n"
+"<11.so>Can you handle this task for me?\n"
+"I'll even reward you! All I need is\n"
+"a picture!<12.pa> Or some notes!<13.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "NPC_Umahonephoto001_R_009"
+msgid ""
+"<1.so>I hope we get a chance to work together\n"
+"again in the future!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound
+msgctxt "NPC_Umahonephoto001_R_010"
+msgid ""
+"<1.so>Good answer!\n"
+"\n"
+"\n"
+"<2.so>There's a rumor that it can be\n"
+"found with <3.se_co>Stalkoblins<4.re_co> in the\n"
+"<5.se_co>North Tabantha Snowfield<6.re_co>.\n"
+"Some have reported it aaaaall the way on\n"
+"the other side of the snow field to the\n"
+"east, right in front of these bizarre <7.se_co>ruins<8.re_co>.\n"
+"<9.so>Good luck! I'm really counting on you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "NPC_Umahonephoto001_R_011"
+msgid ""
+"<1.so>Oh, I see...<2.pa> Well, I suppose I should learn\n"
+"to not rely on others and do it myself.\n"
+"My younger sisters would be proud!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (long)
+#. 7: choice
+msgctxt "NPC_Umahonephoto001_R_012"
+msgid ""
+"<1.so>Oh?<2.pa> Did you change your mind and\n"
+"decide to take on my request after all?\n"
+"I don't think it'll be too creepy...\n"
+"<3.so>The <4.se_co>Stalhorse<5.re_co>...<6.pa> I don't care whether it's\n"
+"a picture or a memo—just show me some\n"
+"proof!<7.ch>"
+msgstr ""
+
+msgctxt "NPC_Umahonephoto001_R_Near"
+msgid "Hmmm...what'll I do..."
+msgstr ""
+

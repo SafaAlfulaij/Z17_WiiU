@@ -1,0 +1,33 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "QL_Gerudo_Ch_SnowBoots_Desc"
+msgid ""
+"The eighth heroine actually had a <1.se_co>sword<2.re_co>!\n"
+"\n"
+"Bozai may have just made it up, but it seems\n"
+"worth checking out, at least. The <3.se_co>sword<4.re_co> said to\n"
+"be once held by the eighth heroine is most likely\n"
+"somewhere in the <5.se_co>Gerudo Highlands<6.re_co>.\n"
+"Show a picture of the eighth heroine's sword to\n"
+"Bozai to get the <7.se_co>snow boots<8.re_co>."
+msgstr ""
+
+msgctxt "QL_Gerudo_Ch_SnowBoots_Finish"
+msgid ""
+"You found the eighth heroine's sword at the\n"
+"summit of the Gerudo Highlands.\n"
+"\n"
+"You took a picture of the sword, so Bozai kept\n"
+"his promise and gave you the snow boots."
+msgstr ""
+
+msgctxt "QL_Gerudo_Ch_SnowBoots_Name"
+msgid "The Forgotten Sword"
+msgstr ""
+

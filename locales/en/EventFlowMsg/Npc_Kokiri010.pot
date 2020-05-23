@@ -1,0 +1,11 @@
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "Npc_Kokiri010_Talk000"
+msgid ""
+"<1.so>Congratulations! You completed my\n"
+"<2.se_co>Korok Trial<3.re_co>!<4.pa> I hope you found something\n"
+"nice inside of the shrine!"
+msgstr ""
+

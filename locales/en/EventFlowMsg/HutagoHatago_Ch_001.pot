@@ -1,0 +1,311 @@
+msgctxt "0003"
+msgid "Uhh... OK."
+msgstr ""
+
+msgctxt "0004"
+msgid "Sorry. I have to go."
+msgstr ""
+
+msgctxt "0005"
+msgid "It's on!"
+msgstr ""
+
+msgctxt "0006"
+msgid "Wild horses?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Nearby villages?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "0009"
+msgid "Kakariko Village?"
+msgstr ""
+
+msgctxt "0010"
+msgid "Hateno Village?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Npc_SouthHateru006_AreaOut_01"
+msgid "<1.an>Hey, where are you going?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_SouthHateru006_AreaOut_02"
+msgid ""
+"<1.so>If you go too far, then I can't record\n"
+"an accurate time.\n"
+"\n"
+"Could you try to stay at least somewhat\n"
+"near the stable?"
+msgstr ""
+
+msgctxt "Npc_SouthHateru006_H_Near000"
+msgid "I'll be waiting till whenever."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_01"
+msgid ""
+"<1.so>They're wild, so 'til you calm 'em, it's\n"
+"gonna be one crazy ride. But there's no\n"
+"feeling quite like taming a wild stallion!\n"
+"Trust me—I took second place in the\n"
+"Hyrule Horse-Taming Competition!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_03"
+msgid ""
+"<1.so>This area is chock full of wild horses.\n"
+"Any one of them will do!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_04"
+msgid ""
+"<1.so>My record is two minutes flat, so you\n"
+"need to bring back a wild horse within\n"
+"that time.\n"
+"<2.so>PREPARE FOR EXTREME TAMING!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_05"
+msgid ""
+"<1.so>Wild horses are a bit skittish, so you\n"
+"need to sidle up to them nice and\n"
+"quiet-like."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: sound
+msgctxt "Talk_06"
+msgid ""
+"<1.so><2.te_si>Amazing!\n"
+"\n"
+"\n"
+"<3.so><4.te_si>But...I can't believe you beat my\n"
+"two-minute record so easily...\n"
+"\n"
+"<5.so>I mean, I won second place in the Hyrule\n"
+"Horse-Taming Competition! To be fair, it\n"
+"was just my brother and I competing...\n"
+"Anyway, here's the purse for winning the\n"
+"second official Hyrule Horse-Taming\n"
+"Competition! You earned it."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_07"
+msgid ""
+"<1.so>Hahaha! Breaking the two-minute mark is\n"
+"pretty tough, right?\n"
+"\n"
+"<2.so>But don't be discouraged. I mean, it took\n"
+"me years of practice to place second in\n"
+"the Hyrule Horse-Taming Competition."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_08"
+msgid ""
+"<1.so>You want to try again to beat two\n"
+"minutes? Or did you need something\n"
+"else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "Talk_09"
+msgid ""
+"<1.so>Aaaaaand time's up!<2.pa>\n"
+"Aww, better luck next time...<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: sound
+#. 5: text_size
+#. 6: text_size
+#. 7: sound
+#. 8: choice
+msgctxt "Talk_10"
+msgid ""
+"<1.so>HEY!\n"
+"I saw that look you gave me!<2.pa>\n"
+"...<3.pa>\n"
+"<4.so><5.te_si>Fine!<6.te_si>\n"
+"\n"
+"\n"
+"<7.so>You don't believe me? Let's go, pal!\n"
+"You and me. Right here. Right now.\n"
+"\n"
+"You want to challenge the second-place\n"
+"Hyrule Horse-Taming Competition winner\n"
+"to a tame-off?! YOU GOT IT, MISTER!<8.ch>"
+msgstr ""
+
+#. 1: pause (long)
+#. 2: sound
+#. 3: sound
+#. 4: text_size
+#. 5: text_size
+#. 6: sound
+#. 7: pause (longer)
+#. 8: sound
+msgctxt "Talk_11"
+msgid ""
+"<1.pa><2.so>Wh—\n"
+"\n"
+"\n"
+"<3.so>WHAT?!\n"
+"\n"
+"\n"
+"You would dare turn down a challenge\n"
+"from me, the <4.te_si>second<5.te_si> greatest horse \n"
+"tamer in the world, Rensa?\n"
+"<6.so>WELL!<7.pa> Uh... I guess there's not much I\n"
+"can do about that.\n"
+"\n"
+"<8.so>It's only natural that the title of \"Hyrule\n"
+"Horse-Taming Competition Runner-Up\"\n"
+"would strike fear in your heart.\n"
+"But I, Rensa, would never run or hide!\n"
+"Come back when you have the \n"
+"confidence to challenge my taming skills!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_12"
+msgid ""
+"<1.so>That's the spirit!\n"
+"\n"
+"\n"
+"<2.so>The only rule is that you must bring a\n"
+"wild horse back to this spot within the\n"
+"time limit!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_13"
+msgid ""
+"<1.so>So then. Are you ready to start?\n"
+"Or did you...need something else\n"
+"entirely?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_14"
+msgid ""
+"<1.so>The great Rensa will never run nor hide!\n"
+"When you have the confidence to face\n"
+"me, we'll see who is the best!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_16"
+msgid ""
+"<1.so>The closest villages are <2.se_co>Kakariko Village<3.re_co>\n"
+"and <4.se_co>Hateno Village<5.re_co>.<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+msgctxt "Talk_18"
+msgid ""
+"<1.so>Hateno Village is on the east end of\n"
+"Hyrule.\n"
+"\n"
+"It hasn't been affected much by the\n"
+"Calamity, so it's a relatively quiet little\n"
+"place.\n"
+"<2.so>...Give or take the occasional uppity\n"
+"scholar...\n"
+"\n"
+"<3.so>Just follow the road north until it forks,\n"
+"then take the road east the rest of\n"
+"the way.\n"
+"It's pretty far on foot, but it takes only a\n"
+"day or so on horseback."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_19"
+msgid ""
+"<1.so>So how about it? You ready for that\n"
+"competition now?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+msgctxt "Talk_20"
+msgid ""
+"<1.so>That's the spirit!\n"
+"\n"
+"\n"
+"<2.so>The only rule is that you have to bring a\n"
+"wild horse back to this spot within the\n"
+"time limit!\n"
+"<3.so>LET'S GET IT ON!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk_22"
+msgid ""
+"<1.so>I guess there's more competition out\n"
+"there than I knew about.<2.pa> Maybe Hyrule\n"
+"isn't all bad after all!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: pause (longer)
+#. 6: sound
+#. 7: pause (longer)
+#. 8: sound
+msgctxt "Talk_TimerCK_001"
+msgid ""
+"<1.so><2.te_si>Wh-what?!\n"
+"\n"
+"\n"
+"<3.so><4.te_si>To think that my second-place record\n"
+"in the official Hyrule Horse-Taming\n"
+"Competition was broken so easily...<5.pa>\n"
+"<6.so>Although to be fair, the only participating\n"
+"athletes were me and my brother...<7.pa>\n"
+"\n"
+"<8.so>But by the Goddess, I admire your drive!\n"
+"I really need to get serious about taming\n"
+"horses.\n"
+"Anyway, here's the purse for winning the\n"
+"second official Hyrule Horse-Taming\n"
+"Competition! You earned it."
+msgstr ""
+

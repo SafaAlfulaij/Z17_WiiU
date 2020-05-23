@@ -1,0 +1,174 @@
+msgctxt "0000"
+msgid "Amazing!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Really?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Something like that."
+msgstr ""
+
+msgctxt "0003"
+msgid "No."
+msgstr ""
+
+msgctxt "0004"
+msgid "The Master Sword."
+msgstr ""
+
+#. 1: sound
+msgctxt "0005"
+msgid "<1.so>It's not important."
+msgstr ""
+
+msgctxt "near00"
+msgid "Ha! Hep!"
+msgstr ""
+
+msgctxt "near01"
+msgid "Huyah!"
+msgstr ""
+
+msgctxt "near02"
+msgid "Raaargh!"
+msgstr ""
+
+msgctxt "near03"
+msgid "Hup!"
+msgstr ""
+
+msgctxt "near04"
+msgid "Must...practice..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (long)
+#. 5: choice
+msgctxt "talk00"
+msgid ""
+"<1.so>I don't care who you are!<2.pa>\n"
+"Just lend me an ear!\n"
+"\n"
+"<3.so>I've finally got it in my hands—<4.pa>\n"
+"the legendary weapon!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>Ha! Prepare to be jealous!<2.pa>\n"
+"I'm sure you've heard of it...\n"
+"\n"
+"<3.so>You know...<4.pa>\n"
+"The legendary weapon that only the\n"
+"chosen hero can wield?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk02"
+msgid ""
+"<1.so>Heh... <2.pa>Prepare to be blown away.<3.pa>\n"
+"Are you ready?"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: text_size
+#. 6: text_size
+#. 7: sound
+#. 8: pause (long)
+#. 9: pause (short)
+msgctxt "talk03"
+msgid ""
+"<1.so>It's called...\n"
+"\n"
+"\n"
+"<2.te_si><3.so><4.te_si>the <5.te_si>MASTER TORCH!<6.te_si>\n"
+"\n"
+"\n"
+"<7.so>I'm...<8.pa>pretty sure that's what it's called,\n"
+"anyway.\n"
+"\n"
+"Whatever... Leave me be, commoner.<9.pa>\n"
+"I'm trying to practice here!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk04"
+msgid ""
+"<1.so>The flame that lights the darkness...<2.pa>\n"
+"The MASTER TORCH!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid ""
+"<1.so>Scram, foul wanderer!\n"
+"\n"
+"\n"
+"Lest I burn you with the sacred light of\n"
+"my Master Torch!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: raw
+msgctxt "talk07"
+msgid ""
+"<1.so>Ha...hooooo...<2.pa>\n"
+"Are you some kind of wanderer?<3.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk08"
+msgid ""
+"<1.so>Nice baby sword, pal.\n"
+"I bet it can't even keep a flame going.\n"
+"What's its name?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "talk09"
+msgid ""
+"<1.so>Wha—?\n"
+"Master Sword?\n"
+"\n"
+"Ha ha!<2.pa> Must be some kind of off-brand\n"
+"knockoff of my legendary Master Torch!\n"
+"\n"
+"For I am Yolero,<3.pa> the hero of legend\n"
+"chosen to wield the Master Torch!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid ""
+"<1.so>Ha! You've got that right.\n"
+"\n"
+"\n"
+"No ordinary sword can hold a candle\n"
+"to my legendary Master Torch!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid ""
+"<1.so>Well, if you'll excuse me, I need to go\n"
+"save the world."
+msgstr ""
+

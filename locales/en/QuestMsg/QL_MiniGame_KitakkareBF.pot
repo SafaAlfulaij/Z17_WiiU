@@ -1,0 +1,8 @@
+msgctxt "QL_MiniGame_KitakkareBF_Finish"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_MiniGame_KitakkareBF_Start"
+msgid "<NO_STRING>"
+msgstr ""
+

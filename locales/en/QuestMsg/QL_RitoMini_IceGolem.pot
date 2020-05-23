@@ -1,0 +1,37 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_RitoMini_IceGolem_Beated"
+msgid ""
+"You defeated the Frost Talus at\n"
+"Coldsnap Hollow! <1.se_co>Gesane<2.re_co> at Rito Village\n"
+"will surely be pleased once you report\n"
+"back to him."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_RitoMini_IceGolem_Desc"
+msgid ""
+"Gesane, a Rito Village guardsman, said he \n"
+"saw a frost Talus over at <1.se_co>Coldsnap Hollow<2.re_co>.\n"
+"\n"
+"If you encounter a <3.se_co>Frost Talus<4.re_co> in your\n"
+"travels there, be sure to destroy it."
+msgstr ""
+
+msgctxt "QL_RitoMini_IceGolem_Finish"
+msgid ""
+"You told the guardsman Gesane at Rito Village\n"
+"that you destroyed the Frost Talus in\n"
+"Coldsnap Hollow.\n"
+"\n"
+"Gesane offered you rupees as thanks,\n"
+"which you gracefully accepted."
+msgstr ""
+
+msgctxt "QL_RitoMini_IceGolem_Name"
+msgid "Face the Frost Talus "
+msgstr ""
+

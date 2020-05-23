@@ -1,0 +1,47 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_Thunder_Sword_Desc"
+msgid ""
+"\"When a lost hero calls down lightning<1.se_co><2.re_co>\n"
+"from the sky / The monk responds from\n"
+"a giant mound<3.se_co> <4.re_co>on high.\"\n"
+"\n"
+"Solve the riddle of the song you learned from\n"
+"Kass and seek out the hero's trial."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_Thunder_Sword_Finish"
+msgid ""
+"\"When a lost hero calls down lightning<1.se_co><2.re_co>\n"
+"from the sky / The monk responds from\n"
+"a giant mound<3.se_co> <4.re_co>on high.\"\n"
+"\n"
+"You found an ancient shrine inside the rock \n"
+"that you shattered with lightning!"
+msgstr ""
+
+msgctxt "QL_Thunder_Sword_Name"
+msgid "A Song of Storms"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_Thunder_Sword_Step010"
+msgid ""
+"\"When a lost hero calls down lightning<1.se_co><2.re_co>\n"
+"from the sky / The monk responds from\n"
+"a giant mound<3.se_co> <4.re_co>on high.\"\n"
+"\n"
+"By attracting a lightning strike, you shattered\n"
+"the large rock and revealed an ancient shrine\n"
+"concealed within."
+msgstr ""
+

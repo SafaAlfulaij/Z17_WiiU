@@ -1,0 +1,317 @@
+msgctxt "0000"
+msgid "I'm pumped, brother!"
+msgstr ""
+
+msgctxt "0001"
+msgid "I'm not pumped."
+msgstr ""
+
+msgctxt "0002"
+msgid "Explain the rules."
+msgstr ""
+
+msgctxt "0003"
+msgid "Gut Check Challenge."
+msgstr ""
+
+msgctxt "0004"
+msgid "Super Gut Check."
+msgstr ""
+
+msgctxt "0005"
+msgid "Let's DO THIS!"
+msgstr ""
+
+msgctxt "0006"
+msgid "I'd rather not..."
+msgstr ""
+
+msgctxt "0007"
+msgid "Did the price go up?"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: raw
+#. 5: sound
+#. 6: raw
+#. 7: sound
+#. 8: sound
+#. 9: raw
+#. 10: sound
+#. 11: text_size
+#. 12: text_size
+#. 13: raw
+#. 14: sound
+#. 15: choice
+msgctxt "Talk_00"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BLOOD BROTHER!<3.te_si><4.ra><5.so>You cleared"
+" our training program like\n"
+"it was nothin'!<6.ra><7.so>But! I know your type. Your type is MY\n"
+"type. You can't be satisfied with just\n"
+"one victory. Can you, brother?\n"
+"<8.so>To be a true Goron man, you've gotta\n"
+"be unflinchingly dedicated to training!\n"
+"No flinching whatsoever!\n"
+"Lucky for you, I've prepared a training\n"
+"program to help you ascend to even\n"
+"greater heights! I call it...<9.ra><10.so><11.te_si>Super Gut Check "
+"Challenge!!<12.te_si><13.ra><14.so>So? Ready to take your training to the"
+"\n"
+"next level of hard-core, my brother?<15.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Talk_01"
+msgid ""
+"<1.so>I KNEW IT! Good answer, brother!\n"
+"I'm gonna train ya to smithereens,\n"
+"so I hope you're ready!\n"
+"You already beat <2.se_co>Gut Check Challenge<3.re_co>,\n"
+"so that wouldn't be enough of a trial\n"
+"for a brother like you.<4.se_co><5.re_co>\n"
+"I recommend our hardest training\n"
+"program of all time. I call it...\n"
+"<6.se_co>Super Gut Check Challenge<7.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_02"
+msgid "<1.so>So? Which training program will it be?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "Talk_03"
+msgid ""
+"<1.so>What?! You...DON'T wanna train?!\n"
+"I don't understand such things, brother.<2.ra>When ya change your mind, "
+"come back.\n"
+"I'll be waitin' for ya to find your grit\n"
+"and rise to the challenge, little man!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_04"
+msgid "<1.so>The rules are simple, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: raw
+msgctxt "Talk_05"
+msgid ""
+"<1.so>Our Gut Check Challenge training\n"
+"program costs <2.se_co>50 rupees<3.re_co> per try!<4.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Talk_06"
+msgid ""
+"<1.so>The Super Gut Check Challenge training\n"
+"program will cost ya <2.se_co>100 rupees<3.re_co>\n"
+"per try, brother!<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "Talk_07"
+msgid ""
+"<1.so>You've gotta collect <2.se_co>100 rupees<3.re_co> as you\n"
+"train! But if you're bringin' the heat like\n"
+"a true Goron, that should be no problem.\n"
+"Even if ya reach the goal within the\n"
+"time limit, without those rupees,\n"
+"you fail. So don't fail, brother!\n"
+"Now then...<4.pa> It's finally time for..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_08"
+msgid ""
+"<1.so>Pathetic answer, brother! I'm extremely\n"
+"disappointed with your lack of grit.\n"
+"\n"
+"<2.so>If ya change your mind, come on back!\n"
+"I'll be waitin' for ya to rethink your life\n"
+"and rise to the challenge!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_09"
+msgid ""
+"<1.so>That was the new recruit price! That offer\n"
+"has expired, brother. I have my reasons...\n"
+"Protein doesn't buy itself, little man."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "Talk_10"
+msgid ""
+"<1.so>You've gotta collect <2.se_co>300 rupees<3.re_co> as\n"
+"you train! Go on, show me how\n"
+"much of a Goron you really are!\n"
+"Even if ya reach the goal within the\n"
+"time limit, without those rupees,\n"
+"you fail. So don't fail, brother!\n"
+"Now then...<4.pa> It's finally time for..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_11"
+msgid ""
+"<1.so>Don't doubt yourself, brother! I believe\n"
+"in you and your tiny little muscles!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Talk_12"
+msgid "<1.so><2.te_si>PUMP IT UP, BROTHER!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_13"
+msgid ""
+"<1.so>Time for a gut check, tiny Hylian!\n"
+"You ready to challenge yourself\n"
+"with our extreme training program?!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: raw
+#. 5: text_size
+#. 6: sound
+#. 7: text_size
+#. 8: raw
+msgctxt "Talk_14"
+msgid ""
+"<1.so><2.te_si>Unbelievable!!<3.te_si><4.ra><5.te_si><6.so><7.te_si>You "
+"annihilated our training like it was\n"
+"a mere warm up, brother!<8.ra>I knew I was right about you! You've got\n"
+"the body of a bitty baby but the heart\n"
+"of a Goron warrior!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+#. 5: raw
+msgctxt "Talk_15"
+msgid ""
+"<1.so><2.te_si>NO WAY!! So close and yet\n"
+"so far, brother!!<3.ra><4.te_si>Sorry, but you're just barely short of "
+"the\n"
+"minimum rupee goal.<5.ra>Tough luck, little guy! But no worries.\n"
+"I'll be waitin', so come back when\n"
+"you're ready to challenge yourself again!"
+msgstr ""
+
+msgctxt "Talk_16"
+msgid "Prove your grit, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: raw
+#. 5: sound2
+#. 6: pause (short)
+#. 7: text_size
+msgctxt "Talk_17"
+msgid ""
+"<1.so><2.te_si>Gut Check Challenge!!<3.pa><4.ra><5.so>Ready?! "
+"<6.pa>GOOOOOO!!<7.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: raw
+#. 5: sound2
+#. 6: pause (short)
+#. 7: text_size
+msgctxt "Talk_18"
+msgid ""
+"<1.so><2.te_si>Super Gut Check Challenge!!<3.pa><4.ra><5.so>Ready?! "
+"<6.pa>GOOOOOO!!<7.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: raw
+#. 5: sound
+msgctxt "Talk_19"
+msgid ""
+"<1.so><2.te_si>PUMP IT UP, BROTHER!<3.te_si><4.ra><5.so>Ya showed some "
+"real grit out there,\n"
+"tiny Hylian! In fact, I've got a new\n"
+"challenge I'd like to run by ya.\n"
+"Lemme know when you're ready to go,\n"
+"and I'll get to explainin', my brother.\n"
+"Don't keep me waitin' forever!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_20"
+msgid ""
+"<1.so>Take this training as many times as ya\n"
+"want, brother! In fact, I'll be waitin' here\n"
+"for ya to challenge yourself again!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_21"
+msgid ""
+"<1.so>For passing our famous Super Gut Check\n"
+"Challenge, I'm gonna reward ya with an\n"
+"<2.se_co>endura shroom<3.re_co>! It's yours, brother!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_22"
+msgid ""
+"<1.so>For passing the Gut Check Challenge,\n"
+"I'm gonna award ya with this fancy\n"
+"<2.se_co>rushroom<3.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_23"
+msgid ""
+"<1.so>...That's what I was plannin' on, anyway.\n"
+"But ya seem to have plenty already.\n"
+"\n"
+"<2.so>I know! Take this instead, brother!"
+msgstr ""
+

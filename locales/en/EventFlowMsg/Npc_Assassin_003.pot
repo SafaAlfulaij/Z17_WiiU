@@ -1,0 +1,126 @@
+msgctxt "0000"
+msgid "Sounds like a dream."
+msgstr ""
+
+msgctxt "0001"
+msgid "..."
+msgstr ""
+
+msgctxt "0002"
+msgid "That's...um..."
+msgstr ""
+
+msgctxt "0003"
+msgid "..."
+msgstr ""
+
+msgctxt "0004"
+msgid "Can't wait!"
+msgstr ""
+
+msgctxt "0005"
+msgid "..."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Henshin00"
+msgid "<1.so><2.ra><3.te_si>Your story ends here, hero boy!<4.te_si><5.au_ad>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Henshin01"
+msgid "<1.so><2.ra><3.te_si>FOR MASTER KOHGA!<4.te_si><5.au_ad>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>*grumble*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (long)
+msgctxt "Talk00"
+msgid ""
+"<1.so>About a year ago...<2.pa>I was walking along\n"
+"the road here at night, when I suddenly\n"
+"saw a blinding light in the sky.\n"
+"When my eyes finally adjusted, I found\n"
+"myself looking at a shimmering object\n"
+"floating overhead. I couldn't look away.\n"
+"The next thing I knew, I was bathed in\n"
+"light. <3.pa>When I came to, I woke up in bed\n"
+"covered in sweat."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Talk01"
+msgid "<1.so>What...<2.pa>do you think about that?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: pause (longer)
+#. 5: sound2
+#. 6: pause (long)
+#. 7: pause (long)
+msgctxt "Talk02"
+msgid ""
+"<1.so>At first I thought it was just a bad dream.<2.pa>\n"
+"But the bed I woke up in...<3.pa>\n"
+"wasn't my bed.\n"
+"It was a bed full of liquid in an empty\n"
+"room. And when I looked in the corner...<4.pa>\n"
+"there was a weird glowing device.\n"
+"<5.so>And when I touched the device...\n"
+"\n"
+"\n"
+"I was overwhelmed with a feeling of...<6.pa>\n"
+"familiarity.<7.pa> When I came to, I was here..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Talk03"
+msgid "<1.so>What...<2.pa>do you think about that?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk04"
+msgid ""
+"<1.so>Does that story sound familiar...<2.pa>\n"
+"Hylian Champion?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk05"
+msgid "<1.so>Why so mum...<2.pa>Hylian Champion?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk06"
+msgid ""
+"<1.so>I heard the weather is going to be nice\n"
+"tomorrow.<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk07"
+msgid "<1.so>Too bad you won't be alive to enjoy it..."
+msgstr ""
+

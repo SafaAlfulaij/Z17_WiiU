@@ -1,0 +1,26 @@
+msgctxt "Talk01"
+msgid ""
+"To the brave soul who wishes to master\n"
+"a Divine Beast... You have done well to\n"
+"return to this place of beginnings."
+msgstr ""
+
+msgctxt "Talk02"
+msgid ""
+"You have overcome many challenges\n"
+"thus far. Now, allow me to bestow\n"
+"upon you one final trial."
+msgstr ""
+
+msgctxt "Talk03"
+msgid ""
+"Return the Sheikah Slate to the terminal\n"
+"you first obtained it from."
+msgstr ""
+
+msgctxt "Talk04"
+msgid ""
+"Do so, and the final passageway\n"
+"will reveal itself..."
+msgstr ""
+

@@ -1,0 +1,8 @@
+msgctxt "talk_near00"
+msgid "Hahhh..."
+msgstr ""
+
+msgctxt "talk_near01"
+msgid "The royal guard's series..."
+msgstr ""
+

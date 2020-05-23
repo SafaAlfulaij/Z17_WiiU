@@ -1,0 +1,172 @@
+msgctxt "0000"
+msgid "Check out my album."
+msgstr ""
+
+msgctxt "0001"
+msgid "Nope."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "Talk00"
+msgid ""
+"<1.so>Oh! You're the guy who found the\n"
+"<2.se_co>Great Fairy Fountain<3.re_co>!<4.pa> Funny running\n"
+"into you here. Are you traveling too?\n"
+"I've traveled all over the world,\n"
+"so I'm happy to tell you about\n"
+"new places, if you want."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk01"
+msgid ""
+"<1.so>Wow... What a dignified structure!<2.pa>\n"
+"How does nature create such\n"
+"magnificence?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk02"
+msgid ""
+"<1.so>If you have a picture to show me,\n"
+"let's see it already!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "Talk03"
+msgid ""
+"<1.so>Hmm... This picture shows <2.se_co>Hyrule Castle<3.re_co>\n"
+"in the distance.\n"
+"\n"
+"<4.so>They say there used to be a stage where\n"
+"knighting ceremonies were performed,\n"
+"just south of <5.se_co>Hyrule Castle<6.re_co>.\n"
+"It's in ruins now, but...<7.pa>I'm pretty certain\n"
+"that's what's in this picture."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk04"
+msgid ""
+"<1.so>I see.<2.pa> Well, if you ever need my help,\n"
+"the offer stands. After all, you helped\n"
+"me out a great deal!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk05"
+msgid ""
+"<1.so>However...<2.pa>that area is extremely\n"
+"dangerous. If you're planning on\n"
+"going there, please be careful."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk08"
+msgid ""
+"<1.so>Hey! It's you! Did you come by to show\n"
+"me that fabulous picture again?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk09"
+msgid ""
+"<1.so>Hey! We meet again. Are you out\n"
+"traveling as well?\n"
+"\n"
+"I've traveled all over the world,\n"
+"so I'm happy to tell you about\n"
+"new places, if you want."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound2
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+#. 7: raw
+#. 8: sound
+#. 9: sound
+msgctxt "Talk10"
+msgid ""
+"<1.so>Hm? And you are?<2.pa> Sorry, but...\n"
+"are you traveling too?\n"
+"\n"
+"I'm a painter, you see. I'm traveling the\n"
+"world in search of beautiful scenery.\n"
+"\n"
+"<3.so>They say the most beautiful spots in\n"
+"the world are these places called\n"
+"<4.se_co>Great Fairy Fountains<5.re_co>.\n"
+"Not only are they incredibly beautiful,\n"
+"but they supposedly can grant people\n"
+"some kind of strange power...\n"
+"<6.so>Sadly, I've yet to find one.<7.ra><8.so>But I heard a rumor "
+"recently that there's\n"
+"one near Kakariko Village!\n"
+"\n"
+"<9.so>Kakariko Village is my hometown.\n"
+"Perhaps it's time for a visit..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "Talk11"
+msgid ""
+"<1.so>A <2.se_co>Great Fairy Fountain <3.re_co>near\n"
+"Kakariko Village...<4.pa> Could the rumor\n"
+"be true?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: sound2
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: sound
+#. 11: raw
+#. 12: sound
+#. 13: sound
+msgctxt "Talk12"
+msgid ""
+"<1.so>Hm? <2.pa>You...<3.pa> I'm sorry, but have we met\n"
+"somewhere before?\n"
+"\n"
+"Well, it's not important. <4.pa>Have you ever\n"
+"heard of a <5.se_co>Great Fairy Fountain<6.re_co>?\n"
+"\n"
+"<7.so>They say <8.se_co>Great Fairy Fountains<9.re_co> are\n"
+"some of the most beautiful places\n"
+"in the world!\n"
+"Not only are they incredibly gorgeous,\n"
+"but they can supposedly grant people\n"
+"some kind of strange power...\n"
+"<10.so>Sadly, I've yet to find one.<11.ra><12.so>But I heard a rumor "
+"recently that there's\n"
+"one near Kakariko Village!\n"
+"\n"
+"<13.so>Kakariko Village is my hometown.\n"
+"Perhaps it's time for a visit..."
+msgstr ""
+

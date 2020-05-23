@@ -1,0 +1,19 @@
+#. 1: variable (ActorName_SeakSensor_Slot0)
+msgctxt "0000"
+msgid ""
+"Searching for\n"
+"<1.va>."
+msgstr ""
+
+msgctxt "0001"
+msgid "Searching for shrines."
+msgstr ""
+
+msgctxt "0002"
+msgid "Choose image to delete."
+msgstr ""
+
+msgctxt "0003"
+msgid "Sheikah Sensor disabled."
+msgstr ""
+

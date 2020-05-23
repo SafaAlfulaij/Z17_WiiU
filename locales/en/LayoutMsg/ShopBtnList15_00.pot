@@ -1,0 +1,8 @@
+msgctxt "Pa_GuideA_00-T_Guide_00"
+msgid "Select"
+msgstr ""
+
+msgctxt "Pa_GuideB_00-T_Guide_00"
+msgid "Back"
+msgstr ""
+
