@@ -1,0 +1,24 @@
+msgctxt "QL_Carnivorous_Boy_Desc"
+msgid ""
+"Trott, a stable hand on the edge of the plain,\n"
+"is in the doldrums. The only thing that could\n"
+"lift his spirits is some raw gourmet meat."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Carnivorous_Boy_Finish"
+msgid ""
+"Trott, a stable hand at the Outskirt Stable,\n"
+"found color returning to his cheeks for the first\n"
+"time in a while after a meaty dinner.\n"
+"\n"
+"From now on, he'll pay you <1.se_co>100 rupees <2.re_co>out of\n"
+"his own pocket each time you bring him some\n"
+"raw gourmet meat."
+msgstr ""
+
+msgctxt "QL_Carnivorous_Boy_Name"
+msgid "A Rare Find"
+msgstr ""
+

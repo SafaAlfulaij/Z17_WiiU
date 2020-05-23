@@ -1,0 +1,230 @@
+msgctxt "0000"
+msgid "Troubles?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Keep talkin'!"
+msgstr ""
+
+msgctxt "0002"
+msgid "Take care."
+msgstr ""
+
+msgctxt "near00"
+msgid "Come on..."
+msgstr ""
+
+msgctxt "near01"
+msgid "Open beds here!"
+msgstr ""
+
+msgctxt "near02"
+msgid "Phew..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk00"
+msgid ""
+"<1.so>Welcome to the <2.se_co>Swallow's Roost<3.re_co>, the\n"
+"finest inn this side of Death Mountain!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "talk01"
+msgid ""
+"<1.so>Welcome to the <2.se_co>Swallow's Roost<3.re_co>, the\n"
+"finest inn you will ever step foot in.<4.pa>\n"
+"You must be tired at this late hour."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk02"
+msgid ""
+"<1.so>Haven't you seen it?<2.pa>\n"
+"That <3.se_co>monster<4.re_co> just appeared one day.\n"
+"\n"
+"It's been terrorizing the village nonstop.\n"
+"We can't take much more of this."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk03"
+msgid ""
+"<1.so>Ever since that <2.se_co>monster<3.re_co> appeared above\n"
+"the village, there have been new victims\n"
+"every day."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk04"
+msgid ""
+"<1.so>Heh...<2.pa> If you want a place to stay,\n"
+"talk to the innkeeper."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Come back soon!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "talk06"
+msgid ""
+"<1.so>Welcome to the <2.se_co>Swallow's Roost<3.re_co>,\n"
+"voted best (and only) inn in Rito Village.<4.pa>\n"
+"Looks like you got caught in the rain."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk07"
+msgid ""
+"<1.so>Look, I'm just running my mouth here.<2.pa>\n"
+"If you want to know the details, talk to\n"
+"the <3.se_co>elder<4.re_co> on the top floor."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>Our inn is the perfect place to snooze\n"
+"your troubles away!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk09"
+msgid "<1.so>I will not keep you—<2.pa>go get some rest."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk13"
+msgid ""
+"<1.so>I decided to take a break.\n"
+"\n"
+"\n"
+"<2.so>Today has been dead anyway, what with\n"
+"that <3.se_co>monster flying around <4.re_co>up there."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk14"
+msgid ""
+"<1.so>All right. I gotta get back to work.\n"
+"\n"
+"\n"
+"Hey, buddy. You should stop by and\n"
+"take a load off. I work at the\n"
+"<2.se_co>Swallow's Roost<3.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk15"
+msgid "<1.so>Oh... <2.pa>You're a traveler."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk16"
+msgid ""
+"<1.so>We were just chatting about <2.se_co>that\n"
+"monster in the sky<3.re_co>. You know,\n"
+"<4.se_co>Divine Beast Vah Medoh<5.re_co>.\n"
+"Turns out that a long, long time ago,\n"
+"that thing was on our side."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "talk17"
+msgid ""
+"<1.so>Right. <2.pa>A long time ago, the Champion of\n"
+"Rito Village,<3.pa> Revali, tamed <4.se_co>that beast<5.re_co> and\n"
+"used it to protect the village.\n"
+"...According to the elder, at least.<6.pa>\n"
+"And I believe him!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk18"
+msgid ""
+"<1.so>So the story goes, but why did it start\n"
+"attacking us now?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk19"
+msgid ""
+"<1.so>Hey, there!<2.pa>\n"
+"\n"
+"\n"
+"Business is slow right now, thanks to\n"
+"<3.se_co>Divine Beast Vah Medoh <4.re_co>up there.\n"
+"It's really ruining my commissions!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk20"
+msgid ""
+"<1.so>Long ago, the village Champion, Revali,\n"
+"tamed that <2.se_co>thing <3.re_co>and used it to protect\n"
+"the village."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk21"
+msgid ""
+"<1.so>Hah! <2.pa>He acts like a know-it-all even\n"
+"though he simply regurgitates what the\n"
+"<3.se_co>elder <4.re_co>says."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk23"
+msgid ""
+"<1.so>Luck is on your side, pal!<2.pa>\n"
+"The village has finally quieted down after\n"
+"all the commotion from the <3.se_co>sky monster<4.re_co>. "
+msgstr ""
+

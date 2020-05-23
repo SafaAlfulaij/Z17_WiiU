@@ -1,0 +1,220 @@
+msgctxt "0002"
+msgid "A strange place."
+msgstr ""
+
+msgctxt "0003"
+msgid "A very strange place."
+msgstr ""
+
+msgctxt "0004"
+msgid "A place to rest."
+msgstr ""
+
+msgctxt "0005"
+msgid "Never mind..."
+msgstr ""
+
+msgctxt "near00"
+msgid "Zzzmph... Zzzrrk..."
+msgstr ""
+
+msgctxt "near01"
+msgid "I should sleep..."
+msgstr ""
+
+msgctxt "near02"
+msgid "So..."
+msgstr ""
+
+msgctxt "near03"
+msgid "♪♪♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk00"
+msgid ""
+"<1.so>Hey, <2.pa>that <3.se_co>blue flame<4.re_co>...<5.pa> Isn't that "
+"from the\n"
+"<6.se_co>research lab<7.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "talk02"
+msgid ""
+"<1.so>Oh, hey, traveler... <2.pa>What's going on?<3.pa>\n"
+"Are you lost?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk04"
+msgid "<1.so>You're good, then? <2.pa>All right, whatever."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk05"
+msgid "<1.so>Where are you looking to go?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk06"
+msgid "<1.so>Hrm? <2.pa>You look troubled."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "talk08"
+msgid ""
+"<1.so>Well, <2.pa>I'm going to go crash.<3.pa>\n"
+"See you tomorrow."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk09"
+msgid ""
+"<1.so>I worked myself to the bone today, but...<2.pa>\n"
+"I'm sure the effort will all add up to a \n"
+"great harvest."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid "<1.so>Zzzrph..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid "<1.so>Zzzrrrmmmzzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (short)
+#. 10: pause (short)
+msgctxt "talk12"
+msgid ""
+"<1.so>A strange place, huh... <2.pa>That could mean\n"
+"a lot of... Oh, wait! Are you talking about\n"
+"our resident Mr. Toothy?<3.pa>\n"
+"I mean, <4.pa>his shop's not called that.<5.pa>\n"
+"I think only I call him that. <6.so>He runs the \n"
+"<7.se_co>dye shop <8.re_co>near the bridge. He is WEIRD.<9.pa>\n"
+"Yeah, his real name is Sayge, and he's\n"
+"definitely a master of dyeing clothes, but<10.pa>\n"
+"he's also a master of weirding me out."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (short)
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>Oh, a very strange place, huh? <2.pa>\n"
+"Only one place you could mean.\n"
+"\n"
+"The easternmost structure in this village,<3.pa>\n"
+"at the top of the hill...<4.pa> Yup, you mean the\n"
+"<5.se_co>Hateno Ancient Tech Lab<6.re_co>, right?\n"
+"Its <7.se_co>director <8.re_co>does \"research\" there every\n"
+"day, supposedly to help keep us all safe,\n"
+"but who knows what THAT means!<9.pa>\n"
+"That <10.se_co>director <11.re_co>doesn't like kids all that\n"
+"much,<12.pa> so I hear the village tykes get\n"
+"curious and snoop around a lot..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (long)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (short)
+#. 10: pause (short)
+#. 11: sound
+#. 12: pause (short)
+msgctxt "talk14"
+msgid ""
+"<1.so>If you want somewhere to rest, the <2.se_co>inn<3.re_co>\n"
+"is the usual choice for travelers...<4.pa>\n"
+"\n"
+"<5.so>But maybe you mean...<6.pa>the model houses\n"
+"<7.se_co>behind the general store<8.re_co>?<9.pa>\n"
+"\n"
+"Bolson Construction—yeah, they put \n"
+"those up. Nice beds, OK furniture...<10.pa>\n"
+"\n"
+"<11.so>They've got that brand-new house smell.<12.pa>\n"
+"Wouldn't mind sleeping in that smell\n"
+"just once."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk15"
+msgid "<1.so>You looking for anything else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk16"
+msgid "<1.so>I don't mind <2.pa>that old woman, Purah."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk17"
+msgid "<1.so>I don't mind <2.pa>the <3.se_co>director <4.re_co>there."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk18"
+msgid ""
+"<1.so>Whatever that \"research\" is that they're\n"
+"doing,<2.pa> I'm sure its ultimate goal is to\n"
+"help the people of the world."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.so>Hurry and go deliver that <2.se_co>blue flame<3.re_co>.<4.pa>\n"
+"It's gonna be used for whatever that\n"
+"\"research\" is, I'm sure."
+msgstr ""
+

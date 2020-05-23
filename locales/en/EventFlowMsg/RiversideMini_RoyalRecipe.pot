@@ -1,0 +1,238 @@
+msgctxt "0000"
+msgid "I'll listen."
+msgstr ""
+
+msgctxt "0001"
+msgid "Not now."
+msgstr ""
+
+msgctxt "0002"
+msgid "Give him fruitcake."
+msgstr ""
+
+msgctxt "0003"
+msgid "Give him monster cake."
+msgstr ""
+
+msgctxt "0004"
+msgid "Not right now."
+msgstr ""
+
+msgctxt "Talk00"
+msgid ""
+"Ah, a customer. Are you traveling alone?\n"
+"This inn gets full marks for beauty, so I\n"
+"highly recommend taking a rest here."
+msgstr ""
+
+msgctxt "Talk01"
+msgid ""
+"Traveling alone—and in the rain no less?\n"
+"This inn is a thing of beauty, rain or\n"
+"shine, so it's a fine place to take a break."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk02"
+msgid ""
+"The river here makes for some lovely\n"
+"scenery, and if you head northeast from\n"
+"here, you'll find the Millennio Sandbar.\n"
+"The scenery there is every bit as lovely\n"
+"as the scenery here!\n"
+"\n"
+"I'm something of a connoisseur of\n"
+"beauty, you see—I simply cannot\n"
+"resist a beautiful sight!\n"
+"<1.so>I try to exude this in all things, not least\n"
+"of all my own beautiful appearance."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk03"
+msgid ""
+"<1.so>Speaking of, has anyone ever told you...\n"
+"You have the most beautiful features!"
+msgstr ""
+
+#. 1: choice
+msgctxt "Talk04"
+msgid ""
+"Ahh, I do have many fond memories of\n"
+"this beautiful land... If you have the\n"
+"time, would you indulge me?<1.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: sound
+msgctxt "Talk_Challenge00"
+msgid ""
+"If you head north through Hyrule Field,\n"
+"you'll see the castle surrounded by that\n"
+"foul aura.\n"
+"It has long been a den of monsters, but\n"
+"in its glory days it was surely a thing of\n"
+"wondrous beauty.\n"
+"It was in that very castle in those very\n"
+"days that my ancestor... Hmm, my\n"
+"grandfather's grandfather, I believe...\n"
+"Anyway, he worked as the castle's\n"
+"appointed chef! I couldn't believe\n"
+"it myself!\n"
+"Oh, how I wonder what sorts of cuisine \n"
+"members of the royal court enjoyed in\n"
+"those good ol' days...<1.so>\n"
+"As a child, I would often suffer meager\n"
+"meals, all while dreaming of the beautiful\n"
+"dishes that might have graced my plate.\n"
+"Oh, if only things had been different!<2.so>\n"
+"Gourmet spiced meat, seafood curry,\n"
+"mushroom risotto, egg pudding...\n"
+"Oh, my, I think I'm salivating.<3.so> And it's my\n"
+"pursuit of those childhood dreams that\n"
+"explains the fabulous body you see here!\n"
+"These days, I enjoy my time working at\n"
+"these stables, sharing my tales of beauty\n"
+"with any traveler willing to listen.<4.so>\n"
+"But I still wonder what could have been.\n"
+"Anyway, excuse me... I seem to have\n"
+"caught myself prattling on.\n"
+"But looking upon your perfectly\n"
+"symmetrical face and discussing meals of\n"
+"beauty has rekindled my desire.\n"
+"If you should happen to set foot inside\n"
+"Hyrule Castle, could you find it in you to\n"
+"keep an eye out for a cookbook?\n"
+"There must be one lying around\n"
+"somewhere in there! I'm simply dying to\n"
+"finally sample the food of the royal court."
+msgstr ""
+
+msgctxt "Talk_Challenge01"
+msgid ""
+"A cuisine lovely enough to be favored by\n"
+"the Hyrulean royal family... If the recipe\n"
+"still exists, I'd love to try it!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_Challenge02"
+msgid ""
+"<1.so>You what?! You really discovered a royal\n"
+"cookbook?"
+msgstr ""
+
+#. 1: choice
+msgctxt "Talk_Challenge03"
+msgid ""
+"Could I bother you further to prepare the\n"
+"dish for me? I must sample it!<1.ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "Talk_Challenge04"
+msgid ""
+"Could I bother you further to prepare the\n"
+"dish for me? I must sample it!<1.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_Challenge05"
+msgid ""
+"<1.so>To taunt me with such a delectable and\n"
+"beautiful aroma yet not share...\n"
+"So cruel..."
+msgstr ""
+
+msgctxt "Talk_Challenge06"
+msgid ""
+"This... This is the fruitcake said to be\n"
+"eaten by the princess of Hyrule..."
+msgstr ""
+
+msgctxt "Talk_Challenge07"
+msgid ""
+"*crunch* *munch...munch*\n"
+"*gulp*"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: sound
+msgctxt "Talk_Challenge08"
+msgid ""
+"<1.so>Simply...<2.pa>delicious...<3.pa> How could I possibly\n"
+"describe this experience?\n"
+"\n"
+"<4.so>A refreshing aroma reminiscent of\n"
+"galloping across these majestic planes\n"
+"on horseback...\n"
+"No, that undersells the dish's complexity.\n"
+"\n"
+"\n"
+"It fills me with that heart-thumping\n"
+"intensity that seizes your very soul\n"
+"when you're spotted by a Guardian!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_Challenge09"
+msgid ""
+"A truly elegant dish!<1.so> I never thought I\n"
+"would taste something quite so thrilling.\n"
+"\n"
+"I really must thank you for giving me\n"
+"such a beautiful meal!<2.so> Here, take this.\n"
+"For your trouble."
+msgstr ""
+
+msgctxt "Talk_Challenge10"
+msgid ""
+"This monster cake is said to have been a\n"
+"favorite of the minister of Hyrule."
+msgstr ""
+
+#. 1: sound2
+#. 2: sound
+msgctxt "Talk_Challenge11"
+msgid ""
+"<1.so>It tastes...beautiful...\n"
+"How can I put it into words?<2.so>\n"
+"\n"
+"It's like biting into a Chuchu...\n"
+"\n"
+"\n"
+"No, no, that would be disgusting and\n"
+"dangerous. It stimulates the brain, much\n"
+"like being pummeled by a Hinox!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_No"
+msgid ""
+"<1.so>Oh, I see...\n"
+"Very well. I'll be here if you change\n"
+"your mind."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_Yes"
+msgid ""
+"<1.so>Oh, you would?\n"
+"Even more beautiful on the inside!\n"
+"Now, let's see...<2.so>"
+msgstr ""
+
+msgctxt "Talk_near00"
+msgid "I could go for a bite..."
+msgstr ""
+
+msgctxt "Talk_near01"
+msgid "Mm, royal cuisine..."
+msgstr ""
+

@@ -1,0 +1,309 @@
+msgctxt "0000"
+msgid "I'll go find them!"
+msgstr ""
+
+msgctxt "0001"
+msgid "They'll come back..."
+msgstr ""
+
+msgctxt "0002"
+msgid "Cucco update!"
+msgstr ""
+
+msgctxt "0003"
+msgid "Stay strong."
+msgstr ""
+
+msgctxt "Near00"
+msgid "How could this happen..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "My precious Cuccos..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: text_size
+msgctxt "Talk01"
+msgid "<1.te_si><2.so>Sir... <3.pa>Sir Link...<4.pa><5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Talk03"
+msgid "<1.so><2.te_si>WHAAA?!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: text_size
+#. 4: text_size
+msgctxt "Talk04"
+msgid ""
+"<1.so>...Oh. <2.pa>I see.\n"
+"\n"
+"\n"
+"<3.te_si>I just want...to go home.<4.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: text_size
+#. 6: pause (longer)
+#. 7: text_size
+msgctxt "Talk05"
+msgid ""
+"<1.te_si><2.so>My Cuccos...<3.pa><4.te_si>\n"
+"\n"
+"<5.te_si>\n"
+"My precious Cuccos...<6.pa><7.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: pause (longer)
+msgctxt "Talk06"
+msgid ""
+"<1.so>Waaahhh... <2.pa>Sir Link...\n"
+"\n"
+"\n"
+"Could it be that my little Cuccos have\n"
+"stopped loving me<3.pa> just like my wife?<4.pa>\n"
+"\n"
+"My Cuccos... It can't be so...<5.pa>\n"
+"Where are you, my sweet Cuccos..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Talk07"
+msgid ""
+"<1.so>I should have <2.se_co>10 <3.re_co>Cuccos total.<4.pa> Even just\n"
+"one unaccounted for won't do!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Talk08"
+msgid ""
+"<1.so>I should have <2.se_co>10 <3.re_co>Cuccos total.<4.pa> Even just\n"
+"one unaccounted for won't do!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: text_size
+msgctxt "Talk09"
+msgid ""
+"<1.so>My wife left me a while ago...<2.pa>\n"
+"All this time I've been waiting\n"
+"for her to come back.\n"
+"Ha. Joke's on me.<3.pa>\n"
+"\n"
+"\n"
+"<4.te_si>Ha... Ha ha...<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: text_size
+#. 5: text_size
+msgctxt "Talk10"
+msgid ""
+"<1.so>My poor little Cuccos...<2.pa>\n"
+"I hope they aren't scared...<3.pa>\n"
+"<4.te_si>*sniffle*<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: choice
+msgctxt "Talk11"
+msgid ""
+"<1.so>The Sheikah tribe has been serving\n"
+"Hyrule's royal family for ages.\n"
+"\n"
+"<2.so>But after the Great Calamity and the\n"
+"king's death,<3.pa> the Sheikah tribe was\n"
+"split in two.\n"
+"Some became part of the dishonorable\n"
+"<4.se_co>Yiga Clan<5.re_co>...<6.pa>and those fiends are after\n"
+"our beloved leader, <7.se_co>Lady Impa<8.re_co>.\n"
+"<9.so>That's why we stand guard every day.\n"
+"We must protect <10.se_co>Lady Impa<11.re_co>.<12.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: choice
+msgctxt "Talk12"
+msgid "<1.te_si><2.so>My poor Cuccos...<3.pa><4.te_si><5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "Talk13"
+msgid ""
+"<1.so><2.te_si>Thank you so much!!<3.pa><4.te_si>\n"
+"\n"
+"\n"
+"I have <5.se_co>10 <6.re_co>Cuccos total. Hopefully you'll\n"
+"be able to find them all..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: text_size
+#. 6: text_size
+msgctxt "Talk14"
+msgid ""
+"<1.so>But I don't have even a single one left...<2.pa>\n"
+"\n"
+"\n"
+"Somewhere out there,<3.pa> my poor Cuccos\n"
+"are lost and lonely...<4.pa> Please! Hurry up\n"
+"and bring them back to me!\n"
+"<5.te_si>For their sake...and for mine, as well...<6.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Talk15"
+msgid ""
+"<1.so>I should have <2.se_co>10 <3.re_co>Cuccos total.<4.pa> Even just\n"
+"one unaccounted for won't do!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: text_size
+#. 4: pause (short)
+#. 5: text_size
+msgctxt "Talk16"
+msgid ""
+"<1.so>Now that my wife wants nothing to do\n"
+"with me,<2.pa> my Cuccos are my only\n"
+"emotional support...\n"
+"<3.te_si>Waaaah... <4.pa>What do I doooo...<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (longer)
+#. 5: choice
+msgctxt "Talk17"
+msgid "<1.so><2.te_si>AAAARRRRGH!!<3.te_si><4.pa><5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (longer)
+msgctxt "Talk18"
+msgid ""
+"<1.so>My little Cuccos...<2.pa> They're probably so\n"
+"scared and lonely...\n"
+"\n"
+"<3.so>NO!<4.pa> I must stay focused.<5.pa> I must fulfill\n"
+"my duty no matter what!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (longer)
+msgctxt "Talk19"
+msgid "<1.so><2.te_si>They haven't come home yet!<3.te_si><4.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: variable (Kakariko_Kokko_Counter)
+#. 3: pause (longer)
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: text_size
+#. 7: text_size
+msgctxt "Talk20"
+msgid ""
+"<1.so>Sadly, only <2.va> have returned to me.<3.pa>\n"
+"\n"
+"\n"
+"To think that somewhere out there,<4.pa>\n"
+"even one of my poor Cuccos\n"
+"could be lost and lonely...<5.pa>\n"
+"Please! Hurry up and bring them back to\n"
+"me!\n"
+"\n"
+"<6.te_si>For their sake...and for mine, as well...<7.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: text_size
+#. 6: text_size
+msgctxt "Talk21"
+msgid ""
+"<1.so>Despite all that,<2.pa> only one has returned\n"
+"to me!\n"
+"\n"
+"My poor little Cuccos...<3.pa> I'm sure that\n"
+"wherever they are, they're as lonely\n"
+"as I am... <4.pa>Please find them quickly!\n"
+"<5.te_si>For their sake...and for mine, as well...<6.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk22"
+msgid "<1.so>Really?<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Talk23"
+msgid ""
+"<1.so>My poor little Cuccos...<2.pa>\n"
+"They must feel so alone and afraid.\n"
+"\n"
+"Bah,<3.pa> I need to get back to work."
+msgstr ""
+

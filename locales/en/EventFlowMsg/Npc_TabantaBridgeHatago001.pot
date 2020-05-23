@@ -1,0 +1,223 @@
+msgctxt "0000"
+msgid "About the east."
+msgstr ""
+
+msgctxt "0001"
+msgid "About the south."
+msgstr ""
+
+msgctxt "0002"
+msgid "About the west."
+msgstr ""
+
+msgctxt "0003"
+msgid "I'm fine."
+msgstr ""
+
+msgctxt "0004"
+msgid "About the north..."
+msgstr ""
+
+msgctxt "0005"
+msgid "Good-bye."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk000"
+msgid ""
+"<1.so>Good morning! Welcome to\n"
+"<2.se_co>Tabantha Bridge Stable<3.re_co>, home of the\n"
+"cutest white goats in all of Hyrule."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk001"
+msgid ""
+"<1.so>Hello! And welcome to\n"
+"<2.se_co>Tabantha Bridge Stable<3.re_co>, where I'm busy\n"
+"cataloging some very important cargo."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk002"
+msgid ""
+"<1.so>Yes, welcome to <2.se_co>Tabantha Bridge Stable<3.re_co>,\n"
+"where caring for the horses is the most\n"
+"pressing matter on my plate."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk003"
+msgid ""
+"<1.so>Welcome to <2.se_co>Tabantha Bridge Stable<3.re_co>,\n"
+"where looking at a child's sleeping face\n"
+"makes me happy!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk004"
+msgid ""
+"<1.so>Welcome to <2.se_co>Tabantha Bridge Stable<3.re_co>,\n"
+"where it's raining nonstop."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk005"
+msgid "<1.so>Welcome to <2.se_co>Tabantha Bridge Stable<3.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk100"
+msgid ""
+"<1.so>If you need directions, just ask me.\n"
+"Any direction you want to know about?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+msgctxt "talk101"
+msgid ""
+"<1.so>The east, huh?\n"
+"The east...\n"
+"Yeah...\n"
+"<2.so>My aunt always tells me I should travel\n"
+"all over while I'm still young...\n"
+"\n"
+"But that <3.se_co>Ludfo's Bog <4.re_co>isn't a place\n"
+"anyone should travel to in my opinion.\n"
+"\n"
+"<5.so>It's had a constant cover of black storm\n"
+"clouds since long before my aunt was\n"
+"born.\n"
+"If you ask me, it's a sign from Hylia\n"
+"herself telling us not to go there.\n"
+"And I don't want to make Hylia angry..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: sound
+msgctxt "talk102"
+msgid ""
+"<1.so>Well, to the east there's...<2.se_co>Ludfo's Bog<3.re_co>.\n"
+"Funny story, actually.\n"
+"\n"
+"There used to be a constant cover of \n"
+"dark storm clouds that had been there\n"
+"long before even my aunt was born.\n"
+"<4.so>But then they suddenly all vanished!\n"
+"Praise Hylia!\n"
+"\n"
+"<5.so>I'm even thinking of taking the horses\n"
+"there on a field trip soon."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+msgctxt "talk111"
+msgid ""
+"<1.so>South, huh? My aunt used to tell us\n"
+"some crazy stories about that area.\n"
+"\n"
+"About how past <2.se_co>Tamio River<3.re_co>, on\n"
+"<4.se_co>Satori Mountain<5.re_co>, there lived a <6.se_co>lord<7.re_co>\n"
+"with dominion over all living things...\n"
+"<8.so>It's an old legend that she tells the\n"
+"children before bedtime, even today.\n"
+"\n"
+"She also tells them about \"the god who\n"
+"watches over the stables.\"\n"
+"Pfft..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk121"
+msgid ""
+"<1.so>Ah, the west...\n"
+"\n"
+"\n"
+"If you head west, you'll spot the\n"
+"namesake of our stable, the\n"
+"<2.se_co>Tabantha Great Bridge<3.re_co>.\n"
+"If you cross the bridge and follow the\n"
+"road, you'll eventually get to<4.se_co> Rito Village<5.re_co>,\n"
+"where the Rito people live.\n"
+"It's a REALLY long walk to Rito Village,\n"
+"though, so you'll definitely want to bring\n"
+"some snacks."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "talk122"
+msgid ""
+"<1.so>But...have you seen that THING?\n"
+"That...that <2.se_co>creepy bird in the sky<3.re_co>?\n"
+"\n"
+"<4.so>It suddenly appeared above Rito Village\n"
+"and won't go away. \n"
+"\n"
+"If you're going there, you should be\n"
+"careful. Who knows what's going on\n"
+"there."
+msgstr ""
+
+#. 1: choice
+msgctxt "talk131"
+msgid "Really? Well, be careful.<1.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk132"
+msgid ""
+"<1.so>The north?<2.pa> Oh, right...<3.pa>\n"
+"\n"
+"\n"
+"<4.so>On the other side of Mount Rhoam,\n"
+"there's an odd lad named <5.se_co>Konba<6.re_co> who\n"
+"loves challenging strangers to a race.\n"
+"He must be REALLY bored. It might be\n"
+"nice of you to pay him a visit."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk141"
+msgid "<1.so>Anything else you want to know about?<2.ch>"
+msgstr ""
+

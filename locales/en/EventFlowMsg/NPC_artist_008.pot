@@ -1,0 +1,36 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "Talk01"
+msgid ""
+"<1.so>Colorful leaves gently falling...<2.pa> A fort that\n"
+"fell to the Great Calamity...<3.pa> Unspeakable\n"
+"sorrow surrounds this landscape.<4.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Talk03"
+msgid ""
+"<1.so>Hmm...<2.pa> I know I've seen that spring and\n"
+"that <3.se_co>Goddess Statue<4.re_co> before...\n"
+"\n"
+"<5.so>There was a place like this at the\n"
+"ruins in <6.se_co>North Akkala Valley<7.re_co>,\n"
+"to the west of here."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk05"
+msgid ""
+"<1.so>It's pretty much directly west of here.\n"
+"I'm certain you'll be able to find it\n"
+"without any trouble."
+msgstr ""
+

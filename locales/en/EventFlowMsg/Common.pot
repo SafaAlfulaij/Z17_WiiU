@@ -1,0 +1,13 @@
+msgctxt "Ichigeki_Escape_Air_001"
+msgid "A voice calls to you..."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "Relic_Contact_001"
+msgid ""
+"The Divine Beast is taking aim at\n"
+"<1.se_co>Calamity Ganon<2.re_co> in Hyrule Castle...\n"
+"It's too dangerous to go near."
+msgstr ""
+

@@ -1,0 +1,115 @@
+msgctxt "Near_00"
+msgid "Put your back into it!"
+msgstr ""
+
+msgctxt "Near_01"
+msgid "Hah! Hah!"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "An ambush!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "Wh-what?!"
+msgstr ""
+
+msgctxt "TerrorFire"
+msgid "Hot! That's hot!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "You wanna throw down?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk00"
+msgid ""
+"<1.so>Can't you tell that we're on high\n"
+"alert right now?!<2.pa> And no, you can't help!\n"
+"Outsiders must stay out of it!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid ""
+"<1.so>Despite my warnings, you and this vai\n"
+"here keep wandering into the barracks!\n"
+"\n"
+"Know that the only reason you're not\n"
+"already sliced into pieces is because\n"
+"we are otherwise occupied!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid ""
+"<1.so>As you can see, we are in the middle of\n"
+"spear training!\n"
+"\n"
+"Teake's permission or no, I would ask\n"
+"that you not interfere!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "talk03"
+msgid ""
+"<1.so>Now that the chief's heirloom has been\n"
+"returned, we must prevent such a crime\n"
+"from happening again!\n"
+"<2.so>I must never neglect my training. My\n"
+"diligence will inspire each and every one\n"
+"of those who strive to be like me!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid ""
+"<1.so>Heh...\n"
+"My brave, strong appearance...\n"
+"\n"
+"I can feel the gazes of those weaker than\n"
+"I am.\n"
+"\n"
+"If you want to be like me, too, then\n"
+"you must never neglect your training!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: sound
+#. 4: reset_colour
+msgctxt "talk05"
+msgid ""
+"<1.so>I'd like to help that vai out, but...\n"
+"\n"
+"\n"
+"A <2.se_co><3.so>Molduga<4.re_co> is a much stronger foe\n"
+"than even I can handle. It would be\n"
+"impossible for an average soldier."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk06"
+msgid ""
+"<1.so>You're not going to hear any gratitude\n"
+"from me.\n"
+"\n"
+"I got too wrapped up in coaching my\n"
+"subordinates and fell behind is all.\n"
+"\n"
+"As a member of the Gerudo, it is my duty\n"
+"to prevent something like this from ever\n"
+"happening again!\n"
+"I will protect the town and Lady Riju with\n"
+"all my strength.<2.pa> And you'd better not\n"
+"get in the way!"
+msgstr ""
+

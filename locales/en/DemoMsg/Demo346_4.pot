@@ -1,0 +1,25 @@
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: sound
+#. 10: pause (short)
+#. 11: set_colour (blue)
+#. 12: reset_colour
+msgctxt "talk00"
+msgid ""
+"<1.so>Hold on!<2.pa> We need to watch out for those\n"
+"<3.se_co>sentries<4.re_co>!\n"
+"\n"
+"<5.so>If one of them spots us, <6.se_co>Rudania <7.re_co>will\n"
+"stomp around<8.pa> and cause Death Mountain\n"
+"to erupt.\n"
+"<9.so>I'll follow along when you whistle,<10.pa> so just\n"
+"focus on getting us through here without\n"
+"being spotted by the <11.se_co>sentries<12.re_co>!"
+msgstr ""
+

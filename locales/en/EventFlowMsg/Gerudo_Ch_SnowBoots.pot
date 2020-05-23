@@ -1,0 +1,579 @@
+msgctxt "0000"
+msgid "I want snow boots."
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-BYE."
+msgstr ""
+
+msgctxt "0002"
+msgid "I'll go look for it."
+msgstr ""
+
+msgctxt "0003"
+msgid "Let me think about it."
+msgstr ""
+
+msgctxt "0004"
+msgid "Snow boots, please."
+msgstr ""
+
+msgctxt "0005"
+msgid "Feast your eyes."
+msgstr ""
+
+msgctxt "0006"
+msgid "The snow boots..."
+msgstr ""
+
+msgctxt "0007"
+msgid "Not a chance."
+msgstr ""
+
+msgctxt "0008"
+msgid "Where's the sword?"
+msgstr ""
+
+#. 1: sound
+msgctxt "LookPicture"
+msgid "<1.so>WHAAAAAT?! It really exists?!"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "Talk_00"
+msgid ""
+"<1.so>A traveler swore he saw you in the\n"
+"Gerudo Highlands, so I've been gnawing\n"
+"on my fingernails with worry!\n"
+"I mean, all that talk about the sword was\n"
+"just chitchat... I didn't think you'd go up\n"
+"there without snow boots!\n"
+"Anyway, are you OK?<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: single_choice
+msgctxt "Talk_02"
+msgid ""
+"<1.so>And you went searching for it without\n"
+"a decent pair of snow boots...\n"
+"\n"
+"I mean, the Gerudo Highlands are\n"
+"unforgiving. I doubt I could survive\n"
+"there, and I'm burly.\n"
+"Who ARE you?!<2.pa><3.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_03"
+msgid ""
+"<1.so>Yeah... You did risk your life to fulfill\n"
+"your promise, after all...\n"
+"\n"
+"It'd be pretty uncouth of me to drop my \n"
+"end of the bargain."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: pause (short)
+#. 6: single_choice
+msgctxt "Talk_04"
+msgid ""
+"<1.so>Well, now I'm barefoot...\n"
+"\n"
+"\n"
+"<2.so>But if you're happy, then I'm happy!\n"
+"\n"
+"\n"
+"And what's more, this whole episode\n"
+"has endeared you even more to me!\n"
+"\n"
+"Your cutely greedy side. Your sassy,\n"
+"playfully rude side...\n"
+"\n"
+"Your unexpectedly tough side...\n"
+"\n"
+"\n"
+"Um...\n"
+"\n"
+"\n"
+"Would you...\n"
+"\n"
+"\n"
+"...g-g-<3.pa>go out...<4.pa>\n"
+"\n"
+"\n"
+"...w-w-w-<5.pa>with...<6.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: sound
+#. 7: sound
+msgctxt "Talk_05"
+msgid ""
+"<1.so>Oh, it's just a guy...<2.pa>\n"
+"\n"
+"\n"
+"<3.so>But...hm.<4.pa> Listen, pal, a little free advice?\n"
+"You're looking pretty sour.<5.pa>\n"
+"\n"
+"You keep walking around looking like\n"
+"a grouch, and you'll never get a girl. \n"
+"\n"
+"Aw, what am I saying? Sorry about that.\n"
+"Awfully condescending of me.\n"
+"\n"
+"<6.so>I've just got wooing on the brain.\n"
+"Girls have always vexed me, but right\n"
+"now SHE is all I can think of!\n"
+"<7.so>Sorry, but I don't even have time for\n"
+"other GIRLS right now, let alone other\n"
+"guys, know what I mean?\n"
+"If you need something, do me a favor...\n"
+"Ask someone else."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "Talk_06"
+msgid ""
+"<1.so>Gah!\n"
+"\n"
+"\n"
+"S-sav'otta!<2.pa>\n"
+"\n"
+"\n"
+"<3.so>Wait.<4.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_07"
+msgid ""
+"<1.so>Like I said...<2.pa>\n"
+"\n"
+"\n"
+"I'm not interested in talking to anyone\n"
+"but HER. She is all things to me!\n"
+"If you need something...\n"
+"be a pal and ask someone else, huh?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: sound2
+msgctxt "Talk_08"
+msgid ""
+"<1.so>Gaaaah!\n"
+"\n"
+"\n"
+"S-sav'otta!<2.pa>\n"
+"\n"
+"\n"
+"<3.so>Wait.<4.pa><5.so> You again?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: sound
+#. 6: sound
+msgctxt "Talk_09"
+msgid ""
+"<1.so>Oh, it's just you...<2.pa>\n"
+"\n"
+"\n"
+"But...huh. <3.pa>Look, I feel like someone \n"
+"should tell you that you have kind of a\n"
+"sulky look about you.<4.pa>\n"
+"You keep walking around looking all\n"
+"miserable, and you'll never get a girl. \n"
+"\n"
+"Aw, what am I saying? Sorry about that.\n"
+"Awfully condescending of me.\n"
+"\n"
+"<5.so>I've just got wooing on the brain.\n"
+"Girls have always vexed me, but right\n"
+"now SHE is all I can think of!\n"
+"<6.so>Sorry, but I don't even have time for\n"
+"other GIRLS right now, let alone other\n"
+"guys, know what I mean?\n"
+"If you need something, do me a favor...\n"
+"Ask someone else."
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "Talk_10"
+msgid ""
+"<1.so>You!\n"
+"\n"
+"\n"
+"You came! I mean, hey, yeah, of course.\n"
+"Figured you'd swing by. Yup. \n"
+"Do the ol' swing-by.\n"
+"We didn't get a chance to spend much\n"
+"time together earlier, did we? Whoosh!\n"
+"Total whirlwind! So...wanna hang out?<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: single_choice
+msgctxt "Talk_11"
+msgid ""
+"<1.so>You!\n"
+"\n"
+"\n"
+"You came back! I mean, yeah. Heyyyyy.\n"
+"Course you came by. What's up?\n"
+"\n"
+"<2.so>And look at you, wearing those\n"
+"<3.se_co>sand boots<4.re_co> already like a...saucy little\n"
+"pink heron or something.\n"
+"Y'know, gotta say, they're designed for\n"
+"burly men like myself, so I was worried\n"
+"they wouldn't fit such a flower as you...\n"
+"But they look absolutely fantastic!\n"
+"\n"
+"\n"
+"Gosh! Anyway, I realized we never really\n"
+"got a chance to chat earlier, so you want\n"
+"to grab a spot somewhere and hang out?<5.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_12"
+msgid ""
+"<1.so>What?\n"
+"\n"
+"\n"
+"You want my snow boots, too?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_13"
+msgid ""
+"<1.so>Ha! Well aren't we greedy!\n"
+"Or should I say insatiable for boots.\n"
+"A boot thirst that cannot be slaked!\n"
+"<2.so>Adorable. But listen, if I give you these,\n"
+"then I'll have nothing for my feet!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (grey)
+#. 3: text_size
+#. 4: text_size
+#. 5: reset_colour
+msgctxt "Talk_14"
+msgid ""
+"<1.so><2.se_co><3.te_si>Oh, man, what should I do? THINK, Bozai!\n"
+"Can't put her in a bad mood...\n"
+"\n"
+"OK... Do NOT blow this. Just relax and work a little\n"
+"verbal magic...<4.te_si><5.re_co>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_15"
+msgid ""
+"<1.so>How could I resist a request from you?<2.pa>\n"
+"\n"
+"\n"
+"No lie, you really gave me a surprise\n"
+"earlier...and I love surprises.\n"
+"Surprise me again like that...\n"
+"and I'll give you these snow boots as a\n"
+"surprise present!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: choice
+msgctxt "Talk_16"
+msgid ""
+"<1.so>So let me ask you this: Did you notice\n"
+"that the statue of the eighth heroine...\n"
+"isn't actually holding a sword?\n"
+"Pretty weird, right? Seven other\n"
+"heroines, they all have their swords!<2.pa>\n"
+"Suspicious, y'know?\n"
+"Which leads me to deduce that the\n"
+"eighth heroine must have had a\n"
+"sword as well. Must have!\n"
+"<3.so>To see that such a sword actually\n"
+"exists, that my deduction is right...\n"
+"There could be no greater surprise!<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_17"
+msgid ""
+"<1.so>What? You're really going?\n"
+"\n"
+"\n"
+"Wow, all right, then. The sword would be\n"
+"pretty big, so I doubt it could have been\n"
+"carried off too far.\n"
+"I'm betting it's probably somewhere in\n"
+"the steeps of the <2.se_co>Gerudo Highlands<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_18"
+msgid ""
+"<1.so>And the thing is, I can't lend you the\n"
+"<2.se_co>snow boots <3.re_co>this time. Just can't do it!\n"
+"I'm really sorry."
+msgstr ""
+
+#. 1: text_size
+#. 2: set_colour (grey)
+#. 3: sound
+#. 4: reset_colour
+#. 5: text_size
+msgctxt "Talk_19"
+msgid ""
+"<1.te_si><2.se_co><3.so>No way a normal person can make it through the\n"
+"Gerudo Highlands without good snow boots...\n"
+"\n"
+"She'll probably give up halfway through and come\n"
+"crawling back...<4.re_co><5.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_20"
+msgid ""
+"<1.so>Fine, you win. So headstrong!\n"
+"I love it.\n"
+"\n"
+"I'll just be waiting here, OK?\n"
+"\n"
+"\n"
+"If you ever need me for anything above\n"
+"and beyond footwear, you just come find\n"
+"ol' Bozai anytime!"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "Talk_21"
+msgid ""
+"<1.so>I hear you! Better to think about crazy\n"
+"snow-boot quests than actually do 'em,\n"
+"am I right?\n"
+"Instead, how about you and I retire to\n"
+"someplace a bit more private and learn\n"
+"about how witty we both no doubt are?<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_22"
+msgid "<1.so>Knew it...<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: single_choice
+msgctxt "Talk_23"
+msgid ""
+"<1.so>Y-you look as b-b-b-b-<2.pa>beautiful as ever.\n"
+"\n"
+"\n"
+"If you're not doing anything, how about\n"
+"we grab a spot of sand and chitchat?<3.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Talk_24"
+msgid ""
+"<1.so>Huh? But...\n"
+"\n"
+"\n"
+"Remember <2.se_co>the sword of the eighth\n"
+"heroine<3.re_co>? Probably somewhere in the\n"
+"<4.se_co>Gerudo Highlands<5.re_co>?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_25"
+msgid ""
+"<1.so>So sorry, but proof of that sword is the\n"
+"price of these sweet snow boots."
+msgstr ""
+
+#. 1: set_colour (grey)
+#. 2: sound
+#. 3: reset_colour
+#. 4: text_size
+#. 5: set_colour (grey)
+#. 6: reset_colour
+#. 7: text_size
+#. 8: single_choice
+msgctxt "Talk_26"
+msgid ""
+"<1.se_co><2.so><3.re_co><4.te_si><5.se_co>Oh! She's wearing the sand "
+"boots!\n"
+"Advantage, Bozai...<6.re_co><7.te_si>\n"
+"\n"
+"Ah, sorry, sorry. You just look so \n"
+"precious in those sand boots.\n"
+"My mind just went POOF!\n"
+"If you'd like, why don't we grab a spot\n"
+"by a tree and get to know each other?<8.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "Talk_27"
+msgid "<1.so>Y-<2.pa>you!<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "Talk_28"
+msgid ""
+"<1.so>Urk...<2.pa> I kind of knew you'd say that...\n"
+"but would it have killed you to let me\n"
+"finish the question?<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_29"
+msgid ""
+"<1.so>Huh? But your bag is full.\n"
+"\n"
+"\n"
+"I think it's adorable that you want MORE\n"
+"boots even with so many other clothing\n"
+"options, but you need storage space.\n"
+"Come talk to me again once you've\n"
+"organized your bag, OK?\n"
+"\n"
+"<2.so>I'll be waiting!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: single_choice
+msgctxt "Talk_30"
+msgid ""
+"<1.so>I'm still so flabbergasted that the eighth\n"
+"heroine's sword actually exists...\n"
+"I can hardly believe it...\n"
+"<2.so>And you and I share this secret, along\n"
+"with so many other meaningful and\n"
+"romantic exchanges...\n"
+"We must be connected by dest—<3.si_ch>"
+msgstr ""
+
+#. 1: set_colour (grey)
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: sound
+#. 10: pause (longer)
+#. 11: sound
+#. 12: single_choice
+msgctxt "Talk_33"
+msgid ""
+"<1.se_co><2.te_si><3.so>Huh? She's not seriously considering going to\n"
+"look for it, is she? That's crazy talk.<4.te_si><5.re_co>\n"
+"\n"
+"<6.so>Well, this is just the result of my own\n"
+"deductions, but...\n"
+"\n"
+"The statue of the eighth heroine is huge,\n"
+"right? So it stands to reason that the \n"
+"sword would be too.\n"
+"That's why I think it wouldn't be possible\n"
+"for anyone to carry it far. And THAT is\n"
+"why it must be in the <7.se_co>Gerudo Highlands<8.re_co>.\n"
+"<9.so>But look, the terrain is treacherous \n"
+"enough by itself, and then you also have\n"
+"nasty monsters to deal with.\n"
+"I heard that many Gerudo don't even\n"
+"dare set foot there. The place is\n"
+"legitimately scary.<10.pa>\n"
+"<11.so>So...instead of opting for scary...\n"
+"Why don't you and I opt for romantic\n"
+"and maybe even a little risqué?<12.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_34"
+msgid "<1.so>G-good-bye..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "Talk_35"
+msgid ""
+"<1.so>Y-you look stunning today, too.\n"
+"\n"
+"\n"
+"I have to say, your insatiable craving for\n"
+"these snow boots fascinates me.\n"
+"\n"
+"But I hate the idea of you trekking in\n"
+"them out in the dangerous wilds...\n"
+"So I had a brilliant idea!\n"
+"<2.so>I could just keep the boots on and\n"
+"CARRY you around! Then you wouldn't\n"
+"need to wear them! How about it?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (longer)
+msgctxt "Talk_36"
+msgid ""
+"<1.so>Next time... <2.pa>For sure...<3.pa> We will...<4.pa>go on...<5.pa>"
+"\n"
+"a da...<6.pa>date..."
+msgstr ""
+
+msgctxt "near00"
+msgid "Next time, maximum woo!"
+msgstr ""
+

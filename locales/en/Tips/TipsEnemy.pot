@@ -1,0 +1,290 @@
+#. 1: raw
+msgctxt "EnemyBokoblin_00"
+msgid ""
+"Bokoblins<1.ra>Without much in the way of clothing to protect them, they "
+"tend to\n"
+"run when menaced by bees."
+msgstr ""
+
+#. 1: raw
+msgctxt "EnemyBokoblin_01"
+msgid ""
+"Bokoblins<1.ra>These omnivorous monsters enjoy not only meat and fish but"
+" also\n"
+"fresh fruit."
+msgstr ""
+
+#. 1: raw
+msgctxt "EnemyChuchu_00"
+msgid ""
+"Chuchus<1.ra>They will explode when attacked. Try throwing something at "
+"them\n"
+"from a safe distance."
+msgstr ""
+
+#. 1: raw
+msgctxt "EnemyGuardian_00"
+msgid ""
+"Guardians<1.ra>Guardians are ancient, highly advanced weapons, so items "
+"from the\n"
+"current age won't deal much damage. Weapons from their own era\n"
+"like ancient arrows are better suited to combat them."
+msgstr ""
+
+#. 1: raw
+msgctxt "EnemyLizalfos_00"
+msgid "Lizalfos<1.ra>As carnivores, they eat meat, fish, and even insects."
+msgstr ""
+
+#. 1: raw
+msgctxt "EnemyMoriblin_00"
+msgid ""
+"Moblins<1.ra>These large carnivores require sizable helpings of meat and "
+"fish\n"
+"to sustain their bulky frames."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_00"
+msgid ""
+"Stealth Tip<1.ra>It's harder to hear footsteps when it's raining...making"
+" it the\n"
+"perfect time to sneak up on some monsters!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_01"
+msgid ""
+"Stealth Tip<1.ra>Crouching in a grassy field makes it harder for monsters"
+" and enemies\n"
+"to detect you. Keep this in mind if you want to ambush enemies or\n"
+"avoid fighting altogether."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_02"
+msgid ""
+"Critical Hits<1.ra>Hitting a monster or enemy in the head with an arrow "
+"deals double\n"
+"the normal amount of damage."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_03"
+msgid ""
+"Horseback Battles<1.ra>When fighting on horseback, weapons with reach "
+"such as spears and\n"
+"big swords have an advantage over short swords and clubs."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_04"
+msgid ""
+"Battle Tip<1.ra>The difference between winning and losing a battle often "
+"comes down\n"
+"to strategy. With the right tactics, you may be able to defeat an entire\n"
+"group of enemies at once."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_05"
+msgid ""
+"Battle Tip<1.ra>Monsters sometimes leave their weapons lying around their"
+" camp.\n"
+"Sneaking up and stealing these items will make defeating them\n"
+"much easier!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_06"
+msgid ""
+"Ice Arrows<1.ra>If you find yourself surrounded by an overwhelming number"
+" of\n"
+"enemies, try using ice arrows to freeze them in their tracks."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_07"
+msgid ""
+"Fire Arrows<1.ra>Use fire arrows to burn dry grass and defeat multiple "
+"enemies\n"
+"at the same time."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_08"
+msgid ""
+"Shock Arrows<1.ra>Shoot shock arrows into water or metallic objects to "
+"electrify\n"
+"enemies and monsters."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_09"
+msgid ""
+"Battle Tip<1.ra>Monsters on the lookout in watchtowers will sound the "
+"alarm if they\n"
+"spot you. Defeat these foes first before they alert the others."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_10"
+msgid ""
+"Battle Tip<1.ra>If an enemy camp has multiple levels, each packed with "
+"monsters,\n"
+"consider using the paraglider to sneak your way to the top."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_11"
+msgid ""
+"Battle Tip<1.ra>Using Magnesis to toss metal objects into a camp full of "
+"monsters\n"
+"is a great way to do some damage."
+msgstr ""
+
+#. 1: raw
+#. 2: icon
+msgctxt "Tactics_12"
+msgid ""
+"Battle Tip<1.ra>Monsters have a harder time detecting you if you press "
+"<2.ic>\n"
+"to crouch and quietly approach them."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_13"
+msgid ""
+"Battle Tip<1.ra>Monsters need their beauty rest too. If you see a group "
+"of monsters\n"
+"sleeping, use that opportunity to sneak-attack them!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_14"
+msgid ""
+"Bomb Barrels<1.ra>Shoot a fire arrow into a bomb barrel to make it "
+"explode.\n"
+"Tossing a burning weapon at one works too."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_15"
+msgid ""
+"Electric Chuchus<1.ra>When you attack Electric Chuchus, they explode in a"
+" burst of sparks.\n"
+"Use this to your advantage to shock nearby monsters."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_16"
+msgid ""
+"Fire Chuchus<1.ra>When you attack Fire Chuchus, they explode and start a "
+"fire.\n"
+"Use this to your advantage to turn up the heat on nearby monsters."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_17"
+msgid ""
+"Ice Chuchus<1.ra>When you attack Ice Chuchus, they explode in a burst of "
+"frost.\n"
+"Use this to your advantage to put nearby monsters on ice."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_18"
+msgid ""
+"Critical Hits<1.ra>Weapons that you have no use for are perfect for "
+"throwing\n"
+"at monsters. If one hits, it will deal double damage."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_19"
+msgid ""
+"Battle Tip<1.ra>If the foe you're fighting is too powerful, train "
+"yourself up! You can\n"
+"start by finding a stronger weapon or collecting Spirit Orbs\n"
+"to get more hearts or increase your Stamina Wheel."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_20"
+msgid ""
+"Electric Lizalfos<1.ra>If you hit an Electric Lizalfos's horn with an "
+"arrow, it will discharge\n"
+"a massive electric shock."
+msgstr ""
+
+#. 1: raw
+#. 2: icon
+msgctxt "Tactics_21"
+msgid ""
+"Horseback Battles<1.ra>When fighting on horseback, use <2.ic> to focus "
+"your attention,\n"
+"making it easier to aim."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_22"
+msgid ""
+"Battle Tip<1.ra>If a monster is hiding behind a shield, you can bat the "
+"shield away\n"
+"by hitting it with a heavy sword or axe."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_23"
+msgid ""
+"Elemental Weaknesses<1.ra>If you use a fiery attack against an icy enemy,"
+" you may defeat it\n"
+"in one hit."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_24"
+msgid ""
+"Elemental Weaknesses<1.ra>If you use an icy attack against a fiery enemy,"
+" you may defeat it\n"
+"in one hit."
+msgstr ""
+
+#. 1: raw
+msgctxt "Tactics_25"
+msgid ""
+"Perfect Dodge<1.ra>If you backflip or side hop away from a monster's "
+"attack at just the\n"
+"right moment, you will be rewarded with a chance to let loose\n"
+"with a flurry of attacks."
+msgstr ""
+
+#. 1: raw
+#. 2: icon
+msgctxt "Tactics_26"
+msgid ""
+"Perfect Guard<1.ra>When equipped with a shield, if you press <2.ic> to "
+"deflect a monster's\n"
+"attack at just the right moment, you will be rewarded with a chance to\n"
+"counter the attack."
+msgstr ""
+
+#. 1: raw
+#. 2: icon
+msgctxt "Tactics_27"
+msgid ""
+"Charged Attack<1.ra>You can ready a charged attack by holding <2.ic>. "
+"Doing so depletes\n"
+"your stamina, so be sure to time your attack carefully."
+msgstr ""
+
+#. 1: raw
+#. 2: icon
+msgctxt "Tactics_28"
+msgid ""
+"Jump Slash<1.ra>Perform a jump slash by pressing <2.ic> after jumping or "
+"while in the\n"
+"air. The shock wave created when you hit the ground can affect\n"
+"nearby monsters."
+msgstr ""
+

@@ -1,0 +1,260 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Desc"
+msgid ""
+"Hudson, Bolson Construction's veteran\n"
+"carpenter, has departed for the <1.se_co>Akkala<2.re_co>\n"
+"region to expand the business.\n"
+"\n"
+"Akkala is far to the north of Hateno Village.\n"
+"If you happen to be passing by, stop in and\n"
+"pay <3.se_co>Hudson<4.re_co> a visit."
+msgstr ""
+
+msgctxt "QL_UMiiMini_MakeVillage_Finish"
+msgid ""
+"Hudson and Rhondson are happily married, and\n"
+"Tarrey Town is enjoying great prosperity.\n"
+"\n"
+"As a sign of appreciation for bringing the town\n"
+"together and as compensation for your work,\n"
+"Hudson gave you a hefty amount of gems that\n"
+"were unearthed during the town's construction.\n"
+"\n"
+"You wished the couple eternal happiness before\n"
+"heading on your way."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Invite01"
+msgid ""
+"Greyson the Goron has moved to Tarrey Town,\n"
+"and his younger brother Pelison tagged along\n"
+"for the ride.\n"
+"\n"
+"Pay the town a visit to make sure they\n"
+"arrived safely, and check in with <1.se_co>Hudson<2.re_co>\n"
+"while you're there."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Invite02"
+msgid ""
+"A Gerudo by the name of Rhondson has moved\n"
+"to Tarrey Town.\n"
+"\n"
+"Pay the town a visit to make sure she arrived\n"
+"safely. Check in with <1.se_co>Hudson <2.re_co>while you're there."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Invite03"
+msgid ""
+"A Rito by the name of Fyson has moved to\n"
+"Tarrey Town to run the general store.\n"
+"\n"
+"Pay the town a visit to make sure he arrived\n"
+"safely, and check in with <1.se_co>Hudson <2.re_co>while\n"
+"you're there."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Invite04"
+msgid ""
+"A former Zora priest by the name of Kapson\n"
+"has moved to Tarrey Town!\n"
+"\n"
+"Pay the town a visit to make sure he arrived\n"
+"safely and to see what other shenanigans\n"
+"<1.se_co>Hudson <2.re_co>has been up to. There's always\n"
+"something going on with that guy!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Invite05"
+msgid ""
+"Bolson and Karson departed for Tarrey Town.\n"
+"\n"
+"All that's left now is to return to the town\n"
+"yourself and enjoy Hudson and Rhondson's\n"
+"wedding ceremony!\n"
+"\n"
+"Head back to the town and look for <1.se_co>Hudson<2.re_co>."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_LookFor01"
+msgid ""
+"You brought Hudson enough wood to get him\n"
+"started, but now he needs to break the boulders\n"
+"scattered across the future site of Tarrey Town.\n"
+"He's asked you to find a <1.se_co>Goron <2.re_co>strong enough\n"
+"to help out.\n"
+"\n"
+"According to the Bolson Construction hiring\n"
+"guidelines, you need to seek out <3.se_co>a Goron\n"
+"whose name ends in \"son.\"<4.re_co> The guidelines are\n"
+"unusually specific about this."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_LookFor02"
+msgid ""
+"You delivered more wood to Hudson.\n"
+"\n"
+"But now he needs someone who can mend his\n"
+"work clothes. He wants you to find a <1.se_co>Gerudo<2.re_co>\n"
+"skilled at sewing, but remember the stipulation\n"
+"in the Bolson Construction hiring guidelines:\n"
+"the <3.se_co>Gerudo's name must end in \"son.\"<4.re_co>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_LookFor03"
+msgid ""
+"You brought Hudson more wood.\n"
+"\n"
+"His next goal is to open up a general store and\n"
+"trade routes, and he thinks a <1.se_co>Rito <2.re_co>merchant\n"
+"would be perfect for the job.\n"
+"\n"
+"Find a Rito with the know-how to manage a\n"
+"shop and the connections to set up trade,\n"
+"and of course, make sure <3.se_co>his or her name\n"
+"ends in \"son.\"<4.re_co>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_LookFor04"
+msgid ""
+"You brought Hudson enough wood!\n"
+"\n"
+"And now, as it turns out, Hudson is engaged to\n"
+"Rhondson! Can you believe it?\n"
+"\n"
+"They want to hold a ceremony, so he wants you\n"
+"to find a <1.se_co>Zora <2.re_co>who can officiate. Even though\n"
+"this Zora technically won't be working for\n"
+"Hudson's company, he would be much more\n"
+"comfortable if the <3.se_co>Zora's name ended in \"son.\"<4.re_co>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_LookFor05"
+msgid ""
+"Kapson, a Zora and former priest, arrived safely\n"
+"in Tarrey Town and began making preparations\n"
+"for the wedding ceremony.\n"
+"\n"
+"Hudson wants to invite Bolson and Karson to\n"
+"his wedding, but he's too busy with preparations\n"
+"of his own. Go to <1.se_co>Hateno Village <2.re_co>to invite "
+"<3.se_co>Bolson\n"
+"and Karson<4.re_co>."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Marry"
+msgid ""
+"Hudson and Rhondson's wedding was a shining\n"
+"beacon in an otherwise dark, dangerous world.\n"
+"\n"
+"Rhondson was a little taken aback by a few of\n"
+"the vows, but everything worked out fine and is\n"
+"in perfect compliance with Bolson Construction's\n"
+"guidelines.\n"
+"\n"
+"It's only polite to give your blessing to the lovely\n"
+"couple who just vowed their undying love, so go\n"
+"talk to <1.se_co>Hudson<2.re_co>."
+msgstr ""
+
+msgctxt "QL_UMiiMini_MakeVillage_Name"
+msgid "From the Ground Up"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Wood01"
+msgid ""
+"You bumped into Hudson in the Akkala region,\n"
+"and it sounds like he plans on building a town\n"
+"there as a part of Bolson Construction's\n"
+"expansion. He even has a name picked out—it\n"
+"will be known as Tarrey Town. That said, he is\n"
+"missing a few things required to make a town.\n"
+"\n"
+"You know, small things—like lumber.\n"
+"\n"
+"Bring him <1.se_co>10 bundles of wood<2.re_co> to get\n"
+"him started."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Wood02"
+msgid ""
+"Greyson and Pelison arrived safely in\n"
+"Tarrey Town and got right to work. Greyson\n"
+"is breaking apart the boulders, and Pelison\n"
+"is selling the ore they find within.\n"
+"\n"
+"Hudson wants to build some more buildings, but\n"
+"he needs more material. <1.se_co>Twenty bundles of\n"
+"wood<2.re_co> should hold him over for this next bunch\n"
+"of buildings."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Wood03"
+msgid ""
+"Rhondson arrived safely in Tarrey Town and got\n"
+"right to work. She is not only mending work\n"
+"clothes—she also opened up an armor shop!\n"
+"\n"
+"Hudson wants to build more buildings, but he's\n"
+"run out of materials once again.\n"
+"\n"
+"Another <1.se_co>30 bundles of wood <2.re_co>should cover\n"
+"him for now."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_UMiiMini_MakeVillage_Wood04"
+msgid ""
+"Fyson arrived safely in Tarrey Town and put\n"
+"the experience he gained from running his\n"
+"family's shop to good use. He opened up a\n"
+"general store!\n"
+"\n"
+"Hudson wants to build another batch of\n"
+"buildings, but he needs more material.\n"
+"\n"
+"Bring him another <1.se_co>50 bundles of wood<2.re_co>."
+msgstr ""
+

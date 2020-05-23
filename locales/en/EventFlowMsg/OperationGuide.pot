@@ -1,0 +1,360 @@
+msgctxt "Guide_Attack"
+msgid "Use Weapon"
+msgstr ""
+
+msgctxt "Guide_Attack_Msg"
+msgid "Attack with your equipped weapon."
+msgstr ""
+
+msgctxt "Guide_Attention"
+msgid "Lock on"
+msgstr ""
+
+msgctxt "Guide_Attention_Msg"
+msgid "Effective for targeting."
+msgstr ""
+
+msgctxt "Guide_Attention_Sub00"
+msgid "Press and hold"
+msgstr ""
+
+msgctxt "Guide_BackStep"
+msgid "Backflip"
+msgstr ""
+
+msgctxt "Guide_BackStep_Msg"
+msgid "Dodge enemy attacks by flipping backward."
+msgstr ""
+
+msgctxt "Guide_BackStep_Sub00"
+msgid "Target enemy"
+msgstr ""
+
+msgctxt "Guide_BackStep_Sub01"
+msgid "Backpedal"
+msgstr ""
+
+msgctxt "Guide_BackStep_Sub02"
+msgid "Jump"
+msgstr ""
+
+msgctxt "Guide_Bow"
+msgid "Attack with Bow"
+msgstr ""
+
+msgctxt "Guide_Bow_Msg"
+msgid "Equip a bow to attack enemies from afar."
+msgstr ""
+
+msgctxt "Guide_Bow_Sub00"
+msgid "Draw bow"
+msgstr ""
+
+msgctxt "Guide_Bow_Sub01"
+msgid "Release to fire"
+msgstr ""
+
+msgctxt "Guide_GurdJust"
+msgid "Perfect Guard"
+msgstr ""
+
+msgctxt "Guide_GurdJust_Msg"
+msgid "Parry at the right time to knock an enemy back."
+msgstr ""
+
+msgctxt "Guide_GurdJust_Sub00"
+msgid "Ready shield"
+msgstr ""
+
+msgctxt "Guide_GurdJust_Sub01"
+msgid "Parry"
+msgstr ""
+
+msgctxt "Guide_ItemUse"
+msgid "Use Rune"
+msgstr ""
+
+msgctxt "Guide_ItemUse_Msg"
+msgid "Use selected rune from your Sheikah Slate."
+msgstr ""
+
+msgctxt "Guide_JumpAtack"
+msgid "Jump Slash"
+msgstr ""
+
+msgctxt "Guide_JumpAtack_Msg"
+msgid "Attack from above and do splash damage."
+msgstr ""
+
+msgctxt "Guide_JumpAtack_Sub00"
+msgid "In midair"
+msgstr ""
+
+msgctxt "Guide_PadMenu"
+msgid "Check Sheikah Slate"
+msgstr ""
+
+msgctxt "Guide_PadMenu_Msg"
+msgid "Access your Sheikah Slate."
+msgstr ""
+
+msgctxt "Guide_Pause"
+msgid "Open Inventory"
+msgstr ""
+
+msgctxt "Guide_Pause_Msg"
+msgid "Equip weapons, armor, and other gear here."
+msgstr ""
+
+msgctxt "Guide_Quest"
+msgid "Open Adventure Log"
+msgstr ""
+
+msgctxt "Guide_Quest_Msg"
+msgid "Your adventures will be detailed here."
+msgstr ""
+
+msgctxt "Guide_SandSeal"
+msgid "Sand-Seal Surfing"
+msgstr ""
+
+msgctxt "Guide_SandSeal_Msg"
+msgid "You will need to equip a shield before riding."
+msgstr ""
+
+msgctxt "Guide_SandSeal_Sub00"
+msgid "Steer"
+msgstr ""
+
+msgctxt "Guide_SandSeal_Sub01"
+msgid "Let go"
+msgstr ""
+
+msgctxt "Guide_SandSeal_Sub02"
+msgid "Dash"
+msgstr ""
+
+msgctxt "Guide_Scope"
+msgid "The Scope and Pins"
+msgstr ""
+
+msgctxt "Guide_Scope_Msg"
+msgid "View distant things and mark them with pins."
+msgstr ""
+
+msgctxt "Guide_Scope_Sub00"
+msgid "Press"
+msgstr ""
+
+msgctxt "Guide_Scope_Sub01"
+msgid "Place a pin"
+msgstr ""
+
+msgctxt "Guide_Shield"
+msgid "Raise Your Shield"
+msgstr ""
+
+msgctxt "Guide_Shield_Msg"
+msgid "Block when using a one-handed weapon."
+msgstr ""
+
+msgctxt "Guide_Shield_Sub00"
+msgid "Press and hold"
+msgstr ""
+
+msgctxt "Guide_ShortCutArrow"
+msgid "Change Arrows"
+msgstr ""
+
+msgctxt "Guide_ShortCutArrow_Msg"
+msgid "You can switch arrows quickly."
+msgstr ""
+
+msgctxt "Guide_ShortCutArrow_Sub00"
+msgid "Draw bow"
+msgstr ""
+
+msgctxt "Guide_ShortCutArrow_Sub01"
+msgid "Press and hold"
+msgstr ""
+
+msgctxt "Guide_ShortCutArrow_Sub02"
+msgid "Switch"
+msgstr ""
+
+msgctxt "Guide_ShortCutBow"
+msgid "Change Bow"
+msgstr ""
+
+msgctxt "Guide_ShortCutBow_Msg"
+msgid "You can switch bows quickly."
+msgstr ""
+
+msgctxt "Guide_ShortCutBow_Sub00"
+msgid "Draw bow"
+msgstr ""
+
+msgctxt "Guide_ShortCutBow_Sub01"
+msgid "Press and hold"
+msgstr ""
+
+msgctxt "Guide_ShortCutBow_Sub02"
+msgid "Switch"
+msgstr ""
+
+msgctxt "Guide_ShortCutItem"
+msgid "Change Runes"
+msgstr ""
+
+msgctxt "Guide_ShortCutItem_Msg"
+msgid "You can switch runes quickly."
+msgstr ""
+
+msgctxt "Guide_ShortCutItem_Sub00"
+msgid "Press and hold"
+msgstr ""
+
+msgctxt "Guide_ShortCutItem_Sub01"
+msgid "Switch"
+msgstr ""
+
+msgctxt "Guide_ShortCutShield"
+msgid "Change Shield"
+msgstr ""
+
+msgctxt "Guide_ShortCutShield_Msg"
+msgid "You can switch shields quickly."
+msgstr ""
+
+msgctxt "Guide_ShortCutShield_Sub00"
+msgid "Press and hold"
+msgstr ""
+
+msgctxt "Guide_ShortCutShield_Sub01"
+msgid "Switch"
+msgstr ""
+
+msgctxt "Guide_ShortCutSword"
+msgid "Change Weapon"
+msgstr ""
+
+msgctxt "Guide_ShortCutSword_Msg"
+msgid "You can switch weapons quickly."
+msgstr ""
+
+msgctxt "Guide_ShortCutSword_Sub00"
+msgid "Press and hold"
+msgstr ""
+
+msgctxt "Guide_ShortCutSword_Sub01"
+msgid "Switch"
+msgstr ""
+
+msgctxt "Guide_SideStep"
+msgid "Side Hop"
+msgstr ""
+
+msgctxt "Guide_SideStep_Msg"
+msgid "Dodge enemy attacks by hopping sideways."
+msgstr ""
+
+msgctxt "Guide_SideStep_Sub00"
+msgid "Target enemy"
+msgstr ""
+
+msgctxt "Guide_SideStep_Sub01"
+msgid "Strafe"
+msgstr ""
+
+msgctxt "Guide_SideStep_Sub02"
+msgid "Jump"
+msgstr ""
+
+msgctxt "Guide_SpinAtack"
+msgid "Charged Attacks"
+msgstr ""
+
+msgctxt "Guide_SpinAtack_Msg"
+msgid "Prepare and unleash a powerful attack."
+msgstr ""
+
+msgctxt "Guide_SpinAtack_Sub00"
+msgid "Build power"
+msgstr ""
+
+msgctxt "Guide_SpinAtack_Sub01"
+msgid "Release"
+msgstr ""
+
+msgctxt "Guide_Squat"
+msgid "Crouch"
+msgstr ""
+
+msgctxt "Guide_Squat_Msg"
+msgid "Allows you to move quietly."
+msgstr ""
+
+msgctxt "Guide_Squat_Sub00"
+msgid "Press"
+msgstr ""
+
+msgctxt "Guide_Surfing"
+msgid "Shield Surf"
+msgstr ""
+
+msgctxt "Guide_Surfing_Msg"
+msgid "Hop on your shield and slide down hills."
+msgstr ""
+
+msgctxt "Guide_Surfing_Sub00"
+msgid "Guard"
+msgstr ""
+
+msgctxt "Guide_Surfing_Sub01"
+msgid "Jump"
+msgstr ""
+
+msgctxt "Guide_Surfing_Sub02"
+msgid "Ride"
+msgstr ""
+
+msgctxt "Guide_SystemMenu"
+msgid "Open System Menu"
+msgstr ""
+
+msgctxt "Guide_SystemMenu_Msg"
+msgid "Check controls, save, or adjust game options."
+msgstr ""
+
+msgctxt "Guide_Throw"
+msgid "Throw Weapon"
+msgstr ""
+
+msgctxt "Guide_Throw_Msg"
+msgid "You can throw the weapon in your hand."
+msgstr ""
+
+msgctxt "Guide_Throw_Sub00"
+msgid "Aim (Hold)"
+msgstr ""
+
+msgctxt "Guide_Throw_Sub01"
+msgid "Throw (Release)"
+msgstr ""
+
+msgctxt "Guide_Whistle"
+msgid "Whistle"
+msgstr ""
+
+msgctxt "Guide_Whistle_Msg"
+msgid "Call your horse or other companion to you."
+msgstr ""
+
+msgctxt "Guide_amiibo"
+msgid "Use amiibo"
+msgstr ""
+
+msgctxt "Guide_amiibo_Msg"
+msgid "Touch an amiibo to the NFC touchpoint."
+msgstr ""
+

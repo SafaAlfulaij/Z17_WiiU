@@ -1,0 +1,22 @@
+#. 1: animation
+msgctxt "Talk02"
+msgid ""
+"<1.an>Associated locations have been marked\n"
+"on the map."
+msgstr ""
+
+#. 1: animation
+msgctxt "Talk03"
+msgid ""
+"<1.an>Take hold of the provided weapon\n"
+"to begin the trial."
+msgstr ""
+
+#. 1: animation
+msgctxt "Talk05"
+msgid ""
+"<1.an>Sheikah Slate and Champion verification\n"
+"complete. Activating the Divine Beast\n"
+"Tamer's Trial."
+msgstr ""
+

@@ -1,0 +1,61 @@
+msgctxt "Near000"
+msgid "When the moon bleeds..."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+msgctxt "Text004"
+msgid ""
+"<1.au_ad><2.ra>When the moon bleeds and the fiends\n"
+"are reborn / The monks will invite you\n"
+"as they have sworn."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+msgctxt "Text005"
+msgid ""
+"<1.au_ad><2.ra>But first you must stand on the pedestal\n"
+"bare /<3.pa> With nothing between you and\n"
+"the night air."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: sound
+msgctxt "Text006"
+msgid ""
+"<1.so>Hmm. <2.pa>\"<3.se_co>When the moon bleeds<4.re_co>...\"<5.pa>\n"
+"I wonder what that means.\n"
+"\n"
+"<6.so>May the light illuminate your path."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Text007"
+msgid ""
+"<1.so>Oh? Excuse me.\n"
+"Was that a bit rough on the ears?<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+#. 5: sound
+msgctxt "Text008"
+msgid ""
+"<1.so>Oh!<2.pa> It seems you've already figured it\n"
+"out.\n"
+"\n"
+"<3.so>I am truly impressed,<4.pa> but I cannot shake\n"
+"this sense of foreboding. \n"
+"\n"
+"<5.so>Please do stay safe on your travels."
+msgstr ""
+

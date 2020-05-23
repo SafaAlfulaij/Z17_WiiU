@@ -1,0 +1,137 @@
+#. 1: raw
+msgctxt "Demo104_0_Text039"
+msgid ""
+"That is the weapon created by the ancient Goddess.<1.ra>The sword that "
+"seals the darkness—that only the\n"
+"chosen knight can wield against the Calamity Ganon."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo104_0_Text041"
+msgid "Hrm?<1.ra>Well, well...it's you. <2.ra>You finally decided to return."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo104_0_Text042"
+msgid ""
+"Better late than never. <1.ra>After 100 years, I'd nearly given up\n"
+"hope on seeing you again. <2.ra>Even my patience has limits, you know..."
+msgstr ""
+
+msgctxt "Demo104_0_Text043"
+msgid ""
+"That look on your face tells me that you have no\n"
+"recollection of me, however."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo104_0_Text044"
+msgid ""
+"I have watched over Hyrule since time immemorial.<1.ra>Many have referred"
+" to me over the ages\n"
+"as the Deku Tree."
+msgstr ""
+
+msgctxt "Demo104_0_Text045"
+msgid ""
+"Believe it or not...it was actually you who wielded\n"
+"that sword 100 years ago."
+msgstr ""
+
+msgctxt "Demo104_0_Text047"
+msgid ""
+"As you are now, I cannot say whether you are \n"
+"worthy or not..."
+msgstr ""
+
+msgctxt "Demo104_0_Text048"
+msgid ""
+"If you sought to free the sword in any sort of\n"
+"weakened state, you would surely lose your life\n"
+"where you stand."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo104_0_Text049"
+msgid "<1.ra>Best of luck, young one..."
+msgstr ""
+
+msgctxt "Demo104_0_Text050"
+msgid " "
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo104_0_Text051"
+msgid "Who is that...?<1.ra>Did I doze off again?"
+msgstr ""
+
+msgctxt "Demo104_0_Text052"
+msgid "But I must warn you to take extreme caution."
+msgstr ""
+
+msgctxt "Demo104_0_Text053"
+msgid ""
+"The sword stands as a test to anyone who would\n"
+"dare attempt to possess it."
+msgstr ""
+
+msgctxt "Demo104_0_Text054"
+msgid ""
+"?\n"
+"※As in 「Hm? What's going on?」"
+msgstr ""
+
+msgctxt "Demo104_0_Text055"
+msgid "「Who is it?」"
+msgstr ""
+
+msgctxt "Demo104_0_Text056"
+msgid "「Someone we know?」"
+msgstr ""
+
+msgctxt "Demo104_0_Text057"
+msgid "*laughter*"
+msgstr ""
+
+msgctxt "Demo104_0_Text058"
+msgid "*laughter*"
+msgstr ""
+
+msgctxt "Demo104_0_Text059"
+msgid "Pulling out→Struggling voice"
+msgstr ""
+
+msgctxt "Demo104_0_Text060"
+msgid "When pulling out right side→Cheering on 1 (Not too noisy)"
+msgstr ""
+
+msgctxt "Demo104_0_Text061"
+msgid "The moment the hands leave the sword→takes damage"
+msgstr ""
+
+msgctxt "Demo104_0_Text062"
+msgid "When pulling out right side→Cheering on 2 (Not too noisy)"
+msgstr ""
+
+msgctxt "Demo104_0_Text063"
+msgid "Wobbling then falling down→Weak voice cries out then cut short"
+msgstr ""
+
+msgctxt "Demo104_0_Text064"
+msgid "01 falls down→Tremble like \"Kyuwawawa!\""
+msgstr ""
+
+msgctxt "Demo104_0_Text065"
+msgid "Laughing voice as flying away"
+msgstr ""
+
+msgctxt "Demo104_0_Text066"
+msgid "Laughing voice as flying away"
+msgstr ""
+
+msgctxt "Demo104_0_Text067"
+msgid "When pulling out right side→Cheering on 3 (Not too noisy)"
+msgstr ""
+

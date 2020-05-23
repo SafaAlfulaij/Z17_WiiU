@@ -1,0 +1,782 @@
+msgctxt "0000"
+msgid "I'm buying."
+msgstr ""
+
+msgctxt "0001"
+msgid "I'm selling."
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "5500"
+msgid "Yes."
+msgstr ""
+
+msgctxt "5501"
+msgid "No."
+msgstr ""
+
+msgctxt "5502"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "5503"
+msgid "On second thought..."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "5508"
+msgid "All of them."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>Are those terrible monsters gone?<2.pa>\n"
+"Are they?<3.pa> Really? Truly?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Atacked01"
+msgid ""
+"<1.so>What you don't know about me is...<2.pa>\n"
+"I'm a pacifist..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_00"
+msgid "<1.so>What would you like to sell me?"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_01"
+msgid ""
+"Well, I'll give you <1.se_co><2.va> rupees<3.re_co>.\n"
+"How does that suit you?<4.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_02"
+msgid ""
+"<1.so>A pleasure doing business with you!<2.pa>\n"
+"Anything else?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02b"
+msgid "<1.so>Wonderful, wonderful!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02c"
+msgid "<1.so>Thank you so much!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02d"
+msgid "<1.so>Thank you, my valued customer!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_04"
+msgid "<1.so>Very well."
+msgstr ""
+
+msgctxt "Com_Talk_05"
+msgid "I'll gladly buy whatever you have to sell."
+msgstr ""
+
+msgctxt "Com_Talk_05b"
+msgid "I'm none too picky about what I'll buy."
+msgstr ""
+
+msgctxt "Com_Talk_05c"
+msgid ""
+"Whatever you sell me, I'll simply pack\n"
+"onto my dear donkey here and sell\n"
+"somewhere else!"
+msgstr ""
+
+msgctxt "Com_Talk_05d"
+msgid ""
+"I'd be ever so grateful if you'd sell me\n"
+"something, my friend. I'm sure I'll find\n"
+"a willing buyer somewhere."
+msgstr ""
+
+msgctxt "Com_Talk_06"
+msgid "And what would you like to buy?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_07"
+msgid ""
+"<1.so>Oh, sorry!<2.pa> I could have sworn I had\n"
+"more, but I seem to be sold out of that."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Com_Talk_08"
+msgid ""
+"<1.so>Oh, dear. What a pity...<2.pa> You don't seem\n"
+"to have enough money.<3.pa> Why don't you\n"
+"run along and earn a little more?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Com_Talk_09"
+msgid ""
+"<1.so>Oh, dear. What a pity...<2.pa> Your inventory is\n"
+"full!<3.pa> You'll just have to sell me\n"
+"something. Or perhaps throw it away?"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_10"
+msgid ""
+"You want that? You know I don't do\n"
+"refunds, right?<1.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11"
+msgid "<1.so>Thank you!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11b"
+msgid "<1.so>I am MOST appreciative."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11c"
+msgid "<1.so>Thank you for your business."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11d"
+msgid "<1.so>Thank you, dear patron!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Com_Talk_12"
+msgid ""
+"<1.so>Fresh meat and vegetables!<2.pa> Straight from\n"
+"Kakariko Village! Only the best for you!<3.pa>\n"
+"Take your time, and have a good look."
+msgstr ""
+
+#. 1: pause (long)
+#. 2: choice
+msgctxt "Com_Talk_13"
+msgid ""
+"Ah, very well.<1.pa> And how many did you\n"
+"want to sell me?<2.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: pause (long)
+#. 3: text_size
+#. 4: set_colour (red)
+#. 5: variable (ShopTradePrice)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"Let me see, let me see...<1.te_si><2.pa>\n"
+"Oh, math is such a bother.<3.te_si>\n"
+"I'll give you a total of <4.se_co><5.va> rupees<6.re_co>.<7.pa> OK?<8.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_15"
+msgid ""
+"<1.so>I'm afraid you've caught me in a lie.<2.pa>\n"
+"That, my entrepreneurial friend, is\n"
+"something I simply cannot buy from you."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>Oh, my...<2.pa> Well, I do appreciate a good\n"
+"joke,<3.pa> but I can't exactly buy the clothes\n"
+"right off your back."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Com_Talk_20"
+msgid ""
+"<1.so>Weather like this is bad for business.<2.pa>\n"
+"Only one thing for it.<3.pa> I must break out\n"
+"my top-quality meats and mushrooms!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "Com_Talk_30"
+msgid ""
+"That comes to a total of <1.se_co><2.va> rupees<3.re_co>.<4.pa>\n"
+"That's quite reasonable, yes?<5.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: choice
+msgctxt "Com_Talk_31"
+msgid ""
+"Ah, a stupendous choice, my friend.\n"
+"You have a good eye for quality.<1.pa> And\n"
+"how many?<2.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_33"
+msgid ""
+"Just one? Well, that does make the math\n"
+"easier.<1.pa> That comes to <2.se_co><3.va> rupees<4.re_co>.\n"
+"Do we have a deal?<5.ch>"
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_34"
+msgid ""
+"You want all of them? Why, I might close\n"
+"up shop early today!<1.pa> That's <2.se_co><3.va> \n"
+"rupees<4.re_co>. Will that be all right?<5.ch>"
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"All of them? Do you know something I\n"
+"don't know?<1.pa> That'll come to a total of\n"
+"<2.se_co><3.va> rupees<4.re_co>. Do we have a deal?<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+msgctxt "Com_Talk_36"
+msgid ""
+"<1.so>Well, that's everything.<2.pa> Thank you for\n"
+"being such an...enthusiastic customer!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Com_Talk_37"
+msgid ""
+"<1.so>I'm afraid I don't have anything left to\n"
+"sell!<2.pa> I'll be happy to show you what I've\n"
+"got on order, if you like.<3.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "Com_Talk_56"
+msgid "That will be <1.se_co><2.va> rupees<3.re_co>.<4.pa> Sound good?<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>Monsters truly are, well, monstrous,\n"
+"aren't they..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed01"
+msgid ""
+"<1.so>Oh, I really am not altogether too\n"
+"fond of monsters..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "GoodBye00"
+msgid "<1.so>Sure, sure. <2.pa>Maybe later, then."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: text_size
+#. 7: text_size
+msgctxt "Guardian00"
+msgid ""
+"<1.so>Whoa! <2.pa>A <3.se_co>Guardian<4.re_co>!<5.pa>\n"
+"<6.te_si>Oh, no! Why did I yell...<7.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "MSG_Rane_00"
+msgid ""
+"<1.so>...There, there, my devoted donkey.<2.pa>\n"
+"Looks like I have company, so why don't\n"
+"you sit there and be patient a moment.\n"
+"Later on, we can go to Kakariko Village<3.pa>\n"
+"and find you some yummy carrots to eat,\n"
+"so don't you worry."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "MSG_Rane_00_1"
+msgid ""
+"<1.so>Darling donkey,<2.pa> later on, we can go to \n"
+"Kakariko Village<3.pa> and find you some\n"
+"yummy carrots to eat."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Rane_00_2"
+msgid ""
+"<1.so>...Now what have we here?<2.pa> Could you\n"
+"be that most delightful of sights...a\n"
+"customer?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Rane_01"
+msgid ""
+"<1.so>My delightful donkey,<2.pa> you've done such\n"
+"good work! You get a yummy reward, in\n"
+"the form of a vegetal treat!"
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Rane_01_1"
+msgid ""
+"<1.so>Very well, my darling donkey. I shall\n"
+"give you a vegetal delight."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "MSG_Rane_01_2"
+msgid ""
+"<1.so>Oh!<2.pa> But perhaps it would be better\n"
+"to sell them<3.pa> to a paying customer,\n"
+"of course..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "MSG_Rane_02"
+msgid ""
+"<1.so>Indubitably.<2.pa> You would want to head east\n"
+"from here for Kakariko Village<3.pa> and west\n"
+"for the Riverside Stable.<4.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Rane_02_1"
+msgid ""
+"<1.so>Head east for Kakariko Village<2.pa> and west\n"
+"for the Riverside Stable. Isn't that right,\n"
+"my esteemed equine?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Rane_02_2"
+msgid "<1.so>Isn't that right,<2.pa> O donkey, my donkey!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Rane_02_3"
+msgid ""
+"<1.so>Oh, dear.<2.pa> You weren't asking for \n"
+"directions?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "MSG_Rane_03"
+msgid ""
+"<1.so>You must understand, <2.pa>there are two key\n"
+"components to cooking:<3.pa> heating the food\n"
+"evenly and...not putting any bugs in it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Rane_03_1"
+msgid ""
+"<1.so>The trick to proper cooking is even heat<2.pa>\n"
+"and no bugs. Isn't that right, my finicky\n"
+"friend?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Rane_03_2"
+msgid ""
+"<1.so>You understand, don't you, donkey?<2.pa>\n"
+"Of course you do. You understand me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Rane_03_3"
+msgid ""
+"<1.so>Oh, dear.<2.pa> You...weren't asking for\n"
+"cooking tips?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "MSG_Rane_04"
+msgid ""
+"<1.so>Well, my dedicated donkey, it looks like\n"
+"we've finally reached Kakariko Village.<2.pa>\n"
+"I'm anxious to open shop, but first...\n"
+"A little dinner for my darling donkey.<3.pa>\n"
+"Some veggies, rock salt, and milk make\n"
+"for a delightful veggie cream soup."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Rane_04_1"
+msgid ""
+"<1.so>Now that we've reached Kakariko Village,\n"
+"I'll use some rock salt and milk to make\n"
+"some veggie cream soup for my donkey."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>Get along, li'l donkey..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near01"
+msgid "<1.so>Love my donkey."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near02"
+msgid "<1.so>Me an' donkey."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near03"
+msgid "<1.so>Travelin' with my donkey."
+msgstr ""
+
+msgctxt "Near04"
+msgid "My donkey's getting wet..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: sound
+msgctxt "Rest_00"
+msgid ""
+"<1.so>Now, it's a long story, but<2.pa> the way my\n"
+"donkey and I met...<3.pa> Well...\n"
+"\n"
+"<4.so>I couldn't possibly do justice to it, so\n"
+"never you mind."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: sound
+#. 5: pause (short)
+msgctxt "Rest_01"
+msgid ""
+"<1.so>It brings a tear to my eye, just thinking\n"
+"about the circumstances<2.pa> that brought me\n"
+"and my devoted donkey together.<3.pa>\n"
+"<4.so>Oh, don't you mind my woolgathering.<5.pa>\n"
+"I had no intention of boring you with\n"
+"my tale."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>Rain is just the clouds' way of telling\n"
+"you, hey, friend, it's time to take a break.<2.pa>\n"
+"That's what my donkey and I think."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "RetMSG_Rane_00"
+msgid ""
+"<1.so>This? Oh, this is the Wetland Donkey\n"
+"Hotel.<2.pa> No, that's not quite right.<3.pa> It's...the\n"
+"Wetland Stable. That's right.\n"
+"Stables make for a pleasant place to do\n"
+"some cooking<4.pa> or brew up an elixir.\n"
+"My donkey does enjoy my culinary crafts."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Rane_00_1"
+msgid ""
+"<1.so>Oh, look at the time. Perhaps I'd better\n"
+"stop at the Wetland Stables<2.pa> and prepare\n"
+"dinner—and an elixir or two."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "RetMSG_Rane_01"
+msgid ""
+"<1.so>Oh, dear.<2.pa> You're asking why you should\n"
+"cook food?<3.pa> Don't you realize that eating\n"
+"raw foods can lead to food poisoning?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "RetMSG_Rane_01_1"
+msgid ""
+"<1.so>Cook your food properly,<2.pa> or you'll find\n"
+"yourself with a vicious case of food\n"
+"poisoning.<3.pa> Don't you agree, donkey?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Rane_01_2"
+msgid ""
+"<1.so>You're ever so clever, my little donkey.<2.pa>\n"
+"You know all about that!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Rane_01_3"
+msgid ""
+"<1.so>Oh, dear.<2.pa> You mean to tell me that you\n"
+"weren't asking what the point of cooking\n"
+"your food is? Perhaps I misheard..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+msgctxt "RetMSG_Rane_02"
+msgid ""
+"<1.so>I don't pay any mind to the horses that\n"
+"pass me by.<2.pa> Horses think they're so\n"
+"elegant, but give me a donkey any day.\n"
+"Slow of foot, to be sure, but strong of\n"
+"back and stubborn as a...well, you know.<3.pa>\n"
+"That's what's great about donkeys!\n"
+"<4.so>Oh, dear.<5.pa> You mean you weren't asking\n"
+"me to pontificate upon the charms of\n"
+"the equus donkus, as they are known?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Rane_02_1"
+msgid ""
+"<1.so>Slow of foot and strong of back.<2.pa> That's\n"
+"you, isn't it, my dutiful donkey?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "RetMSG_Rane_03"
+msgid ""
+"<1.so>Of course,<2.pa> if you want to make your own\n"
+"elixirs,<3.pa> you'll need to use bugs, not\n"
+"to mention some monster parts."
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Rane_03_1"
+msgid ""
+"<1.so>If you are making elixirs, you need bugs\n"
+"and monster parts as ingredients."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Rane_03_2"
+msgid ""
+"<1.so>Who is just the cleverest donkey in all\n"
+"of donkeydom?<2.pa> That's right! You!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Rane_03_3"
+msgid ""
+"<1.so>Oh, dear.<2.pa> Do you mean to tell me that\n"
+"you had not asked me how to make\n"
+"elixirs?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "RetMSG_Rane_04"
+msgid ""
+"<1.so>There, there, my sweet donkey.<2.pa> Looks\n"
+"like someone wants to talk to me, so you\n"
+"just sit tight for a second.\n"
+"You've done such a good job,<3.pa> carrying\n"
+"those vegetables all the way from\n"
+"Kakariko Village!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Rane_04_1"
+msgid ""
+"<1.so>My darling donkey, you've done such a\n"
+"good job<2.pa> carrying those vegetables all\n"
+"the way from Kakariko Village!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Rane_04_2"
+msgid ""
+"<1.so>Now, what do we have here...<2.pa> Could you\n"
+"be a customer?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_00"
+msgid "<1.so>Phew, I'm saved!<2.pa> My donkey is, too!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>My dear and most valuable customer!<2.pa>\n"
+"Are you all right?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Oh, donkey! <2.pa>I can't believe I abandoned\n"
+"you...<3.pa> I was in such a state!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_01"
+msgid "<1.so>Take that, you moronic monstrosities!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>I'm not much use in a crisis,\n"
+"as it turns out..."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>My donkey may not seem as swift as\n"
+"any horse, but you should see him when\n"
+"he's running for his life!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: choice
+msgctxt "Talk01"
+msgid ""
+"<1.so>Say...<2.pa> I see you eyeballing the packs on\n"
+"my donkey.<3.pa> Wanna see my goods?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk02"
+msgid "<1.so>Whoa there, donkey! <2.pa>We've got a guest.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Thanks00"
+msgid ""
+"<1.so>This is for you.<2.pa> Take it, with my\n"
+"gratitude."
+msgstr ""
+

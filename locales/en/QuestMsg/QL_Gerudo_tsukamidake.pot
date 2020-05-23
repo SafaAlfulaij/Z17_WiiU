@@ -1,0 +1,30 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Gerudo_tsukamidake_Desc"
+msgid ""
+"Pirou at the Gerudo Canyon Stable claims that\n"
+"he can't live without rushrooms, but because\n"
+"they grow on cliffs, he's unable to pick them\n"
+"himself. He's offered to trade a diamond for\n"
+"<1.se_co>55 rushrooms<2.re_co>."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_Gerudo_tsukamidake_Finish"
+msgid ""
+"You traded 55 rushrooms to Pirou at the\n"
+"Gerudo Canyon Stable for a diamond.\n"
+"\n"
+"But it seems he could still use more.\n"
+"\n"
+"If you bring them, he'll pay <1.se_co>twice<2.re_co> the market\n"
+"value for another <3.se_co>55<4.re_co> rushrooms."
+msgstr ""
+
+msgctxt "QL_Gerudo_tsukamidake_Name"
+msgid "Rushroom Rush!"
+msgstr ""
+

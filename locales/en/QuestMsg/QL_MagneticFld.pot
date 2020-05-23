@@ -1,0 +1,22 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_MagneticFld_Desc"
+msgid ""
+"In the Gerudo Desert Gateway, they say that\n"
+"the <1.se_co>swordswomen statues<2.re_co> point the way to\n"
+"treasure. However, getting there means braving\n"
+"the sandstorms..."
+msgstr ""
+
+msgctxt "QL_MagneticFld_Finish"
+msgid ""
+"You followed the guidance of the swordswomen\n"
+"statues to find the treasure amidst the\n"
+"desert sandstorms. The prize turned out to\n"
+"be an ancient shrine! "
+msgstr ""
+
+msgctxt "QL_MagneticFld_Name"
+msgid "The Silent Swordswomen"
+msgstr ""
+

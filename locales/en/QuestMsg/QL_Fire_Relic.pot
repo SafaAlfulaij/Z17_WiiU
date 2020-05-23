@@ -1,0 +1,135 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Fire_Relic_Battle"
+msgid ""
+"Sentries now patrol Death Mountain to\n"
+"eliminate intruders.\n"
+"\n"
+"Avoid their notice as you lead Yunobo to the\n"
+"<1.se_co>cannons<2.re_co> to drive Divine Beast Vah Rudania\n"
+"into the crater."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Fire_Relic_BattlePlaying"
+msgid ""
+"Thanks to Yunobo using Daruk's Protection\n"
+"to act as your cannonball, you drove\n"
+"Divine Beast Vah Rudania into the crater!\n"
+"\n"
+"It is time to enter <1.se_co>Divine Beast Vah Rudania<2.re_co>\n"
+"and bring it to a halt."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Fire_Relic_Bridge"
+msgid ""
+"Yunobo used Daruk's Protection to\n"
+"act as a cannonball. The Bridge of Eldin\n"
+"has been lowered! \n"
+"\n"
+"All you need to do now is to cross\n"
+"the <1.se_co>Bridge of Eldin<2.re_co> and drive\n"
+"Divine Beast Vah Rudania into\n"
+"the crater."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Fire_Relic_Desc"
+msgid ""
+"Bludo, Boss of Goron City, wants to challenge\n"
+"the marauding Divine Beast Vah Rudania,\n"
+"but his backache is too severe.\n"
+"\n"
+"What's worse, Yunobo has yet to return from\n"
+"the <1.se_co>Abandoned North Mine <2.re_co>with the painkillers\n"
+"he was sent to fetch."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Fire_Relic_Dungeon"
+msgid ""
+"Defeating Fireblight Ganon freed the spirit of\n"
+"Daruk, Champion of the Goron race. He has\n"
+"piloted the Divine Beast to the summit of\n"
+"Death Mountain in preparation for the assault\n"
+"on Ganon.\n"
+"\n"
+"Seeing this, a relieved Yunobo returned to his\n"
+"home in Goron City. You should go there and\n"
+"tell <1.se_co>Bludo <2.re_co>all that has happened."
+msgstr ""
+
+msgctxt "QL_Fire_Relic_Finished"
+msgid ""
+"You reported your success in restoring the\n"
+"Divine Beast Vah Rudania to its true self.\n"
+"Peace has finally returned to Goron City.\n"
+"\n"
+"In addition, you received the Champion Daruk's\n"
+"might and can now use Daruk's Protection."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Fire_Relic_GoDeathMt"
+msgid ""
+"You helped Yunobo fend off monsters at the\n"
+"Bridge of Eldin before telling him that Bludo's\n"
+"plan had been called off.\n"
+"\n"
+"You still need to get inside the Divine Beast\n"
+"somehow, though... The best way forward may\n"
+"be to lower the <1.se_co>Bridge of Eldin<2.re_co>."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Fire_Relic_GoGoronCity"
+msgid ""
+"Bludo thanked you for helping Yunobo.\n"
+"After taking the painkillers, Bludo was about\n"
+"to go challenge Divine Beast Vah Rudania,\n"
+"but then his back started hurting again.\n"
+"No one will be challenging the Divine Beast\n"
+"today, it seems.\n"
+"\n"
+"Yunobo has already gone ahead to the\n"
+"<1.se_co>Bridge of Eldin<2.re_co>, so you must meet him there\n"
+"to let him know about this change of plans."
+msgstr ""
+
+msgctxt "QL_Fire_Relic_Name"
+msgid "Divine Beast Vah Rudania"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Fire_Relic_NorthMine"
+msgid ""
+"You met Drak in the Abandoned North Mine,\n"
+"who told you that Yunobo left for the vault\n"
+"deep in its reaches. That's the last anyone\n"
+"has seen of Yunobo...\n"
+"\n"
+"Mount a search operation for Yunobo, who was\n"
+"headed for the <1.se_co>vault<2.re_co>."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Fire_Relic_Storage"
+msgid ""
+"You met Yunobo in the Abandoned North Mine.\n"
+"\n"
+"Yunobo hurried back to Goron City to deliver\n"
+"the painkillers Bludo needs for his backache.\n"
+"\n"
+"You should go speak to <1.se_co>Bludo<2.re_co> to collect\n"
+"your reward."
+msgstr ""
+

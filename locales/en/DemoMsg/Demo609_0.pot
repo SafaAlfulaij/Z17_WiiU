@@ -1,0 +1,26 @@
+msgctxt "Talk01"
+msgid ""
+"I am Maz Koshia. You have done well\n"
+"to conquer the trials laid before you."
+msgstr ""
+
+msgctxt "Talk02"
+msgid "You are Hyrule's beacon of hope."
+msgstr ""
+
+msgctxt "Talk03"
+msgid ""
+"But your trials have only just begun.\n"
+"The divine weapon shall lead you..."
+msgstr ""
+
+msgctxt "Talk04"
+msgid ""
+"Now that you have proven your power,\n"
+"a new journey awaits.\n"
+"\n"
+"Go to the four locations that will be\n"
+"revealed to you, and reach for\n"
+"greater heights than ever before."
+msgstr ""
+

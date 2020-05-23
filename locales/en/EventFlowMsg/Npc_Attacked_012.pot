@@ -1,0 +1,191 @@
+#. 1: sound
+msgctxt "After00"
+msgid ""
+"<1.so>Do you know the story behind that\n"
+"castle there?"
+msgstr ""
+
+#. 1: sound
+msgctxt "After01"
+msgid ""
+"<1.so>Maybe I'm biting off more than I\n"
+"can chew..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: raw
+#. 6: sound2
+msgctxt "After02"
+msgid ""
+"<1.so>That's the <2.se_co>Akkala Citadel Ruins<3.re_co>. Long\n"
+"ago, at the peak of Hyrule's power, they\n"
+"built a fortress to protect Akkala.\n"
+"It was said to be unassailable, <4.pa>but during\n"
+"the Great Calamity, Hyrule Castle fell...\n"
+"The army had no royalty to lead them.\n"
+"With no other choice, they fell back to\n"
+"this citadel to make their last stand.<5.ra><6.so>Sadly, a concentrated "
+"assault from the\n"
+"out-of-control Guardians spelled the\n"
+"end for this fortress too.\n"
+"In a real sense, the kingdom of Hyrule\n"
+"met its doom here."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: raw
+msgctxt "After02_2"
+msgid ""
+"<1.so>I found out my own kin died in that\n"
+"battle, so I came to at least pray at the\n"
+"spot where they fell.\n"
+"But it turns out that the old Guardians\n"
+"are still active, so this is as far as I go.<2.ra><3.so>I've never heard "
+"of anyone else escaping\n"
+"a Guardian's sights, at least.<4.ra>You don't look reckless enough to\n"
+"chance it, but be on your guard in these\n"
+"hills all the same."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+msgctxt "After03"
+msgid ""
+"<1.so>When you look at these massive\n"
+"structures and ruined cities...you really\n"
+"get a sense of what we lost.\n"
+"<2.so>I wish I could get a closer look, but I\n"
+"don't have a death wish. <3.pa>If you're\n"
+"headed for the citadel, be very careful."
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked00"
+msgid "<1.so>Monsters have no business being here!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid "<1.so>Come on and get me! I'll take you on!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>Well, I hope you enjoyed watching me\n"
+"make a fool of myself. <2.pa>Glad I could\n"
+"provide some free entertainment.\n"
+"<3.so>Learn from my example, traveler—always\n"
+"be on your guard on these roads."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (long)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Well, that's what I get for being careless.<2.ra><3.so>I was too "
+"distracted by the sight of the\n"
+"citadel to notice that thing getting the\n"
+"drop on me.<4.pa> Watch yourself, OK?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>I came out this way to search for this\n"
+"citadel. <2.pa>Can't believe I made it so close,\n"
+"only to have to turn back now..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Guardian00"
+msgid "<1.so>A Guardian?! Time to bail!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>This is the end of the line."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>I could have beaten that thing! Really!<2.pa>\n"
+"I must have just been having an off day.<3.pa>\n"
+"Well, this is for going out of your way."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Aw, I wasn't in any REAL danger. <2.pa>But I\n"
+"guess it was hard to tell from a distance.<3.pa>\n"
+"Thanks anyway."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Hmph... We'll never really know if I could\n"
+"have beaten them now. <2.pa>So technically,\n"
+"I suppose you did rescue me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (longer)
+#. 7: pause (short)
+#. 8: pause (short)
+#. 9: pause (short)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>You hel... <2.pa>You held your own out there!<3.pa>\n"
+"No, no.<4.pa> You he...<5.pa>aded for town, I take it?<6.pa>\n"
+"OK, OK. <7.pa>You helped me. <8.pa>There. <9.pa>I said it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (long)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>Th-thanks... <2.pa>That monster was more than\n"
+"I bargained for.<3.ra><4.so>I'm a dab hand with a blade, but you...<5.pa>"
+"\n"
+"Well, my hat is off to you, boy. <6.pa>Here,\n"
+"take this for your help."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>It took all I had just to stay alive against\n"
+"that monster, but you beat it like it was\n"
+"a straw training dummy.\n"
+"<2.so>Whoever you are, you deserve this more\n"
+"than I do!"
+msgstr ""
+

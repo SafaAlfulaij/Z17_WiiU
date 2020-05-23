@@ -1,0 +1,299 @@
+msgctxt "0000"
+msgid "Just a traveler..."
+msgstr ""
+
+msgctxt "0001"
+msgid "No one important..."
+msgstr ""
+
+msgctxt "0002"
+msgid "That's right."
+msgstr ""
+
+msgctxt "0003"
+msgid "Um... No."
+msgstr ""
+
+msgctxt "0004"
+msgid "Any strange things?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0006"
+msgid "You're a chef?"
+msgstr ""
+
+msgctxt "0007"
+msgid "\"Also\" what?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Monster-cake recipe?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk00"
+msgid "<1.so>Shall we talk about something else?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk01"
+msgid "<1.so>And who might you be?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Oh, good morning."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>Oh, hello."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid "<1.so>Oh, good evening."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Yes, yes."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk06"
+msgid "<1.so>So...sleepy..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk07"
+msgid ""
+"<1.so>I have to get ready for bed.<2.pa>\n"
+"You should do the same."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk08"
+msgid ""
+"<1.so>Now then, I've got to get to bed.<2.pa>\n"
+"It's rough on my body if I don't get a\n"
+"good night's rest."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk09"
+msgid "<1.so>Oh... <2.pa>Is that so?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk10"
+msgid ""
+"<1.so>By the way... I don't suppose you came\n"
+"to <2.se_co>Tarrey Town<3.re_co> to purchase a\n"
+"holiday home, did you?<4.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid ""
+"<1.so>Anyway, please be careful.\n"
+"\n"
+"\n"
+"My husband is taking great care of this\n"
+"area, but there seem to be a lot of\n"
+"strange folks just outside of town."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk12"
+msgid "<1.so>Do you need me for something?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (short)
+#. 10: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>Strange plants and guys with ugly faces<2.pa>\n"
+"live just outside the village. There are\n"
+"a lot of them, right?\n"
+"Especially the <3.se_co>big flower<4.re_co> that's to the\n"
+"<5.se_co>southeast<6.re_co> of <7.se_co>Tarrey Town<8.re_co>...<9.pa>\n"
+"\n"
+"I was chatting with my husband<10.pa> about\n"
+"how there's a huge flower out there."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: sound
+#. 10: pause (short)
+msgctxt "talk14"
+msgid ""
+"<1.so>The <2.se_co>big flower<3.re_co> that's to the "
+"<4.se_co>southeast<5.re_co> of\n"
+"<6.se_co>Tarrey Town<7.re_co>...<8.pa>\n"
+"\n"
+"<9.so>We saw it while walking the path here,<10.pa>\n"
+"and it's really quite awful..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid "<1.so>See you later."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk16"
+msgid ""
+"<1.so>You really shouldn't mess with things\n"
+"you don't understand..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+msgctxt "talk17"
+msgid ""
+"<1.so>Cooking? Oh, my, where did you hear\n"
+"about that?<2.pa> It was from my husband,\n"
+"wasn't it?\n"
+"<3.so>That man can be so misleading about\n"
+"things sometimes..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+msgctxt "talk18"
+msgid ""
+"<1.so>But...you don't look like someone who\n"
+"needs sweets.\n"
+"\n"
+"<2.so>You should eat a lot of food<3.pa> and put\n"
+"some meat on your bones first!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: single_choice
+msgctxt "talk19"
+msgid ""
+"<1.so>For example, <2.se_co>carrot cake<3.re_co> or\n"
+"<4.se_co>pumpkin pie<5.re_co>...<6.pa> Also...<7.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (longer)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: pause (short)
+#. 15: sound
+#. 16: set_colour (red)
+#. 17: reset_colour
+#. 18: pause (short)
+msgctxt "talk20"
+msgid ""
+"<1.so>Well, I was taught how to make\n"
+"something called a <2.se_co>monster cake<3.re_co> too.\n"
+"\n"
+"<4.so>It's easy to make.<5.pa> You just need\n"
+"<6.se_co>Tabantha wheat<7.re_co>,<8.pa> <9.se_co>cane "
+"sugar<10.re_co>,<11.pa> and\n"
+"<12.se_co>goat butter<13.re_co>...<14.pa>\n"
+"<15.so>And you also have to add some\n"
+"<16.se_co>monster extract<17.re_co><18.pa>, but that's been\n"
+"tough to come by lately..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "talk21"
+msgid ""
+"<1.so>Sure, I can keep from burning water, but\n"
+"my real gift is baking cakes and sweets\n"
+"and the like.\n"
+"<2.so>My grandmother<3.pa>—wonderful woman—<4.pa>\n"
+"ran a sweet shop for the royal family.\n"
+"She taught me everything I know!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (short)
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: pause (short)
+#. 14: set_colour (blue)
+#. 15: reset_colour
+msgctxt "talk22"
+msgid ""
+"<1.so>Sure...<2.pa>sure...<3.pa>\n"
+"I'll teach you as many times as you like.\n"
+"\n"
+"<4.so>You need to add some <5.se_co>monster extract<6.re_co><7.pa>\n"
+"to some <8.se_co>Tabantha wheat<9.re_co>,<10.pa> <11.se_co>cane "
+"sugar<12.re_co>,<13.pa>\n"
+"and <14.se_co>goat butter<15.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "talk23"
+msgid ""
+"<1.so><2.se_co>Monster cake<3.re_co> may look a little gross<4.pa>\n"
+"and smell a little nauseating,<5.pa> but it'll fill\n"
+"you right up!"
+msgstr ""
+

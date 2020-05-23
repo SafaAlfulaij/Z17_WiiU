@@ -1,0 +1,22 @@
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk05"
+msgid ""
+"<1.so>If I was a bit younger, I would go off on\n"
+"an adventure. I'd ride the<2.se_co> white horse<3.re_co>\n"
+"with a gal just like the <4.se_co>princess<5.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (long)
+msgctxt "talk06"
+msgid ""
+"<1.so>Hnnnnnn<2.te_si>...<3.te_si><4.pa>\n"
+"Bad weather makes my hips hurt..."
+msgstr ""
+

@@ -1,0 +1,159 @@
+#. 1: sound
+#. 2: pause (short)
+msgctxt "After00"
+msgid ""
+"<1.so>Time to hit Gerudo Town in style!<2.pa>\n"
+"Wouldn't want to disappoint my future\n"
+"wife by running late!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>Why are there monsters here, anyway?!<2.pa>\n"
+"Is it because of all the weirdness going\n"
+"on everywhere?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid ""
+"<1.so>Whew... I nearly ended up dead.\n"
+"Or worse—scarred!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>I'm positive they said even monsters\n"
+"couldn't survive in this desert heat,\n"
+"but they're everywhere!\n"
+"You think it's because of the weirdness\n"
+"that's been going on lately?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed01"
+msgid "<1.so>Aaaaah! Noooo! I'm too pretty to die!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>Gerudo Town, here we come! We're\n"
+"young, we're single, and we're on our\n"
+"way to a burg full of ladies!\n"
+"<2.so>I bet they'd dig your way with a sword,\n"
+"fella. Too bad about your face, though."
+msgstr ""
+
+#. 1: sound
+msgctxt "Guardian00"
+msgid "<1.so>Hoof it! There's a Guardian coming!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Meeting00"
+msgid ""
+"<1.so>I'm leading the way?!<2.pa> What?!<3.pa> When did\n"
+"we decide this?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "Meeting02"
+msgid ""
+"<1.so>We're on our way to Gerudo Town. <2.pa>\n"
+"Course, we need to make it out of this\n"
+"huge desert first.\n"
+"<3.so>But Dillie knows the way, so we should\n"
+"be fine. <4.pa>Once we get there, we're hitting\n"
+"the big time!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Meeting03"
+msgid ""
+"<1.so>Uh, I thought you knew the way.<2.pa> I was\n"
+"following you, right?<3.pa> Uh-oh..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>Where IS that town?"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairAtacked00"
+msgid ""
+"<1.so>Help! My pal is still tangling with those\n"
+"monsters!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairAtacked01"
+msgid "<1.so>I'm fine! Go help Dillie!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed00"
+msgid "<1.so>Dillie... Don't die on me, pal..."
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed01"
+msgid "<1.so>They can't take Dillie! They just can't!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>Whoa, you sure pack a punch, fella.\n"
+"I can respect that."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_01"
+msgid "<1.so>Good hustle, fella. You saved our skin."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Whoa, that was some show of strength.\n"
+"We better get to where we're going\n"
+"before you beat us there!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_01"
+msgid "<1.so>Nice save, fella! Keep up the good work!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>My life was flashing before my eyes for\n"
+"a second. <2.pa>But thanks to you, my troubles\n"
+"are over!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>Where'd you learn how to do THAT?!<2.pa>\n"
+"And more importantly, can you teach\n"
+"me? <3.pa>Here, I'll give you this!"
+msgstr ""
+

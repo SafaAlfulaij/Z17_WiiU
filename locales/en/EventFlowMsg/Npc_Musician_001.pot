@@ -1,0 +1,40 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Challenge000"
+msgid ""
+"<1.so>Excuse me.<2.pa>\n"
+"I fear I may have gotten carried away.\n"
+"Nostalgia will do that to a person.<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: raw
+#. 5: pause (short)
+msgctxt "Talk00"
+msgid ""
+"<1.so>That was...stupendous. <2.pa>I suppose I\n"
+"should have expected nothing less.<3.pa><4.ra>No doubt I shall see you "
+"again.<5.pa>\n"
+"May the light illuminate your path."
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "What's your problem?!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "WHOOOOA!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "TerrorFire"
+msgid "<1.so>Ack!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Knock it off!"
+msgstr ""
+

@@ -1,0 +1,138 @@
+msgctxt "Demo138_0_Text000"
+msgid "Haaah Haaah Haah Haa..."
+msgstr ""
+
+msgctxt "Demo138_0_Text001"
+msgid "Link, save yourself! Go!"
+msgstr ""
+
+msgctxt "Demo138_0_Text002"
+msgid "I'll be fine! Don't worry about me!"
+msgstr ""
+
+msgctxt "Demo138_0_Text003"
+msgid "Run!"
+msgstr ""
+
+msgctxt "Demo138_0_Text004"
+msgid "Uwaaaah!!"
+msgstr ""
+
+msgctxt "Demo138_0_Text005"
+msgid " "
+msgstr ""
+
+msgctxt "Demo138_0_Text006"
+msgid " "
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo138_0_Text008"
+msgid "Was...<1.ra>Was that...?"
+msgstr ""
+
+msgctxt "Demo138_0_Text009"
+msgid "The power..."
+msgstr ""
+
+msgctxt "Demo138_0_Text010"
+msgid "No, no..."
+msgstr ""
+
+msgctxt "Demo138_0_Text011"
+msgid "Link! Get up!"
+msgstr ""
+
+msgctxt "Demo138_0_Text012"
+msgid "Cough! Cough!"
+msgstr ""
+
+msgctxt "Demo138_0_Text013"
+msgid " "
+msgstr ""
+
+msgctxt "Demo138_0_Text014"
+msgid "You're going to be just fine..."
+msgstr ""
+
+msgctxt "Demo138_0_Text015"
+msgid ""
+"Ooohh...\n"
+"Ughh..."
+msgstr ""
+
+msgctxt "Demo138_0_Text016"
+msgid "Haaah...?"
+msgstr ""
+
+msgctxt "Demo138_0_Text017"
+msgid "Aaaahhhh!"
+msgstr ""
+
+msgctxt "Demo138_0_Text018"
+msgid "...Ooooh...oooh!...Oooogh...!!"
+msgstr ""
+
+msgctxt "Demo138_0_Text019"
+msgid " "
+msgstr ""
+
+msgctxt "Demo138_0_Text022"
+msgid "Princess!"
+msgstr ""
+
+msgctxt "Demo138_0_Text023"
+msgid " "
+msgstr ""
+
+msgctxt "Demo138_0_Text024"
+msgid "Princess! Are you all right?!"
+msgstr ""
+
+msgctxt "Demo138_0_Text028"
+msgid "So make haste and go!"
+msgstr ""
+
+msgctxt "Demo138_0_Text029"
+msgid "His life is now in your hands!"
+msgstr ""
+
+msgctxt "Demo138_0_Text030"
+msgid "The sword...?"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo138_0_Text031"
+msgid "So he can...<1.ra>He can still be saved?"
+msgstr ""
+
+msgctxt "Demo138_0_Text032"
+msgid "Hah!"
+msgstr ""
+
+msgctxt "Demo138_0_Text033"
+msgid "Uuughh...!"
+msgstr ""
+
+msgctxt "Demo138_0_Text034"
+msgid "Take Link to the Shrine of Resurrection."
+msgstr ""
+
+msgctxt "Demo138_0_Text035"
+msgid ""
+"If you don't get him there immediately,\n"
+"we are going to lose him forever!"
+msgstr ""
+
+msgctxt "Demo138_0_Text036"
+msgid "Is that clear?!"
+msgstr ""
+
+msgctxt "Demo138_0_Text039"
+msgid " "
+msgstr ""
+
+msgctxt "Demo138_0_Text040"
+msgid "NO!"
+msgstr ""
+

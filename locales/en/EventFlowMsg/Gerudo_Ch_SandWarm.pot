@@ -1,0 +1,297 @@
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Molduga?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Here, take 'em."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: pause (longer)
+#. 7: sound2
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: sound
+#. 11: choice
+msgctxt "Talk_01"
+msgid ""
+"<1.so>I... I finally found the voe of my dreams,\n"
+"and I just recently married him...\n"
+"\n"
+"I thought I had finally found happiness...\n"
+"\n"
+"\n"
+"<2.so>But then...my husband fell ill with a\n"
+"rare disease... One difficult to cure.\n"
+"\n"
+"The only thing that can save him is the\n"
+"<3.se_co>innards of a Molduga<4.re_co>...\n"
+"\n"
+"But I would never be able to take down\n"
+"such a creature myself...<5.pa>\n"
+"\n"
+"I asked the soldiers for help, but...<6.pa>\n"
+"\n"
+"\n"
+"They said they have serious issues to\n"
+"deal with! They said they had no time for\n"
+"my plight! They turned me away!\n"
+"<7.so>But then, why wouldn't they? \n"
+"The <8.se_co>Molduga <9.re_co>is a menacing beast... \n"
+"None who face one escape unscathed...\n"
+"So perhaps it's foolish to expect anyone\n"
+"to stick their neck out for a stranger...\n"
+"\n"
+"<10.so>I thought I'd finally gotten out of this\n"
+"town... Never thought I'd have to come \n"
+"crawling back...<11.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: text_size
+msgctxt "Talk_02"
+msgid ""
+"<1.te_si><2.so>...Oh, me.<3.pa> The longer I tarry, the more the danger\n"
+"grows for my dear one...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Talk_03"
+msgid ""
+"<1.so>My husband was the first voe to tell me\n"
+"I was beautiful...<2.pa>\n"
+"\n"
+"I love him so! And so I must find\n"
+"someone who can bring me those \n"
+"<3.se_co>Molduga guts<4.re_co>, no matter what...<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound2
+#. 8: choice
+msgctxt "Talk_04"
+msgid ""
+"<1.so>Oh, it's you...<2.pa>\n"
+"\n"
+"\n"
+"<3.so>My husband was the first voe to ever\n"
+"tell me I was beautiful...<4.pa>\n"
+"\n"
+"I love him so! And so I need those \n"
+"<5.se_co>Molduga guts<6.re_co>, no matter what... <7.so>But... \n"
+"What can I do on my own?<8.ch>"
+msgstr ""
+
+msgctxt "Talk_05"
+msgid "Wait, these..."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: sound
+#. 11: pause (longer)
+msgctxt "Talk_06"
+msgid ""
+"<1.se_co><2.so><3.re_co>The <4.se_co>Molduga<5.re_co> is a monster... A "
+"terror\n"
+"so savage that even other monsters \n"
+"won't approach it...\n"
+"It's often been spotted west of here, in\n"
+"the <6.se_co>Toruma Dunes<7.re_co>, and in the south.\n"
+"\n"
+"It's very <8.se_co>sensitive to vibrations<9.re_co>, and it\n"
+"tends to attack anything that draws near.\n"
+"\n"
+"<10.so>You can't approach it or even move\n"
+"near it...<11.pa> And you can't use someone\n"
+"as bait...\n"
+"So what am I to do..."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+msgctxt "Talk_07"
+msgid "<1.se_co><2.so>Molduga guts<3.re_co>!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "Talk_08"
+msgid "<1.te_si><2.so>You... You'll give these to me?<3.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_09"
+msgid ""
+"<1.so>This is all I have to thank you with, \n"
+"but I insist you take it."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (longer)
+msgctxt "Talk_10"
+msgid "<1.so><2.te_si>This will save him... *sniff*<3.te_si><4.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Talk_12"
+msgid "<1.so><2.te_si>I'll cure you... I'm sure I will...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: text_size
+#. 4: text_size
+#. 5: pause (longer)
+msgctxt "Talk_13"
+msgid "<1.so><2.so><3.te_si>Sav'otta...<4.te_si><5.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: text_size
+#. 4: text_size
+#. 5: pause (longer)
+msgctxt "Talk_14"
+msgid "<1.so><2.so><3.te_si>Sav'saaba...<4.te_si><5.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: text_size
+#. 4: text_size
+#. 5: pause (longer)
+msgctxt "Talk_15"
+msgid "<1.so><2.so><3.te_si>Sav'aaq...<4.te_si><5.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: pause (longer)
+#. 7: sound2
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: sound
+#. 11: choice
+msgctxt "Talk_16"
+msgid ""
+"<1.so>I... I finally found the voe of my dreams,\n"
+"and I just recently married him...\n"
+"\n"
+"I thought I had finally found happiness...\n"
+"\n"
+"\n"
+"<2.so>But then...my husband fell ill with a\n"
+"rare disease... One difficult to cure.\n"
+"\n"
+"The only thing that can save him is the\n"
+"<3.se_co>guts of a Molduga<4.re_co>...\n"
+"\n"
+"But I would never be able to take down\n"
+"such a creature myself...<5.pa>\n"
+"\n"
+"I asked the soldiers for help, but...<6.pa>\n"
+"\n"
+"\n"
+"<7.so>Why would they want to help me? \n"
+"The <8.se_co>Molduga <9.re_co>is a menacing beast... \n"
+"None who face one escape unscathed...\n"
+"So perhaps it's foolish to expect anyone\n"
+"to stick their neck out for a stranger...\n"
+"\n"
+"<10.so>I thought I'd finally gotten out of this\n"
+"town... Never thought I'd have to come \n"
+"crawling back...<11.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_17"
+msgid ""
+"<1.so>Of course, the <2.se_co>Molduga <3.re_co>is a menacing\n"
+"beast... None who face one come away\n"
+"completely unscathed...\n"
+"So I guess it's foolish to expect anyone\n"
+"to stick their neck out for a stranger...\n"
+"\n"
+"But...the only thing that will cure my \n"
+"husband is the <4.se_co>guts of a Molduga<5.re_co>.\n"
+"\n"
+"I finally met the voe of my dreams... \n"
+"I can't give up.<6.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "Talk_18"
+msgid "<1.te_si><2.so>Oh, sarqso!<3.te_si>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Talk_19"
+msgid ""
+"<1.se_co><2.so><3.re_co>The <4.se_co>Molduga<5.re_co> lives in a region "
+"of\n"
+"<6.se_co>extreme heat<7.re_co>...\n"
+"\n"
+"Even the Gerudo, who thrive in the heat,\n"
+"might well expire there if they were clad\n"
+"in their regular gear...\n"
+"If you dare to go to that region, \n"
+"please be careful."
+msgstr ""
+
+msgctxt "near_00"
+msgid "Someone..."
+msgstr ""
+
+msgctxt "near_02"
+msgid "Please..."
+msgstr ""
+

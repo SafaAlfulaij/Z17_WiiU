@@ -1,0 +1,40 @@
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_01"
+msgid ""
+"<1.so>I ask you, Furosa, is there anything\n"
+"better than a taste of <2.se_co>Noble Pursuit<3.re_co>?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_02"
+msgid ""
+"<1.so>You were at death's door and you ran\n"
+"all the way here for that! Good grief... \n"
+"You're in incredible shape...\n"
+"Does that mean you don't plan to\n"
+"investigate that shrine anymore?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_03"
+msgid ""
+"<1.so>Definitely. I never dreamed that kind of\n"
+"work would be so dull..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_04"
+msgid ""
+"<1.so>I'm not surprised you found it dull.\n"
+"That sort of thing isn't really \"you.\""
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_05"
+msgid ""
+"<1.so>Yeah, you know what really is \"me\"?\n"
+"Drinking."
+msgstr ""
+

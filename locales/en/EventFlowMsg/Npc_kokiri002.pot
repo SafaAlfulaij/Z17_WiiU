@@ -1,0 +1,10 @@
+#. 1: sound
+#. 2: pause (long)
+#. 3: raw
+#. 4: pause (long)
+msgctxt "Npc_kokiri002_Talk000"
+msgid ""
+"<1.so>*yawn*<2.pa><3.ra>You already solved all of the riddles...<4.pa>\n"
+"I admit defeat..."
+msgstr ""
+

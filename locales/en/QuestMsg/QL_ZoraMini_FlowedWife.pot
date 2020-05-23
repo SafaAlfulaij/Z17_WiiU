@@ -1,0 +1,25 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_ZoraMini_FlowedWife_Desc"
+msgid ""
+"Divine Beast Vah Ruta has calmed down, yet\n"
+"Fronk's wife, Mei, has not yet returned home.\n"
+"\n"
+"Fronk is too discouraged to search for her\n"
+"himself, so search for <1.se_co>Mei<2.re_co> in his place.\n"
+"\n"
+"Where could she be?"
+msgstr ""
+
+msgctxt "QL_ZoraMini_FlowedWife_Finish"
+msgid ""
+"You found Mei fishing in Lake Hylia.\n"
+"\n"
+"She left the fish she caught with you and\n"
+"hurried back to Fronk."
+msgstr ""
+
+msgctxt "QL_ZoraMini_FlowedWife_Name"
+msgid "A Wife Washed Away"
+msgstr ""
+

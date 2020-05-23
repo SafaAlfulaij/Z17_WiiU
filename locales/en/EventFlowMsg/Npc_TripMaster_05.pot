@@ -1,0 +1,77 @@
+#. 1: sound2
+msgctxt "ClearTerrorEnemy"
+msgid "<1.so>Phew..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "ClearTerrorGuardian"
+msgid "<1.so>That was scary..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "NakedPlayer"
+msgid "<1.so>Lookin' good!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near"
+msgid "<1.so>I'm Beedle!"
+msgstr ""
+
+msgctxt "TerrorAnimal"
+msgid "Get back!"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Please stop!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "WHOA NOW!"
+msgstr ""
+
+msgctxt "TerrorEnemy"
+msgid "Eeeeeeeeek!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "Haaaaeeeeee!"
+msgstr ""
+
+msgctxt "TerrorFire"
+msgid "I don't like fire!"
+msgstr ""
+
+msgctxt "TerrorGuardian"
+msgid "Hyeeeeeeehh!"
+msgstr ""
+
+msgctxt "TerrorHorse"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorImpulse"
+msgid "Ohhh!"
+msgstr ""
+
+msgctxt "TerrorInsect"
+msgid "NOT BEES! AHHHH!"
+msgstr ""
+
+msgctxt "TerrorLightning"
+msgid "AHHH!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Owww!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+msgctxt "talk_03"
+msgid ""
+"<1.so>Wow, never thought I'd see you here!<2.ra><3.so>You must really "
+"enjoy my company."
+msgstr ""
+

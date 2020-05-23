@@ -1,0 +1,505 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>I'm a mystery buff. <2.pa>Now, you might hear\n"
+"that and shrug your shoulders, and let\n"
+"me tell you...<3.pa> That's only fair."
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid "<1.so>I'm a mystery buff, not a buff mercenary."
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid "<1.so>I didn't sign up to be monster chow!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed01"
+msgid ""
+"<1.so>My strengths...<2.pa> Well, they don't lie in\n"
+"brawn as much as brains."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Guardian00"
+msgid "<1.so>Look sharp! <2.pa>A <3.se_co>Guardian<4.re_co>'s on its way!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+msgctxt "MSG_Orud_00"
+msgid ""
+"<1.so>Nice meeting you! I'm Zorona, and I live\n"
+"for mystery.<2.ra>Is there mystery afoot in <3.se_co>Eldin<4.re_co>, you "
+"ask?<5.pa>\n"
+"Who knows? That's the mystery!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "MSG_Orud_00_1"
+msgid ""
+"<1.so>Is there mystery afoot in <2.se_co>Eldin<3.re_co>, you ask?<4.pa>\n"
+"Who knows? That's the mystery!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "MSG_Orud_01"
+msgid ""
+"<1.so>Nice meeting you! I'm Zorona, and I live\n"
+"for mystery. <2.pa>These days, I'm trying to get\n"
+"to the bottom of <3.se_co>Fang and Bone<4.re_co>.\n"
+"The clues so far:<5.pa> it always appears at\n"
+"night, and some people say they've\n"
+"seen it near a skull-shaped lake.\n"
+"To my mind, though, the biggest mystery\n"
+"about <6.se_co>Fang and Bone<7.re_co> is, who in the\n"
+"world would run such a place?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (short)
+msgctxt "MSG_Orud_0100"
+msgid ""
+"<1.so>Well, hello there! I'm Zorona, and I live\n"
+"for mystery.<2.pa> I've got a doozy for you...\n"
+"Ever heard of <3.se_co>Fang and Bone<4.re_co>?\n"
+"I've heard tips that it's not just showing\n"
+"up by Skull Lake at <5.se_co>Death Mountain <6.re_co>in \n"
+"the north, but other places too!\n"
+"All that, and I still don't even know what\n"
+"this <7.se_co>Fang and Bone<8.re_co> sells! <9.pa>Mystery upon\n"
+"mystery!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: raw
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "MSG_Orud_0100_1"
+msgid ""
+"<1.so>Here's a mystery for you: <2.pa>what do you\n"
+"suppose they sell in <3.se_co>Fang and Bone<4.re_co>?<5.ra>I've heard "
+"tips that it's not just showing\n"
+"up by Skull Lake at <6.se_co>Death Mountain <7.re_co>in \n"
+"the north, but other places too!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "MSG_Orud_01_1"
+msgid ""
+"<1.so><2.se_co>Fang and Bone <3.re_co>always appears at night\n"
+"near a skull-shaped pond... <4.pa>Who's the\n"
+"mastermind behind the mystery?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (long)
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "MSG_Orud_02"
+msgid ""
+"<1.so>Good to see you! <2.pa>I'm Zorona, and I live\n"
+"for mystery.<3.ra>Lotta people nowadays wondering if\n"
+"there's any truth to the legendary sword\n"
+"supposedly sleeping in <4.se_co>Korok Forest<5.re_co>...\n"
+"But I say the legendary sword can go\n"
+"hang! <6.pa>I'm burning to find out more about\n"
+"that <7.se_co>Fang and Bone<8.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "MSG_Orud_02_1"
+msgid ""
+"<1.so>Lotta people think there's a place called\n"
+"<2.se_co>Korok Forest <3.re_co>somewhere, and deep\n"
+"inside it sleeps a legendary sword.\n"
+"Is it true? Who knows? <4.pa>That's the\n"
+"mystery! <5.pa>Maybe you'll be the one to\n"
+"solve it, eh?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: pause (short)
+msgctxt "MSG_Orud_03"
+msgid ""
+"<1.so>Nice to see you! I'm Zorona, and I live\n"
+"for mystery.<2.ra>One mystery lately has kept me sleepless\n"
+"like no other... It's that danged\n"
+"<3.se_co>Fang and Bone<4.re_co>!\n"
+"Who runs it? <5.pa>What do they sell? <6.pa>And is\n"
+"it really true you can find it at night\n"
+"out by Skull Lake?!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "MSG_Orud_0300"
+msgid ""
+"<1.so>Good seeing you! I'm Zorona, and I live\n"
+"for mystery.<2.ra>One mystery lately has kept me sleepless\n"
+"like no other... It's that danged\n"
+"<3.se_co>Fang and Bone<4.re_co>!\n"
+"It's not just at <5.se_co>Skull Lake<6.re_co> after dark\n"
+"anymore, you know. <7.pa>People have seen\n"
+"it all over the place lately!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "MSG_Orud_0300_1"
+msgid ""
+"<1.so>One mystery lately has kept me sleepless\n"
+"like no other... It's that danged\n"
+"<2.se_co>Fang and Bone<3.re_co>!\n"
+"It's not just at <4.se_co>Skull Lake<5.re_co> after dark\n"
+"anymore, you know. <6.pa>People have seen\n"
+"it all over the place lately!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "MSG_Orud_03_1"
+msgid ""
+"<1.so>One mystery lately has kept me sleepless\n"
+"like no other... It's that danged\n"
+"<2.se_co>Fang and Bone<3.re_co>!\n"
+"Who runs it? <4.pa>What do they sell? <5.pa>And is\n"
+"it really true you can find it at night\n"
+"out by Skull Lake?!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: raw
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (long)
+msgctxt "MSG_Orud_04"
+msgid ""
+"<1.so>How are you? I'm Zorona, and I live\n"
+"for mystery!<2.ra>They say there's all sorts of treasure\n"
+"still waiting to be had in <3.se_co>Hyrule Castle<4.re_co>...<5.ra>But "
+"never mind all that! <6.pa>I HAVE to know\n"
+"more about <7.se_co>Fang and Bone<8.re_co>!<9.pa> The castle\n"
+"stuff is all yours, as far as I care."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: raw
+#. 5: pause (short)
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: pause (long)
+msgctxt "MSG_Orud_04_1"
+msgid ""
+"<1.so>They say there's all sorts of treasure\n"
+"still waiting to be had in <2.se_co>Hyrule Castle<3.re_co>...<4.ra>But "
+"never mind all that! <5.pa>I HAVE to know\n"
+"more about <6.se_co>Fang and Bone<7.re_co>!<8.pa> The castle\n"
+"stuff is all yours, as far as I care."
+msgstr ""
+
+msgctxt "Near00"
+msgid "There's a mystery afoot..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "That skull-shaped pond..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "What's in the castle?"
+msgstr ""
+
+msgctxt "Near03"
+msgid "Hm... Fang and Bone, eh?"
+msgstr ""
+
+msgctxt "Near04"
+msgid "My map's gonna get wet..."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (short)
+msgctxt "Rest_00"
+msgid ""
+"<1.so>The name's Zorona, and I live for\n"
+"mystery!<2.ra>A good mystery buff has three essential\n"
+"tools of the trade: <3.pa>an inquisitive mind,\n"
+"alert eyes, and a map."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (short)
+msgctxt "Rest_01"
+msgid ""
+"<1.so>The name's Zorona, and I live for\n"
+"mystery!<2.ra>That's an interesting map you have\n"
+"there. <3.pa>What's it drawn on?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (short)
+#. 4: pause (longer)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>The name's Zorona, and I live for\n"
+"mystery!<2.ra>How about you? <3.pa>What do you live for?<4.pa>\n"
+"Is it anywhere near as cool as mystery?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "RetMSG_Orud_00"
+msgid ""
+"<1.so>Hello there! I'm Zorona, and I live for\n"
+"mystery!<2.ra>One popular mystery lately is whether or\n"
+"not there really is legendary equipment\n"
+"at <3.se_co>Hyrule Castle <4.re_co>and <5.se_co>Korok Forest<6.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "RetMSG_Orud_00_1"
+msgid ""
+"<1.so>The world is full of mystery!<2.ra>One popular mystery lately is "
+"whether or\n"
+"not there really is legendary equipment\n"
+"at <3.se_co>Hyrule Castle <4.re_co>and <5.se_co>Korok Forest<6.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "RetMSG_Orud_01"
+msgid ""
+"<1.so>Why, hello! My name's Zorona, and I live\n"
+"for mystery. <2.pa>Care to hear about one of\n"
+"the mysteries I solved recently?\n"
+"This was the case of the grass that\n"
+"blew even when the winds were still...<3.pa>\n"
+"The culprits were the hidden Koroks!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (long)
+msgctxt "RetMSG_Orud_01_1"
+msgid ""
+"<1.so>Care to hear about one of the mysteries\n"
+"I solved recently?<2.ra>This was the case of the grass that\n"
+"blew even when the winds were still...<3.pa>\n"
+"The culprits were the hidden Koroks!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "RetMSG_Orud_02"
+msgid ""
+"<1.so>Oh, didn't see you there! My name's\n"
+"Zorona, and I live for mystery! <2.pa>Let me\n"
+"tell you about one I solved recently.\n"
+"Ever wonder why Lizalfos bones come \n"
+"back when you throw them? <3.pa>It's because\n"
+"they're curved just like a boomerang!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (long)
+msgctxt "RetMSG_Orud_02_1"
+msgid ""
+"<1.so>Care to hear about one of the mysteries\n"
+"I solved recently?<2.ra>Ever wonder why Lizalfos bones come \n"
+"back when you throw them? <3.pa>It's because\n"
+"they're curved just like a boomerang!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: sound
+msgctxt "RetMSG_Orud_03"
+msgid ""
+"<1.so>Greetings! My name's Zorona, and I live\n"
+"for mystery! <2.pa>I bet you'd like to hear\n"
+"about one I solved just recently, huh?\n"
+"You'll never guess the secret of why it\n"
+"sometimes hurts to kick a treasure chest.<3.pa>\n"
+"Brace yourself...\n"
+"<4.so>It's because you're barefoot!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (long)
+msgctxt "RetMSG_Orud_03_1"
+msgid ""
+"<1.so>I bet you'd like to hear about a mystery\n"
+"I solved just recently, huh?<2.ra>You'll never guess the secret of why it"
+"\n"
+"sometimes hurts to kick a treasure chest.<3.pa>\n"
+"Brace yourself...\n"
+"It's because you're barefoot!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: set_colour (red)
+#. 5: pause (long)
+#. 6: reset_colour
+msgctxt "RetMSG_Orud_04"
+msgid ""
+"<1.so>Well met.<2.pa> My name's Zorona, and I live\n"
+"for mystery!<3.ra>The greatest mystery of all, if you ask\n"
+"me, is who runs <4.se_co>Fang and Bone<5.pa><6.re_co>.\n"
+"Someday I'll find it and crack the case!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (red)
+#. 4: pause (long)
+#. 5: reset_colour
+msgctxt "RetMSG_Orud_04_1"
+msgid ""
+"<1.so>It's a mysterious world we live in.<2.ra>And the greatest mystery "
+"of all, if you\n"
+"ask me, is who runs <3.se_co>Fang and Bone<4.pa><5.re_co>.\n"
+"Someday I'll find out and crack the case!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>Why do monsters attack people?<2.pa>\n"
+"Because...we're there?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Out of all the innocent people in the\n"
+"world to attack, why pick me? <2.pa>I'll never\n"
+"understand these monsters."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>I... <2.pa>I'm a mystery buff.<3.pa> In my line of work,\n"
+"you h-have to expect some danger!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>I'm a mystery buff.<2.pa> You think this is\n"
+"dangerous? <3.pa>You should have seen me\n"
+"LAST week!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>I'm a mystery buff...<2.pa>and I was worried\n"
+"that the trail ended permanently here\n"
+"for me!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>I'm a mystery buff...<2.pa>and no lie, I got\n"
+"goosebumps just now!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Thanks00"
+msgid "<1.so>Anyway, here's a gift for your services."
+msgstr ""
+

@@ -1,0 +1,46 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt_touzoku05_Desc"
+msgid ""
+"The royal family of Hyrule collected historically\n"
+"significant outfits, but they were stolen by a\n"
+"bandit named Misko. One of the items stolen\n"
+"was a traveling merchant's hood.\n"
+"\n"
+"Somewhere in the <1.se_co>Deya Village Ruins<2.re_co>\n"
+"is a journal that places the location\n"
+"of this treasure..."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt_touzoku05_Finish"
+msgid ""
+"\"The traveling merchant's hood is in the\n"
+"right hand of the dragon that consumes\n"
+"the Spring of Courage at Dracozu Lake.\"\n"
+"\n"
+"You located the treasure chest in the right hand\n"
+"of the dragon ruins at Dracozu Lake and got\n"
+"<1.se_co>Ravio's Hood<2.re_co>!"
+msgstr ""
+
+msgctxt "QL_TreasureHunt_touzoku05_Name"
+msgid "EX Treasure: Merchant Hood"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_TreasureHunt_touzoku05_Step01"
+msgid ""
+"\"The traveling merchant's hood is <1.se_co>in the\n"
+"right hand of the dragon that consumes\n"
+"the Spring of Courage at Dracozu Lake<2.re_co>.\"\n"
+"\n"
+"Misko's EX Journal 2 notes where the traveling\n"
+"merchant's hood is hidden...but where could\n"
+"this mysterious <3.se_co>dragon<4.re_co> be?"
+msgstr ""
+

@@ -1,0 +1,32 @@
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: raw
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "talk_00"
+msgid ""
+"<1.se_co><2.so><3.re_co>Don't you think the waterfall flowing\n"
+"down from <4.se_co>Lake Floria <5.re_co>is the very picture\n"
+"of perfection?<6.ra>There is something strange at the <7.se_co>top of\n"
+"that waterfall<8.re_co>, though...\n"
+"\n"
+"And even though it has shrunken over\n"
+"time, you can still see a faint glow."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk_01"
+msgid ""
+"<1.so>Maybe I'm just imagining things...<2.pa>\n"
+"Was it like that the whole time?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "talk_02"
+msgid "<1.so>Zzz...zzz..."
+msgstr ""
+

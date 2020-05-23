@@ -1,0 +1,177 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "After00"
+msgid ""
+"<1.so>We were minding our own business,\n"
+"hunting for truffles, and then wham!<2.pa>\n"
+"Monsters out of nowhere.\n"
+"I blame my sister, really. <3.pa>She's the one\n"
+"who refuses to go home until we find\n"
+"some hearty truffles."
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked00"
+msgid ""
+"<1.so>Maybe if I don't move, the monster won't\n"
+"see me..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid ""
+"<1.so>I read about what you're supposed to do\n"
+"in these situations, but now that it's\n"
+"happening, I can't remember any of it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Failed00"
+msgid ""
+"<1.so>Ooooh... I blame my sister entirely for\n"
+"this.<2.pa> \"Let's go hunt for truffles!\" she\n"
+"says.<3.pa> \"It'll be fun!\" she says."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Failed01"
+msgid ""
+"<1.so>I never even saw them coming! <2.pa>This is\n"
+"exactly why I didn't want to go truffle\n"
+"hunting.<3.pa> Lousy Nat..."
+msgstr ""
+
+#. 1: sound
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>It was my sister's harebrained idea\n"
+"to hunt for truffles here that got us\n"
+"into this mess."
+msgstr ""
+
+#. 1: sound
+msgctxt "Guardian00"
+msgid ""
+"<1.so>Great! A Guardian's on its way. Because\n"
+"apparently we didn't have enough to\n"
+"deal with!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Meeting00"
+msgid ""
+"<1.so>I told Nat that our luck would run out\n"
+"in about five minutes flat if we went\n"
+"truffle hunting here.\n"
+"But when those visions of rupees start\n"
+"dancing in her head, there's no getting\n"
+"through to her anymore."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "Meeting01"
+msgid ""
+"<1.so>Less talking, more hunting!<2.ra>Remember, Meghyn, nobody goes home"
+"\n"
+"until we find those hearty truffles!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Meeting02"
+msgid ""
+"<1.so>*sigh* She's right. The sooner we find\n"
+"those truffles, the sooner this will all be\n"
+"over with."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>I can't believe we're alive."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near01"
+msgid "<1.so>I want to go home..."
+msgstr ""
+
+#. 1: sound
+msgctxt "PairAtacked00"
+msgid "<1.so>Why won't they leave my sister alone?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairAtacked01"
+msgid "<1.so>Please help my sister! Help Nat!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed00"
+msgid "<1.so>Nat! Oh, this is just perfect..."
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed01"
+msgid ""
+"<1.so>It's not too late for my sister, right?\n"
+"Right?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>That was exciting...up until it turned\n"
+"terrifying. <2.pa>Thanks for all your help."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>I'd say I don't know what would have\n"
+"happened to me without you, but I'm\n"
+"pretty sure I do, and I'm glad it didn't."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Let's see...<2.pa> Huh. <3.pa>I'm still in one piece.<4.pa>\n"
+"How about that?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>Just when I was sure I knew how I was\n"
+"going to die... <2.pa>The world is full of\n"
+"surprises. <3.pa>Like you!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>We all have to die someday, but thanks\n"
+"for making sure it wasn't today."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>I don't know your name, but I owe you\n"
+"my life. <2.pa>That's kind of awkward.<3.pa>\n"
+"Um...do you want this?"
+msgstr ""
+

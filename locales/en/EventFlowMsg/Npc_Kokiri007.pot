@@ -1,0 +1,134 @@
+#. 1: sound2
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: raw
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "LookPicture"
+msgid ""
+"<1.so>W-<2.pa>w-<3.pa>wait a minute!<4.pa><5.ra>Is that a real "
+"<6.se_co>Blupee<7.re_co>?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri007_Before_Talk000"
+msgid ""
+"<1.so>How are you, Mr. Hero?\n"
+"I'm doing great!\n"
+"\n"
+"Hey, I might yell for you if I see any\n"
+"monsters around, OK?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: pause (long)
+#. 5: sound
+msgctxt "Npc_Kokiri007_Before_Talk001"
+msgid ""
+"<1.so>Hmm... Hestu hasn't come home yet.\n"
+"\n"
+"\n"
+"<2.so>Have you met Hestu yet, Mr. Hero?\n"
+"\n"
+"\n"
+"He left to go look for Korok seeds, but\n"
+"that was a long time ago.\n"
+"\n"
+"I think he said he was going to\n"
+"Kakariko Village first.\n"
+"\n"
+"<3.so>Hestu gets lost easily,<4.pa> so he could be\n"
+"anywhere.\n"
+"\n"
+"<5.so>If you run into him, please tell him to\n"
+"come back home soon!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri007_Before_Talk002"
+msgid ""
+"<1.so>If any monsters show up, I'm counting on\n"
+"you to save me, Mr. Hero! "
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri007_Before_Talk003"
+msgid ""
+"<1.so>Mr. Hero! If you run into Hestu, please\n"
+"ask him to come home soon!\n"
+"\n"
+"He said he was going to Kakariko Village,\n"
+"but he's very good at getting lost."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: sound
+msgctxt "Npc_Kokiri007_Before_Talk004"
+msgid ""
+"<1.so>Hey, Mr. Hero! Have you seen my friend\n"
+"<2.se_co>Hestu<3.re_co> anywhere?\n"
+"\n"
+"He left to look for Korok seeds, but he's\n"
+"been gone for a while now.\n"
+"\n"
+"I think he said that he was going to a\n"
+"place called Kakariko Village first...\n"
+"\n"
+"<4.so>But Hestu is really good at getting lost,\n"
+"so he could be anywhere.\n"
+"\n"
+"<5.so>If you find him, please ask him to come\n"
+"home soon!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Kokiri007_Before_Talk100"
+msgid ""
+"<1.so>If any monsters show up, I'm counting on\n"
+"you to save me, Mr. Hero! "
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: sound
+#. 6: pause (longer)
+msgctxt "Npc_Kokiri007_FirstTalk000"
+msgid ""
+"<1.so>It's...<2.pa>it's...<3.pa>it's...<4.pa>\n"
+"IT'S MR. HERO!\n"
+"\n"
+"<5.so>YAAAAAAAAY! Mr. Hero came to visit us\n"
+"in the forest! <6.pa>What took you so long?!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Npc_Kokiri007_FirstTalk001"
+msgid ""
+"<1.so>Your <2.se_co>sword <3.re_co>is right over there, Mr. Hero.\n"
+"Go on, now!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Npc_Kokiri007_Talk000"
+msgid ""
+"<1.so>I wonder if <2.se_co>Blupees<3.re_co> sparkle because\n"
+"they're too full of rupees...\n"
+"\n"
+"<4.so>Where did they get all of those rupees\n"
+"anyway? Do they make all the rupees in\n"
+"the world?"
+msgstr ""
+

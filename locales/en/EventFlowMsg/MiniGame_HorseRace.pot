@@ -1,0 +1,537 @@
+msgctxt "0000"
+msgid "Let's do it."
+msgstr ""
+
+msgctxt "0001"
+msgid "How do we play?"
+msgstr ""
+
+msgctxt "0002"
+msgid "No, thanks."
+msgstr ""
+
+msgctxt "0003"
+msgid "Here you go."
+msgstr ""
+
+msgctxt "0004"
+msgid "I'll pass."
+msgstr ""
+
+msgctxt "0005"
+msgid "I'm dropping out."
+msgstr ""
+
+msgctxt "0006"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "0007"
+msgid "No, I'll keep going."
+msgstr ""
+
+msgctxt "0008"
+msgid "No need."
+msgstr ""
+
+msgctxt "Near00"
+msgid "Faster..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Zzz..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "I need some shut-eye."
+msgstr ""
+
+msgctxt "Near03"
+msgid "Why's it always gotta rain?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: pause (short)
+#. 5: pause (long)
+#. 6: pause (short)
+#. 7: choice
+msgctxt "talk00"
+msgid ""
+"<1.so>You a nomad?<2.pa> S'pose you've already\n"
+"seen the horses 'round this prairie, then.<3.ra>I grew up taming horses "
+"'round these\n"
+"parts.<4.pa> I'm confident there's not a rider in\n"
+"Hyrule better'n me.\n"
+"And I got just the way to prove it—a li'l\n"
+"game to test which fella's better in the\n"
+"saddle.<5.pa> One I almost never lose.\n"
+"What do you think?<6.pa> You got the grit to\n"
+"step up and challenge the master?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk01"
+msgid "<1.so>Wanna try to beat my time again?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk02"
+msgid ""
+"<1.so>Great! <2.pa>There's just the little matter of the\n"
+"entry fee. That'll be <3.se_co>20 rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid "<1.so>Good luck!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk05"
+msgid ""
+"<1.so>I thought you had harder bark on you\n"
+"than that.<2.pa> Well, you ever change your\n"
+"mind, come back and see me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk06"
+msgid ""
+"<1.so>Ride your horse around this grassy field<2.pa>\n"
+"while jumping the obstacles."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk07"
+msgid "<1.so>Something eating you?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid ""
+"<1.so>Keep riding until you've got some hearty\n"
+"saddle sores. Lotta work ahead of you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk09"
+msgid ""
+"<1.so>Nice riding, fella!<2.pa> You didn't beat my\n"
+"time, but I'm impressed all the same.\n"
+"Here, this is for your hardworking friend."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk10"
+msgid ""
+"<1.so>Holy smoke, would you look at that?<2.pa>\n"
+"Never thought I'd see the day...<3.ra>But a man's gotta abide by his "
+"word, so\n"
+"here's that <4.se_co>horse gear<5.re_co> I promised."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "talk11"
+msgid ""
+"<1.so>Now that's a good run! You get better\n"
+"every time you ride!<2.ra>Here's that <3.se_co>horse gear<4.re_co> I "
+"promised you.<5.pa>\n"
+"Keep at it, and maybe someday you'll\n"
+"be on my level!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid ""
+"<1.so>Brush up on your skills and take another\n"
+"run at it, all right?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk13"
+msgid ""
+"<1.so>You don't have the dough to race.<2.pa>\n"
+"Come back when you get<3.se_co> 20 rupees<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk14"
+msgid "<1.so>Wanna try again?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk15"
+msgid ""
+"<1.so>Well shoot, fella. You can't enter a horse\n"
+"race without a horse to ride!<2.ra>Go mount up and come back to me when\n"
+"you're serious."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: raw
+msgctxt "talk16"
+msgid ""
+"<1.so>That horse you're riding isn't properly<2.pa>\n"
+"<3.se_co>registered <4.re_co>yet.<5.ra>Go take care of the paperwork at "
+"the\n"
+"stable counter before you come to\n"
+"challenge my best time."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk17"
+msgid ""
+"<1.so>Once you pay the entry fee, you're\n"
+"locked in, so be real sure first.<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk18"
+msgid "<1.so>Giddyap and go! Time's a-wasting!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.so>Well, that's a plumb shame.<2.pa> Come back\n"
+"again sometime, fella!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk20"
+msgid ""
+"<1.so>How about it?<2.pa> You think you got what\n"
+"it takes?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk21"
+msgid ""
+"<1.so>Hah, I knew you'd be back.<2.pa> Come to\n"
+"unseat the champion?<3.ch>"
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "talk22"
+msgid "You made it!<1.pa>"
+msgstr ""
+
+msgctxt "talk23"
+msgid ""
+"You can't finish the race on foot,\n"
+"you clodhopper!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk24"
+msgid ""
+"<1.so>Something eating you? You'll need a full\n"
+"attitude adjustment to beat me!"
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "talk25"
+msgid "Time's up already, fella! <1.pa>Come on back!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk26"
+msgid ""
+"<1.so>I'm in no mood to run the course when\n"
+"its raining. If you want to beat my time,\n"
+"come back when the sun's out."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk27"
+msgid ""
+"<1.so>Nothing's worse than a slippery saddle.<2.pa>\n"
+"Sure hope this rain clears up so I can\n"
+"get some riding in..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk28"
+msgid ""
+"<1.so>Sorry, I'm all tuckered out.<2.pa> 'Sides which,\n"
+"it's too dark to see at night. You won't\n"
+"beat anyone's time that way.\n"
+"Come back tomorrow, and we'll see if\n"
+"you can unseat the reigning horse\n"
+"master then!"
+msgstr ""
+
+msgctxt "talk29"
+msgid "Faster..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk30"
+msgid ""
+"<1.so>Sorry, I'm hitting the hay.<2.pa> Whatever you\n"
+"need, it can wait 'til morning."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk31"
+msgid ""
+"<1.so>Don't dismount your horse, or you're out\n"
+"of the running. <2.pa>Not that you need telling,\n"
+"right?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk32"
+msgid ""
+"<1.so>You still don't miss a trick, do you?<2.pa>\n"
+"I'll have to get up twice as early to put\n"
+"one over on you.\n"
+"I already gave you the\n"
+"<3.se_co>extravagant saddle<4.re_co>, but you\n"
+"can have this instead."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk33"
+msgid ""
+"<1.so>Just who taught you to ride?!<2.pa>\n"
+"You're a firecracker in the saddle, fella!<3.ra>You already got that "
+"<4.se_co>extravagant bridle<5.re_co>,\n"
+"so here, take this instead."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "talk34"
+msgid ""
+"If you can beat my personal best time,\n"
+"I'll give you some mighty fine <1.se_co>horse gear<2.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk35"
+msgid ""
+"<1.so>You might not've beaten my time, fella,\n"
+"but that wasn't bad. <2.pa>Have a consolation\n"
+"prize, and try again sometime!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk36"
+msgid ""
+"<1.so>I'll admit—I'm feeling lowdown after\n"
+"all that. <2.pa>But someday I'll be back on\n"
+"top. You'll see!"
+msgstr ""
+
+#. 1: sound2
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk37"
+msgid ""
+"<1.so>My best time's <2.se_co>1 minute 15 seconds<3.re_co>.\n"
+"Think you can beat that?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (MiniGame_HorseRace_ResultMinute)
+#. 4: variable (MiniGame_HorseRace_ResultSecond)
+#. 5: variable (ScoreStringBuffer)
+#. 6: reset_colour
+#. 7: pause (long)
+msgctxt "talk38"
+msgid "<1.so>Your time was <2.se_co><3.va>:<4.va>.<5.va><6.re_co>, huh...<7.pa>"
+msgstr ""
+
+msgctxt "talk40"
+msgid ""
+"Do well...and there may be a nice prize\n"
+"in it for you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: raw
+#. 5: pause (short)
+msgctxt "talk41"
+msgid ""
+"<1.so>It's an obstacle course,<2.pa> but on\n"
+"horseback!<3.ra>There are 10 obstacles to navigate.\n"
+"Best time wins.<4.ra>If you're not an ace in the saddle when\n"
+"the game starts,<5.pa> I guarantee you'll be\n"
+"one by the time it's through!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk42"
+msgid "<1.so>All right, hunker down and listen up."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk43"
+msgid "<1.so>You need a rundown of the rules?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk44"
+msgid "<1.so>Let's get started! Giddyap!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk45"
+msgid ""
+"<1.so>You'll never make it over life's obstacles\n"
+"without facing them head on. It's the\n"
+"same with this course.<2.pa> Your poor horse..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk46"
+msgid ""
+"<1.so>You can't plow through everything with a\n"
+"gallop and some steel nerves. <2.pa>You've got\n"
+"to adjust your speed to the challenge."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk47"
+msgid ""
+"<1.so>Your horse may balk when you spur it on\n"
+"right in front of an obstacle.<2.pa> I would too!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: pause (short)
+msgctxt "talk48"
+msgid ""
+"There are <1.se_co>10 obstacles<2.re_co>, all told. <3.pa>You\n"
+"don't get to cross the finish line 'til\n"
+"you've jumped them all."
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "talk49"
+msgid ""
+"When you clear the last one, ride back\n"
+"here.<1.pa> Simple, right?"
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "talk50"
+msgid ""
+"You can't just abandon the race!<1.pa> You\n"
+"gotta get back in that saddle!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk51"
+msgid "<1.so>Well, that's a plumb shame."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk52"
+msgid "<1.so>Come back again sometime, fella!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "talk53"
+msgid ""
+"<1.so>See here, fella. This is a HORSE race.<2.pa>\n"
+"If you want in, you gotta be on a horse.<3.pa>\n"
+"Not...whatever's happening here."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "talk54"
+msgid ""
+"Why don't you aim for <1.se_co>1 minute\n"
+"30 seconds <2.re_co>first?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk55"
+msgid ""
+"<1.so>Quick as lightning...<2.pa> I know when I'm\n"
+"beaten. I'll give you that <3.se_co>horse gear<4.re_co>\n"
+"I promised."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk56"
+msgid ""
+"<1.so>The difficult part about this is the fact\n"
+"that you can't just try to recklessly ride\n"
+"as fast as you can.\n"
+"In order to clear the obstacles on the\n"
+"path, you have to be able to control\n"
+"your horse very well."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk57"
+msgid ""
+"<1.so>Oh! Before you go!<2.pa> Remember that it's\n"
+"not all about speed. You must control\n"
+"your horse effectively at all times."
+msgstr ""
+

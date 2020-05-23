@@ -1,0 +1,228 @@
+msgctxt "0000"
+msgid "Voe?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Vai?"
+msgstr ""
+
+msgctxt "Near_Raimei_001"
+msgid "A replica of the helm?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: choice
+msgctxt "Npc_oasis010_001"
+msgid ""
+"<1.so>Wait a...<2.pa> You're a <3.se_co>voe<4.re_co>!<5.pa>\n"
+"<6.se_co>Voe<7.re_co> are forbidden here in <8.se_co>Gerudo "
+"Town<9.re_co>.\n"
+"Only <10.se_co>vai<11.re_co> are allowed inside!<12.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Npc_oasis010_002"
+msgid ""
+"<1.so><2.se_co>Voe<3.re_co>! Are you still here?! I told you, only\n"
+"<4.se_co>vai<5.re_co> are allowed inside!<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: choice
+msgctxt "Npc_oasis010_003"
+msgid ""
+"<1.so>We don't get a lot of Hylian <2.se_co>vai<3.re_co> around\n"
+"here. Welcome to Gerudo Town.\n"
+"\n"
+"It is an old tradition here that only <4.se_co>vai<5.re_co>\n"
+"are allowed within the walls. <6.se_co>Voe<7.re_co> are\n"
+"strictly forbidden. Take your time here.<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Npc_oasis010_004"
+msgid ""
+"<1.so>I will not let a single <2.se_co>voe<3.re_co> pass, even if\n"
+"it was a mere ant. But you are fine.\n"
+"Please relax and enjoy your time here.<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis010_009"
+msgid ""
+"<1.so>When I say \"<2.se_co>voe<3.re_co>,\" I mean \"man,\"\n"
+"obviously!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis010_010"
+msgid ""
+"<1.so>When I say \"<2.se_co>vai<3.re_co>,\" I mean \"woman,\"\n"
+"obviously!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_oasis010_011"
+msgid ""
+"<1.so>Here's a tip:<2.pa> if you stop by the canteen,\n"
+"do yourself a favor and order a\n"
+"<3.se_co>Noble Pursuit<4.re_co>.\n"
+"It's hands down the best drink I've ever\n"
+"had."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis010_012"
+msgid ""
+"<1.so><2.se_co>Vai<3.re_co> is a word in the Gerudo language\n"
+"that means \"woman.\""
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis010_013"
+msgid ""
+"<1.so><2.se_co>Voe<3.re_co> is a word in the Gerudo language\n"
+"that means \"man.\""
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis010_014"
+msgid "<1.so>All <2.se_co>voe<3.re_co> must leave at once!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Npc_oasis010_015"
+msgid ""
+"<1.so>You don't even know the difference\n"
+"between <2.se_co>voe<3.re_co> and <4.se_co>vai<5.re_co>, and you're "
+"trying\n"
+"to enter town?!<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: choice
+msgctxt "Npc_oasis010_016"
+msgid ""
+"<1.so>There are many other Gerudo words,<2.pa>\n"
+"and it would help to learn them if you\n"
+"plan on entering Gerudo Town.\n"
+"<3.so>But you should at least remember <4.se_co>voe<5.re_co>\n"
+"and <6.se_co>vai<7.re_co>.<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis010_017"
+msgid "<1.so><2.so>Sav'aaq."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis010_018"
+msgid "<1.so><2.so>Sav'otta."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis010_019"
+msgid "<1.so><2.so>Sav'saaba."
+msgstr ""
+
+#. 1: sound
+msgctxt "Sinjyu_Female_001"
+msgid ""
+"<1.so>Our chief has finally done it. It's been a\n"
+"long time since I've seen the desert as\n"
+"peaceful as this...\n"
+"And now that I've refreshed myself, I\n"
+"can really buckle down and get back to\n"
+"living my life!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Sinjyu_Normal_001"
+msgid ""
+"<1.so>At last, our chief has finally done it!\n"
+"The desert is once again peaceful!\n"
+"\n"
+"Everyone can safely travel across the\n"
+"desert without a worry in the world!\n"
+"\n"
+"<2.so>Even you! Yes, you! Stop lingering\n"
+"around here—get out, traverse the\n"
+"desert, and go home!"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "I'll pay you back!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "Is it a fight you want?!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "Nwahhh!"
+msgstr ""
+
+msgctxt "TerrorFire"
+msgid "Stop!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "You got some nerve!"
+msgstr ""
+

@@ -1,0 +1,87 @@
+#. 1: raw
+#. 2: raw
+msgctxt "FldObj_BoneWhale_A_01_Far_Name"
+msgid "<1.ra>かせきくじら化石鯨A_01(<2.ra>じどう自動Far)"
+msgstr ""
+
+msgctxt "FldObj_BoneWhale_A_01_Name"
+msgid "Leviathan (Desert)"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "FldObj_BoneWhale_A_02_Far_Name"
+msgid "<1.ra>かせきくじら化石鯨A_02(<2.ra>じどう自動Far)"
+msgstr ""
+
+msgctxt "FldObj_BoneWhale_A_02_Name"
+msgid "Leviathan (Ice Cave)"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "FldObj_BoneWhale_A_03_Far_Name"
+msgid "<1.ra>かせきくじら化石鯨A_03(<2.ra>じどう自動Far)"
+msgstr ""
+
+msgctxt "FldObj_BoneWhale_A_03_Name"
+msgid "Leviathan (Volcano)"
+msgstr ""
+
+msgctxt "FldObj_RuinStatueKnightSword_B_01_Name"
+msgid "Forgotten Sword"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+msgctxt "FldObj_RuinStatueKnight_SnowMT_01_Far_Name"
+msgid "<1.ra>ゆきやま雪山の<2.ra>きしぞう騎士像(<3.ra>じどう自動Far)"
+msgstr ""
+
+msgctxt "FldObj_RuinStatueKnight_SnowMT_01_Name"
+msgid "Eighth Heroine Statue"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_A_01_Far_Name"
+msgid "Great fairy fountain (Automatic far)"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_A_01_Name"
+msgid "Great Fairy Fountain"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_B_01_Far_Name"
+msgid ""
+"Armor-improving fairy fountain (SHIIZA;//)(Automatically created far "
+"actor)"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_B_01_Name"
+msgid "Great Fairy Fountain"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_C_01_Far_Name"
+msgid "Armor-improving fairy fountain (MIJAA;//)(Automatically created far actor)"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_C_01_Name"
+msgid "Great Fairy Fountain"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_D_01_Far_Name"
+msgid "Armor-improving fairy fountain (TEERA;//)(Automatically created far actor)"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_D_01_Name"
+msgid "Great Fairy Fountain"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_E_01_Far_Name"
+msgid "Horse-reviving fairy fountain (Marlon;//)(Automatically created far actor)"
+msgstr ""
+
+msgctxt "TwnObj_FairySpring_E_01_Name"
+msgid "Malanya's Fountain"
+msgstr ""
+

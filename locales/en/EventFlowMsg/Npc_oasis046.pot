@@ -1,0 +1,352 @@
+msgctxt "0001"
+msgid "Buy from me?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0005"
+msgid "Meat."
+msgstr ""
+
+msgctxt "0006"
+msgid "Vegetables."
+msgstr ""
+
+msgctxt "5500"
+msgid "OK."
+msgstr ""
+
+msgctxt "5501"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5508"
+msgid "All of them."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_00"
+msgid "<1.so>Sure! What have you got?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_01"
+msgid "<1.so>How's <2.se_co><3.va> rupees<4.re_co> sound?<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02"
+msgid "<1.so>Tank you!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02b"
+msgid "<1.so>Tank you for your patronage."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02c"
+msgid "<1.so>Tank you very much."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02d"
+msgid "<1.so>Sarqso! Oh...darn..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_04"
+msgid "<1.so>What? You changed your mind?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05"
+msgid ""
+"<1.so>You sure there isn't anything else you'd\n"
+"like to sell?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05b"
+msgid "<1.so>Sell me all you got!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05c"
+msgid "<1.so>I'll buy it all."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05d"
+msgid ""
+"<1.so>Take a good look! You sure there isn't\n"
+"anything else you'd like to sell?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Com_Talk_13"
+msgid "<1.so>How many?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"<1.so>That's <2.va> of them, you said?\n"
+"OK, then... How's <3.se_co><4.va> rupees<5.re_co> sound?<6.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_15"
+msgid ""
+"<1.so>I'm prepared to buy almost anything\n"
+"from you—almost. Don't you have\n"
+"anything else?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>Wait, wait, wait. It wouldn't be sanitary\n"
+"for me to take the clothes right off your\n"
+"body!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_33"
+msgid ""
+"<1.so>Just one, right?<2.pa> Let's say <3.se_co><4.va> "
+"rupees<5.re_co>.<6.ch>"
+msgstr ""
+
+#. 1: variable (Shop_TradeItemNum)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"Oh, all <1.va> of them?\n"
+"I'll buy them for <2.se_co><3.va> rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_50"
+msgid "<1.so>Wanna buy that for <2.se_co><3.va> rupees<4.re_co>?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Com_Talk_53"
+msgid ""
+"<1.so>Hey!<2.pa> Is this some kind of haggling\n"
+"technique? Are you pretending not to\n"
+"be interested so I'll lower the price?"
+msgstr ""
+
+msgctxt "Near001"
+msgid "Willcome!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_01"
+msgid ""
+"<1.so>Good mauning!\n"
+"\n"
+"\n"
+"What do you eat for breakfast?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_03"
+msgid "<1.so>Tank you! Good-bye!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_06"
+msgid "<1.so>Sarqso...<2.pa> Wait, I mean tank you!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_07"
+msgid ""
+"<1.so>Enjoy! I'll grill some more and restock\n"
+"later."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_10"
+msgid ""
+"<1.so>Good ebbning!\n"
+"\n"
+"\n"
+"What do you eat for dinner?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_12"
+msgid ""
+"<1.so>Good effernoon!\n"
+"\n"
+"\n"
+"What do you eat for lunch?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: text_size
+#. 5: text_size
+msgctxt "Talk_13"
+msgid ""
+"<1.so>That Rito vai keeps shooting me the\n"
+"stink eye... Does she have something\n"
+"against meat?<2.pa>\n"
+"<3.so><4.te_si>No, that's impossible...<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_14"
+msgid "<1.so>Good choice! You've got great taste!<2.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: text_size
+#. 5: text_size
+#. 6: pause (longer)
+#. 7: choice
+msgctxt "Talk_15"
+msgid ""
+"<1.te_si><2.so><3.te_si>You must mean... <4.te_si>Meat!!!<5.te_si><6.pa>\n"
+"\n"
+"\n"
+"That's what you meant, right?\n"
+"Because it's so good!<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: choice
+msgctxt "Talk_16"
+msgid ""
+"<1.so>Hey there, customer!<2.pa>\n"
+"Feeling so good now that the beast\n"
+"is calm. <3.pa>Sarq—I mean tanks again!<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_17"
+msgid ""
+"<1.so>I once traveled across all of Hyrule,\n"
+"searching for the best meats ever.\n"
+"\n"
+"I learned some of the correct ways to say\n"
+"common Hylian words. Just the basics,\n"
+"like \"tank you\" and \"good mauning.\"\n"
+"Pretty amazing, huh?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_18"
+msgid "<1.so>Good purchases, one and all!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_19"
+msgid "<1.so>Tank you very much."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_20"
+msgid "<1.so>Good mauning!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_21"
+msgid "<1.so>Hi-low!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_22"
+msgid "<1.so>Good ebbning!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_23"
+msgid ""
+"<1.so>Hey there, have you heard?\n"
+"\n"
+"\n"
+"It looks like our chief was able to calm\n"
+"<2.se_co>Naboris<3.re_co> down! She may be small, but\n"
+"she's still really something else.\n"
+"I bet the secret to her training is eating\n"
+"a lot of meat.\n"
+"\n"
+"If you ate a lot of meat, I think you'd\n"
+"have the same secret strength as\n"
+"the <4.se_co>chief<5.re_co>!\n"
+"I'm pretty sure that's true, anyway!<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_24"
+msgid ""
+"<1.so>Hey there, have you heard?\n"
+"\n"
+"\n"
+"It looks like our chief was able to calm\n"
+"<2.se_co>Naboris<3.re_co> down! She may be small, but\n"
+"she's still really something else.\n"
+"I bet the secret to her training is eating\n"
+"a lot of meat.\n"
+"\n"
+"We're always getting new stock in. If you\n"
+"ate a lot of meat, I think you'd have the\n"
+"same secret strength as the <4.se_co>chief<5.re_co>!\n"
+"I'm pretty sure that's true, anyway!<6.ch>"
+msgstr ""
+

@@ -1,0 +1,116 @@
+#. 1: raw
+msgctxt "Demo126_0_Text004"
+msgid ""
+"And if you ask me, the whole thing does\n"
+"seem to be overkill.<1.ra>I think I'm on the same page as the princess\n"
+"regarding...this boy."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo126_0_Text006"
+msgid ""
+"Oh, give it a rest.<1.ra>That boy is a living reminder of her own "
+"failures."
+msgstr ""
+
+msgctxt "Demo126_0_Text007"
+msgid "Well, at least that's how the princess sees him."
+msgstr ""
+
+msgctxt "Demo126_0_Text015"
+msgid "Wasn't this your idea?"
+msgstr ""
+
+msgctxt "Demo126_0_Text024"
+msgid ""
+"Hero of Hyrule, chosen by the sword \n"
+"that seals the darkness..."
+msgstr ""
+
+msgctxt "Demo126_0_Text025"
+msgid ""
+"You have shown unflinching bravery and\n"
+"skill in the face of darkness and adversity."
+msgstr ""
+
+msgctxt "Demo126_0_Text026"
+msgid ""
+"And have proven yourself worthy of\n"
+"the blessings of the Goddess Hylia."
+msgstr ""
+
+msgctxt "Demo126_0_Text027"
+msgid ""
+"Whether skyward bound, adrift in time, or steeped\n"
+"in the glowing embers of twilight..."
+msgstr ""
+
+msgctxt "Demo126_0_Text028"
+msgid ""
+"The sacred blade is forever\n"
+"bound to the soul of the Hero."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo126_0_Text029"
+msgid ""
+"We pray for your protection...and we hope that—<1.ra>that the two of you "
+"will grow stronger\n"
+"together, as one."
+msgstr ""
+
+msgctxt "Demo126_0_Text030"
+msgid " "
+msgstr ""
+
+msgctxt "Demo126_0_Text031"
+msgid ""
+"Forged in the long-distant past, the sword\n"
+"that seals the darkness..."
+msgstr ""
+
+msgctxt "Demo126_0_Text032"
+msgid ""
+"Guardian of Hyrule, ancient steel, forever\n"
+"bound to the hero."
+msgstr ""
+
+msgctxt "Demo126_0_Text033"
+msgid ""
+"In the name of Goddess Hylia, I bless you\n"
+"and your chosen hero."
+msgstr ""
+
+msgctxt "Demo126_0_Text034"
+msgid ""
+"Over the seas of time and distance, when we need\n"
+"the golden power of the Goddess..."
+msgstr ""
+
+msgctxt "Demo126_0_Text035"
+msgid ""
+"Our hope rests in you, to be forever by the\n"
+"hero's side."
+msgstr ""
+
+msgctxt "Demo126_0_Text036"
+msgid ""
+"Again we pray...that the two of you will grow\n"
+"stronger...and be together as one."
+msgstr ""
+
+msgctxt "Demo126_0_Text037"
+msgid "Gee, this is uplifting..."
+msgstr ""
+
+msgctxt "Demo126_0_Text038"
+msgid "She's making it sound like we already lost."
+msgstr ""
+
+msgctxt "Demo126_0_Text039"
+msgid ""
+"You're the one who wanted to designate the\n"
+"appointed knight with all the ceremonial pomp,\n"
+"grandeur, and nonsense we could muster!"
+msgstr ""
+

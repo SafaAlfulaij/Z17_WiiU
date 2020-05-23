@@ -1,0 +1,97 @@
+msgctxt "0000"
+msgid "That's right."
+msgstr ""
+
+msgctxt "0001"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Believe in yourself!"
+msgstr ""
+
+msgctxt "0003"
+msgid "Try another pond."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk00"
+msgid "<1.so>You here to meet your soul mate too?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: raw
+#. 5: sound
+#. 6: raw
+msgctxt "talk02"
+msgid ""
+"<1.so>Yeah, same.<2.ra><3.so>There's just one "
+"problem...<4.ra><5.so>Nobody's shown up yet.<6.ra>I thought this was the "
+"\"sweetheart's\n"
+"pond\" everyone talks about, but maybe\n"
+"I'm in the wrong place?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+#. 5: raw
+#. 6: sound
+#. 7: raw
+msgctxt "talk03"
+msgid ""
+"<1.so>Hey, don't be shy. <2.pa>I'm here for the same\n"
+"reason, after all. <3.pa>Why else would anyone\n"
+"come all the way out here?\n"
+"<4.so>To be honest, though, I've been waiting\n"
+"for a pretty long time, and...well...<5.ra><6.so>Nobody's shown up "
+"yet.<7.ra>I thought this was the \"sweetheart's\n"
+"pond\" everyone talks about, but maybe\n"
+"I'm in the wrong place?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: choice
+msgctxt "talk04"
+msgid ""
+"<1.so>Where's that special someone I've been\n"
+"waiting for?<2.pa> Is this a sign?<3.pa> Should I put\n"
+"myself out there more?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: sound
+msgctxt "talk05"
+msgid ""
+"<1.so>Are you trying to cheer me up?<2.ra><3.so>Because don't worry about"
+" me! My mom\n"
+"always said, \"You can do anything you\n"
+"put your mind to, Mimos.\"\n"
+"<4.so>Anyway, what about you? Putting your\n"
+"faith in some silly legend won't make the\n"
+"ladies come calling!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (longer)
+msgctxt "talk06"
+msgid "<1.so>Hmm. Hmmmmm...<2.ra><3.so>You really think that'll help?<4.pa>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk07"
+msgid ""
+"<1.so>You must really be hungry for love,\n"
+"coming out here in this weather."
+msgstr ""
+

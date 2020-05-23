@@ -1,0 +1,25 @@
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "QL_FairyFountain_Desc"
+msgid ""
+"Pikango really wants to see the entrancing\n"
+"<1.se_co>Great Fairy Fountain<2.re_co> behind Kakariko Village,\n"
+"but all of his efforts to search for it have been\n"
+"stymied.\n"
+"\n"
+"If you find the fountain, surely Pikango would\n"
+"appreciate proof of its location."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_FairyFountain_Finish"
+msgid ""
+"You took a <1.se_co>picture <2.re_co>of the Great Fairy Fountain\n"
+"Pikango was looking for and showed it to him."
+msgstr ""
+
+msgctxt "QL_FairyFountain_Name"
+msgid "Find the Fairy Fountain"
+msgstr ""
+

@@ -1,0 +1,26 @@
+msgctxt "Near_Raimei_001"
+msgid "So jealous..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk00"
+msgid ""
+"<1.so>Halt!<2.pa>\n"
+"This isn't a place someone like you can\n"
+"walk in and out of whenever you like!\n"
+"If you don't want me to skewer you right\n"
+"here, you'd better leave at once!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk01"
+msgid ""
+"<1.so>You've got permission to enter\n"
+"the <2.se_co>chief<3.re_co>'s bedroom?!\n"
+"\n"
+"Who ARE you?"
+msgstr ""
+

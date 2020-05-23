@@ -1,0 +1,108 @@
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (longer)
+#. 7: sound
+#. 8: text_size
+#. 9: set_colour (grey)
+#. 10: pause (long)
+#. 11: reset_colour
+#. 12: text_size
+#. 13: set_colour (grey)
+#. 14: pause (long)
+#. 15: reset_colour
+msgctxt "talk00"
+msgid ""
+"<1.so>Since you're a traveler, you should\n"
+"probably know this:\n"
+"\n"
+"On the other side of <2.se_co>Mount Drena<3.re_co>,\n"
+"northeast of this stable, there are\n"
+"<4.se_co>ruins that are dark even during the day<5.re_co>!\n"
+"I've never met anyone who's been in\n"
+"there, so either no one has ever gone\n"
+"in...or no one has ever come out!\n"
+"Or maybe I just haven't met everyone\n"
+"yet...<6.pa> But in any case, you'd best forget\n"
+"about going in there!\n"
+"<7.so><8.te_si><9.se_co>You should probably stay here forever just to be\n"
+"safe.<10.pa> Teehee!<11.re_co><12.te_si><13.se_co><14.pa><15.re_co>"
+msgstr ""
+
+#. 1: pause (long)
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (short)
+#. 8: sound
+#. 9: set_colour (grey)
+#. 10: text_size
+#. 11: pause (long)
+#. 12: pause (long)
+#. 13: text_size
+#. 14: reset_colour
+msgctxt "talk01"
+msgid ""
+"It's just common sense that traveling\n"
+"dark roads at night is dangerous!<1.pa>\n"
+"\n"
+"But on the other side of <2.se_co>Mount Drena<3.re_co>,\n"
+"northeast of this stable, there are\n"
+"<4.se_co>ruins that are dark even during the day<5.re_co>!\n"
+"<6.so>But no one who has gone there has\n"
+"ever come back!<7.pa> So you'd best forget\n"
+"about going there!\n"
+"<8.so><9.se_co><10.te_si>You could always...stay here with me "
+"forever.<11.pa>\n"
+"Teehee...<12.pa><13.te_si><14.re_co>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (grey)
+#. 7: text_size
+#. 8: text_size
+#. 9: reset_colour
+msgctxt "talk02"
+msgid ""
+"Nothing to do in this weather but stay\n"
+"here at <1.se_co>Serenne Stable <2.re_co>and relax.\n"
+"\n"
+"That's probably why these <3.se_co>leviathan<4.re_co>\n"
+"researchers are here at the stable.\n"
+"\n"
+"<5.so><6.se_co><7.te_si>And because they TOTALLY have a thing for me...\n"
+"Teehee!<8.te_si><9.re_co>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>Oh, my! This weather is dreadful!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid ""
+"<1.so>Oh, my! Good seeing you so late at\n"
+"night!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk05"
+msgid ""
+"<1.so>Oh, my, you must be tired from your long\n"
+"trip!\n"
+"\n"
+"Are you another of those <2.se_co>leviathan<3.re_co>\n"
+"researchers? You don't look the type."
+msgstr ""
+

@@ -1,0 +1,11 @@
+#. 1: raw
+msgctxt "Demo160_0_Text000"
+msgid ""
+"Watch yourself now! That ugly pain in the crag\n"
+"is Ganon's handiwork. <1.ra>Thing got the best of me a hundred years ago."
+msgstr ""
+
+msgctxt "Demo160_0_Text001"
+msgid "Good luck, little guy! Go get 'im!"
+msgstr ""
+

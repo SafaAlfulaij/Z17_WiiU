@@ -1,0 +1,102 @@
+msgctxt "talk000"
+msgid "Careful! That spear has a long reach."
+msgstr ""
+
+msgctxt "talk010"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "talk011"
+msgid "It's working!"
+msgstr ""
+
+msgctxt "talk012"
+msgid "Keep it up!"
+msgstr ""
+
+msgctxt "talk020"
+msgid "Be cautious."
+msgstr ""
+
+msgctxt "talk021"
+msgid "Take care, now..."
+msgstr ""
+
+msgctxt "talk022"
+msgid "Are you OK?!"
+msgstr ""
+
+msgctxt "talk030"
+msgid "That foe is quite strong."
+msgstr ""
+
+msgctxt "talk031"
+msgid "Protect yourself."
+msgstr ""
+
+msgctxt "talk032"
+msgid "Careful of its attacks."
+msgstr ""
+
+msgctxt "talk040"
+msgid "Attack!"
+msgstr ""
+
+msgctxt "talk041"
+msgid "Now's your chance!"
+msgstr ""
+
+msgctxt "talk042"
+msgid "Go! Now!"
+msgstr ""
+
+msgctxt "talk050"
+msgid "You must heal..."
+msgstr ""
+
+msgctxt "talk051"
+msgid "I wish I could do more..."
+msgstr ""
+
+msgctxt "talk052"
+msgid "Can you heal yourself?"
+msgstr ""
+
+msgctxt "talk060"
+msgid "Careful...not much room to operate."
+msgstr ""
+
+msgctxt "talk070"
+msgid "That's it!"
+msgstr ""
+
+msgctxt "talk071"
+msgid "Amazing, Link!"
+msgstr ""
+
+msgctxt "talk072"
+msgid "Well done!"
+msgstr ""
+
+msgctxt "talk080"
+msgid "Defend yourself against those ice blocks."
+msgstr ""
+
+msgctxt "talk081"
+msgid "Can you break those ice blocks?"
+msgstr ""
+
+msgctxt "talk082"
+msgid ""
+"If only you could use the ice\n"
+"as a weapon..."
+msgstr ""
+
+msgctxt "talk100"
+msgid "It is my pleasure..."
+msgstr ""
+
+msgctxt "talk131"
+msgid "Mipha's Grace is ready."
+msgstr ""
+

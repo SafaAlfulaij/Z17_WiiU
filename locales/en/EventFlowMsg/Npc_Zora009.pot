@@ -1,0 +1,153 @@
+msgctxt "0003"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0010"
+msgid "Marot Mart?"
+msgstr ""
+
+msgctxt "0011"
+msgid "The general store?"
+msgstr ""
+
+msgctxt "0012"
+msgid "The workshop?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "near00"
+msgid "<1.so>Welcome!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid "<1.so>Good morning!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Good day!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Good evening!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>♪Welcome to Marot Mart!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk04"
+msgid ""
+"<1.so>This is where you'll find our general\n"
+"store, the Coral Reef. <2.pa>Our workshop,\n"
+"the Hammerhead, is also here."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Yes, yes!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk06"
+msgid "<1.so>Do you need me for something?<2.ra>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk07"
+msgid "<1.so>See ya later!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk08"
+msgid ""
+"<1.so>♪Yep!♪\n"
+"\n"
+"\n"
+"The general store and the workshop...\n"
+"They're the best shops EVER!<2.pa>\n"
+"And together they're caaaaalled..."
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: sound
+#. 4: animation
+#. 5: pause (long)
+#. 6: text_size
+#. 7: sound
+#. 8: text_size
+msgctxt "talk09"
+msgid ""
+"<1.so><2.an>♪Marot Mart!♪\n"
+"\n"
+"\n"
+"<3.so><4.an>♪Marot Maaaaaart!<5.pa>\n"
+"La de da de daaa!♪\n"
+"\n"
+"<6.te_si><7.so>♪LA DEE DAAAAA!♪<8.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk10"
+msgid "<1.so>That's my theme song!<2.pa> Isn't it cute?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk11"
+msgid ""
+"<1.so>The old man in the workshop, his name\n"
+"is Dento...<2.pa> He's my grandpa!\n"
+"\n"
+"He's the one who fixed Mipha's weapon,<3.pa>\n"
+"the <4.se_co>Lightscale Trident<5.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk12"
+msgid ""
+"<1.so>Our general store has been in business\n"
+"for over 100 years.<2.pa> It has a long and\n"
+"honorable history.\n"
+"The shopkeep, Cleff, is really serious.<3.pa>\n"
+"But his younger sister, Tona, is head\n"
+"over fins for Prince Sidon! Kee hee!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk13"
+msgid ""
+"<1.so>Is there anything else you'd like to\n"
+"ask me?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "talk14"
+msgid ""
+"<1.so>You want me to sing again?! <2.pa>Kee hee...<3.pa>\n"
+"♪You got it!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk15"
+msgid "<1.so>Or...do you need something else?<2.ra>"
+msgstr ""
+

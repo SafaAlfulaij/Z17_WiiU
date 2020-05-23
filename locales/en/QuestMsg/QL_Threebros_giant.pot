@@ -1,0 +1,25 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Threebros_giant_Desc"
+msgid ""
+"The ancient spheres guarded by the\n"
+"Mount Taran sentinels shall lead you to\n"
+"the hero's trial.\n"
+"\n"
+"Could the <1.se_co>giants <2.re_co>who inhabit the area hold\n"
+"the key to unlocking the trial?"
+msgstr ""
+
+msgctxt "QL_Threebros_giant_Finish"
+msgid ""
+"The three Hinox brothers living on Mount Taran\n"
+"each had an orb hanging from their neck.\n"
+"\n"
+"Offering these orbs to the matching pedestals\n"
+"caused an ancient shrine to appear."
+msgstr ""
+
+msgctxt "QL_Threebros_giant_Name"
+msgid "The Three Giant Brothers"
+msgstr ""
+

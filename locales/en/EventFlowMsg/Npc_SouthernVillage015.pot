@@ -1,0 +1,40 @@
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Lady00"
+msgid ""
+"<1.so>Hehehe...<2.pa> Getting a present from a voe\n"
+"made me much happier than I thought it\n"
+"would.\n"
+"...Huh?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Lady01"
+msgid ""
+"<1.so>Oh! You're still here!\n"
+"\n"
+"\n"
+"<2.so>I really owe you for helping out my voe.\n"
+"It's true that he's more than a bit on the \n"
+"shy, nervous side...\n"
+"That's nothing a little push in the right\n"
+"direction can't solve, though!\n"
+"\n"
+"I hope you get to meet your true love\n"
+"soon, like I did!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Lady02"
+msgid ""
+"<1.so>Hehehe...<2.pa> Getting a present from a voe\n"
+"made me much happier than I thought it\n"
+"would.\n"
+"I need to keep it from getting wet in\n"
+"the rain.\n"
+"\n"
+"...Huh?"
+msgstr ""
+

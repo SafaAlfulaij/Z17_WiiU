@@ -1,0 +1,23 @@
+msgctxt "QL_SeekerEye_Desc"
+msgid ""
+"Geggle at the Tabantha Bridge Stable thinks\n"
+"that a certain section of the cliff face in the\n"
+"distance looks man-made.\n"
+"\n"
+"Just what could be hiding there?"
+msgstr ""
+
+msgctxt "QL_SeekerEye_Finish"
+msgid ""
+"When you tried going to the spot that Geggle\n"
+"pointed out to you, you noticed a design\n"
+"etched into the cliff.\n"
+"\n"
+"When you shot a shock arrow at the center of\n"
+"the image, an ancient shrine appeared!"
+msgstr ""
+
+msgctxt "QL_SeekerEye_Name"
+msgid "Cliffside Etchings"
+msgstr ""
+

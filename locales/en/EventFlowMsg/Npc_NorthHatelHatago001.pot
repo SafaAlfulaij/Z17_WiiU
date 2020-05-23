@@ -1,0 +1,76 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk000"
+msgid ""
+"<1.so>Ahh, I feel a little refreshed.\n"
+"\n"
+"\n"
+"Anyway, I guess it's time I went back in.<2.pa>\n"
+"Ugh... <3.pa>That place is so filthy and women\n"
+"free, it might as well be called a manfill."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk001"
+msgid ""
+"<1.so>If you want to learn about the area, you\n"
+"should go talk to Ami.\n"
+"\n"
+"It's so nice to have a little brother who\n"
+"can really pull his weight!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk002"
+msgid ""
+"<1.so>What? I'm not slacking off! I'm just\n"
+"checking to see if anything got\n"
+"dropped accidentally."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk003"
+msgid ""
+"<1.so>Don't get the wrong idea! I'm not\n"
+"slacking off. <2.pa>I'm just checking to see if\n"
+"anything useful is lying around!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk004"
+msgid ""
+"<1.so>There could be something useful just...<2.pa>\n"
+"abandoned in busted wagons on the\n"
+"main roads, even."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk005"
+msgid ""
+"<1.so>I hope the sun comes out soon...\n"
+"\n"
+"\n"
+"I bet all the men coming into the stable\n"
+"will track dirt in,<2.pa> making a filthy place\n"
+"even worse..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk030"
+msgid "<1.so>Urk!<2.pa> Your skin! It's<3.pa>...too bright..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "talk100"
+msgid "<1.so>Hmm?<2.pa> Ah...<3.pa> I wasn't sleeping. <4.pa>I wasn't..."
+msgstr ""
+

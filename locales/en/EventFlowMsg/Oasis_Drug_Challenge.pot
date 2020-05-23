@@ -1,0 +1,132 @@
+msgctxt "0000"
+msgid "Here's an elixir."
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "An elixir?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "near00"
+msgid "What am I going to do?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "talk00"
+msgid ""
+"<1.so>I wish somebody had mentioned the\n"
+"crazy heat before I came all the way\n"
+"out here...\n"
+"It's so hot at midday, it's impossible\n"
+"to make it to <2.se_co>Gerudo Town<3.re_co> unaided!\n"
+"\n"
+"I should have made one of those<4.se_co> elixirs\n"
+"that stave off the heat <5.re_co>of the desert.<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk01"
+msgid "<1.so>Oh?<2.pa> Could it be?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (longer)
+#. 5: pause (longer)
+msgctxt "talk02"
+msgid ""
+"<1.so>...<2.pa>\n"
+"\n"
+"\n"
+"<3.so>Oh?<4.pa>\n"
+"Could it be?<5.pa>\n"
+"\n"
+"Fine, then."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid ""
+"<1.so>Thank you! Now I can get across the\n"
+"desert while it's still light out!\n"
+"\n"
+"Here, let me give you something in\n"
+"return."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (red)
+#. 12: reset_colour
+#. 13: text_size
+#. 14: set_colour (grey)
+#. 15: reset_colour
+#. 16: text_size
+msgctxt "talk04"
+msgid ""
+"<1.se_co><2.so><3.re_co>Yeah, I heard that you can make a\n"
+"<4.se_co>cooling elixir <5.re_co>from <6.se_co>certain bugs and\n"
+"monster materials<7.re_co>.\n"
+"<8.so>But they don't sell the stuff anywhere,\n"
+"and I'm a lousy cook.\n"
+"\n"
+"I hear the best place to find <9.se_co>bugs with\n"
+"cooling effects<10.re_co> is in the <11.se_co>colder heights of\n"
+"the Gerudo Highlands<12.re_co>.\n"
+"But there are monsters there...\n"
+"\n"
+"\n"
+"<13.te_si><14.se_co>Too bad I'm allergic to monster "
+"punches...<15.re_co><16.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+#. 4: set_colour (grey)
+#. 5: text_size
+#. 6: text_size
+#. 7: reset_colour
+msgctxt "talk05"
+msgid ""
+"<1.so>Nights in the desert are cool and breezy.\n"
+"Such a nice break from the oppressive\n"
+"heat...\n"
+"But the night...<2.pa> It's kinda scary...<3.pa>\n"
+"\n"
+"\n"
+"<4.se_co><5.te_si>I'm afraid of the dark...<6.te_si><7.re_co>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk06"
+msgid ""
+"<1.so>By the way, in Gerudo, \"thank you\" is\n"
+"\"sarqso.\"\n"
+"\n"
+"SARQSO!"
+msgstr ""
+

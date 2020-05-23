@@ -1,0 +1,45 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt_touzoku01_Desc"
+msgid ""
+"The royal family of Hyrule collected historically\n"
+"significant outfits, but they were stolen by a\n"
+"bandit named Misko. One of the items stolen\n"
+"was an ancient mask.\n"
+"\n"
+"There's a journal that places the location of this\n"
+"treasure somewhere in the <1.se_co>Outpost Ruins<2.re_co>..."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt_touzoku01_Finish"
+msgid ""
+"\"The ancient mask lies at the ruins where\n"
+"soldiers gathered. From there, the waters\n"
+"of Lake Kolomo are visible.\"\n"
+"\n"
+"You found the treasure that was hidden\n"
+"at Kolomo Garrison Ruins and obtained\n"
+"<1.se_co>Majora's Mask<2.re_co>!"
+msgstr ""
+
+msgctxt "QL_TreasureHunt_touzoku01_Name"
+msgid "EX Treasure: Ancient Mask"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_TreasureHunt_touzoku01_Step01"
+msgid ""
+"\"The ancient mask lies <1.se_co>at the ruins where\n"
+"soldiers gathered<2.re_co>. From there, <3.se_co>the waters\n"
+"of Lake Kolomo are visible<4.re_co>.\"\n"
+"\n"
+"Misko's EX Journal gives the location of\n"
+"the ancient mask...but where could it be\n"
+"talking about?"
+msgstr ""
+

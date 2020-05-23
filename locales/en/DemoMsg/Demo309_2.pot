@@ -1,0 +1,13 @@
+msgctxt "Demo309_2_Text000"
+msgid " "
+msgstr ""
+
+msgctxt "Demo309_2_Text001"
+msgid " "
+msgstr ""
+
+#. 1: pause (longer)
+msgctxt "Text_00"
+msgid "You found the location of all 12 pictures!<1.pa>"
+msgstr ""
+

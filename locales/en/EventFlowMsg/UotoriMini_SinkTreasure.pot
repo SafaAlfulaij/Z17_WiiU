@@ -1,0 +1,132 @@
+msgctxt "0000"
+msgid "I'm on it!"
+msgstr ""
+
+msgctxt "0001"
+msgid "I'm busy."
+msgstr ""
+
+msgctxt "Near01"
+msgid "*yawn...*"
+msgstr ""
+
+msgctxt "Near02"
+msgid "Nice winds today."
+msgstr ""
+
+msgctxt "Near03"
+msgid "Rain, rain, go away..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "Maybe I'll go to bed."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "talk02"
+msgid ""
+"<1.so>You really found it?!<2.pa> Ho ho! Incredible!\n"
+"After all these years, people still manage\n"
+"to surprise me.\n"
+"You know, there might be some <3.se_co>treasure<4.re_co>\n"
+"that yet sleeps in this ocean. <5.pa>A diligent\n"
+"boy like you could get rich finding it...\n"
+"May all your delving end in gold!"
+msgstr ""
+
+msgctxt "talk04"
+msgid "Zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: choice
+msgctxt "talk05"
+msgid ""
+"<1.so>There are tales passed down of sunken\n"
+"<2.se_co>treasure <3.re_co>in the ocean around here...\n"
+"\n"
+"I would look for it myself if I were a bit\n"
+"younger, but I've grown old...\n"
+"\n"
+"<4.so>But you look like you have a young pair\n"
+"of legs and a strong back. Do you want\n"
+"to go look in my stead?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk06"
+msgid ""
+"<1.so>How's the treasure hunt going?\n"
+"Did you find it yet?<2.pa>\n"
+"\n"
+"Don't forget, \"<3.se_co>The treasure sleeps in the\n"
+"center of the golden triangle<4.re_co>.\"\n"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk09"
+msgid ""
+"<1.so>So? Will you look for the sunken <2.se_co>treasure<3.re_co>\n"
+"in my place?<4.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid ""
+"<1.so>I see. Come on back when you change\n"
+"your mind."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: pause (short)
+#. 7: pause (short)
+msgctxt "talk11"
+msgid ""
+"<1.so>I couldn't be happier to hear it.<2.pa>\n"
+"Now, according to the old tales...\n"
+"\n"
+"\"<3.se_co>The treasure sleeps in the center of the\n"
+"golden triangle<4.re_co>.\"<5.pa>\n"
+"\n"
+"Oh, by the by, <6.pa>do you happen to have a\n"
+"boat?\n"
+"\n"
+"If not, I can lend you my raft.<7.pa>\n"
+"It's tied up at the wharf. Help yourself."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk13"
+msgid ""
+"<1.so>I'm going to bed now. If you need\n"
+"something, please come back tomorrow."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk14"
+msgid ""
+"<1.so>On rainy days like today, it's best to stay\n"
+"away from large bodies of water.\n"
+"\n"
+"It can be lonely out there.<2.pa>\n"
+"Don't do anything reckless."
+msgstr ""
+

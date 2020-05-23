@@ -1,0 +1,24 @@
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (short)
+#. 10: sound
+#. 11: pause (short)
+msgctxt "talk00"
+msgid ""
+"<1.so>We did it...<2.pa> See that, goro... <3.pa>If we put our\n"
+"heads together...<4.pa>anything is possible!\n"
+"\n"
+"<5.so>That power I got from my ancestor...<6.pa>\n"
+"<7.se_co>Daruk's Protection<8.re_co>...<9.pa> It really is\n"
+"somethin' else, isn't it?\n"
+"<10.so>Anyhow, I guess my time as a cannonball\n"
+"isn't over just yet, goro.<11.pa> So let's get a\n"
+"move on and cross that bridge, brother!"
+msgstr ""
+

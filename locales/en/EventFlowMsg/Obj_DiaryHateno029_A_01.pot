@@ -1,0 +1,23 @@
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+msgctxt "talk00"
+msgid ""
+"For a secret recipe that'll surprise even\n"
+"the most knowledgeable of dads, start\n"
+"with some <1.se_co>fortified pumpkins<2.re_co>.\n"
+"Throw in some <3.se_co>Tabantha wheat <4.re_co>to give\n"
+"the stew a nice wheaty flavor, then let\n"
+"some <5.se_co>fresh milk<6.re_co> and <7.se_co>goat butter "
+"<8.re_co>simmer.\n"
+"And there you have it!\n"
+"A tasty <9.se_co>pumpkin stew<10.re_co>!"
+msgstr ""
+

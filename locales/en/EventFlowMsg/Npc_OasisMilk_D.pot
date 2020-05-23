@@ -1,0 +1,57 @@
+msgctxt "near00"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "near01"
+msgid "Zzz... Zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (long)
+#. 4: sound2
+msgctxt "talk00"
+msgid ""
+"<1.so>\"I don't like girls twice my height...\"<2.pa>\n"
+"What's he mean by that?!<3.pa> <4.so>I'm only\n"
+"eight feet tall!"
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: text_size
+msgctxt "talk01"
+msgid "<1.so><2.te_si>Stupid voe... Who needs them...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk02"
+msgid ""
+"<1.so>\"I like to be the one to do the cooking.\"<2.pa>\n"
+"Jerk waits until AFTER I take the\n"
+"cooking class to tell me this..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk03"
+msgid ""
+"<1.so>\"I really like shorter hair...\"<2.pa>\n"
+"I grew my hair out because he said he\n"
+"liked LONG hair!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound2
+#. 4: pause (long)
+msgctxt "talk04"
+msgid ""
+"<1.so>\"I'm engaged.\"<2.pa>\n"
+"\n"
+"\n"
+"<3.so>*sigh*<4.pa>\n"
+"I can't even be angry at that one..."
+msgstr ""
+

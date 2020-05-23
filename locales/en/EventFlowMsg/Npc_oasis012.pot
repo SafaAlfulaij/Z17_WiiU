@@ -1,0 +1,170 @@
+msgctxt "0000"
+msgid "Tell me!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: sound
+#. 6: reset_colour
+#. 7: sound
+#. 8: sound2
+#. 9: pause (long)
+msgctxt "Npc_oasis012_001"
+msgid ""
+"<1.so>I'm sorry, but the <2.se_co>Gerudo Jewelers<3.re_co> isn't\n"
+"open right now...\n"
+"\n"
+"<4.se_co><5.so><6.re_co>With that beast causing a ruckus and\n"
+"the guards in an uproar over some kind\n"
+"of theft, things have been pretty crazy.\n"
+"And on top of it all, my shop...\n"
+"\n"
+"\n"
+"<7.so><8.so>The village is facing quite a few\n"
+"problems lately.<9.pa> *sigh*"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: choice
+#. 4: text_size
+msgctxt "Npc_oasis012_002"
+msgid ""
+"<1.so>I heard you brought some flint for us,\n"
+"little vai.\n"
+"\n"
+"You're a lifesaver!\n"
+"\n"
+"\n"
+"<2.te_si>How about...I tell you one of the owner's secrets\n"
+"as my way of saying sarqso?<3.ch><4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: sound
+#. 6: text_size
+msgctxt "Npc_oasis012_004"
+msgid ""
+"<1.so><2.te_si>I heard the owner...<3.pa>\n"
+"sleeps wearing nothing...<4.pa>\n"
+"but accessories...\n"
+"<5.so>I wonder if she gets cold...<6.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+msgctxt "Npc_oasis012_005"
+msgid ""
+"<1.so><2.te_si>The owner's name is actually an alias. Her real\n"
+"name is Jewel.\n"
+"\n"
+"It's a little too coincidental for a jeweler to be\n"
+"named Jewel, so she was embarrassed.\n"
+"\n"
+"<3.so>I think it's a fine name, personally...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: sound
+#. 4: pause (long)
+#. 5: text_size
+msgctxt "Npc_oasis012_006"
+msgid ""
+"<1.so><2.te_si>The owner claims that she's not doing anything\n"
+"special with her looks, but she actually visits\n"
+"Hotel Oasis once a week.\n"
+"<3.so>It's always good to remember...<4.pa> If someone says\n"
+"they don't do anything at all to maintain their\n"
+"looks, it's probably not quite true.<5.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: sound
+#. 4: text_size
+msgctxt "Npc_oasis012_007"
+msgid ""
+"<1.te_si><2.so>Apparently she and the teacher of the relationship\n"
+"class, Ashai, were embroiled in a tragic love\n"
+"triangle...\n"
+"<3.so>They're both still single, so I guess we know how\n"
+"that went...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis012_008"
+msgid ""
+"<1.so>This shop owes you everything, young\n"
+"vai. Your requests fill us with a greater\n"
+"sense of purpose than normal!\n"
+"If you see an accessory you like, please\n"
+"feel free to pick it up and look at it."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: sound2
+#. 8: pause (long)
+msgctxt "Npc_oasis012_009"
+msgid ""
+"<1.so>I'm sorry, but the <2.se_co>Gerudo Jewelers<3.re_co> isn't\n"
+"open right now...\n"
+"\n"
+"The big theft seems to have been solved,\n"
+"but <4.se_co>Naboris<5.re_co> is out there causing a\n"
+"ruckus, so it's dangerous to travel.\n"
+"And on top of it all, my shop...\n"
+"\n"
+"\n"
+"<6.so><7.so>The village is facing quite a few\n"
+"problems lately.<8.pa> *sigh*"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "Npc_oasis012_010"
+msgid "<1.so><2.so>Vasaaq.<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: sound2
+#. 8: pause (longer)
+#. 9: pause (short)
+msgctxt "Npc_oasis012_011"
+msgid ""
+"<1.so>I'm sorry, but the <2.se_co>Gerudo Jewelers<3.re_co> isn't\n"
+"open right now...\n"
+"\n"
+"<4.se_co>Naboris<5.re_co> has calmed down, and the whole\n"
+"thing with the thieves has resolved...\n"
+"\n"
+"<6.so><7.so>But my shop...<8.pa>\n"
+"What to do, what to do.<9.pa> *sigh*"
+msgstr ""
+
+msgctxt "Npc_oasis012_Near01"
+msgid "*sigh*"
+msgstr ""
+

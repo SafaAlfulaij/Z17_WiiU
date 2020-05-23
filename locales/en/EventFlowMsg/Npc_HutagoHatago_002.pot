@@ -1,0 +1,41 @@
+msgctxt "Near_01"
+msgid "Zzz..."
+msgstr ""
+
+msgctxt "Near_02"
+msgid "It's neigh..."
+msgstr ""
+
+msgctxt "Near_03"
+msgid "It's neigh..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_01"
+msgid ""
+"<1.so>Today, I'm going to see if I can get to\n"
+"the horses before Shibo does!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Talk_02"
+msgid "<1.so><2.te_si>I'm feeling so sleepy all of a sudden...<3.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: text_size
+msgctxt "Talk_03"
+msgid ""
+"<1.te_si><2.so>One one-color horsey...<3.pa>\n"
+"Two one-color horsies...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_04"
+msgid "<1.so>Yeah! I beat Shibo here today!"
+msgstr ""
+

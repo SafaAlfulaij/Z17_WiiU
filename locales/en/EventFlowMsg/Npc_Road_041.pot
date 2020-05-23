@@ -1,0 +1,398 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>*huff...*<2.pa> *puff...*<3.pa> *gasp...* <4.pa>\n"
+"Phew..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Atacked01"
+msgid ""
+"<1.so>That sucker's got his sights set on me...<2.pa>\n"
+"And my dance card is wide open!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>If that had been any closer, I would have\n"
+"been done in for sure."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Yee-owch!<2.pa>\n"
+"I guess danger and traveling go hand\n"
+"in hand, huh?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: pause (longer)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "Guardian00"
+msgid ""
+"<1.so>Egads, it's a <2.se_co><3.pa>Guardian<4.re_co>! <5.pa>Run for your "
+"life!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (long)
+msgctxt "MSG_Akka_00"
+msgid ""
+"<1.so>You ever heard of the <2.se_co>Spring of Power<3.re_co>\n"
+"in the Akkala region? I've only heard\n"
+"rumors about it myself.\n"
+"I wonder if what they say is true...<4.pa> <5.so>That a\n"
+"mystical force repels anyone who tries to\n"
+"take a dip.<6.pa> Or maybe it strengthens you?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "MSG_Akka_00_1"
+msgid ""
+"<1.so>What would happen if I took a dip in\n"
+"the <2.se_co>Spring of Power<3.re_co> in the Akkala\n"
+"region?<4.pa> Only one way to find out!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "MSG_Akka_01"
+msgid ""
+"<1.so>Have you heard about <2.se_co>ancient arrows<3.re_co>\n"
+"from the Akkala region?<4.pa> I happen to\n"
+"have the latest gossip on them.\n"
+"<5.so>It's said they're so powerful they can\n"
+"take down a <6.se_co>Guardian <7.re_co>with a single shot."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "MSG_Akka_01_1"
+msgid ""
+"<1.so>They say <2.se_co>ancient arrows<3.re_co> from the Akkala\n"
+"region are so powerful they can take\n"
+"down a <4.se_co>Guardian <5.re_co>with a single shot."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+msgctxt "MSG_Akka_02"
+msgid ""
+"<1.so>Have you heard the stories of those\n"
+"labyrinthine ruins in the Akkala region?\n"
+"I just recently learned about them myself.\n"
+"<2.so>You won't catch me wandering into them.<3.pa>\n"
+"I have trouble enough finding my way\n"
+"out of bed in the morning."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "MSG_Akka_02_1"
+msgid ""
+"<1.so>You won't find me wandering into the\n"
+"Akkala region's labyrinthine ruins. Lousy\n"
+"sense of direction...<2.pa> I'd be lost for days."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "MSG_Akka_03"
+msgid ""
+"<1.so>I heard there's a girl named <2.se_co>Cherry<3.re_co> in\n"
+"the Akkala region. They say she's a\n"
+"great chef!\n"
+"<4.so>That's all I know about her, though, so\n"
+"I can't give you any more info."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "MSG_Akka_03_1"
+msgid ""
+"<1.so>I don't know much about this girl named\n"
+"<2.se_co>Cherry <3.re_co>in the Akkala region except that\n"
+"she's supposed to be a great chef."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "MSG_Akka_04"
+msgid ""
+"<1.so>Have you heard about the\n"
+"Akkala Ancient Tech Lab? I\n"
+"only know one thing about it...\n"
+"<2.so>The <3.se_co>Akkala Ancient Tech Lab<4.re_co>'s\n"
+"director reports to the director\n"
+"of the <5.se_co>Hateno Ancient Tech Lab<6.re_co>.\n"
+"That said, I've never actually been\n"
+"to <7.se_co>Hateno Village<8.re_co> myself."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "MSG_Akka_04_1"
+msgid ""
+"<1.so>The <2.se_co>Akkala Ancient Tech Lab<3.re_co>'s\n"
+"director reports to the director\n"
+"of the <4.se_co>Hateno Ancient Tech Lab<5.re_co>."
+msgstr ""
+
+msgctxt "Near00"
+msgid "Skull Lake... Where is it?"
+msgstr ""
+
+msgctxt "Near01"
+msgid "The Spring of Power..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "Ancient arrows... Hmm..."
+msgstr ""
+
+msgctxt "Near03"
+msgid "The Fang and Bone..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "What horrible weather."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: pause (short)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (long)
+msgctxt "Rest_00"
+msgid ""
+"<1.so>You don't know where I can find\n"
+"<2.se_co><3.pa>Skull Lake<4.re_co>, do you? It's shaped like a\n"
+"skull, so it should be easy to find, but...\n"
+"<5.so>Well, I lost my map, so I have no idea\n"
+"where to look.<6.pa> Otherwise I could spot\n"
+"it, no problem."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Rest_01"
+msgid ""
+"<1.so>Ugh, this stubborn horse just shuts down\n"
+"in this weather.<2.pa> He won't move an inch\n"
+"on a day like today!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>My horse is in a bad mood because the\n"
+"weather took a turn for the worse.<2.pa> I hope\n"
+"it clears up soon."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (longer)
+msgctxt "RetMSG_Akka_00"
+msgid ""
+"<1.so>Have you heard about the <2.se_co>Fang and Bone<3.re_co>\n"
+"in the Akkala region? I got the scoop if\n"
+"you wanna hear it.\n"
+"<4.so>They say it only opens at nighttime. It's\n"
+"supposed to be located at <5.se_co>Skull Lake<6.re_co>,\n"
+"but I have no idea where that is.\n"
+"Long story short...<7.pa>\n"
+"Well, I've misplaced my map."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "RetMSG_Akka_00_1"
+msgid ""
+"<1.so>The <2.se_co>Fang and Bone<3.re_co> only opens up at\n"
+"nighttime.<4.pa> Apparently it's at <5.se_co>Skull Lake<6.re_co>,\n"
+"but I don't know where that is."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "RetMSG_Akka_01"
+msgid ""
+"<1.so>Have you met a woman in the Akkala\n"
+"region by the name of Nobo?<2.pa> I happen\n"
+"to know her, so I can give you the skinny.\n"
+"<3.so>She's the one who told me the rumors\n"
+"about the <4.se_co>Spring of Power<5.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Akka_01_1"
+msgid ""
+"<1.so>I must admit, this woman I met in the\n"
+"Akkala region has me curious. Her name\n"
+"is Nobo, and she had some good info."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "RetMSG_Akka_02"
+msgid ""
+"<1.so>Say, I bet you can't guess the total\n"
+"population of the Akkala region.<2.pa>\n"
+"\n"
+"<3.so>I have no idea myself.<4.pa> I couldn't even\n"
+"begin to fathom a guess."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "RetMSG_Akka_02_1"
+msgid ""
+"<1.so>Do you know the total population of the\n"
+"Akkala region?<2.pa> Because I sure don't."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "RetMSG_Akka_03"
+msgid ""
+"<1.so>Hey, do you know anything about this\n"
+"wandering chef in the Akkala region?\n"
+"\n"
+"<2.so>I don't know a single thing about him, so\n"
+"if you have any info on the guy, I'd love\n"
+"to hear it."
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Akka_03_1"
+msgid ""
+"<1.so>I know a lot of things about a lot of\n"
+"things, but this wandering chef from the\n"
+"Akkala region is a total mystery to me."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+msgctxt "RetMSG_Akka_04"
+msgid ""
+"<1.so>Have you heard about the special version\n"
+"of rock, paper, scissors that's played in\n"
+"the Akkala region?\n"
+"<2.so>I don't know how to play it, but I don't\n"
+"really care.<3.pa> The information is probably\n"
+"bogus, anyway!\n"
+"I mean, the original version is just\n"
+"so perfect..."
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Akka_04_1"
+msgid ""
+"<1.so>I heard there's a special version of rock,\n"
+"paper, scissors played in the Akkala\n"
+"region, but it's probably just a rumor."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_00"
+msgid "<1.so>Phew...<2.pa> You really saved my skin!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Oh, I'm saved!<2.pa>\n"
+"Thank you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Oh, man, I barely held on to my life...<2.pa>\n"
+"Thanks for your help!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>I...<2.pa> I survived?!<3.pa>\n"
+"Thank you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>Phew, I was no match for those\n"
+"monsters.<2.pa> Thanks for helping out!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_01"
+msgid "<1.so>I barely made it out with my life!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Thanks00"
+msgid "<1.so>This is all I can offer you."
+msgstr ""
+

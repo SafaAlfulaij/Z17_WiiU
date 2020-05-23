@@ -1,0 +1,56 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: raw
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: pause (short)
+msgctxt "Talk_01"
+msgid ""
+"<1.so>A Hylian?<2.pa> That's a rare sight so far\n"
+"from your homeland.<3.ra>My orders from the <4.se_co>chief<5.re_co> are "
+"to\n"
+"monitor the <6.se_co>Divine Beast<7.re_co> from here.<8.ra>The "
+"<9.se_co>sandstorms and lightning are fierce<10.re_co>\n"
+"around that thing.<11.pa> You're as mortal as\n"
+"anyone, so don't get too close."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: raw
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Talk_02"
+msgid ""
+"<1.so>The <2.se_co>Divine Beast<3.re_co> has calmed down,\n"
+"but the monsters around here haven't.<4.ra>I'll patrol the "
+"<5.se_co>Gerudo Desert <6.re_co>for a while\n"
+"more and keep an eye on things here."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Talk_03"
+msgid ""
+"<1.so>The <2.se_co>sandstorms and lightning are fierce<3.re_co>\n"
+"around that thing.<4.pa> You're as mortal as\n"
+"anyone, so don't get too close."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_04"
+msgid ""
+"<1.so>I'll patrol the <2.se_co>Gerudo Desert <3.re_co>for a while\n"
+"more and keep an eye on things here."
+msgstr ""
+

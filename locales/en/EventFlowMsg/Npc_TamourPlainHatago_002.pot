@@ -1,0 +1,656 @@
+msgctxt "0000"
+msgid "I'm just hanging out..."
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0004"
+msgid "Hudson?"
+msgstr ""
+
+msgctxt "0005"
+msgid "I'm a traveler."
+msgstr ""
+
+msgctxt "0006"
+msgid "I'm just wandering."
+msgstr ""
+
+msgctxt "0007"
+msgid "Your sister?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "0009"
+msgid "What is this place?"
+msgstr ""
+
+msgctxt "0010"
+msgid "Sure."
+msgstr ""
+
+msgctxt "near00"
+msgid "Hmm..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk00"
+msgid "<1.so>What do YOU want?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>We'll see about that..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Hmph."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (short)
+#. 8: pause (longer)
+#. 9: choice
+msgctxt "talk03"
+msgid ""
+"<1.so>Hmmm... What's that?<2.pa> What do you have\n"
+"there?<3.pa> That's <4.se_co>armoranth<5.re_co>, isn't it?!\n"
+"\n"
+"<6.so>Could you...<7.pa>um...<8.pa>maybe give me some?<9.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk04"
+msgid ""
+"<1.so>For you to be walking around with my\n"
+"favorite plant...<2.pa> It seems you and I\n"
+"may just get along after all."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Thank you!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: raw
+msgctxt "talk06"
+msgid ""
+"<1.so>That said...\n"
+"\n"
+"\n"
+"<2.se_co>Akkala<3.re_co> is famous for... Well, nothing.<4.pa>\n"
+"So I have to ask... What could you\n"
+"possibly have come here for?<5.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: sound
+#. 9: sound
+#. 10: pause (short)
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: pause (short)
+#. 14: pause (short)
+#. 15: pause (longer)
+msgctxt "talk07"
+msgid ""
+"<1.so>I see...<2.pa> A traveler, eh?\n"
+"\n"
+"\n"
+"In that case, I have a request for you.\n"
+"\n"
+"\n"
+"My little sister, Gleema, is a huge fan\n"
+"of <3.se_co>insects<4.re_co>. I know, I don't get it either.\n"
+"\n"
+"But apparently there's a certain <5.se_co>insect<6.re_co>\n"
+"she's dying to see in real life.<7.pa> She won't\n"
+"tell me about it, though.\n"
+"<8.so>I suppose there are some things you\n"
+"just can't talk about with those you're\n"
+"closest to.\n"
+"<9.so>Anyway,<10.pa> would you mind talking to her\n"
+"and trying to figure out which silly\n"
+"<11.se_co>insect <12.re_co>she's so crazy about?\n"
+"It's for her birthday...<13.pa> Think of it as a\n"
+"special birthday favor. <14.pa>Ooh, or even\n"
+"a birthday quest. <15.pa>Look, just do it, OK?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk08"
+msgid ""
+"<1.so>I'm Jana, the second eldest.<2.pa>\n"
+"I'm in charge of the flower patch.\n"
+"\n"
+"My big sister, Kaifa, is in the back taking\n"
+"care of the livestock."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk09"
+msgid ""
+"<1.so>Hudson? <2.pa>Oh...\n"
+"\n"
+"\n"
+"That <3.se_co>carpenter<4.re_co> did stop by here,\n"
+"as it were.\n"
+"\n"
+"He said something like, \"I'm gonna\n"
+"build a village from the ground up.\"<5.pa>\n"
+"I think he went off toward <6.se_co>Lake Akkala<7.re_co>."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk11"
+msgid ""
+"<1.se_co><2.so>Lake Akkala<3.re_co> is to the east of here.<4.pa>\n"
+"If you're curious, you should head\n"
+"over there."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk13"
+msgid "<1.so>So. It's YOU."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk14"
+msgid "<1.so>It's so early, but you're already up?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid "<1.so>Hey. Mornin'."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk16"
+msgid ""
+"<1.so>Hey. The sun's pretty high in the sky,\n"
+"don't you think?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk17"
+msgid "<1.so>Hey. Unfortunate weather we're having."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk18"
+msgid "<1.so>Hey."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk19"
+msgid "<1.so>It sure has cooled off, hasn't it?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk20"
+msgid ""
+"<1.so>Hey. <2.pa>If you're looking for a place\n"
+"to crash, you can stay here."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk21"
+msgid "<1.so>Need me for something?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk22"
+msgid ""
+"<1.so>If you're looking for Hudson\n"
+"the <2.se_co>carpenter<3.re_co>...\n"
+"\n"
+"He said something about building a\n"
+"village <4.se_co>from the ground up<5.re_co>.<6.pa> Then he\n"
+"headed off toward <7.se_co>Lake Akkala<8.re_co>."
+msgstr ""
+
+#. 1: sound2
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk23"
+msgid ""
+"<1.so><2.so>This is the <3.se_co>South Akkala Stable<4.re_co>.\n"
+"\n"
+"\n"
+"From just past the farm to the east,\n"
+"you can take in a sweeping view of \n"
+"<5.se_co>Lake Akkala<6.re_co> and the <7.se_co>Akkala Sea<8.re_co>.\n"
+"That's about it as far as local\n"
+"attractions go..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk24"
+msgid "<1.so>Ah, that reminds me..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk25"
+msgid ""
+"<1.so>My little sister, Gleema,<2.pa> is looking\n"
+"for <3.se_co>insects<4.re_co> around here today."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk26"
+msgid ""
+"<1.so>My little sister, Gleema, is probably\n"
+"asleep right now."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk27"
+msgid ""
+"<1.so>But I wonder<2.pa> what kind of <3.se_co>insect\n"
+"Gleema<4.re_co> wants to see..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk28"
+msgid ""
+"<1.so>I wonder why she won't tell me\n"
+"about it...\n"
+"\n"
+"Please... <2.pa>Can you ask her for me?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk29"
+msgid "<1.so>When she wakes up, will you ask her?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: pause (short)
+#. 13: set_colour (blue)
+#. 14: reset_colour
+#. 15: pause (short)
+#. 16: set_colour (blue)
+#. 17: reset_colour
+#. 18: sound
+#. 19: pause (short)
+#. 20: set_colour (blue)
+#. 21: reset_colour
+#. 22: pause (longer)
+msgctxt "talk30"
+msgid ""
+"<1.so>Gleema...\n"
+"\n"
+"\n"
+"<2.so>She... <3.pa>She...<4.pa>wants to see "
+"<5.se_co>dragonflies<6.re_co>,\n"
+"of all things?!\n"
+"\n"
+"<7.so>And to make it worse, <8.se_co>three different\n"
+"kinds<9.re_co>?! A <10.se_co>warm darner<11.re_co>,<12.pa> a "
+"<13.se_co>cold darner<14.re_co>,<15.pa>\n"
+"and an <16.se_co>electric darner<17.re_co>...\n"
+"<18.so>Eek...<19.pa> It had to be <20.se_co>dragonflies<21.re_co>, didn't"
+" it?\n"
+"Just thinking about those nasty eyes...<22.pa>\n"
+"Blargh! So gross!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (short)
+msgctxt "talk31"
+msgid ""
+"<1.so>Bring me a <2.se_co>warm darner<3.re_co>,<4.pa> <5.se_co>cold "
+"darner<6.re_co>,<7.pa>\n"
+"and <8.se_co>electric darner<9.re_co>, please.\n"
+"\n"
+"I want to surprise Gleema, <10.pa>so don't tell\n"
+"her about this!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "talk32"
+msgid ""
+"<1.so>But enough about that...\n"
+"\n"
+"\n"
+"Have you secured a <2.se_co>warm darner<3.re_co>,<4.pa>\n"
+"<5.se_co>cold darner<6.re_co>,<7.pa> and <8.se_co>electric "
+"darner<9.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (grey)
+#. 3: text_size
+#. 4: text_size
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "talk32_2"
+msgid ""
+"<1.so><2.se_co><3.te_si>*gulp*<4.te_si><5.re_co>\n"
+"\n"
+"\n"
+"Right... <6.pa>In that case, may I have them?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: text_size
+#. 4: text_size
+msgctxt "talk32_3"
+msgid ""
+"<1.so>...\n"
+"\n"
+"\n"
+"...\n"
+"\n"
+"\n"
+"<2.so><3.te_si>Ewww...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "talk32_4"
+msgid ""
+"<1.so>BAH! I CAN'T DO THIS!<2.pa> Please give\n"
+"them to her...<3.pa>just...give them to\n"
+"Gleema yourself!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk33"
+msgid ""
+"<1.so>So long as they don't tamper with my\n"
+"flowers,<2.pa> I have no problem with <3.se_co>insects<4.re_co>.\n"
+"\n"
+"Well...except for one type of <5.se_co>insect<6.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk34"
+msgid ""
+"<1.so>AHHH!!\n"
+"\n"
+"\n"
+"Don't w-worry about me. <2.pa>Just hurry up\n"
+"and get those <3.se_co>dragonflies<4.re_co> to Gleema!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk35"
+msgid "<1.so>I've managed to calm down. Somehow."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk36"
+msgid ""
+"<1.so>Now then...<2.pa> I must thank you for\n"
+"catching those <3.se_co>dragonflies<4.re_co>.\n"
+"\n"
+"Here, take this."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "talk37"
+msgid ""
+"<1.so>I'm fine with most insects. The only ones\n"
+"I simply can't stand<2.pa> are <3.se_co>dragonflies<4.re_co>.\n"
+"\n"
+"When I think about them looking at me\n"
+"with those evil eyes... <5.pa>*shudder*"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (short)
+msgctxt "talk38"
+msgid ""
+"<1.so>I see. So Gleema knows that I despise\n"
+"<2.se_co>dragonflies<3.re_co>,<4.pa> and that's why she wouldn't\n"
+"tell me how much she loves them...\n"
+"<5.so>Well, this is her birthday wish...<6.pa>\n"
+"I didn't have a choice."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: set_colour (blue)
+#. 13: reset_colour
+msgctxt "talk39"
+msgid ""
+"<1.so>Enough about that. What about those\n"
+"<2.se_co>dragonflies<3.re_co>?<4.pa> Did they get away?\n"
+"\n"
+"<5.so>Well, I can't force you to help me.\n"
+"\n"
+"\n"
+"But when you get your hands on a\n"
+"<6.se_co>warm darner<7.re_co>,<8.pa> a <9.se_co>cold "
+"darner<10.re_co>,<11.pa>\n"
+"and an <12.se_co>electric darner<13.re_co>...\n"
+"I'd appreciate it if you could give them\n"
+"directly to my sister."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk40"
+msgid ""
+"<1.so>You don't need to<2.pa> bring them here\n"
+"to me. <3.pa>Got it?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "talk41"
+msgid ""
+"<1.so>*sigh*<2.pa> That was rough.<3.pa>\n"
+"OK... I need to take a deep breath."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk42"
+msgid "<1.so>Now then, time to get back to work."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk43"
+msgid ""
+"<1.so>You want to ask me something,\n"
+"don't you?<2.ra>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk44"
+msgid "<1.so>Take care."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk45"
+msgid "<1.so>Anything else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk46"
+msgid "<1.so>Anything else you want to ask me?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk47"
+msgid ""
+"<1.so>Hey...<2.pa>\n"
+"\n"
+"\n"
+"You already found them all, didn't you?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk48"
+msgid "<1.so>Oh. Too bad."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk49"
+msgid ""
+"<1.so>I'm thinking about something right now...<2.pa>\n"
+"Can you please not bother me?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk50"
+msgid "<1.so>See ya."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk51"
+msgid "<1.so>Gleema..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: pause (short)
+#. 14: set_colour (red)
+#. 15: reset_colour
+#. 16: sound
+#. 17: pause (short)
+#. 18: set_colour (blue)
+#. 19: reset_colour
+#. 20: pause (longer)
+msgctxt "talk52"
+msgid ""
+"<1.so>No... <2.pa>No way!<3.pa> Of all things, she wants to\n"
+"see a gross <4.se_co>dragonfly<5.re_co>?!\n"
+"\n"
+"<6.so>A <7.se_co>warm darner<8.re_co>, a <9.se_co>cold darner<10.re_co>,\n"
+"AND an <11.se_co>electric darner<12.re_co>?<13.pa>\n"
+"<14.se_co>Three different types<15.re_co>?!\n"
+"<16.so>Ugggh... <17.pa>Anything but "
+"<18.se_co>dragonflies<19.re_co>...<20.pa>\n"
+"Just thinking about their eyes makes\n"
+"me feel sick."
+msgstr ""
+

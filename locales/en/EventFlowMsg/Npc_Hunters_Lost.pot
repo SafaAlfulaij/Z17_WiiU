@@ -1,0 +1,195 @@
+msgctxt "0000"
+msgid "That's me!"
+msgstr ""
+
+msgctxt "0001"
+msgid "That's Mr. Link to you."
+msgstr ""
+
+msgctxt "0002"
+msgid "Never heard of him."
+msgstr ""
+
+msgctxt "0010"
+msgid "Tell me about the ruins."
+msgstr ""
+
+msgctxt "0011"
+msgid "The far edge, eh?"
+msgstr ""
+
+msgctxt "0012"
+msgid "Never mind."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: sound
+#. 9: pause (long)
+msgctxt "LookPicture"
+msgid ""
+"<1.so>Wha—? <2.pa>This is the <3.se_co>bony horse<4.re_co>?\n"
+"That <5.se_co>Stalhorse<6.re_co>... <7.pa>It's a monster!\n"
+"\n"
+"<8.so>The sight of this is going to haunt my\n"
+"dreams for weeks...<9.pa> But the picture is\n"
+"still amazing!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Talk_000"
+msgid ""
+"<1.so>I wonder if <2.se_co>bone horses<3.re_co> are a real\n"
+"thing...<4.pa> I'd have to see it to believe it,\n"
+"but I really don't like cold places, so..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Talk_000_slp"
+msgid ""
+"<1.so>I'm so tired... I've been thinking about\n"
+"<2.se_co>bone horses<3.re_co> all day.\n"
+"\n"
+"I've got the info, but I'm all done for\n"
+"today, I think..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Talk_001"
+msgid ""
+"<1.so>If you're seeking the best information in\n"
+"Hyrule, I, <2.se_co>Juannelle<3.re_co>, know everything\n"
+"there is to know! You're...Link, right?<4.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_002"
+msgid ""
+"<1.so>I love when I get a straightforward,\n"
+"honest answer!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_003"
+msgid "<1.so>Cute..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_004"
+msgid "<1.so>Don't try to act coy with <2.se_co>Juannelle<3.re_co>!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_005"
+msgid "<1.so>Hmm... Sorry, guess I was mistaken."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_100"
+msgid "<1.so>Beedle is so very timid..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_200"
+msgid ""
+"<1.so>I'm so sleepy.<2.pa>\n"
+"*yawn*"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_201"
+msgid ""
+"<1.so>I hope you realize how rude it is to wake\n"
+"me up when I'm trying to sleep...\n"
+"\n"
+"I'll forgive you, though. You clearly are\n"
+"desperate for the kind of info only\n"
+"I can provide!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_300"
+msgid ""
+"<1.so>Soooo, what do you wanna know?\n"
+"\n"
+"\n"
+"I have info on the pitch-black ruins\n"
+"and on what's at the far edge of the\n"
+"Hebra Mountains.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Talk_301"
+msgid ""
+"<1.so>Light is unable to enter these ruins for\n"
+"some reason. It's said that you can't see\n"
+"an inch ahead, even during the day!\n"
+"There must be some mysterious power\n"
+"behind this phenomenon, don't\n"
+"you think?\n"
+"I can only wonder at what's hiding within\n"
+"those ruins... <2.pa>But finding whatever it is\n"
+"would certainly make you famous!\n"
+"<3.so>Where is it?<4.pa> It should be past\n"
+"<5.se_co>Mount Drena<6.re_co> if you're heading toward\n"
+"the <7.se_co>Eldin Mountains<8.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: sound
+msgctxt "Talk_310"
+msgid ""
+"<1.so>There was an adventurer who pledged\n"
+"to journey to the northwesternmost\n"
+"part of Hyrule...\n"
+"To the very edge of the \n"
+"Hebra Mountains.\n"
+"\n"
+"This adventurer went north of the\n"
+"mountain range as far as possible and\n"
+"then west...\n"
+"However, steep cliffs and <2.se_co>raging winds<3.re_co>\n"
+"stood in the way. The adventurer was\n"
+"forced to turn back.\n"
+"Upon returning, I posed a question to\n"
+"the adventurer. I said, \"Why go so\n"
+"far out there?\"\n"
+"<4.so>\"Because I wanted to know what was\n"
+"there!\" was the adventurer's reply.\n"
+"\n"
+"<5.so>I must admit, I don't think that'd be\n"
+"enough for me. I can't believe someone\n"
+"would want to go into the cold unknown."
+msgstr ""
+
+msgctxt "Talk_320"
+msgid "See ya."
+msgstr ""
+

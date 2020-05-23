@@ -1,0 +1,65 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "LookPicture"
+msgid ""
+"<1.so>That...<2.pa>certainly is...<3.pa>the way it was\n"
+"rumored to look..."
+msgstr ""
+
+msgctxt "Npc_oasis015_Near01"
+msgid "I guess I should move on..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+msgctxt "Talk_08"
+msgid ""
+"<1.so>H-hey, where did you get those boots?\n"
+"\n"
+"\n"
+"<2.so>Those boots are just like the ones I gave\n"
+"to the gal who dumped me...\n"
+"\n"
+"I mean, we were never actually dating,\n"
+"but still, it FELT like a dumping...\n"
+"\n"
+"<3.so>Anyway, I'll still cherish the times she\n"
+"and I spent together. I hope you get to\n"
+"experience a love that burns as bright!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_09"
+msgid ""
+"<1.so>At the very least, let me gaze after you\n"
+"until you disappear from my vision!\n"
+"\n"
+"<2.so>I want to burn the image of your boot-\n"
+"loving self into my retinas!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_10"
+msgid ""
+"<1.so>At the very least, let me gaze after you\n"
+"until you disappear from my vision!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_11"
+msgid ""
+"<1.so>She dumped me...\n"
+"\n"
+"\n"
+"I mean, we were never actually dating,\n"
+"but still, it FELT like a dumping...\n"
+"\n"
+"<2.so>Anyway, I'll still cherish the times she\n"
+"and I spent together. I hope you get to\n"
+"experience a love that burns as bright!"
+msgstr ""
+

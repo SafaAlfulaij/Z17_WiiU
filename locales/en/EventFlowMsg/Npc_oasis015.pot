@@ -1,0 +1,387 @@
+msgctxt "0007"
+msgid "No, thank you."
+msgstr ""
+
+msgctxt "0008"
+msgid "A different color?"
+msgstr ""
+
+msgctxt "0009"
+msgid "Buy from me."
+msgstr ""
+
+msgctxt "5500"
+msgid "Sure!"
+msgstr ""
+
+msgctxt "5501"
+msgid "No."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5508"
+msgid "All of them."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_00"
+msgid "<1.so>Which item?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_01"
+msgid ""
+"<1.so>I can do <2.se_co><3.va> rupees<4.re_co>.\n"
+"Is that all right?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Com_Talk_02"
+msgid ""
+"<1.so>Sarqso.<2.pa>\n"
+"Did you need anything else?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02b"
+msgid ""
+"<1.so>Please feel free to show me anything\n"
+"you'd like to sell."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02c"
+msgid ""
+"<1.so>No problem at all—I'll buy as many\n"
+"as you like."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_02d"
+msgid "<1.so>Sarqso for the sale."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_04"
+msgid "<1.so>Of course. I don't mind."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05"
+msgid ""
+"<1.so>Was there something else you wanted\n"
+"to sell me?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05b"
+msgid "<1.so>Sarqso."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05c"
+msgid "<1.so>I truly appreciate your business."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05d"
+msgid ""
+"<1.so>I've never seen such beautiful items.\n"
+"Sarqso!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Com_Talk_13"
+msgid "<1.so>How many?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"<1.so>OK, so <2.va> of them? I can do...\n"
+"<3.se_co><4.va> rupees<5.re_co>!<6.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_15"
+msgid "<1.so>I'm sorry, but I can't buy that from you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>I'm sorry, but I can't buy clothes that\n"
+"you're wearing. There's \"used,\"<2.pa> and then\n"
+"there's buying them right off your body."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: pause (short)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_33"
+msgid "<1.so>One is worth...<2.se_co><3.pa><4.va> rupees<5.re_co>. OK?<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"<1.so>I'll buy all <2.va> of those for a total of\n"
+"<3.se_co><4.va> rupees<5.re_co>!<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (Shop_SelectItemPrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_60"
+msgid "<1.so>Ah yes, it'll be <2.se_co><3.va> rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_61"
+msgid ""
+"<1.so>I completely understand. It's part of the\n"
+"fun of shopping to go back and forth\n"
+"on a purchase."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis015_003"
+msgid ""
+"<1.so>It's so nice and cool this evening, isn't\n"
+"it? On nights like this, I like to relax\n"
+"and grab a drink at the canteen."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Npc_oasis015_004"
+msgid ""
+"<1.so>Oooh, that <2.se_co>Gerudo top<3.re_co> looks really good\n"
+"on you...\n"
+"\n"
+"But you haven't really lived until you've\n"
+"got <4.se_co>several colors<5.re_co> to choose from!\n"
+"What do you say?<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_oasis015_006"
+msgid ""
+"<1.so>You don't know? Really?!\n"
+"\n"
+"\n"
+"<2.so>Changing the color of your clothes is a\n"
+"really trendy thing to do right now\n"
+"for young vai traveling beyond town! \n"
+"There's a store in Hateno Village—the\n"
+"<3.se_co>Kochi Dye Shop<4.re_co>—where you can dye\n"
+"your clothes!\n"
+"Hateno Village is pretty far away, though.\n"
+"Not everyone gets to go there..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis015_007"
+msgid ""
+"<1.so>It's really hot today, isn't it? Makes me\n"
+"want to get an ice-cold something from\n"
+"the canteen."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis015_008"
+msgid "<1.so>Gladly!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_oasis015_009"
+msgid "<1.so>Anything else you need?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_oasis015_010"
+msgid "<1.so>Anything else you need?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis015_011"
+msgid "<1.so><2.so>Sav'otta!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis015_012"
+msgid "<1.so><2.so>Sav'aaq!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis015_013"
+msgid "<1.so><2.so>Sav'saaba!\n"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis015_014"
+msgid ""
+"<1.so>Geez, it looks really good on you!\n"
+"How about one more to try in a\n"
+"<2.se_co>different color<3.re_co>! You've got to buy it!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: choice
+msgctxt "Npc_oasis015_015"
+msgid ""
+"<1.so><2.so>It's the trend now to create a stylish\n"
+"wardrobe by arranging different colors.\n"
+"Why not buy one more Gerudo top?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_oasis015_016"
+msgid ""
+"<1.so>All our Gerudo clothing is sold out now.\n"
+"\n"
+"\n"
+"If you already have a lot of clothes, you\n"
+"should think about filling out your\n"
+"wardrobe with different colors instead.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Npc_oasis015_017"
+msgid ""
+"<1.so>Little <2.se_co>Naboris<3.re_co> is acting all calm and\n"
+"proper now...<4.pa>\n"
+"I wonder what happened.\n"
+"Anyway, it looks like I'll be getting more\n"
+"customers, so I've got to do my best,\n"
+"too!\n"
+"As long as you're here, why don't you\n"
+"see about getting another outfit in a\n"
+"<5.se_co>different color<6.re_co>?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Npc_oasis015_018"
+msgid ""
+"<1.so>Little <2.se_co>Naboris<3.re_co> is acting all calm and\n"
+"proper now...<4.pa>\n"
+"I wonder what happened.\n"
+"Anyway, it looks like I'll be getting more\n"
+"customers, so I'd better hurry up and\n"
+"restock my shop!\n"
+"I think I'll try and restock it with a\n"
+"bunch of outfits in <5.se_co>different colors<6.re_co>.<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Npc_oasis015_019"
+msgid "<1.so><2.so>Vasaaq!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Npc_oasis015_Near01"
+msgid "<1.so>Over here!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_01"
+msgid "<1.so>Sarqso."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_02"
+msgid ""
+"<1.so>I recommend wearing all the items from\n"
+"a particular series as a set!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_07"
+msgid ""
+"<1.so>It's also a fashionable thing among vai\n"
+"lately to wear different colors of clothes\n"
+"that are from the same set."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_08"
+msgid ""
+"<1.so>You can always change the color of an\n"
+"item, so there's really no reason not to\n"
+"own several of the same thing!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+#. 5: text_size
+#. 6: text_size
+msgctxt "Talk_09"
+msgid ""
+"<1.so>Ah,<2.pa> um,<3.pa> that doorway isn't for\n"
+"customers, actually...\n"
+"\n"
+"<4.so><5.te_si>If you're a member, please head around to the\n"
+"door on the side.<6.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_10"
+msgid "<1.so>I hope to do business with you again."
+msgstr ""
+

@@ -1,0 +1,172 @@
+#. 1: sound
+#. 2: pause (short)
+msgctxt "After00"
+msgid ""
+"<1.so>I could withstand any hardship so long\n"
+"as I am at my husband's side. <2.pa>While we\n"
+"are together, I fear nothing!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked00"
+msgid "<1.so>Hylia preserve us!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid "<1.so>We were unprepared..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Failed00"
+msgid ""
+"<1.so>I still feel faint... <2.pa>Is my husband Tye safe,\n"
+"as well?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (short)
+msgctxt "Failed01"
+msgid ""
+"<1.so>The last several minutes are a blur in\n"
+"my mind.<2.ra>I recall those monsters' ambush, but\n"
+"everything between then and now is\n"
+"hazy. <3.pa>I take it I have you to thank?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: sound
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>We are traveling in search of a flower\n"
+"known as the silent princess, that we\n"
+"might pluck one for ourselves. <2.ra><3.so>I knew the risks of roaming "
+"the\n"
+"countryside with monsters about\n"
+"when I insisted on accompanying Tye.\n"
+"<4.so>But I firmly believe that my husband and\n"
+"I can withstand any kind of hardship,\n"
+"so long as we are together."
+msgstr ""
+
+#. 1: sound
+msgctxt "Guardian00"
+msgid "<1.so>A Guardian has arrived!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Meeting00"
+msgid ""
+"<1.so>I do hope I haven't been a burden on my\n"
+"husband by insisting that I accompany\n"
+"him on his trek.\n"
+"But I was so frightened by the idea of\n"
+"something happening to him that I\n"
+"couldn't stand idly by at home.\n"
+"<2.so>It will all be worth it when we pluck our\n"
+"own <3.se_co>silent princess <4.re_co>and I swear my\n"
+"eternal love to him."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+msgctxt "Meeting02"
+msgid ""
+"<1.so>Why, Sorelia... I have never considered\n"
+"you to be a burden.<2.ra><3.so>I couldn't be happier to travel the\n"
+"countryside with you!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Meeting03"
+msgid "<1.so>Oh, Tye... Light of my heart..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>We are saved..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Dearest Tye!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairAtacked00"
+msgid "<1.so>Stand firm, Tye! You must!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairAtacked01"
+msgid "<1.so>Oh, do save my husband!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed00"
+msgid "<1.so>Tye... Stay with me..."
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed01"
+msgid "<1.so>Nooo! Light of my heart!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>My husband seems to be hale and\n"
+"hearty. Thank you, from the bottom of\n"
+"our hearts."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Thank you for rescuing us from the\n"
+"clutches of those vile things. I hope\n"
+"this is a sufficient reward."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>You're exceptionally strong to have dealt\n"
+"with those fiends. <2.pa>We're more grateful\n"
+"than we can express!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>I feared what fate had in store for us\n"
+"until you came along. <2.pa>Thank you so very\n"
+"much for your aid."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>Thank you... <2.pa>My husband and I would\n"
+"surely have breathed our last without\n"
+"your assistance."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>Our debt to you is incalculable. I hope\n"
+"that this goes some way toward\n"
+"assuaging it."
+msgstr ""
+

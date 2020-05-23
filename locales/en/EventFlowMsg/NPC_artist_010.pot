@@ -1,0 +1,36 @@
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk01"
+msgid ""
+"<1.so>They say the castle was destroyed\n"
+"100 years ago. <2.pa>Somehow it looks\n"
+"even more majestic in ruins..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Talk03"
+msgid ""
+"<1.so>That forest...<2.pa> I get the feeling I've seen\n"
+"it before.\n"
+"\n"
+"<3.so>I can't say for certain, <4.pa>but I believe\n"
+"this may depict the forest just south\n"
+"of here.\n"
+"No... Wait... Maybe it's the forest on the\n"
+"other side of the river, northeast of\n"
+"the <5.se_co>Bottomless Swamp<6.re_co>?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk05"
+msgid ""
+"<1.so>I went for a stroll around there recently,\n"
+"and I feel like I may have seen a view\n"
+"like that."
+msgstr ""
+

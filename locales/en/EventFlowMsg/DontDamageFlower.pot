@@ -1,0 +1,117 @@
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Fail_1"
+msgid ""
+"<1.so>No! <2.se_co>You must not hurt the flowers<3.re_co>!<4.pa>\n"
+"They are screaming out in pain!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Fail_2"
+msgid ""
+"<1.so>How many times do I have to say it?!\n"
+"<2.se_co>Please treat the flowers with care<3.re_co>!\n"
+"They're living things, you know!"
+msgstr ""
+
+#. 1: raw
+#. 2: pause (12f)
+msgctxt "Fail_3"
+msgid "<1.ra>I will make you understand...<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Fail_4"
+msgid ""
+"<1.so>Hey! What do you think you're doing?!\n"
+"<2.se_co>You must not harm the flowers<3.re_co>!"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: sound2
+#. 3: text_size
+#. 4: text_size
+msgctxt "Fail_5"
+msgid "<1.au_ad><2.so><3.te_si>the flowers' rage!!!<4.te_si>"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: pause (10f)
+#. 3: pause (10f)
+#. 4: pause (10f)
+#. 5: pause (12f)
+#. 6: pause (10f)
+#. 7: pause (10f)
+#. 8: pause (16f)
+msgctxt "Fail_Run"
+msgid ""
+"<1.au_ad>I worked day...<2.pa>after day...<3.pa>after day...<4.pa>to\n"
+"plant those flowers...<5.pa> Then you come\n"
+"and hurt them...<6.pa>over...<7.pa>and over...<8.pa>"
+msgstr ""
+
+#. 1: pause (30f)
+msgctxt "Fail_Run_St11"
+msgid "So many times...<1.pa>"
+msgstr ""
+
+#. 1: pause (30f)
+msgctxt "Fail_Run_St12"
+msgid ""
+"I've lost count of how many times I've\n"
+"told you... It's just so many now...<1.pa>"
+msgstr ""
+
+#. 1: pause (30f)
+msgctxt "Fail_Run_St13"
+msgid ""
+"How do you not understand?\n"
+"Why don't you get it?<1.pa>"
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: text_size
+msgctxt "Fail_Run_St2"
+msgid "<1.so><2.te_si>ARGGG!! NOOOOOOO!!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Game_Intro"
+msgid ""
+"<1.so>Please take some time to really admire\n"
+"the flowers. I worked so hard to plant\n"
+"them..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "So pretty in bloom!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "Ready_Intro"
+msgid ""
+"<1.so>Look! Aren't they lovely? <2.pa>I wanted to see\n"
+"how the shrine would look with flowers\n"
+"around it, and it's wonderful!\n"
+"<3.so>Please, feel free to take a closer look.<4.pa>\n"
+"Just don't step on them!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Ready_Intro2"
+msgid ""
+"<1.so>I planted flowers around the shrine.\n"
+"Please be careful where you step. You\n"
+"don't want to hurt them, do you?"
+msgstr ""
+

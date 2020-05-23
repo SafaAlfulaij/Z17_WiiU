@@ -1,0 +1,256 @@
+msgctxt "0000"
+msgid "Sure."
+msgstr ""
+
+msgctxt "0001"
+msgid "I'm busy."
+msgstr ""
+
+msgctxt "0002"
+msgid "You can't have them."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid "<1.so>What should I cook for tonight's dinner?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk01"
+msgid ""
+"<1.so>All right, I'll take those, then.<2.pa>\n"
+"Now to start cooking."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk02"
+msgid ""
+"<1.so>Since you found the missing ingredients, <2.pa>\n"
+"why don't you eat with us?\n"
+"It'll be done soon."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk03"
+msgid ""
+"<1.so>Are you a traveler?<2.pa>\n"
+"\n"
+"\n"
+"This is Lurelin Village. We're a small\n"
+"fishing town and proud of it!\n"
+"\n"
+"My husband is a fisherman, and I have\n"
+"two sons who will probably grow up to\n"
+"be fishermen too."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk04"
+msgid "<1.so>Here's a little something...<2.pa>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk06"
+msgid ""
+"<1.so>Hey,<2.pa> don't you think it's a little late to be\n"
+"making small talk? We're going to bed.\n"
+"Come back tomorrow."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk07"
+msgid ""
+"<1.so>Oh, join us for dinner!<2.pa>\n"
+"We're having <3.se_co>salt-grilled fish<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "talk08"
+msgid ""
+"<1.so>We seem to be a bit short on ingredients\n"
+"though.<2.pa> We'll need <3.se_co>goat butter <4.re_co>and a\n"
+"<5.se_co>hearty blueshell snail<6.re_co>.<7.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk09"
+msgid ""
+"<1.so>Really? I'm happy to hear that.<2.pa>\n"
+"I'll be waiting!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid "<1.so>I see... That's a shame."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk11"
+msgid ""
+"<1.so>Oh! You have the ingredients!<2.pa>\n"
+"Can I have them?<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid "<1.so>My, aren't we feeling grumpy..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk13"
+msgid ""
+"<1.so>Now, I'm going to need some\n"
+"<2.se_co>goat butter <3.re_co>and a <4.se_co>hearty blueshell "
+"snail<5.re_co>.\n"
+"Think you can help me out?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk15"
+msgid ""
+"<1.so>Oh, it's you.<2.pa>\n"
+"You brought the ingredients?\n"
+"\n"
+"Well, I thought you forgot about us, so\n"
+"I went ahead and made dinner already."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk16"
+msgid ""
+"<1.so>I thought you forgot about us, so I went\n"
+"ahead and made dinner already.\n"
+"\n"
+"But I'd still like to make <2.se_co>seafood paella<3.re_co>\n"
+"for tomorrow night!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk17"
+msgid ""
+"<1.so>Aw... Your pouch is full.<2.pa> I can't give you\n"
+"food until you make space for it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk18"
+msgid ""
+"<1.so>Are you a traveler?<2.pa>\n"
+"Good timing. Why don't you join us for\n"
+"dinner?\n"
+"We're having <3.se_co>salt-grilled fish<4.re_co>!\n"
+"The fish here are deeeee-lish!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk19"
+msgid ""
+"<1.so>Go on, dig in!\n"
+"It's deeeee-lish!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk20"
+msgid ""
+"<1.so>Make your <2.se_co>seafood paella<3.re_co>! It's so good\n"
+"and yummy and great!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk21"
+msgid ""
+"<1.so>That settles it!<2.pa>\n"
+"I'll make some <3.se_co>seafood paella<4.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk22"
+msgid "<1.so>Yaaaaay!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk23"
+msgid ""
+"<1.so>I'm so busy with housework that I don't\n"
+"have time to go shopping for ingredients.<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk24"
+msgid ""
+"<1.so>I can't go shopping for ingredients in\n"
+"this rain.<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk25"
+msgid ""
+"<1.so>Oh, I know! Could you go and get me\n"
+"the ingredients we're missing?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk26"
+msgid ""
+"<1.so>Can't talk now. It's past the kids'\n"
+"bedtime.\n"
+"\n"
+"Whatever you need will have\n"
+"to wait until tomorrow."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "talk27"
+msgid "<1.so><2.te_si>Shhhh! You'll wake the kids.<3.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk28"
+msgid ""
+"<1.so>You made room in your inventory for my\n"
+"signature dish!"
+msgstr ""
+

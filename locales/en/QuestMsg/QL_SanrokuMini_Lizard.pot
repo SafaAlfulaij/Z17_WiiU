@@ -1,0 +1,36 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_SanrokuMini_Lizard_Desc"
+msgid ""
+"Kima at the Southern Mine has asked you to\n"
+"catch ten of the <1.se_co>fireproof lizards <2.re_co>found on\n"
+"Death Mountain near the Southern Mine.\n"
+"\n"
+"Go get <3.se_co>10 fireproof lizards<4.re_co>, and take them\n"
+"to Kima."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "QL_SanrokuMini_Lizard_Finish"
+msgid ""
+"As thanks for the <1.se_co>10 fireproof lizards<2.re_co>,\n"
+"Kima gave you his flamebreaker armor!\n"
+"\n"
+"Not only that, but Kima will pay you <3.se_co>20 rupees<4.re_co>\n"
+"for every <5.se_co>three<6.re_co> <7.se_co>fireproof lizards<8.re_co> you"
+" bring him."
+msgstr ""
+
+msgctxt "QL_SanrokuMini_Lizard_Name"
+msgid "Fireproof Lizard Roundup"
+msgstr ""
+

@@ -1,0 +1,459 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>*huff...*\n"
+"<2.pa>*huff...*\n"
+"<3.pa>Ugh..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid "<1.so>Come 'n' get me..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed00"
+msgid ""
+"<1.so>But I would have had the last laugh after\n"
+"all.<2.pa> If these monsters tried eating me, I\n"
+"would just break their teeth!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed01"
+msgid ""
+"<1.so>If only I could say to these monsters...<2.pa>\n"
+"\"Hey, let's just soak in a nice hot spring\n"
+"and talk things out.\""
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Guardian00"
+msgid "<1.so>Run!<2.pa> We're no match for a <3.se_co>Guardian<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (long)
+msgctxt "MSG_Orud_00"
+msgid ""
+"<1.so>Hi there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!\n"
+"\n"
+"<5.se_co>Goron City<6.re_co>'s great—everyone should visit\n"
+"it at least once in their lives!<7.pa> But even\n"
+"the greatest cities have their problems..."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "MSG_Orud_00_1"
+msgid ""
+"<1.se_co><2.so>Goron City<3.re_co>'s great—everyone should visit\n"
+"it at least once in their lives!<4.pa> That's not\n"
+"to say it doesn't have problems..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "MSG_Orud_01"
+msgid ""
+"<1.so>Hey there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!\n"
+"\n"
+"<5.se_co>Goron City <6.re_co>is hot, but that's just the way\n"
+"we like it! It's not a dry heat, though.\n"
+"It's more a burn-you-to-a-crisp heat!\n"
+"Be sure to pack some <7.se_co>fireproof lizards<8.re_co>\n"
+"if you're planning a trip."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "MSG_Orud_01_1"
+msgid ""
+"<1.se_co><2.so><3.re_co>The air in <4.se_co>Goron City<5.re_co> can burn "
+"you to\n"
+"a crisp, so make sure you bring some\n"
+"<6.se_co>fireproof lizards <7.re_co>with you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "MSG_Orud_02"
+msgid ""
+"<1.so>Hey there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!<5.pa> I'm a Goron,\n"
+"so the heat doesn't bother me.\n"
+"The climbing trail for <6.se_co>Death Mountain <7.re_co>is\n"
+"to the north,<8.pa> but it's so hot up there\n"
+"anyone who's not a Goron will burn up."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "MSG_Orud_02_1"
+msgid ""
+"<1.se_co><2.so><3.re_co>The climbing trail for <4.se_co>Death Mountain "
+"<5.re_co>is\n"
+"to the north,<6.pa> but it's so hot up there\n"
+"anyone who's not a Goron will burn up!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (long)
+msgctxt "MSG_Orud_03"
+msgid ""
+"<1.so>Hey there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!\n"
+"\n"
+"These days, <5.se_co>Hyrule Castle <6.re_co>is just a\n"
+"creepy old ruin.<7.pa> The treasure hunters\n"
+"who sneak in there must be crazy!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "MSG_Orud_03_1"
+msgid ""
+"<1.so>These days, <2.se_co>Hyrule Castle <3.re_co>is just a\n"
+"creepy old ruin.<4.pa> The treasure hunters\n"
+"who sneak in there must be crazy!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+msgctxt "MSG_Orud_04"
+msgid ""
+"<1.so>Hey there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!\n"
+"\n"
+"This heat is nothing to us Gorons,<5.pa> but I\n"
+"guess it's pretty bad for a Hylian, huh?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "MSG_Orud_04_1"
+msgid ""
+"<1.so>This heat is nothing to us Gorons,<2.pa> but I\n"
+"guess it's pretty bad for a Hylian, huh?"
+msgstr ""
+
+msgctxt "Near00"
+msgid "Ah, what a day..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "How's it going?"
+msgstr ""
+
+msgctxt "Near02"
+msgid "I love this time of day."
+msgstr ""
+
+msgctxt "Near03"
+msgid "Good evening."
+msgstr ""
+
+msgctxt "Near04"
+msgid "I'm soaked through!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (long)
+#. 8: pause (longer)
+msgctxt "Rest_00"
+msgid ""
+"<1.so>If you're going somewhere hot, it's a\n"
+"good idea to bring some <2.se_co>fireproof elixirs<3.re_co>.<4.pa>\n"
+"\n"
+"You can make them by cooking a\n"
+"<5.se_co>fireproof lizard <6.re_co>with a, um...<7.pa>with a...<8.pa>\n"
+"Oh, um...with something else."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Rest_01"
+msgid ""
+"<1.so>If there's one thing we Gorons just can't\n"
+"deal with, it's heavy rain and snow.<2.pa> Or\n"
+"regular rain! Just any rain, really."
+msgstr ""
+
+#. 1: sound
+msgctxt "Rest_02"
+msgid ""
+"<1.so>We may look intimidating, but us Gorons\n"
+"are a friendly bunch once you get to\n"
+"know us!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (long)
+#. 10: pause (longer)
+msgctxt "RetMSG_Orud_00"
+msgid ""
+"<1.so>Hey there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!\n"
+"\n"
+"If you can't wrangle any fire-resistant\n"
+"clothes, you can get by with some\n"
+"<5.se_co>fireproof elixirs<6.re_co>.\n"
+"You can make one by cooking a\n"
+"<7.se_co>fireproof lizard <8.re_co>with a...<9.pa> With a, um...<10.pa>\n"
+"Oh, boy...with something else."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (long)
+#. 7: pause (longer)
+msgctxt "RetMSG_Orud_00_1"
+msgid ""
+"<1.so>If you can't wrangle any fire-resistant\n"
+"clothes, you can get by with some\n"
+"<2.se_co>fireproof elixirs<3.re_co>.\n"
+"You can make one by cooking a\n"
+"<4.se_co>fireproof lizard <5.re_co>with a...<6.pa>with a, um...<7.pa>\n"
+"Oh, boy...with something else."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (long)
+msgctxt "RetMSG_Orud_01"
+msgid ""
+"<1.so>Hey there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!\n"
+"\n"
+"<5.se_co>Hyrule Castle <6.re_co>and <7.se_co>Death "
+"Mountain<8.re_co>...<9.pa>\n"
+"The roads around here can get pretty\n"
+"dangerous for travelers."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (long)
+msgctxt "RetMSG_Orud_01_1"
+msgid ""
+"<1.se_co><2.so>Hyrule Castle <3.re_co>and <4.se_co>Death "
+"Mountain<5.re_co>...<6.pa>\n"
+"The roads around here can get pretty\n"
+"dangerous for travelers!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "RetMSG_Orud_02"
+msgid ""
+"<1.so>Hey there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!\n"
+"\n"
+"There's a noticeable difference in the\n"
+"heat to the east and west of this\n"
+"dividing line.\n"
+"If you go as far as the <5.se_co>Woodland Stable<6.re_co>,\n"
+"it's just too chilly for us Gorons!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "RetMSG_Orud_02_1"
+msgid ""
+"<1.so>There's a noticeable difference in the\n"
+"heat to the east and west of this dividing\n"
+"line.\n"
+"If you go as far as the <2.se_co>Woodland Stable<3.re_co>,\n"
+"it's just too chilly for us Gorons!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: pause (short)
+msgctxt "RetMSG_Orud_03"
+msgid ""
+"<1.so>Hey there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!<5.pa> And I actually\n"
+"have a bit of a problem...\n"
+"We've had fewer visitors to the\n"
+"Goron Hot Springs recently,<6.pa> and it's all\n"
+"thanks to that sweltering, ugly thing!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "RetMSG_Orud_03_1"
+msgid ""
+"<1.so>We've had fewer visitors to the\n"
+"<2.se_co>Goron Hot Springs<3.re_co> recently,<4.pa> and it's all\n"
+"thanks to that sweltering, ugly thing!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (short)
+#. 7: pause (long)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "RetMSG_Orud_04"
+msgid ""
+"<1.so>Hey there!<2.pa> I'm Boldon,<3.se_co> Goron City<4.re_co>'s\n"
+"ambassador of tourism!\n"
+"\n"
+"<5.so>Hah... <6.pa>Goron Hot Springs just soothe\n"
+"the soul.<7.pa> Try them out for yourself.\n"
+"Turn south when you hit <8.se_co>Goron City<9.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "RetMSG_Orud_04_1"
+msgid ""
+"<1.so>♪Aaah...♪ <2.pa><3.se_co>Goron Hot Springs<4.re_co> soothe\n"
+"the soul.<5.pa> Try them out for yourself.\n"
+"Turn south when you hit <6.se_co>Goron City<7.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>Travelers can count on running into\n"
+"monsters as reliably as they can count\n"
+"on fire burning them up."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>But here's the thing about monsters:\n"
+"they're only as scary as you think\n"
+"they are."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Being afraid of monsters is all in your\n"
+"head. Mind over matter and all that!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>If we put our heads together as well as\n"
+"our muscles, we can stomp 'em flat!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>OK, I'll admit...<2.pa>some monsters can be\n"
+"pretty scary when they get serious. You\n"
+"really helped me out of a jam!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>Guess I should take monsters a bit more\n"
+"seriously, huh?<2.pa> I would have been a\n"
+"goner had it not been for you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Thanks00"
+msgid "<1.so>This is for you.<2.pa> Take it—it's yours now."
+msgstr ""
+

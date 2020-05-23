@@ -1,0 +1,36 @@
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_King001_00"
+msgid ""
+"<1.so>Go on...<2.pa> Here is the <3.se_co>paraglider<4.re_co>, just as\n"
+"I promised."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_King001_01"
+msgid ""
+"<1.so>With that, you should be able to safely\n"
+"fly off the cliffs surrounding this area."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound2
+msgctxt "Npc_King001_02"
+msgid ""
+"<1.so>And...<2.pa>I think that's it.\n"
+"\n"
+"\n"
+"<3.so>I've told you everything I can..."
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: auto_advance
+msgctxt "Npc_King001_03"
+msgid "Link...<1.pa> You must save...<2.pa>Hyrule...<3.pa><4.au_ad>"
+msgstr ""
+

@@ -1,0 +1,29 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: icon
+msgctxt "QL_FirstTower_Desc"
+msgid ""
+"From out of nowhere, you hear a woman's\n"
+"voice speak to you... She instructs you to head\n"
+"to the <1.se_co>marker <2.re_co>displayed on the Sheikah Slate.\n"
+"\n"
+"The slate is both alien and somehow familiar\n"
+"to you... You find that you can access its\n"
+"map by pressing the <3.ic> button."
+msgstr ""
+
+msgctxt "QL_FirstTower_Finish"
+msgid ""
+"When you inserted your Sheikah Slate in the\n"
+"pedestal marked on the map, a giant tower\n"
+"erupted upward from the ground, carrying you\n"
+"high into the air.\n"
+"\n"
+"From Hyrule Castle, off in the distance, you hear\n"
+"the woman's voice speaking to you again..."
+msgstr ""
+
+msgctxt "QL_FirstTower_Name"
+msgid "Follow the Sheikah Slate"
+msgstr ""
+

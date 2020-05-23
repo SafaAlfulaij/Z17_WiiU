@@ -1,0 +1,402 @@
+msgctxt "0000"
+msgid "I'm a Hylian!"
+msgstr ""
+
+msgctxt "0002"
+msgid "What about your mom?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0004"
+msgid "Who's your dad?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Frogging?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Have some frogs."
+msgstr ""
+
+#. 1: sound
+msgctxt "near00"
+msgid "<1.so>Waaa ha ha ha!"
+msgstr ""
+
+#. 1: sound
+msgctxt "near01"
+msgid "<1.so>♪Hmm hm hmmm.♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk00"
+msgid "<1.so>What is it?!<2.pa> Oh! Hey, mister!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Heya, mister!"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk02"
+msgid "<1.so>You've got a weird face!<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk03"
+msgid "<1.so>So sleepy... <2.pa>I should go to bed..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid "<1.so>Zzz... Zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+msgctxt "talk05"
+msgid ""
+"<1.so>I'm heading to where Dad is,<2.pa> but if\n"
+"you're thinking of coming with me,\n"
+"you should know it's a boring place.<3.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+msgctxt "talk06"
+msgid ""
+"<1.so>You can hang out with me if you want,<2.pa>\n"
+"but you'll probably be bored to tears!<3.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk07"
+msgid ""
+"<1.so>Hy...leon?<2.pa> Never met one of\n"
+"those before!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: sound
+msgctxt "talk08"
+msgid ""
+"<1.so>If you're a Hy-leon,<2.pa> that means you came\n"
+"from really far away, right?!\n"
+"\n"
+"<3.so>You didn't happen to see my mom, Mei,\n"
+"on the way here, did you?\n"
+"\n"
+"Ever since the water monster went crazy,<4.pa>\n"
+"Mom hasn't come home...\n"
+"\n"
+"<5.so>But, I mean, I bet she'll come home\n"
+"sooner or later... Hopefully sooner."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk11"
+msgid "<1.so>I'm busy!<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk12"
+msgid "<1.so>I'm waiting for Dad to finish working!<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>My mom, Mei, has been gone ever since\n"
+"that water monster went nuts.\n"
+"\n"
+"But I'm pretty sure her work is just\n"
+"taking longer than usual.<2.pa> I bet she'll\n"
+"come home any day now!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: text_size
+msgctxt "talk14"
+msgid "<1.so><2.te_si>BAAAA HA HA HA!<3.ra><4.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid "<1.so>See ya!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk16"
+msgid ""
+"<1.so>My dad, Fronk, <2.pa>is Dento's apprentice!\n"
+"\n"
+"\n"
+"He fixes up places around the domain...<3.pa>\n"
+"It's super cool!"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk17"
+msgid "<1.so>I'm busy frogging!<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: sound
+#. 7: pause (short)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (longer)
+#. 11: sound
+#. 12: set_colour (red)
+#. 13: reset_colour
+#. 14: pause (short)
+msgctxt "talk18"
+msgid ""
+"<1.so>Yep!<2.pa> Since Mom hasn't come back from\n"
+"fishing yet...\n"
+"\n"
+"I've been catching <3.se_co>hot-footed frogs<4.re_co>\n"
+"<5.pa>and selling them to earn some money\n"
+"for our family.\n"
+"...\n"
+"\n"
+"\n"
+"<6.so>You...were just pitying me, weren't you?<7.pa>\n"
+"You felt sorry for me...didn't you?!\n"
+"\n"
+"Well, I don't need your pity! If you wanna\n"
+"help, donate some <8.se_co>hot-footed frogs<9.re_co>!<10.pa>\n"
+"You can find them easily on rainy days.\n"
+"<11.so>I...really need you to get some for me.\n"
+"<12.se_co>Five frogs<13.re_co> should be enough!<14.pa> Got it?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk19"
+msgid "<1.so>OK, I'm gonna go ahead and count them!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: single_choice
+msgctxt "talk20"
+msgid ""
+"<1.so>So I'm catching frogs and selling them\n"
+"to earn money for our family! <2.pa>Just until\n"
+"Mom comes home.<3.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk21"
+msgid "<1.so>What? <2.pa>Really?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk22"
+msgid ""
+"<1.so>What the... Huh?!\n"
+"\n"
+"\n"
+"You don't have ANY? None at all?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk23"
+msgid "<1.so>One..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk24"
+msgid "<1.so>One, <2.pa>two..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk25"
+msgid "<1.so>One, <2.pa>two, <3.pa>three..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "talk26"
+msgid "<1.so>One, <2.pa>two, <3.pa>three, <4.pa>four..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: sound
+#. 7: pause (longer)
+msgctxt "talk27"
+msgid ""
+"<1.so>One, <2.pa>two, <3.pa>three, <4.pa>four...<5.pa>FIVE!\n"
+"\n"
+"\n"
+"<6.so>Wow!<7.pa> You really brought them!\n"
+"\n"
+"\n"
+"Here, take this as thanks!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: set_colour (red)
+#. 5: variable (Npc_Zora011_HaveFrog)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk28"
+msgid ""
+"<1.so>Huh?! <2.pa>Mister, you only have<3.pa>\n"
+"<4.se_co><5.va><6.re_co> <7.se_co>hot-footed frogs<8.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk30"
+msgid ""
+"<1.so>On <2.se_co>rainy days<3.re_co> like today,<4.pa> the frogs come\n"
+"out in swarms. Now's my chance!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "talk31"
+msgid ""
+"<1.so>OK! When you get <2.se_co>five<3.re_co> <4.se_co>hot-footed "
+"frogs<5.re_co>,<6.pa>\n"
+"come back here and give them to me!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk32"
+msgid ""
+"<1.so>On <2.se_co>sunny days<3.re_co> like today,<4.pa> those frogs\n"
+"don't really come out much..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "talk33"
+msgid ""
+"<1.so>Well... I wanted to give you something,<2.pa>\n"
+"but you can't carry any more <3.se_co>armoranth<4.re_co>,\n"
+"can you?\n"
+"<5.so>If you make room for more <6.se_co>armoranth<7.re_co>,<8.pa>\n"
+"come back and see me!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk34"
+msgid ""
+"<1.so>This is called <2.se_co>armoranth<3.re_co>!\n"
+"\n"
+"\n"
+"I picked it because it's unusual,<4.pa>\n"
+"but it doesn't really suit me...\n"
+"so it's all yours!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk35"
+msgid ""
+"<1.so>My mom, Mei, sells the fish she catches\n"
+"at the general store!\n"
+"\n"
+"Her fish are always super fresh...<2.pa>\n"
+"Yeah! They're amazing!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk36"
+msgid "<1.so>Do Hy-leons eat fish?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk37"
+msgid ""
+"<1.so>The fish my mom caught are being sold\n"
+"at the general store, so go have a look!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "talk38"
+msgid ""
+"<1.so>Speaking of which, <2.pa>do Hy-leons have any\n"
+"use for frogs?\n"
+"\n"
+"If you don't need your <3.se_co>hot-footed frogs<4.re_co>,\n"
+"why not donate them to me?!<5.pa> <6.se_co>Five frogs<7.re_co>\n"
+"should do the trick!<8.pa> Got it?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "talk39"
+msgid ""
+"<1.so>Thanks for those <2.se_co>hot-footed frogs<3.re_co>!<4.pa>\n"
+"See ya!"
+msgstr ""
+

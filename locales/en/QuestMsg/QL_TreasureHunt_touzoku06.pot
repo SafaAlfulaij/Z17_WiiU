@@ -1,0 +1,45 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt_touzoku06_Desc"
+msgid ""
+"The royal family of Hyrule collected historically\n"
+"significant outfits, but they were stolen by a\n"
+"bandit named Misko. One of the items stolen\n"
+"was the blue garb of the Hero of Winds.\n"
+"\n"
+"Somewhere in the <1.se_co>Deya Village Ruins<2.re_co>\n"
+"is a journal that places the location\n"
+"of this treasure..."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt_touzoku06_Finish"
+msgid ""
+"\"The blue garb of the hero who controlled\n"
+"the wind and traveled the ocean is where\n"
+"the Menoat River was born.\"\n"
+"\n"
+"You found the treasure that was hidden at Cora\n"
+"Lake and obtained the <1.se_co>Island Lobster Shirt<2.re_co>!"
+msgstr ""
+
+msgctxt "QL_TreasureHunt_touzoku06_Name"
+msgid "EX Treasure: Garb of Winds"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_TreasureHunt_touzoku06_Step01"
+msgid ""
+"\"The blue garb of the hero who controlled\n"
+"the wind and traveled the ocean is <1.se_co>where\n"
+"the Menoat River was born<2.re_co>.\"\n"
+"\n"
+"Misko's EX Journal 2 describes where the blue\n"
+"garb of the Hero of Winds is hidden...but where\n"
+"was <3.se_co>the Menoat River born<4.re_co>?"
+msgstr ""
+

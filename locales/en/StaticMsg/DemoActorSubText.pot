@@ -1,0 +1,36 @@
+msgctxt "Dm_Npc_Gerdo_Hero_SubText"
+msgid "Gerudo Champion"
+msgstr ""
+
+msgctxt "Dm_Npc_Goron_Hero_SubText"
+msgid "Goron Champion"
+msgstr ""
+
+msgctxt "Dm_Npc_Hyrule_KingSoul_SubText"
+msgid "The Last King of Hyrule"
+msgstr ""
+
+msgctxt "Dm_Npc_Rito_Hero_SubText"
+msgid "Rito Champion"
+msgstr ""
+
+msgctxt "Dm_Npc_Zora_Hero_SubText"
+msgid "Zora Champion"
+msgstr ""
+
+msgctxt "Npc_FollowGoron_SubText"
+msgid "Goron Youth"
+msgstr ""
+
+msgctxt "Npc_ValleyVillage010_SubText"
+msgid "Rito Warrior"
+msgstr ""
+
+msgctxt "Npc_ZoraB001_SubText"
+msgid "Zora Prince"
+msgstr ""
+
+msgctxt "Npc_oasis003_SubText"
+msgid "Gerudo Chief"
+msgstr ""
+

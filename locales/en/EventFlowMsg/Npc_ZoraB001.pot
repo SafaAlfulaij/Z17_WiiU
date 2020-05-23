@@ -1,0 +1,154 @@
+#. 1: sound
+msgctxt "NakedPlayer"
+msgid "<1.so>Where are your clothes?"
+msgstr ""
+
+#. 1: sound
+msgctxt "TerrorArrow"
+msgid "<1.so>Don't point that at me!"
+msgstr ""
+
+#. 1: sound
+msgctxt "TerrorBomb"
+msgid "<1.so>Whaaa! Is that—?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "TerrorExplosion"
+msgid "<1.so>AAAAAHHHH!!"
+msgstr ""
+
+#. 1: sound
+msgctxt "TerrorFire"
+msgid "<1.so>Danger! Fire!"
+msgstr ""
+
+#. 1: sound
+msgctxt "TerrorImpulse"
+msgid "<1.so>What's going on?"
+msgstr ""
+
+#. 1: sound
+msgctxt "TerrorInsect"
+msgid "<1.so>Oh, just some bugs..."
+msgstr ""
+
+#. 1: sound
+msgctxt "TerrorLightning"
+msgid "<1.so>Shocking!"
+msgstr ""
+
+#. 1: sound
+msgctxt "TerrorSword"
+msgid "<1.so>Hey! That's dangerous!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk00"
+msgid ""
+"<1.so>Hmm... <2.pa>How can we possibly appease\n"
+"Divine Beast Vah Ruta..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: sound
+#. 5: sound
+#. 6: pause (20f)
+#. 7: sound
+#. 8: sound
+#. 9: sound
+#. 10: sound
+#. 11: text_size
+#. 12: raw
+#. 13: text_size
+#. 14: sound
+#. 15: pause (10f)
+msgctxt "talk01"
+msgid ""
+"<1.so>Link! I must thank you!\n"
+"\n"
+"\n"
+"<2.so>You somehow overcame the objections\n"
+"of the old geezers on our council,\n"
+"all to help save our home!\n"
+"<3.so>Yes, you are a treasure of a Hylian!\n"
+"Taking time out of your journey to come\n"
+"to our rain- and monster-ridden home!\n"
+"<4.so>And here you activated those orbs with\n"
+"shock arrows, freed Ruta, and released\n"
+"my sister from her lingering regret.\n"
+"<5.so>Link...<6.pa> I simply can't thank you enough!\n"
+"<7.so>Especially for following me to the end,\n"
+"pushy and unreasonable as I am!\n"
+"<8.so>Zora's Domain would still be in peril if\n"
+"not for you. <9.so>You are welcome anytime,\n"
+"and we are ever at your service!\n"
+"<10.so><11.te_si>Have I mentioned how incredible\n"
+"you are? And how thankful I am?<12.ra><13.te_si><14.so>Because you are! "
+"And I am! <15.pa>Yes, you are\n"
+"the greatest of Hylians and my most\n"
+"treasured friend for all time!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: text_size
+#. 4: raw
+#. 5: text_size
+#. 6: sound
+#. 7: pause (20f)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "talk02"
+msgid ""
+"<1.so>If you ever find yourself in this part of\n"
+"the world again, I implore you to come\n"
+"visit us! We are always here for you.\n"
+"<2.so><3.te_si>Oh, and have I mentioned how\n"
+"incredible you are? And how\n"
+"thankful I am?<4.ra><5.te_si><6.so>Because you are! And I am! <7.pa>Yes, "
+"you are\n"
+"the greatest of <8.se_co>Hylians <9.re_co>and my most\n"
+"treasured friend for all time!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+#. 5: sound
+#. 6: pause (20f)
+msgctxt "talk03"
+msgid ""
+"<1.so>Mipha... Dear sister...<2.pa> Are you still\n"
+"trapped inside the Divine Beast?\n"
+"\n"
+"<3.so>Are you supporting Link in his fight?<4.pa> \n"
+"Is there really nothing more I can do?\n"
+"\n"
+"<5.so>I wish you were here to guide me...<6.pa>\n"
+"I miss you terribly..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (20f)
+msgctxt "talk05"
+msgid ""
+"<1.so>Link!!\n"
+"\n"
+"\n"
+"<2.so>You...heard all that, eh? <3.pa>I'm afraid you\n"
+"caught me in a moment of vulnerability."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk06"
+msgid ""
+"<1.so>Ah, Link... I am sorry you had to see me\n"
+"in such a moment of weakness."
+msgstr ""
+

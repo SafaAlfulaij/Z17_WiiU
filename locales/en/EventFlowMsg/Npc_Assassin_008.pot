@@ -1,0 +1,98 @@
+msgctxt "0000"
+msgid "Master Kohga?"
+msgstr ""
+
+msgctxt "0001"
+msgid "He's got a dumb belly."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Henshin00"
+msgid "<1.so><2.ra><3.te_si>I'll take your life!<4.te_si><5.au_ad>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: raw
+#. 4: auto_advance
+#. 5: text_size
+msgctxt "Henshin01"
+msgid ""
+"<1.te_si><2.so><3.ra>You can offer your apologies to\n"
+"Master Kohga in person!<4.au_ad><5.te_si>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>Ehehe..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+#. 4: pause (longer)
+#. 5: choice
+msgctxt "Talk00"
+msgid ""
+"<1.so>Isn't Master Kohga just so dreamy?\n"
+"I could stare at that poochy tummy of his\n"
+"<2.pa>all<3.pa> day<4.pa> long...<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk01"
+msgid ""
+"<1.so>What? There's no way you don't know\n"
+"about him!<2.so> How could anyone not know\n"
+"about him..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk02"
+msgid ""
+"<1.so>He's the leader of the Yiga Clan, master\n"
+"of countless Sheikah secrets and sworn\n"
+"enemy of a hero thought long dead!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk03"
+msgid ""
+"<1.so>How dare you forget the name of the\n"
+"man you defeated! Show him honor,\n"
+"even in defeat!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk04"
+msgid "<1.so>A dumb...belly?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk05"
+msgid ""
+"<1.so>You filth! You have no appreciation for\n"
+"true beauty!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk06"
+msgid ""
+"<1.so>So your plan was not simply to defeat\n"
+"Master Kohga but to mock him as well?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Talk07"
+msgid ""
+"<1.so>I'll ask you as many times as it takes!<2.pa>\n"
+"Isn't Master Kohga really dreamy?<3.ch>"
+msgstr ""
+

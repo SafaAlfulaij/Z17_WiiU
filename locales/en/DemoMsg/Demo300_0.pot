@@ -1,0 +1,9 @@
+#. 1: raw
+#. 2: animation
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Deku_FirstFailure00"
+msgid "<1.ra><2.an><3.te_si>Enough.<4.te_si><5.au_ad>"
+msgstr ""
+

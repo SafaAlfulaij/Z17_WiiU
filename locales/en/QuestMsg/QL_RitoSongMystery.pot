@@ -1,0 +1,45 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_RitoSongMystery_Desc"
+msgid ""
+"\"The pride of the Rito, pillar in the sky,\n"
+"its heart lights up, when the sun is high.\"\n"
+"\n"
+"It seems there is more to these lyrics than \n"
+"you heard from Bedoli in the Rito Village.\n"
+"\n"
+"Apparently Bedoli's sister <1.se_co>Laissa <2.re_co>knows\n"
+"the last half of the song."
+msgstr ""
+
+msgctxt "QL_RitoSongMystery_Finished"
+msgid ""
+"\"The pride of the Rito, pillar in the sky,\n"
+"its heart lights up when the sun is high.\n"
+"The heart shines upon a path not whole,\n"
+"but a warming flame can stir its soul.\"\n"
+"\n"
+"The lyrics in the ancient song from the\n"
+"Rito Village were actually a clue to lead to\n"
+"the entrance of a shrine!"
+msgstr ""
+
+msgctxt "QL_RitoSongMystery_Name"
+msgid "The Ancient Rito Song"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_RitoSongMystery_Sister"
+msgid ""
+"You have heard the rest of the ancient Rito\n"
+"song from Bedoli's sister, Laissa.\n"
+"\n"
+"\"The pride of the Rito, pillar in the sky,\n"
+"its heart lights up when the sun is high.\n"
+"The heart shines upon a path not whole,\n"
+"but a warming flame can stir its soul.\"\n"
+"\n"
+"What is the <1.se_co>meaning hidden<2.re_co> in these lyrics?"
+msgstr ""
+

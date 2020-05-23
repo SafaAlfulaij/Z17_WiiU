@@ -1,0 +1,37 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_HatenoMini_DevilSeal_Desc"
+msgid ""
+"The horned statue in Hateno Village told you\n"
+"to increase either your <1.se_co>Heart Containers<2.re_co> or\n"
+"your <3.se_co>Stamina Vessel <4.re_co>by one and come back."
+msgstr ""
+
+msgctxt "QL_HatenoMini_DevilSeal_Finish"
+msgid ""
+"You persuaded the horned statue to return your\n"
+"container. Now you can exchange containers\n"
+"for a small cost.\n"
+"\n"
+"The horned statue will buy a Heart Container or\n"
+"Stamina Vessel for 100 rupees and sell your\n"
+"choice afterward for 120 rupees."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_HatenoMini_DevilSeal_GiveUtsuwa"
+msgid ""
+"The horned statue in Hateno Village took one\n"
+"of your containers!\n"
+"\n"
+"The only thing to do is <1.se_co>talk<2.re_co> to him and try to\n"
+"convince him to give it back."
+msgstr ""
+
+msgctxt "QL_HatenoMini_DevilSeal_Name"
+msgid "The Statue's Bargain"
+msgstr ""
+

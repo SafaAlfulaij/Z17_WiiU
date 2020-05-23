@@ -1,0 +1,205 @@
+msgctxt "0000"
+msgid "That's right."
+msgstr ""
+
+msgctxt "0001"
+msgid "No way."
+msgstr ""
+
+msgctxt "0002"
+msgid "The...thing?"
+msgstr ""
+
+msgctxt "0003"
+msgid "I have to go now."
+msgstr ""
+
+msgctxt "0004"
+msgid "I climbed it."
+msgstr ""
+
+msgctxt "0005"
+msgid "Not yet."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: text_size
+#. 4: sound
+#. 5: text_size
+#. 6: pause (longer)
+#. 7: pause (long)
+#. 8: choice
+msgctxt "talk_00"
+msgid ""
+"<1.so>Gra ha ha!<2.pa> My guy!<3.te_si>\n"
+"\n"
+"\n"
+"<4.so><5.te_si>You're here to do...<6.pa>THE THING,<7.pa> right?<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk_01"
+msgid ""
+"<1.so>HUH?<2.pa> You actually understood what I\n"
+"was sayin'?<3.pa> You got some sorta\n"
+"sidekick powers or somethin'?"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+msgctxt "talk_02"
+msgid ""
+"<1.so>Oh, I'm wrong? I'm wrong!\n"
+"\n"
+"<2.te_si>\n"
+"<3.so>OK. Gra ha hah!!<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: sound
+#. 6: pause (long)
+#. 7: pause (long)
+#. 8: pause (long)
+#. 9: text_size
+#. 10: sound
+#. 11: pause (short)
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: pause (long)
+#. 15: pause (long)
+#. 16: text_size
+#. 17: sound
+#. 18: text_size
+msgctxt "talk_03"
+msgid ""
+"<1.so>Come on...<2.pa> You know!<3.pa>\n"
+"THE THING!<4.te_si>\n"
+"\n"
+"<5.so>Climbing<6.pa> the<7.pa> snowy<8.pa> mountains!<9.te_si>\n"
+"\n"
+"\n"
+"<10.so>I was confident I could handle the cold,<11.pa>\n"
+"so I didn't wear anything special, but the\n"
+"<12.se_co>Hebra Mountains <13.re_co>are REALLY cold!\n"
+"Like seriously cold! <14.pa>Cold enough to send\n"
+"you to your grave, I'd say! So be careful\n"
+"out there, yeah?<15.pa>\n"
+"<16.te_si><17.so>GRA HA HA HA!<18.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_04"
+msgid "<1.so>Ice cold!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (short)
+msgctxt "talk_05"
+msgid "<1.so><2.an>Welp...<3.pa> I'm gonna get to sleep!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: choice
+msgctxt "talk_06"
+msgid ""
+"<1.so><2.te_si>Har har! My guy!\n"
+"\n"
+"\n"
+"<3.so><4.te_si>Did ya already climb that snowy\n"
+"mountain?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (long)
+#. 9: sound
+#. 10: text_size
+#. 11: text_size
+msgctxt "talk_07"
+msgid ""
+"<1.so><2.te_si>HURRRR?!\n"
+"And you didn't die or nothin'?<3.te_si>\n"
+"\n"
+"I s'pose you made it over to the\n"
+"<4.se_co>Flight Range<5.re_co> at the base of the\n"
+"<6.se_co>Hebra Mountains<7.re_co> too?\n"
+"I'll admit it.<8.pa> I'm mighty jealous.\n"
+"\n"
+"\n"
+"<9.so><10.te_si>Gra ha ha!<11.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: raw
+#. 9: text_size
+#. 10: sound
+#. 11: text_size
+msgctxt "talk_08"
+msgid ""
+"<1.so><2.te_si>Ah, then I'll let you in on a little\n"
+"somethin'!<3.te_si>\n"
+"\n"
+"I hear there's a little play area for the\n"
+"Rito people at the base of the\n"
+"<4.se_co>Hebra Mountains<5.re_co>.\n"
+"It's called the <6.se_co>Flight Range<7.re_co>.\n"
+"Man, I wanna go play there!<8.ra><9.te_si><10.so>Gra ha ha!<11.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: sound
+#. 6: text_size
+#. 7: pause (long)
+#. 8: choice
+msgctxt "talk_09"
+msgid ""
+"<1.so><2.te_si>Gra ha!<3.pa> Well look who it is!<4.pa>\n"
+"\n"
+"\n"
+"<5.so><6.te_si>So you're here to do that thing, right?<7.pa>\n"
+"You know what I'm talkin' 'bout!<8.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_10"
+msgid "<1.so>Well, another day, another challenge!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "talk_11"
+msgid "<1.so>Zzzhaha...<2.pa> Zzzhaha...<3.pa>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_12"
+msgid "<1.so>Hey hey, my guy!"
+msgstr ""
+

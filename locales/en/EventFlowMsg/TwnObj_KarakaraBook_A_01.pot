@@ -1,0 +1,50 @@
+msgctxt "0000"
+msgid "Read."
+msgstr ""
+
+msgctxt "0001"
+msgid "Don't read."
+msgstr ""
+
+#. 1: raw
+#. 2: text_size
+#. 3: text_size
+msgctxt "Book00"
+msgid ""
+"<1.ra>This is Traysi! I have a taste for\n"
+"the rumors of worlds long gone and\n"
+"worlds yet to come!\n"
+"Everyone gossiping in the present\n"
+"world? Here's my favorite bit of the\n"
+"latest news...\n"
+"<2.te_si>The Secret of the Royal Family\n"
+"of Hyrule<3.te_si>\n"
+"\n"
+"I heard a rumor that there's something to\n"
+"be found inside Hyrule Castle...\n"
+"\n"
+"And that something is a secret room of\n"
+"Rhoam Bosphoramus Hyrule, the last\n"
+"king of Hyrule!\n"
+"There's also supposedly a laboratory that\n"
+"belonged to his daughter, Princess\n"
+"Zelda. A double discovery!\n"
+"I bet there are all kinds of amazing\n"
+"royal-family secrets hidden in those\n"
+"rooms just waiting to be revealed!\n"
+"\"Secrets of the Royal Family Uncovered!\"\n"
+"That headline alone would keep food on\n"
+"the table for months!\n"
+"But there's no way I'm going anywhere\n"
+"near a place as dangerous as Hyrule\n"
+"Castle. No way!\n"
+"Don't let that scare you, though...\n"
+"Traysi's Recommendation: ★★★★★"
+msgstr ""
+
+#. 1: raw
+#. 2: choice
+msgctxt "BookFirst"
+msgid "<1.ra>Rumor Mill: Volume 7<2.ch>"
+msgstr ""
+

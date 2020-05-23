@@ -1,0 +1,121 @@
+msgctxt "Demo660_0_Text000"
+msgid " "
+msgstr ""
+
+msgctxt "Demo660_0_Text001"
+msgid " "
+msgstr ""
+
+msgctxt "Demo660_0_Text002"
+msgid " "
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo660_0_Text003"
+msgid ""
+"Not enough.<1.ra>I must stay in the eye of the whirlwind...\n"
+"must push myself harder..."
+msgstr ""
+
+msgctxt "Demo660_0_Text004"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "Demo660_0_Text005"
+msgid ""
+"You know, your highness...\n"
+"it's rude to eavesdrop."
+msgstr ""
+
+msgctxt "Demo660_0_Text006"
+msgid ""
+"My apologies. I went to the village, and\n"
+"I was told I could find you here."
+msgstr ""
+
+msgctxt "Demo660_0_Text007"
+msgid "You have need of me. To defeat Calamity Ganon."
+msgstr ""
+
+msgctxt "Demo660_0_Text008"
+msgid ""
+"To slay the beast once and for all...\n"
+"It will be my great pleasure."
+msgstr ""
+
+msgctxt "Demo660_0_Text009"
+msgid ""
+"Thank you, Revali. If we work together,\n"
+"I'm certain we'll be able to defeat—"
+msgstr ""
+
+msgctxt "Demo660_0_Text010"
+msgid "However!"
+msgstr ""
+
+msgctxt "Demo660_0_Text011"
+msgid "Oh!"
+msgstr ""
+
+msgctxt "Demo660_0_Text012"
+msgid " "
+msgstr ""
+
+msgctxt "Demo660_0_Text013"
+msgid " "
+msgstr ""
+
+msgctxt "Demo660_0_Text014"
+msgid " "
+msgstr ""
+
+msgctxt "Demo660_0_Text017"
+msgid "I know I play the biggest part in helping that, ahem..."
+msgstr ""
+
+msgctxt "Demo660_0_Text018"
+msgid ""
+"that little knight with the darkness-sealing sword.\n"
+"Correct?"
+msgstr ""
+
+msgctxt "Demo660_0_Text019"
+msgid ""
+"Well, if he loses his confidence after\n"
+"seeing me in action..."
+msgstr ""
+
+msgctxt "Demo660_0_Text020"
+msgid "don't come crying to me."
+msgstr ""
+
+msgctxt "Demo660_0_Text021"
+msgid " "
+msgstr ""
+
+msgctxt "Demo660_0_Text022"
+msgid " "
+msgstr ""
+
+msgctxt "Demo660_0_Text023"
+msgid " "
+msgstr ""
+
+msgctxt "Demo660_0_Text024"
+msgid ""
+"*pant*...\n"
+"*pant*..."
+msgstr ""
+
+msgctxt "Demo660_0_Text025"
+msgid "Ugh!"
+msgstr ""
+
+msgctxt "Demo660_0_Text026"
+msgid "Huh!"
+msgstr ""
+
+msgctxt "Demo660_0_Text027"
+msgid "...Ah..."
+msgstr ""
+

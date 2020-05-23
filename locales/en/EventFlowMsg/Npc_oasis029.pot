@@ -1,0 +1,312 @@
+msgctxt "0000"
+msgid "Let's seal the deal!"
+msgstr ""
+
+msgctxt "0001"
+msgid "How do I set seal?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Seal you later!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near_04"
+msgid "<1.so>Sand seals—20 rupees!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: choice
+msgctxt "Talk_01"
+msgid ""
+"<1.so>If you're hoping to cross the\n"
+"vast Gerudo Desert,<2.pa> a <3.se_co>sand seal<4.re_co> is a\n"
+"must have!\n"
+"It's only <5.se_co>20 rupees<6.re_co> to rent one!<7.pa>\n"
+"What do you say?<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: text_size
+#. 4: text_size
+msgctxt "Talk_02"
+msgid ""
+"<1.so>What? Is that how young people talk\n"
+"now?\n"
+"\n"
+"<2.so><3.te_si>I wonder if it's just a thing outside Gerudo "
+"Town...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: text_size
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Talk_03"
+msgid ""
+"<1.so>What? Is that how young people talk\n"
+"now?\n"
+"\n"
+"<2.so><3.te_si>I wonder if it's just a thing outside Gerudo Town...\n"
+"\n"
+"\n"
+"<4.so><5.te_si>Anyway... The Gerudo Desert is vast.\n"
+"You'd be wise to take a <6.se_co>sand seal<7.re_co> if\n"
+"you're traveling beyond town."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_04"
+msgid ""
+"<1.so>Hrm. It looks like you haven't got\n"
+"enough to pay the rental fee.\n"
+"\n"
+"You know, <2.se_co>sand-seal<3.re_co> care isn't\n"
+"cheap... You can't rent one if you\n"
+"can't afford it."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: choice
+msgctxt "Talk_05"
+msgid ""
+"<1.so>Oh, um... Do you not have a <2.se_co>shield<3.re_co>?<4.pa>\n"
+"You need a <5.se_co>shield <6.re_co>if you want to surf\n"
+"the dunes with a <7.se_co>sand seal<8.re_co>.\n"
+"For <9.se_co>50 rupees<10.re_co>,<11.pa> I can give you a "
+"<12.se_co>shield<13.re_co>.\n"
+"What do you think?<14.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: choice
+msgctxt "Talk_07"
+msgid ""
+"<1.so>If you need to cross the vast Gerudo\n"
+"Desert,<2.pa> a <3.se_co>sand seal<4.re_co> is the perfect\n"
+"way to do it! <5.pa>You'll seal what I mean!\n"
+"It's only <6.se_co>20 rupees<7.re_co> to rent one!<8.pa>\n"
+"What do you say?<9.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_08"
+msgid ""
+"<1.so>Great sealing ya!<2.pa>\n"
+"Sav'orq!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_09"
+msgid ""
+"<1.so>The Gerudo Desert stretches as far as\n"
+"the eye can seal. You'd be wise to take a\n"
+"<2.se_co>sand seal<3.re_co> if you're traveling into it."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_10"
+msgid "<1.so>Was there something else you needed?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_11"
+msgid ""
+"<1.so>Hrm, you haven't got enough for the\n"
+"fee? But it's such a small fee! It really is\n"
+"a seal at that price...\n"
+"You know, <2.se_co>sand-seal<3.re_co> care isn't\n"
+"cheap... I hate to say it, but you\n"
+"can't rent one if you can't afford it."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: choice
+msgctxt "Talk_12"
+msgid ""
+"<1.so>Oh, um... Do you not have a <2.se_co>shield<3.re_co>?<4.pa>\n"
+"You can't ride the sands without a shield.\n"
+"\n"
+"Can you imagine the pain of a sand seal\n"
+"dragging your unshielded body over the\n"
+"hot, rough sand? Ouch.\n"
+"Look, I can sell you a nice <5.se_co>shield <6.re_co>for\n"
+"<7.se_co>50 rupees<8.re_co>. What do you say?<9.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: set_colour (blue)
+#. 13: reset_colour
+msgctxt "Talk_14"
+msgid ""
+"<1.so>That look... Hmm. You must be the Hylian\n"
+"Frelly was talking about. My name is\n"
+"Kohm—I'm Frelly's mother.\n"
+"We run a shop where we rent out\n"
+"<2.se_co>sand seals<3.re_co>. If you plan on crossing the\n"
+"desert, you'll need a <4.se_co>sand seal<5.re_co>!\n"
+"It may seem unlikely, but we're actually a\n"
+"thriving business. And it's so easy for\n"
+"a customer to get the hang of it!\n"
+"All you have to do is just stand on your\n"
+"<6.se_co>shield<7.re_co> and let the <8.se_co>sand seal <9.re_co>pull you"
+"\n"
+"along!\n"
+"Of course, our <10.se_co>sand seals<11.re_co> have all been\n"
+"trained. They're much easier to handle\n"
+"than a <12.se_co>sand seal<13.re_co> you'd find in the wild.\n"
+"If you're in need, just let me know."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: set_colour (blue)
+#. 13: reset_colour
+msgctxt "Talk_15"
+msgid ""
+"<1.so>That look... Hmm. You must be the Hylian\n"
+"Frelly was talking about. She's my\n"
+"daughter.\n"
+"She trains <2.se_co>sand seals <3.re_co>and runs a shop\n"
+"where you can rent them. It's near the\n"
+"southeast gate. You should check it out.\n"
+"If you plan on crossing the desert, you'll\n"
+"need a <4.se_co>sand seal <5.re_co>for sure!\n"
+"\n"
+"It may seem unlikely, but it's actually a\n"
+"thriving business. And it's so easy for\n"
+"a customer to get the hang of it!\n"
+"All you have to do is just stand on your\n"
+"<6.se_co>shield<7.re_co> and let the <8.se_co>sand seal <9.re_co>pull you"
+"\n"
+"along!\n"
+"Of course, her <10.se_co>sand seals<11.re_co> have all been\n"
+"trained. They're much easier to handle\n"
+"than a <12.se_co>sand seal<13.re_co> you'd find in the wild.\n"
+"If you find yourself needing one, just let\n"
+"me know!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_16"
+msgid "<1.so>Vasaaq!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_17"
+msgid "<1.so>Vasaaq!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_22"
+msgid ""
+"<1.so>And the best way to learn is by doing!\n"
+"Good luck!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_29"
+msgid ""
+"<1.so>Hrm. It looks like you haven't got\n"
+"enough to pay the rental fee.\n"
+"\n"
+"You know, <2.se_co>sand-seal<3.re_co> care isn't\n"
+"cheap... I hate to say it, but you\n"
+"can't rent one if you can't afford it."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_34"
+msgid ""
+"<1.so>Once you've caught a <2.se_co>sand seal<3.re_co>, all\n"
+"you need to do is guide it in the\n"
+"direction you want to go!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_35"
+msgid ""
+"<1.so>Once you've caught a <2.se_co>sand seal<3.re_co>, all\n"
+"you need to do is guide it in the\n"
+"direction you want to go!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "Talk_36"
+msgid ""
+"<1.so>And the best way to learn is by doing!<2.pa>\n"
+"It's easy—you'll seal!<3.pa>\n"
+"Good luck!"
+msgstr ""
+

@@ -1,0 +1,22 @@
+msgctxt "QL_FourJewel_Desc"
+msgid ""
+"When you arrived at the Thundra Plateau, a\n"
+"fierce storm blowing around you, a voice spoke.\n"
+"\n"
+"The voice said that a trial would appear once\n"
+"four spirits were set in their proper places."
+msgstr ""
+
+msgctxt "QL_FourJewel_Finish"
+msgid ""
+"You set the four spirits in their proper places\n"
+"based on the diagrams on the stone pillars.\n"
+"\n"
+"When this was done, a shrine appeared in the\n"
+"middle of the Thundra Plateau!"
+msgstr ""
+
+msgctxt "QL_FourJewel_Name"
+msgid "Trial of Thunder"
+msgstr ""
+

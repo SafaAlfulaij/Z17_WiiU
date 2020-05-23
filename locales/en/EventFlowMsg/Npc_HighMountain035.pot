@@ -1,0 +1,132 @@
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: text_size
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: text_size
+msgctxt "Talk_000"
+msgid ""
+"<1.so>They say it's too dangerous to go\n"
+"outside of the village right now.\n"
+"\n"
+"But all I want to do is go sing with my\n"
+"sisters at <2.se_co>Warbler's Nest<3.re_co>...\n"
+"\n"
+"<4.so><5.te_si>That <6.se_co>Divine Beast Vah Medoh <7.re_co>is\n"
+"a big jerk!<8.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (short)
+msgctxt "Talk_001"
+msgid "<1.so><2.an>Kheel! <3.pa>Watch your language!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_002"
+msgid "<1.so>But, but..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Talk_003"
+msgid ""
+"<1.so>Could you...maybe tell that <2.se_co>Medoh<3.re_co> thing\n"
+"to go somewhere else? I want to go\n"
+"practice my singing at <4.se_co>Warbler's Nest<5.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Talk_010"
+msgid ""
+"<1.so>I'm headed to <2.se_co>Warbler's Nest<3.re_co>!\n"
+"I hope it's safe there."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_020"
+msgid ""
+"<1.so><2.se_co>Medoh <3.re_co>was up there all day today.\n"
+"I wish it would go away..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk_030"
+msgid "<1.so>*sniff*"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_100"
+msgid ""
+"<1.so>When I told the <2.se_co>village elder<3.re_co> that this\n"
+"shrine popped out of the ground, he was\n"
+"so surprised!\n"
+"I guess shrines like playing hide-and-\n"
+"seek too!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "Talk_101"
+msgid ""
+"<1.so>Poppy used to sing about shrines\n"
+"in his songs.\n"
+"\n"
+"<2.so>But...<3.pa>he never comes home anymore...<4.pa>\n"
+"I miss...<5.pa>his voice."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_110"
+msgid ""
+"<1.so>We're all going to go sing.\n"
+"You should come listen to us!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_120"
+msgid ""
+"<1.so>I've been getting better and better at\n"
+"singing! Gonna do my best tomorrow\n"
+"too!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Talk_200"
+msgid ""
+"<1.so>♪<2.te_si>La la laaaa!♪<3.te_si>\n"
+"\n"
+"\n"
+"Poppy's back! We're all gonna sing\n"
+"together!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_201"
+msgid ""
+"<1.so>We're all gonna sing with Poppy!\n"
+"Come listen to us!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_202"
+msgid "<1.so>It's so fun singing with everyone!"
+msgstr ""
+

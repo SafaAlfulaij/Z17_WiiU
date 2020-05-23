@@ -1,0 +1,32 @@
+#. 1: auto_advance
+#. 2: text_size
+#. 3: text_size
+#. 4: auto_advance
+#. 5: text_size
+#. 6: text_size
+#. 7: text_size
+#. 8: auto_advance
+#. 9: text_size
+#. 10: auto_advance
+#. 11: auto_advance
+#. 12: auto_advance
+msgctxt "Text_00"
+msgid ""
+"<1.au_ad><2.te_si>...<3.te_si>\n"
+"\n"
+"\n"
+"<4.au_ad><5.te_si>Link...<6.te_si><7.te_si>\n"
+"\n"
+"\n"
+"<8.au_ad><9.te_si>Link.\n"
+"\n"
+"\n"
+"<10.au_ad>You have recovered all of your memories\n"
+"of us from 100 years ago...\n"
+"\n"
+"<11.au_ad>I am here...inside Hyrule Castle.\n"
+"\n"
+"\n"
+"<12.au_ad>It is now time for you to defeat Ganon."
+msgstr ""
+

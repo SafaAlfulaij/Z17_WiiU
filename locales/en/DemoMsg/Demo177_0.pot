@@ -1,0 +1,21 @@
+#. 1: raw
+msgctxt "Demo177_0_Text000"
+msgid "Say, hey there! <1.ra>Young one!"
+msgstr ""
+
+msgctxt "Demo177_0_Text001"
+msgid "Pardon the entrance, but you're a Hylian, aren't you?"
+msgstr ""
+
+msgctxt "Demo177_0_Text002"
+msgid "I was hoping perhaps you'd have a moment to talk..."
+msgstr ""
+
+msgctxt "Demo177_0_Text003"
+msgid "Up top! Above you!"
+msgstr ""
+
+msgctxt "Demo177_0_Text004"
+msgid " "
+msgstr ""
+

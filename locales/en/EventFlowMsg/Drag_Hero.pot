@@ -1,0 +1,839 @@
+msgctxt "0002"
+msgid "What info?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0004"
+msgid "You're very beautiful!"
+msgstr ""
+
+msgctxt "0005"
+msgid "You're...a man?"
+msgstr ""
+
+msgctxt "0008"
+msgid "A merchant."
+msgstr ""
+
+msgctxt "0009"
+msgid "A traveler."
+msgstr ""
+
+msgctxt "0010"
+msgid "A man snuck in..."
+msgstr ""
+
+msgctxt "0011"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0016"
+msgid "I want to buy."
+msgstr ""
+
+msgctxt "0017"
+msgid "I want to sell."
+msgstr ""
+
+msgctxt "0018"
+msgid "Seen a sneaky guy?"
+msgstr ""
+
+msgctxt "0019"
+msgid "Nothing."
+msgstr ""
+
+msgctxt "0020"
+msgid "Are you spying?"
+msgstr ""
+
+msgctxt "0021"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0022"
+msgid "Still spying?"
+msgstr ""
+
+msgctxt "0023"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0024"
+msgid "Please sell me one."
+msgstr ""
+
+msgctxt "0025"
+msgid "I'm taking care of it."
+msgstr ""
+
+msgctxt "0030"
+msgid "I'll take them!"
+msgstr ""
+
+msgctxt "0031"
+msgid "No, thanks..."
+msgstr ""
+
+msgctxt "0032"
+msgid "*study her face*"
+msgstr ""
+
+msgctxt "0033"
+msgid "*squint suspiciously*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound2
+#. 4: pause (longer)
+#. 5: sound2
+#. 6: choice
+msgctxt "Npc_SmallOasis003_S1_001"
+msgid ""
+"<1.so>...<2.pa>\n"
+"<3.so>Oh...<4.pa>\n"
+"<5.so>Vasaaq.<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Npc_SmallOasis003_S1_004"
+msgid ""
+"<1.so>A sneaky what? You mean a voe,\n"
+"sneaking around town? <2.pa>I haven't seen\n"
+"anyone like that.\n"
+"<3.so>There's a <4.se_co>Hylian vai<5.re_co> who likes to relax\n"
+"on the roof. Though in the afternoon, it's\n"
+"probably too hot up there."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_SmallOasis003_S1_006"
+msgid "<1.so>Did you need anything else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Npc_SmallOasis005_F_003"
+msgid "<1.so>WOW!<2.pa>"
+msgstr ""
+
+#. 1: set_colour (grey)
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (longer)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (long)
+#. 8: sound
+msgctxt "Npc_SmallOasis005_F_004"
+msgid ""
+"<1.se_co><2.te_si>So cute...<3.te_si><4.pa><5.re_co>\n"
+"\n"
+"\n"
+"<6.so>Oh, my. Please excuse my rudeness. Are\n"
+"you all by yourself in a place like this?\n"
+"<7.pa>The desert is quite dangerous, you know.\n"
+"<8.so>If you feel even the slightest twinge of\n"
+"fear, you can count on me to help, OK?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (longer)
+#. 4: choice
+msgctxt "Npc_SmallOasis005_R_005"
+msgid ""
+"<1.so>Hey...\n"
+"\n"
+"\n"
+"<2.so>Um...<3.pa>\n"
+"You're...?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "Npc_SmallOasis005_R_006"
+msgid ""
+"<1.so>Oooh, I see.<2.pa> So you're just like us.\n"
+"\n"
+"\n"
+"<3.so>But then, that must mean... <4.pa>Are you also\n"
+"stranded out here?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Npc_SmallOasis005_R_007"
+msgid ""
+"<1.so>Our leader went to <2.se_co>Gerudo Town <3.re_co>to try to\n"
+"figure out how we can get inside...\n"
+"\n"
+"<4.so>But he hasn't come back yet. I imagine\n"
+"he isn't having a ton of luck..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_SmallOasis005_R_009"
+msgid "<1.so>Oh, I see. <2.pa>Well, we're merchants."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "Npc_SmallOasis005_R_010"
+msgid ""
+"<1.so>We wanted to make it to <2.se_co>Gerudo Town<3.re_co>\n"
+"to sell our goods, but we were stopped\n"
+"before we could go in.\n"
+"Apparently they <4.se_co>only let women into that\n"
+"town<5.re_co>...<6.pa> And to think we came all the\n"
+"way out here..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "Npc_SmallOasis005_R_011"
+msgid ""
+"<1.so>We wanted to make it to <2.se_co>Gerudo Town<3.re_co>\n"
+"to sell our goods, but we were stopped\n"
+"before we could go in.\n"
+"They <4.se_co>only let women into that town<5.re_co>...<6.pa>\n"
+"And to think we came all the way out\n"
+"here..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_SmallOasis005_R_012"
+msgid ""
+"<1.so>Male merchants can't go to town, and\n"
+"most travelers can't go farther because\n"
+"of the <2.se_co>Divine Beast<3.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_SmallOasis005_R_013"
+msgid ""
+"<1.so>So close, and yet so far. Nothing has\n"
+"described <2.se_co>Gerudo Town<3.re_co> more accurately."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_SmallOasis005_R_014"
+msgid ""
+"<1.so>Our caravan leader went to <2.se_co>Gerudo Town<3.re_co>\n"
+"to negotiate, but he hasn't come back\n"
+"yet..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_SmallOasis005_R_015"
+msgid "<1.so><2.te_si>Bossssss...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Npc_SmallOasis005_S1_001"
+msgid ""
+"<1.so>Our boss... I get the feeling that he isn't\n"
+"coming back from <2.se_co>Gerudo Town<3.re_co> anytime\n"
+"soon... I hope he's OK...<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (longer)
+#. 8: sound
+#. 9: sound
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: pause (long)
+#. 13: set_colour (blue)
+#. 14: reset_colour
+#. 15: pause (long)
+#. 16: sound
+msgctxt "Npc_SmallOasis005_S1_002"
+msgid ""
+"<1.so>Wha— There's a <2.se_co>man who got into\n"
+"Gerudo Town<3.re_co>?<4.pa>\n"
+"\n"
+"And the boss says he comes here to the\n"
+"<5.se_co>Kara Kara Bazaar<6.re_co>?<7.pa>\n"
+"\n"
+"<8.so>I guess it must be true if the boss\n"
+"said so...\n"
+"\n"
+"<9.so>But I've never seen anyone around here\n"
+"who strikes me as a super sneaky guy...\n"
+"\n"
+"There was that pretty Hylian gal at the\n"
+"<10.se_co>general store<11.re_co>.<12.pa> It's unusual to see a\n"
+"Hylian girl dressed like a Gerudo...\n"
+"Her <13.se_co>Gerudo clothes<14.re_co>—I wonder where she\n"
+"bought them...<15.pa> Maybe if I wore those\n"
+"clothes...\n"
+"<16.so>Ha, nah. I'm so out of my element with\n"
+"all this sneaky stuff."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_SmallOasis005_S1_003"
+msgid ""
+"<1.so>It doesn't seem like he'll be coming back\n"
+"today, either..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (longer)
+#. 7: sound
+msgctxt "Npc_SmallOasis005_S1_004"
+msgid ""
+"<1.so>You hear that a man somehow made\n"
+"his way into Gerudo Town?\n"
+"\n"
+"I haven't seen any suspicious guys\n"
+"around here, though...\n"
+"\n"
+"Although I did see a pretty Hylian gal\n"
+"wearing <2.se_co>Gerudo clothes <3.re_co>at the\n"
+"<4.se_co>general store<5.re_co>, which was unusual...\n"
+"I wonder if just wearing different clothes\n"
+"would allow someone...<6.pa>\n"
+"\n"
+"<7.so>Ha! Never mind. No one would ever\n"
+"be that crazy!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: text_size
+msgctxt "Npc_SmallOasis005_S1_005"
+msgid ""
+"<1.so><2.te_si>Darn it... <3.pa>I'll make sure to get into Gerudo Town..."
+"\n"
+"Even if it means dressing like a woman...\n"
+"<4.pa>No...<5.pa> Matter...<6.pa> What...<7.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+msgctxt "Npc_SmallOasis005_S1_006"
+msgid ""
+"<1.so>Our leader...<2.pa> I get the feeling he's not\n"
+"coming back from <3.se_co>Gerudo Town <4.re_co>anytime\n"
+"soon...<5.pa> I hope he's OK."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "Npc_SmallOasis006_F_001"
+msgid ""
+"<1.so>Grrr... <2.pa>Who do you think the man who\n"
+"snuck into this town was, anyway?!\n"
+"\n"
+"Why are you looking at me like that?<3.pa>\n"
+"I'm just trying to gather more info!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: set_colour (grey)
+#. 5: text_size
+#. 6: text_size
+#. 7: reset_colour
+#. 8: choice
+msgctxt "Npc_SmallOasis006_F_002"
+msgid ""
+"<1.so><2.te_si>Eep?! Eeeeeeek!!<3.te_si>\n"
+"\n"
+"\n"
+"<4.se_co><5.te_si>That lovely young lady is just my "
+"type...<6.te_si><7.re_co><8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (long)
+#. 4: text_size
+#. 5: pause (longer)
+#. 6: sound
+#. 7: text_size
+#. 8: text_size
+msgctxt "Npc_SmallOasis006_F_003"
+msgid ""
+"<1.so><2.te_si>Wh-what?! N-n-n-n-no!!<3.pa><4.te_si>\n"
+"O-o-o-o-o-of course not!\n"
+"I-I-I'm just investigating!!<5.pa>\n"
+"<6.so><7.te_si>Hm? This exchange feels incredibly familiar to "
+"me...<8.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: set_colour (grey)
+#. 5: sound
+#. 6: text_size
+#. 7: text_size
+#. 8: reset_colour
+msgctxt "Npc_SmallOasis006_F_004"
+msgid ""
+"<1.so><2.te_si>WHAAAAAAT?!<3.te_si>\n"
+"\n"
+"\n"
+"<4.se_co><5.so><6.te_si>Is it already over?<7.te_si><8.re_co>"
+msgstr ""
+
+msgctxt "Npc_SmallOasis006_Near_001"
+msgid "What's the deal?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Npc_SmallOasis006_R_101"
+msgid ""
+"<1.so>Oh, I was so focused just now...<2.pa>\n"
+"Do you have business with me?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_SmallOasis006_R_102"
+msgid ""
+"<1.so>I heard that man is frequently traveling\n"
+"between <2.se_co>Kara Kara Bazaar<3.re_co> and\n"
+"Gerudo Town.\n"
+"I've been waiting here, trying to spot\n"
+"him as he travels!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Npc_SmallOasis006_R_103"
+msgid ""
+"<1.so>What? You went out of your way to have\n"
+"a conversation with me, but you'll leave\n"
+"without hearing what I have to say?\n"
+"<2.so>Don't act so rashly! You must hear my\n"
+"heroic tale before you go!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "Npc_SmallOasis006_R_104"
+msgid ""
+"<1.so>What?! N-no! I'm not a spy!\n"
+"\n"
+"\n"
+"<2.so>I'm a merchant! I may not look like it, but\n"
+"I'm actually the leader of a caravan!\n"
+"\n"
+"I've traveled all the way here, but this\n"
+"town doesn't allow men to go in. \n"
+"So...that's why I...had to...um...<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Npc_SmallOasis006_R_105"
+msgid ""
+"<1.so>It's research!\n"
+"RESEARCH!\n"
+"\n"
+"<2.so>And think what you want, but I've finally\n"
+"found some key info on how to\n"
+"sneak into <3.se_co>Gerudo Town<4.re_co>!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (longer)
+#. 5: text_size
+#. 6: sound
+#. 7: text_size
+#. 8: text_size
+#. 9: text_size
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: set_colour (red)
+#. 13: reset_colour
+msgctxt "Npc_SmallOasis006_R_106"
+msgid ""
+"<1.so>It's been close to a week now...<2.pa>\n"
+"The guards have kicked me out more\n"
+"times than I can count...\n"
+"<3.so>I almost gave up hope...<4.pa><5.te_si>\n"
+"\n"
+"\n"
+"<6.so><7.te_si><8.te_si>HOWEVER!!<9.te_si>\n"
+"\n"
+"\n"
+"I have learned only recently of a <10.se_co>man \n"
+"that<11.re_co> <12.se_co>slipped into<13.re_co> this well-guarded town!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_SmallOasis006_R_107"
+msgid ""
+"<1.so>Heheheh... Well, <2.pa>allow me to share\n"
+"with you...my heroic tale!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "Npc_SmallOasis006_R_108"
+msgid ""
+"<1.so>Hey! Hold on, hold on! You can't just run\n"
+"off like that!\n"
+"\n"
+"<2.so>I've worked really hard to get info on\n"
+"getting into Gerudo Town, and I have to\n"
+"share the fruits of my labors! I gotta!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Npc_SmallOasis006_R_109"
+msgid ""
+"<1.so>Hang on! You must have needed\n"
+"something! Maybe you were looking\n"
+"for a <2.se_co>way to sneak into Gerudo Town<3.re_co>?\n"
+"<4.so>I can't think of a single other reason for\n"
+"a man to be here..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+msgctxt "Npc_SmallOasis006_S1_001"
+msgid ""
+"<1.so>I hear the <2.se_co>man who infiltrated<3.re_co>\n"
+"<4.se_co>Gerudo Town <5.re_co>is frequently traveling\n"
+"between <6.se_co>Kara Kara Bazaar<7.re_co> and here.\n"
+"<8.so>So I'm waiting for him. I plan on asking\n"
+"him how he pulls off his amazing\n"
+"infiltration. My plan is flawless!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+msgctxt "Npc_SmallOasis008_F_008"
+msgid ""
+"<1.so>That giant monster cloaked in the\n"
+"sandstorm... If I recall correctly, it's\n"
+"called a <2.se_co>Divine Beast<3.re_co>...\n"
+"I hear it started wandering the\n"
+"<4.se_co>Gerudo Desert<5.re_co> several weeks ago. \n"
+"I wonder what it is exactly...\n"
+"<6.so>Apparently the <7.se_co>chief of Gerudo Town <8.re_co>is\n"
+"having a lot of trouble figuring out how\n"
+"to handle the situation.\n"
+"One thing's for sure—they'd be helpless\n"
+"if the <9.se_co>Divine Beast <10.re_co>headed for town."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_SmallOasis008_F_009"
+msgid ""
+"<1.so>They'd be completely helpless if that\n"
+"beast headed straight for town—that's\n"
+"for sure.\n"
+"I heard the <2.se_co>chief of Gerudo Town<3.re_co> is\n"
+"trying her best to come up with a way to\n"
+"deal with it, but..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Npc_SmallOasis008_F_010"
+msgid ""
+"<1.so>That being said... You look adorable!\n"
+"With those clothes, anyone around here\n"
+"might think you're a <2.se_co>nice girl<3.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Npc_SmallOasis008_F_011"
+msgid ""
+"<1.so>By the way...<2.pa>what happened to the\n"
+"<3.se_co>Gerudo outfit<4.re_co> I gave to you?<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_SmallOasis008_F_012"
+msgid ""
+"<1.so>My dear boy... You really do want to get\n"
+"inside Gerudo Town, don't you?\n"
+"\n"
+"They'll spot you in a heartbeat if you\n"
+"don't dress yourself up.\n"
+"\n"
+"Those traditional clothes really do look\n"
+"good on you. Don't be so shy about\n"
+"wearing them, OK?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_SmallOasis008_S1_001"
+msgid ""
+"<1.so>Oh, my. What a lovely young lad you are.\n"
+"Do you need something from me?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Npc_SmallOasis008_S1_002"
+msgid ""
+"<1.so>Oh, such a nice thing to say! And I'm\n"
+"sure you'd agree that these clothes only\n"
+"help my looks, right?\n"
+"Now that I think about it, this style\n"
+"would look quite fetching on you...\n"
+"\n"
+"I'd have to charge you, of course, but I\n"
+"bet people would see you completely\n"
+"differently if you wore them!\n"
+"<2.so>What do you think? Do you want to\n"
+"buy them for...<3.pa><4.se_co>600 rupees<5.re_co>?<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: choice
+msgctxt "Npc_SmallOasis008_S1_003"
+msgid ""
+"<1.so>Well, well... You still haven't given up on\n"
+"your search for <2.se_co>the man<3.re_co> who snuck into\n"
+"<4.se_co>Gerudo Town<5.re_co>?\n"
+"<6.so>I told you I didn't know anything.\n"
+"Do you always doubt someone's word?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: choice
+msgctxt "Npc_SmallOasis008_S1_004"
+msgid ""
+"<1.so>What's that? You've heard about <2.se_co>a man<3.re_co>\n"
+"who snuck into <4.se_co>Gerudo Town<5.re_co>?\n"
+"\n"
+"<6.so>Oh, I don't know anything about him...\n"
+"Sorry I couldn't be more help.<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_SmallOasis008_S1_007"
+msgid ""
+"<1.so>Heehee... You're making my cheeks warm\n"
+"looking at me like that.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (long)
+msgctxt "Npc_SmallOasis008_S1_008"
+msgid ""
+"<1.so>Oh, my! <2.pa>You sure say the funniest things,\n"
+"young man.<3.pa> Anyway, if you don't need\n"
+"anything, you should be off, then."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: text_size
+msgctxt "Npc_SmallOasis008_S1_009"
+msgid ""
+"<1.so><2.te_si>♪Eeeeeeeee!♪<3.pa>\n"
+"\n"
+"\n"
+"You look adorable!!<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "Npc_SmallOasis008_S1_011"
+msgid ""
+"<1.so>Ahhh heeheehee... Just as I thought! You\n"
+"make for quite a <2.se_co>good-lookin' gal<3.re_co>. That's\n"
+"a traditional Gerudo outfit.\n"
+"It's such a striking look around here, I\n"
+"doubt anyone would even suspect that\n"
+"you're a man!\n"
+"On top of that, it breathes so well that\n"
+"it's sure to help you deal with the\n"
+"desert heat...<4.pa> At least a little!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_SmallOasis008_S1_012"
+msgid ""
+"<1.so><2.te_si>...<3.te_si>\n"
+"\n"
+"\n"
+"Heh... Make sure you watch out for\n"
+"the wind."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_SmallOasis008_S1_014"
+msgid "<1.so>I'm so glad I was able to help you out."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_SmallOasis008_S1_015"
+msgid ""
+"<1.so>It's a deal, then! I'll take your\n"
+"rupees now."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "Npc_SmallOasis008_S1_016"
+msgid ""
+"<1.so>Heehee... I have the perfect outfit\n"
+"for you!<2.pa> Go ahead and change into it\n"
+"right now. <3.pa>Don't worry. I'll look away..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Npc_SmallOasis008_S1_017"
+msgid ""
+"<1.so>Oh, dear... You don't appear to have\n"
+"enough rupees...\n"
+"\n"
+"<2.so>Money talks, as they say. You should\n"
+"really make it a habit to have a nice little\n"
+"nest egg with you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_SmallOasis008_S1_018"
+msgid ""
+"<1.so>Oh, dear. That's too bad.<2.pa> Let me know\n"
+"if you change your mind."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_SmallOasis008_S1_019"
+msgid ""
+"<1.so>If you're free to grab something to eat\n"
+"sometime, keep me in mind..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_SmallOasis008_S1_020"
+msgid "<1.so><2.te_si>Hrrrrrrrnnngh!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_SmallOasis008_S1_021"
+msgid ""
+"<1.so>If you want to get more lady's clothing,\n"
+"come back anytime..."
+msgstr ""
+
+msgctxt "Npc_SmallOasis008_S1_Near_001"
+msgid "Heeheehee..."
+msgstr ""
+

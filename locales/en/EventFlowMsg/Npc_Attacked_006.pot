@@ -1,0 +1,156 @@
+#. 1: sound
+#. 2: pause (short)
+msgctxt "After00"
+msgid ""
+"<1.so>Thank Hylia that Mina is safe. <2.pa>I knew it\n"
+"wasn't smart to go treasure hunting\n"
+"in these parts."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Atacked00"
+msgid "<1.so>Gah! <2.pa>Why is this happening to me?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid "<1.so>I'll give them a fight they won't forget!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>I was totally useless against them.\n"
+"Maybe I should have played dead..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Oww... <2.pa>Going treasure hunting out here\n"
+"was just asking for trouble, wasn't it?"
+msgstr ""
+
+#. 1: sound
+msgctxt "GoodBye00"
+msgid "<1.so>We really need to get to safety."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Guardian00"
+msgid ""
+"<1.so>Oh, no... A Guardian! <2.pa>We're all in\n"
+"trouble now!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Meeting00"
+msgid "<1.so>Ugh... <2.pa>Family..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "Meeting02"
+msgid ""
+"<1.so>I want to be clear—whatever treasure is\n"
+"to be had here belongs to us. <2.pa>So don't\n"
+"go poking around.\n"
+"Not that anyone in their right mind would\n"
+"be poking around here for treasure to\n"
+"begin with.\n"
+"<3.so>But if my sister says this is where we\n"
+"search, then this is where we search.<4.pa>\n"
+"Even if I wish we could just go home..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>I'm saved!"
+msgstr ""
+
+msgctxt "Near01"
+msgid "Sorry about that."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "PairAtacked00"
+msgid ""
+"<1.so>The monsters aren't finished with Mina\n"
+"yet! <2.pa>Help her!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairAtacked01"
+msgid ""
+"<1.so>Please, you have to do something\n"
+"for my sister!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed00"
+msgid "<1.so>Oh, no... Not Mina..."
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed01"
+msgid "<1.so>Mina! They'll pay for this!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>That was nice of you. <2.pa>Here, something\n"
+"for your troubles."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_01"
+msgid "<1.so>I appreciate the help back there!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>I was cutting it pretty fine there.<2.pa>\n"
+"Thanks for the save!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>Where would I be now if you hadn't\n"
+"come along? <2.pa>Nowhere good, that's\n"
+"for sure. <3.pa><4.so>You should have this."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>Those monsters even gave my sister\n"
+"a run for her money, and she's no\n"
+"slouch!<2.pa> Do you want this in return?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>How did you pull that off?! <2.pa>Actually,\n"
+"don't answer that. <3.pa>I ought to be\n"
+"thanking you, not interrogating you."
+msgstr ""
+

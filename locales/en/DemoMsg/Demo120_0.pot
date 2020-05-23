@@ -1,0 +1,31 @@
+#. 1: raw
+msgctxt "Demo120_0_Text019"
+msgid ""
+"Best of luck.<1.ra>Nice job cutting off the water flow\n"
+"from this Divine Beast."
+msgstr ""
+
+msgctxt "Demo120_0_Text022"
+msgid "Finish the job, Link..."
+msgstr ""
+
+msgctxt "Demo120_0_Text023"
+msgid "Well, Link, here we are."
+msgstr ""
+
+msgctxt "Demo120_0_Text024"
+msgid "Looks like this is where the real work starts."
+msgstr ""
+
+msgctxt "Demo120_0_Text025"
+msgid "Show the enemy no fear."
+msgstr ""
+
+msgctxt "Demo120_0_Text026"
+msgid "I'll see you back at Zora's Domain."
+msgstr ""
+
+msgctxt "Demo120_0_Text027"
+msgid "Farewell."
+msgstr ""
+

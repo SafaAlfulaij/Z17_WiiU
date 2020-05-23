@@ -1,0 +1,54 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: sound
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: sound
+#. 12: sound
+#. 13: pause (short)
+msgctxt "Talk08"
+msgid ""
+"<1.so>We meet again!<2.pa> Small kingdom!\n"
+"\n"
+"\n"
+"<3.so>Did you see the <4.se_co>shrine <5.re_co>near this\n"
+"stable? I know quite a bit about the\n"
+"<6.se_co>shrines<7.re_co>.\n"
+"<8.so>You see, my teacher was the court poet\n"
+"for the Hyrulean royal family and also\n"
+"a member of the <9.se_co>Sheikah tribe<10.re_co>.\n"
+"He was well versed in ancient\n"
+"civilizations and surveyed ruins in the\n"
+"company of the princess, it seems.\n"
+"<11.so>Those memories seemed to bring him\n"
+"a great deal of joy when he would speak\n"
+"of them.\n"
+"<12.so>Anyway,<13.pa> I should return to my craft."
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "WAAAAAA!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "TerrorFire"
+msgid "<1.so>Ack!"
+msgstr ""
+
+msgctxt "TerrorHorse"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Knock it off!"
+msgstr ""
+

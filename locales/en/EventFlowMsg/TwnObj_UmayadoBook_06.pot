@@ -1,0 +1,51 @@
+msgctxt "0000"
+msgid "Read."
+msgstr ""
+
+msgctxt "0001"
+msgid "Don't read."
+msgstr ""
+
+#. 1: raw
+#. 2: text_size
+#. 3: text_size
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Book00"
+msgid ""
+"<1.ra>Traysi here! Awake or asleep, my quest\n"
+"for juicy rumors never rests! EVER.\n"
+"Doesn't everyone gossip in their sleep?\n"
+"Today I've got a hot rumor fresh from the\n"
+"mill that is...wait for it...an EXCLUSIVE!\n"
+"And that special topic is...\n"
+"<2.te_si>the mysterious Korok Mask!<3.te_si>\n"
+"\n"
+"\n"
+"They say if you pour enough love into an\n"
+"object, a spirit will inhabit it. Something\n"
+"that creepy's just gotta be true!\n"
+"And apparently, this Korok Mask really\n"
+"is inhabited by a spirit!\n"
+"\n"
+"If you wear it, it supposedly shakes\n"
+"and makes adorably weird noises\n"
+"every now and then.\n"
+"Maybe it does that to tell you when\n"
+"friends are nearby and you can't\n"
+"see them? Who knows!\n"
+"Some say the treasure chest containing\n"
+"this mask is hidden <4.se_co>in a tree hollow in a\n"
+"forest that makes people lose their way<5.re_co>.\n"
+"Hmm, sounds like a tough place to find\n"
+"something! Luckily, word has it there's a\n"
+"convenient trick for finding your way...\n"
+"Traysi's Recommendation: ★★★★★"
+msgstr ""
+
+#. 1: raw
+#. 2: choice
+msgctxt "BookFirst"
+msgid "<1.ra>Super Rumor Mill EX: Volume 1<2.ch>"
+msgstr ""
+

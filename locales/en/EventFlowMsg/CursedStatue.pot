@@ -1,0 +1,29 @@
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: pause (longer)
+#. 5: text_size
+msgctxt "Talk08"
+msgid ""
+"<1.so><2.te_si>Stay away...<3.pa>\n"
+"Please... Do not come any closer...<4.pa><5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: sound
+#. 6: sound2
+#. 7: text_size
+#. 8: pause (longer)
+msgctxt "Talk09"
+msgid ""
+"<1.so><2.te_si>Help me!<3.pa> Heeeeelp meeeee!<4.pa>\n"
+"\n"
+"\n"
+"<5.so><6.so><7.te_si>...Oh, you're not a monster. You're just\n"
+"you.<8.pa> I thought you were one of these\n"
+"impertinent monsters for a moment..."
+msgstr ""
+

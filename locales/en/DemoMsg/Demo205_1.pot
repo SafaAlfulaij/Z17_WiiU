@@ -1,0 +1,26 @@
+#. 1: animation
+msgctxt "Demo205_1_Text000"
+msgid ""
+"<1.an>Ah. You have finally returned. You look\n"
+"stronger than when last I saw you..."
+msgstr ""
+
+msgctxt "Demo205_1_Text001"
+msgid ""
+"The Master Sword you wield is now\n"
+"more powerful than before."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo205_1_Text002"
+msgid ""
+"<1.an>If you desire still more power and\n"
+"wish to retry the blade's test..."
+msgstr ""
+
+msgctxt "Demo205_1_Text003"
+msgid ""
+"once again place the Master Sword\n"
+"in its pedestal."
+msgstr ""
+

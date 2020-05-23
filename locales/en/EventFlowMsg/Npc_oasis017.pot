@@ -1,0 +1,351 @@
+msgctxt "0000"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0001"
+msgid "No."
+msgstr ""
+
+msgctxt "0002"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0006"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "0007"
+msgid "I just followed you."
+msgstr ""
+
+msgctxt "0008"
+msgid "Mushroom rice balls?"
+msgstr ""
+
+msgctxt "0009"
+msgid "That's too bad..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk_01"
+msgid ""
+"<1.so>A foreign vai!<2.pa>\n"
+"Sav'otta!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk_02"
+msgid ""
+"<1.so>A foreign vai!<2.pa>\n"
+"Sav'aaq!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_03"
+msgid ""
+"<1.so>A foreign vai!\n"
+"Sav'saaba!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_04"
+msgid ""
+"<1.so>I wonder where I should pa-troll\n"
+"tomorrow..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (long)
+#. 5: sound
+#. 6: pause (longer)
+msgctxt "Talk_05"
+msgid ""
+"<1.so>Oh...you're that foreign vai...\n"
+"Sav'saaba...\n"
+"\n"
+"<2.so>*sigh*<3.pa> Night after night, the voices of\n"
+"the people in the cant-eenter come right\n"
+"in my window. <4.pa>They're super loud...\n"
+"If you stand under the window, you can\n"
+"hear everything they're saying...\n"
+"\n"
+"<5.so>When I grow up, I'm always going to\n"
+"speak in a quiet voice. <6.pa>Even if I'm\n"
+"having a really great time!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_06"
+msgid ""
+"<1.so>It's already dark outside. Are you still\n"
+"planning to go out?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Talk_07"
+msgid ""
+"<1.so>Oh, I know! You're going out to the\n"
+"cant-eenter, aren't you?\n"
+"\n"
+"The place next to my house is where\n"
+"people go to relax and grab a drink.\n"
+"It's real lively at night!\n"
+"<2.so>...Which means I can hear their voices\n"
+"through my <3.se_co>window<4.re_co>. It sorta annoys\n"
+"me and my big sister, Rotana..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_08"
+msgid ""
+"<1.so>I know all about it! Grown-ups go to the\n"
+"cant-eenter, right?\n"
+"\n"
+"My house is right next door, see?\n"
+"But the voices come through the\n"
+"<2.se_co>window<3.re_co>, and it's really annoying...\n"
+"They're so loud, it's like I'm in the\n"
+"cant-eenter too, you know?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_09"
+msgid ""
+"<1.so>Sorry, but I can't play with you right\n"
+"now, lady.<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_10"
+msgid ""
+"<1.so>I'm pretending to be Lady Urbosa!\n"
+"\n"
+"\n"
+"Lady Urbosa was an amazing\n"
+"person who was born a long, long time\n"
+"before I was.\n"
+"She was a Champion who saved this\n"
+"town from an evil ghost!\n"
+"\n"
+"I'm going on pa-trolls every day to make\n"
+"sure that no more bad monsters\n"
+"show up."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_11"
+msgid "<1.so>Sav'orq!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_12"
+msgid "<1.so>Are you going somewhere now?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_13"
+msgid ""
+"<1.so>Oh, I know! You're going to visit the\n"
+"cant-eenter, right?\n"
+"\n"
+"The place next door to my house is a\n"
+"place where people go to drink, and it's\n"
+"busy at all hours of the day!\n"
+"<2.so>But that means I can hear their voices\n"
+"from my house, and it's a little\n"
+"bothersome..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_14"
+msgid ""
+"<1.so>When the sun is up, it's super hot.\n"
+"Be careful, OK?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_15"
+msgid ""
+"<1.so>Sue... Nah... Zarashi...\n"
+"They were all so cute today."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound
+#. 10: set_colour (blue)
+#. 11: reset_colour
+msgctxt "Talk_16"
+msgid ""
+"<1.so>Do you have rice balls where you come\n"
+"from?\n"
+"\n"
+"<2.so>Take fluffy steamed <3.se_co>Hylian rice<4.re_co>, add\n"
+"<5.se_co>rock salt <6.re_co>and mushrooms, and you've\n"
+"got <7.se_co>mushroom rice balls<8.re_co>!\n"
+"<9.so>My sister's been really busy with her\n"
+"research on <10.se_co>the seven heroines<11.re_co> lately...\n"
+"Maybe I'll make some to bring to her."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_17"
+msgid ""
+"<1.so>What's wrong, foreign vai?\n"
+"Wanna play at my house?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+msgctxt "Talk_18"
+msgid ""
+"<1.so>Sorry...<2.pa> I have to get home now.\n"
+"\n"
+"\n"
+"The ladies at the cant-eenter next door\n"
+"are always so noisy, so I don't sleep\n"
+"well... But I still gotta be home on time.\n"
+"Otherwise, my sister, Rotana, will get\n"
+"real mad at me.\n"
+"\n"
+"<3.so>I'll play with you next time, OK?\n"
+"Sav'orq!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (longer)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (longer)
+#. 7: sound
+#. 8: text_size
+#. 9: text_size
+#. 10: sound
+msgctxt "Talk_19"
+msgid ""
+"<1.so>Ah! I know what that is!\n"
+"It's when you follow someone around\n"
+"without asking if it's OK!\n"
+"<2.so>Um...umm...<3.pa>\n"
+"St...<4.pa> Sto...<5.pa> Oh!<6.pa>\n"
+"\n"
+"<7.so><8.te_si>STOCKINGS!!<9.te_si>\n"
+"\n"
+"\n"
+"<10.so>Heh heh! My big sister, Rotana, told me\n"
+"alllll about it! She's super smart and\n"
+"knows about all sorts of stuff!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Talk_20"
+msgid ""
+"<1.so>Are you shopping, too?\n"
+"\n"
+"\n"
+"<2.so>That's why I'm here, but they're all out\n"
+"of stuff I need...\n"
+"\n"
+"My sister is busy researching the <3.se_co>seven\n"
+"heroines<4.re_co>, so I wanted to make and bring\n"
+"her some <5.se_co>mushroom rice balls<6.re_co>.<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: pause (long)
+msgctxt "Talk_21"
+msgid ""
+"<1.so>Sue! <2.pa>Nah! <3.pa>Zarashi!<4.pa>\n"
+"Looks like everyone's doing fine!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: set_colour (blue)
+#. 14: reset_colour
+#. 15: set_colour (blue)
+#. 16: reset_colour
+msgctxt "Talk_22"
+msgid ""
+"<1.so>Do you have rice balls where you're\n"
+"from?\n"
+"\n"
+"<2.so>You make <3.se_co>mushroom rice balls<4.re_co> with\n"
+"<5.se_co>Hylian rice<6.re_co>, <7.se_co>rock salt<8.re_co>, and "
+"<9.se_co>mushrooms<10.re_co>!\n"
+"\n"
+"I like mushrooms so it's fine with me, but\n"
+"my sister likes <11.se_co>zapshrooms<12.re_co>, which make\n"
+"them <13.se_co>electro<14.re_co> <15.se_co>mushroom rice balls<16.re_co>!"
+"\n"
+"Maybe it's a grown-up thing to like that\n"
+"little jolt they give you when you bite\n"
+"into them."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_23"
+msgid ""
+"<1.so>Hmmm...<2.pa> I know what happened here...\n"
+"My sister bought them out of everything!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (longer)
+msgctxt "Talk_24"
+msgid ""
+"<1.so>*sigh* <2.pa>If you stand under the window,\n"
+"you can hear everything they're saying...\n"
+"\n"
+"<3.so>When I grow up, I'm always going to\n"
+"speak in a quiet voice. <4.pa>Even if I'm\n"
+"having a really great time!"
+msgstr ""
+

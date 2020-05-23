@@ -1,0 +1,186 @@
+msgctxt "Demo136_0_Text013"
+msgid " "
+msgstr ""
+
+msgctxt "Demo136_0_Text014"
+msgid " "
+msgstr ""
+
+msgctxt "Demo136_0_Text015"
+msgid " "
+msgstr ""
+
+msgctxt "Demo136_0_Text016"
+msgid " "
+msgstr ""
+
+msgctxt "Demo136_0_Text017"
+msgid " "
+msgstr ""
+
+msgctxt "Demo136_0_Text018"
+msgid " "
+msgstr ""
+
+msgctxt "Demo136_0_Text019"
+msgid " "
+msgstr ""
+
+msgctxt "Demo136_0_Text020"
+msgid " "
+msgstr ""
+
+msgctxt "Demo136_0_Text021"
+msgid " "
+msgstr ""
+
+msgctxt "Demo136_0_Text022"
+msgid "It's here."
+msgstr ""
+
+msgctxt "Demo136_0_Text023"
+msgid "This is it, then..."
+msgstr ""
+
+msgctxt "Demo136_0_Text024"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "Demo136_0_Text025"
+msgid "Positive."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text033"
+msgid ""
+"Well? Don't keep us in suspense.<1.ra>How'd everything go up there on the"
+" mountain?"
+msgstr ""
+
+msgctxt "Demo136_0_Text034"
+msgid "..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text035"
+msgid "So you didn't feel anything? <1.ra>No power at all?"
+msgstr ""
+
+msgctxt "Demo136_0_Text036"
+msgid "I'm sorry, no."
+msgstr ""
+
+msgctxt "Demo136_0_Text037"
+msgid "Then let's move on."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text038"
+msgid ""
+"You've done all you could.<1.ra>Feeling sorry for yourself won't be of "
+"any help."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo136_0_Text039"
+msgid ""
+"After all, it's not like your last shot was up there\n"
+"on Mt. Lanayru. <1.ra>Anything could finally spark the power to seal\n"
+"Ganon away.<2.ra>We just have to keep looking for that...thing."
+msgstr ""
+
+msgctxt "Demo136_0_Text040"
+msgid "urh..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text041"
+msgid "That's kind of you. <1.ra>Thank you."
+msgstr ""
+
+msgctxt "Demo136_0_Text042"
+msgid "If I may..."
+msgstr ""
+
+msgctxt "Demo136_0_Text043"
+msgid "?"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text044"
+msgid "I thought you...<1.ra>Well, I'm not sure how to put this into words..."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+msgctxt "Demo136_0_Text045"
+msgid ""
+"I'm actually quite embarrassed to say it.<1.ra>But I was thinking about "
+"what I do when I'm healing. <2.ra>You know, what usually goes through my "
+"mind...<3.ra>It helps when I think—when I think about—"
+msgstr ""
+
+msgctxt "Demo136_0_Text046"
+msgid " "
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text047"
+msgid "It's awake...<1.ra>Ganon!"
+msgstr ""
+
+msgctxt "Demo136_0_Text048"
+msgid "Ah...ah... *gasp*"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text049"
+msgid ""
+"Let's stop wasting time! <1.ra>We're gonna need everything we got to take"
+"\n"
+"that thing down!"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo136_0_Text051"
+msgid ""
+"Now Champions! To your Divine Beasts!<1.ra>Show that swirling swine who's"
+" boss!<2.ra>Link will need to meet Ganon head on when we\n"
+"attack! This needs to be a unified assault!"
+msgstr ""
+
+msgctxt "Demo136_0_Text052"
+msgid "Little guy! You get to Hyrule Castle."
+msgstr ""
+
+msgctxt "Demo136_0_Text053"
+msgid " "
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text054"
+msgid ""
+"You can count on us for support. <1.ra>But it's up to you to pound Ganon "
+"into oblivion!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text055"
+msgid "Come. We should go. <1.ra>We need to get you someplace safe."
+msgstr ""
+
+msgctxt "Demo136_0_Text059"
+msgid "No!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo136_0_Text060"
+msgid ""
+"I am not a child anymore! I may not be\n"
+"much use on the battlefield... <1.ra>But there must... There must be\n"
+"something I can do to help!"
+msgstr ""
+

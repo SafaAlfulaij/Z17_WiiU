@@ -1,0 +1,52 @@
+#. 1: raw
+#. 2: raw
+msgctxt "Demo154_1_Text033"
+msgid ""
+" <1.ra>Well done there, young one! <2.ra>Now, then... The time has come\n"
+"to show you who I truly am. "
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo154_1_Text034"
+msgid ""
+"I was King Rhoam Bosphoramus Hyrule.<1.ra>I was...the last leader of "
+"Hyrule.<2.ra>A kingdom which no longer exists."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+msgctxt "Demo154_1_Text035"
+msgid ""
+"The Great Calamity was merciless... <1.ra>It devastated everything in its"
+" path, lo,\n"
+"a century ago. <2.ra>It was then that my life was taken away from me. "
+"<3.ra>And since that time, here I have remained,\n"
+"in spirit form."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_1_Text037"
+msgid ""
+"I think you are now ready. <1.ra>Ready to hear what happened 100 years "
+"ago."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_1_Text038"
+msgid ""
+"I did not think it wise to overwhelm you while\n"
+"your memory was still fragile. <1.ra>So rather than that, I thought it "
+"best\n"
+"to assume a temporary form."
+msgstr ""
+
+msgctxt "Demo154_1_Text039"
+msgid "Forgive me."
+msgstr ""
+
+msgctxt "Demo154_1_Text040"
+msgid "Uuh..."
+msgstr ""
+

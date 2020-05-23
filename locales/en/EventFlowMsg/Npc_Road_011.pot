@@ -1,0 +1,568 @@
+msgctxt "0000"
+msgid "You're my dream girl!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Just a guy takin' a walk."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Atacked00"
+msgid "<1.so>Hey!<2.pa> Personal space!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid "<1.so>This is why I hate leaving town..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (short)
+#. 4: pause (longer)
+msgctxt "Failed00"
+msgid ""
+"<1.so><2.so>Urgh... <3.pa>I think my hourglass is running\n"
+"out.<4.pa> I had so much left to do..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed01"
+msgid "<1.so>Urgh... <2.pa>Looks like this is the end..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (short)
+#. 4: pause (long)
+msgctxt "MSG_Gerud_00"
+msgid ""
+"<1.so><2.so>I hate wandering the wastelands.\n"
+"<3.pa>Give me the bustling streets of\n"
+"Gerudo Town any day.\n"
+"But the outside world is where the\n"
+"adventure is,<4.pa> so this is where I have\n"
+"to be, too."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Gerud_00_1"
+msgid ""
+"<1.so>I hope to someday be able to talk to voe\n"
+"without a stomach full of butterflies."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Gerud_01"
+msgid ""
+"<1.so>Dorrah and Merina are always a sight for\n"
+"sore eyes. <2.pa>When I catch a glimpse of\n"
+"them, I know I've made it back home.\n"
+"They're pretty tough on voe, and you\n"
+"wouldn't want to get on their bad side,\n"
+"but they're nice vai deep down."
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Gerud_01_1"
+msgid ""
+"<1.so>I haven't been out in these sands long,\n"
+"but it's still such a relief to see the face\n"
+"of my fellow vai whenever I come home."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: raw
+msgctxt "MSG_Gerud_02"
+msgid ""
+"<1.so>The desert sands are hard on my feet.\n"
+"I'd love to use a sand seal, but...<2.ra><3.so>I never actually learned "
+"the trick to\n"
+"sand-seal surfing.<4.ra>Maybe one day I'll meet someone who\n"
+"really knows how to do it. Then I can\n"
+"catch a ride and travel with ease!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Gerud_02_1"
+msgid ""
+"<1.so>The desert sands are hard on my feet.<2.pa>\n"
+"Maybe one day someone who can\n"
+"sand-seal surf will carry me about..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "MSG_Gerud_03"
+msgid ""
+"<1.so>Kara Kara Bazaar is a sort of resort for\n"
+"we Gerudo. <2.pa>I love to come here and\n"
+"relax...<3.pa> It's perfect for a vacation, really."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "MSG_Gerud_03_1"
+msgid ""
+"<1.so>Kara Kara Bazaar is the best vacation\n"
+"spot in all of the desert.<2.pa> I could stay\n"
+"here and relax for days..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: raw
+#. 5: sound2
+#. 6: pause (long)
+msgctxt "MSG_Gerud_04"
+msgid ""
+"<1.so>Meat and hydromelons just taste\n"
+"better when you're lounging at the\n"
+"Kara Kara Bazaar. <2.pa>Everyone knows that.\n"
+"Which should I go for? <3.pa>Melon or meat?<4.ra><5.so>What am I saying? "
+"<6.pa>Both, obviously!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (short)
+msgctxt "MSG_Gerud_04_1"
+msgid ""
+"<1.so><2.so>I'm on a snack break right now.<3.pa>\n"
+"Food just tastes better when you're\n"
+"lounging at the Kara Kara Bazaar."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (short)
+#. 4: raw
+msgctxt "MSG_Gerud_05"
+msgid ""
+"<1.so><2.so>You're...<3.pa>not trying to sneak into\n"
+"Gerudo Town in my shadow, are you?<4.ra>It won't work. And if Dorrah and "
+"Merina\n"
+"at the gates catch you, you'll wish you\n"
+"hadn't even thought of trying."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Gerud_05_1"
+msgid ""
+"<1.so>You're...<2.pa>not actually trying to sneak into\n"
+"Gerudo Town in my shadow, are you?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: raw
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "MSG_Gerud_06"
+msgid ""
+"<1.so>Are you sure you want to be here?<2.pa> It's\n"
+"not safe with <3.se_co>Naboris <4.re_co>roaming around.<5.ra>I'd rather "
+"be anywhere else, personally.<6.pa>\n"
+"I do love the desert, but <7.se_co>Naboris <8.re_co>makes\n"
+"it tough..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "MSG_Gerud_06_1"
+msgid ""
+"<1.so>I wish I was anywhere else but out here\n"
+"with <2.se_co>Naboris <3.re_co>roaming around. <4.pa>I feel like\n"
+"I could be zapped at any moment."
+msgstr ""
+
+#. 1: raw
+msgctxt "Near00"
+msgid "<1.ra>I'm bushed..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Near01"
+msgid "<1.ra>I'm baking in this sun..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Near02"
+msgid "<1.ra>Oh, to live my dreams..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Rest_00"
+msgid ""
+"<1.so>Phew... Traveling the world outside of\n"
+"home is harder than I expected."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (short)
+msgctxt "RetMSG_Gerud_00"
+msgid ""
+"<1.so>It occurs to me sometimes...<2.ra>If we got rid of the law keeping "
+"voe out\n"
+"of Gerudo Town, they could come to\n"
+"town with tales of their adventures...\n"
+"<3.so>Then again, the younger vai like the\n"
+"law. <4.pa>It gives them an excuse to get out\n"
+"and see the world, you know?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Gerud_00_1"
+msgid ""
+"<1.so>Sometimes I wish voe were allowed in\n"
+"town,<2.pa> but banning them does have\n"
+"some advantages...\n"
+"The outside world can be an interesting\n"
+"place, and I'd probably never have\n"
+"left town if I could just hear about it."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (long)
+msgctxt "RetMSG_Gerud_01"
+msgid ""
+"<1.so>Kara Kara Bazaar is sounding real nice\n"
+"right about now, but...<2.ra><3.so>I can't sand-seal surf, so I'd have\n"
+"to walk, and I'm not feeling up to that\n"
+"right now.\n"
+"Why didn't I ever learn how to stay\n"
+"upright while one of those things pulls\n"
+"me around the desert? <4.pa>*sigh*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (long)
+msgctxt "RetMSG_Gerud_01_1"
+msgid ""
+"<1.so>*sigh* <2.pa>\"Stop playing in the fountain and\n"
+"go practice your sand-seal riding!\" vaba\n"
+"always said.<3.pa> Why didn't I listen?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "RetMSG_Gerud_02"
+msgid ""
+"<1.so>Even with the Divine Beast appeased,\n"
+"these sands are dangerous. <2.pa>Move fast,\n"
+"or the monsters will catch you.\n"
+"<3.so>It's easiest to give them the slip when\n"
+"you're sand-seal surfing, but I never\n"
+"really learned how."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Gerud_02_1"
+msgid ""
+"<1.so>Even with the Divine Beast appeased,\n"
+"these sands are dangerous. <2.pa>Move fast,\n"
+"or the monsters will catch you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "RetMSG_Gerud_03"
+msgid ""
+"<1.so>There's no better place to relax than\n"
+"Kara Kara Bazaar. <2.pa>Cool water, green\n"
+"plants—this place has it all.\n"
+"I come here whenever possible.<3.pa>\n"
+"I just can't get enough of it!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Gerud_03_1"
+msgid ""
+"<1.so>My daydreams keep getting more\n"
+"elaborate. <2.pa>I'd better get down to it and\n"
+"start living them!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: raw
+#. 4: sound
+#. 5: pause (short)
+#. 6: sound
+#. 7: sound2
+#. 8: pause (longer)
+msgctxt "RetMSG_Gerud_04"
+msgid ""
+"<1.so>Have you tried the hydromelon here?<2.pa>\n"
+"It's the same fruit you can buy in\n"
+"Gerudo Town—it just tastes better here.\n"
+"In this desert heat, it's just the thing to\n"
+"cool you down inside and out.<3.ra><4.so>I used to walk around these "
+"sands eating\n"
+"them when I was a young vai. <5.pa>Oh, how\n"
+"my vaba fussed at me for it!\n"
+"<6.so><7.so>Hah... <8.pa>But I'm sure when I have vai\n"
+"of my own, I'll be the one fussing\n"
+"at them."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Gerud_04_1"
+msgid ""
+"<1.so>In the worst of the desert heat, have\n"
+"some hydromelon. <2.pa>There's nothing\n"
+"better for cooling off.\n"
+"I would never go outside the town walls\n"
+"without some when I was a young vai."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (short)
+#. 4: pause (long)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so><2.so>Hmm... <3.pa>That was trouble, no mistake.<4.pa>\n"
+"It's over now, right?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so><2.so>Sa...<3.pa>Sarqso.<4.pa> That looked like the last of\n"
+"the monsters."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (long)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so><2.so>Sa'oten!<3.pa> You're stronger than I gave you\n"
+"credit for."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so><2.so>Sarqso, traveler. <3.pa>I really should be able\n"
+"to handle myself... <4.pa>Need to work on that."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>There've been monsters swarming these\n"
+"sands ever since I can remember.<2.ra>I swear they've gotten more\n"
+"aggressive lately, though."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so><2.so>Sarqso, traveler. <3.pa>But that thing's friends\n"
+"could show up any second. <4.pa>Let's run\n"
+"while we still can!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "Thanks00"
+msgid ""
+"<1.so><2.so>Oh, right... <3.pa>You should have this.<4.pa>\n"
+"You fought well."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: pause (long)
+#. 5: pause (longer)
+#. 6: pause (short)
+#. 7: raw
+#. 8: pause (short)
+#. 9: text_size
+msgctxt "first"
+msgid ""
+"<1.so><2.te_si>OK...<3.pa> It's a voe. <4.pa>You can handle this.<5.pa>\n"
+"Deep breaths, Kyra.<6.pa> Remember your training.<7.ra>First...<8.pa> You"
+" greet the voe like anyone else.<9.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: pause (short)
+#. 5: pause (long)
+#. 6: pause (longer)
+#. 7: raw
+#. 8: sound
+#. 9: choice
+msgctxt "first_00"
+msgid ""
+"<1.so>N...<2.pa>nice to meet you! <3.pa>I'm Kyra.<4.pa>\n"
+"From the...<5.pa>the... <6.pa>From the Gerudo!<7.ra>I'm wandering the "
+"world, learning what\n"
+"I can and seeking my dreams...\n"
+"\n"
+"<8.so>And I can tell, just from looking at you...\n"
+"You have a place in my dreams, don't\n"
+"you? Did we meet for a reason?<9.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "first_01"
+msgid ""
+"<1.so>Oh, is that how it's going to be?<2.pa>\n"
+"Then I can stop wasting my time\n"
+"with you.\n"
+"Sav'orq, traveler."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "first_01_1"
+msgid ""
+"<1.so>I hate to be rude, but... <2.pa>What's the point\n"
+"in talking to you anymore?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: raw
+#. 5: pause (short)
+msgctxt "first_02"
+msgid ""
+"<1.so>Hmm... <2.pa>No. <3.pa>I know this one.<4.ra>My vaba warned me "
+"about voe who throw\n"
+"words like \"dream girl\" around.<5.pa>\n"
+"Let's just forget we ever spoke.\n"
+"Sav'orq, traveler."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (short)
+#. 4: sound
+#. 5: sound2
+#. 6: pause (short)
+#. 7: choice
+msgctxt "first_03"
+msgid ""
+"<1.so>You again?<2.ra>I'm on my personal journey of learning\n"
+"and discovery,<3.pa> so it would be great if you\n"
+"could not disrupt it...\n"
+"<4.so><5.so>Unless... Do you think you're part of my\n"
+"destiny?<6.pa> My dream life?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+msgctxt "first_04"
+msgid ""
+"<1.so><2.so>My vaba always said nothing's so shady\n"
+"as a voe who talks about dream this\n"
+"and dream that.<3.pa> I guess she was right.\n"
+"<4.so>Run along, voe.<5.pa> I'm busy."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+#. 4: raw
+#. 5: pause (long)
+msgctxt "first_04_1"
+msgid ""
+"<1.so><2.so>Hmm...<3.pa> My vaba was right about you voe.<4.ra>\"Dream "
+"girl...\" Nah, I don't have time to\n"
+"waste on you. <5.pa>Get out of here."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: sound
+#. 5: sound
+#. 6: sound2
+#. 7: pause (long)
+#. 8: sound
+#. 9: pause (short)
+#. 10: pause (short)
+#. 11: pause (long)
+msgctxt "first_05"
+msgid ""
+"<1.so>Pretty clothes. <2.pa>You don't see my\n"
+"kinswomen wearing that style often.<3.pa>\n"
+"I bet it drives voe out in the world wild.\n"
+"<4.so>I'm at the perfect age to travel and see\n"
+"what the world holds, myself, but I've\n"
+"barely explored this desert...\n"
+"<5.so><6.so>Adventures won't come and find me, I\n"
+"know. I have to put myself out there...<7.pa>\n"
+"I like staying around the familiar, I guess.\n"
+"<8.so>You, though...<9.pa> You should see the\n"
+"world. <10.pa>Meet new people. <11.pa>Maybe you'll\n"
+"meet a nice voe!\n"
+"Sav'orq, traveler!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "hello"
+msgid "<1.so><2.so>Sav'otta!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "hello_00"
+msgid "<1.so><2.so>Sav'aaq."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "hello_01"
+msgid "<1.so><2.so>Sav'saaba!"
+msgstr ""
+

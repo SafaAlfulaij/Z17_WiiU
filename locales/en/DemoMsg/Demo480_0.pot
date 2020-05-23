@@ -1,0 +1,41 @@
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Dragon_01"
+msgid ""
+"Thanks to your efforts, <1.se_co>Naydra<2.re_co>, the spirit\n"
+"of Mount Lanayru, has been freed from\n"
+"the grips of an <3.se_co>evil power<4.re_co>."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "Dragon_02"
+msgid ""
+"But a single ceremony remains. Now...\n"
+"Loose your arrow through the body of\n"
+"<1.se_co>Naydra<2.re_co> to free the spirit of this region!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: pause (long)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "Dragon_13"
+msgid ""
+"That is the spirit <1.se_co>Naydra's scale<2.re_co>.\n"
+"It fell when your arrow struck.\n"
+"\n"
+"It serves as proof of the courage you\n"
+"received from the one who served the\n"
+"spring since ancient times.\n"
+"Come...<3.pa> Offer a <4.se_co>scale <5.re_co>from the blue spirit\n"
+"<6.se_co>Naydra <7.re_co>to the <8.se_co>Spring of Wisdom<9.re_co>."
+msgstr ""
+

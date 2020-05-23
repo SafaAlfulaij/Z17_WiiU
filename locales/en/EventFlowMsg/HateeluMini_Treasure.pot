@@ -1,0 +1,104 @@
+msgctxt "0000"
+msgid "Yes, please."
+msgstr ""
+
+msgctxt "0001"
+msgid "Not now."
+msgstr ""
+
+msgctxt "Near000"
+msgid "Ah, the smell of the sea."
+msgstr ""
+
+#. 1: choice
+msgctxt "talk00"
+msgid ""
+"This oddly shaped rock pillar we're\n"
+"standing on is the subject of a song.\n"
+"Would you like to hear it?<1.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "talk01"
+msgid ""
+"<1.so>As you wish!<2.pa>\n"
+"*ahem*<3.pa>"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+msgctxt "talk02"
+msgid ""
+"<1.au_ad><2.ra><3.pa>An ancient hero spoke these words:\n"
+"\"One day I'll return to fight evil.\""
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: raw
+#. 4: pause (short)
+#. 5: sound
+msgctxt "talk03"
+msgid ""
+"<1.so>\"My cache?\"<2.pa> Could it be a hidden stash\n"
+"of money?<3.ra>If it was left by the ancient hero that\n"
+"defeated the Calamity 10,000 years ago,<4.pa>\n"
+"it must be a big amount!\n"
+"<5.so>Good luck figuring it out.\n"
+"May the light illuminate your path."
+msgstr ""
+
+#. 1: choice
+msgctxt "talk04"
+msgid ""
+"Would you like to hear the ancient song \n"
+"about this rock pillar?<1.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk05"
+msgid ""
+"<1.so>Maybe some other time, then.<2.pa>\n"
+"May the light illuminate your path."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: pause (long)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: pause (long)
+msgctxt "talk06"
+msgid ""
+"<1.so>Ah!<2.pa> You already found it?<3.ra><4.so>A...single "
+"<5.se_co><6.pa>gold rupee<7.re_co>?<8.pa> I guess all heroes\n"
+"aren't made of money.<9.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "talk07"
+msgid ""
+"<1.so>Why, hello!<2.pa> I certainly didn't expect to\n"
+"see anyone else up here.<3.pa>"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (long)
+msgctxt "talk08"
+msgid ""
+"<1.au_ad><2.ra>\"My cache is at <3.se_co>17 of 24<4.re_co>,<5.pa>\n"
+"This rock will point toward its retrieval.\""
+msgstr ""
+

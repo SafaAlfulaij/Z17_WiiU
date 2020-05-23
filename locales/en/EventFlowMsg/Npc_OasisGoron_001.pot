@@ -1,0 +1,94 @@
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "talk00"
+msgid ""
+"<1.so>Gerudo Town really is full of women,\n"
+"isn't it?\n"
+"\n"
+"<2.so>It really smells nice here...\n"
+"\n"
+"\n"
+"<3.so>Hang on...<4.pa> I thought men weren't\n"
+"allowed in this town...<5.pa>\n"
+"Why did they let me in?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk01"
+msgid ""
+"<1.so>I was really shy, being all by myself and\n"
+"surrounded by girls like that.\n"
+"\n"
+"Being honest... <2.pa>Even with Strade here,\n"
+"I still feel pretty shy..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "talk02"
+msgid ""
+"<1.so>Um... Savasava? Sava...sotta?\n"
+"Anyway, good evening!\n"
+"\n"
+"<2.so>Gerudo words are really hard to\n"
+"remember. I think \"sav\" is part of half of\n"
+"them, but there's some starting with V..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "talk03"
+msgid ""
+"<1.so>Er... Sa...botta?\n"
+"Was that it? I can't tell...\n"
+"\n"
+"<2.so>Apparently you really have to bite your\n"
+"lip to get that V sound out clearly.\n"
+"\n"
+"A little kid made fun of me yesterday for\n"
+"not being able to get the pronunciation\n"
+"right.\n"
+"I don't know why, but it sounds the same\n"
+"to me no matter what I do..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "talk04"
+msgid ""
+"<1.so>Uhh... Sav'aaq!<2.pa>\n"
+"That V sound is really tricky to master...<3.pa>\n"
+"I feel like I got it there, though."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk05"
+msgid "<1.so>Sav'aaq! <2.pa>See, I can do it right!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk06"
+msgid "<1.so>Sav'otta! <2.pa>Hah! I got it!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "talk07"
+msgid ""
+"<1.so>Sav'saava!\n"
+"\n"
+"\n"
+"Oh, wait... I think there's supposed to be\n"
+"a B sound there?<2.pa> Is it sab'saava?<3.pa>\n"
+"Sav'saaba?\n"
+"Ugh, this language is hard..."
+msgstr ""
+

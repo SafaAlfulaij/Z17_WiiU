@@ -1,0 +1,192 @@
+#. 1: sound
+#. 2: raw
+#. 3: pause (short)
+#. 4: sound
+msgctxt "After00"
+msgid ""
+"<1.so>We're traveling all over to find\n"
+"hearty truffles.<2.ra>I know, I know—it's dangerous for two\n"
+"folks to travel on their own these days.<3.pa>\n"
+"You don't have to tell me twice!\n"
+"<4.so>But when I think about how wonderful\n"
+"those truffles taste, all the worries and\n"
+"warnings melt away."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>Why are there monsters here?! <2.pa>This isn't\n"
+"fair at all!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid "<1.so>What do I do... What do I do?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>Ow ow ow... <2.pa>And here I was just telling\n"
+"Meghyn to be more careful of her\n"
+"surroundings.\n"
+"<3.so>Still, for hearty truffles, I'd put up\n"
+"with worse!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+msgctxt "Failed01"
+msgid ""
+"<1.so>Eesh... They never fight fair! <2.pa>They always\n"
+"lurk in wait to ambush us. <3.pa>What a bunch\n"
+"of cowards!\n"
+"<4.so>Seems like every time I go out hunting\n"
+"for hearty truffles, I'm taking my life in\n"
+"my hands."
+msgstr ""
+
+#. 1: sound
+msgctxt "GoodBye00"
+msgid ""
+"<1.so>Time to stop floofing around here.\n"
+"Let's get back to the hunt for\n"
+"hearty truffles!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Guardian00"
+msgid "<1.so>A Guardian! Run!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: sound
+msgctxt "Meeting00"
+msgid ""
+"<1.so>Hearty truffles aren't your run-of-the-mill\n"
+"mushrooms you find growing on half the\n"
+"trees in the forest.\n"
+"They're a gourmet treat that soothes\n"
+"your fatigue and brings you back up to\n"
+"tip-top shape!\n"
+"<2.so>I know that it's dangerous for the two of\n"
+"us to be out here without protection.<3.pa>\n"
+"We've been in our share of scrapes.\n"
+"<4.so>But there's no reward without risk, right?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+msgctxt "Meeting01"
+msgid ""
+"<1.so>Nat! <2.pa>Try not to make it sound so much\n"
+"like we only care about the money!<3.ra>It's not worth anything if we "
+"don't make\n"
+"it back home to spend it, you know?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Meeting02"
+msgid ""
+"<1.so>It'll be fine! Either we get a little practice\n"
+"fighting, or we find more hearty truffles.\n"
+"Win-win, right?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Meeting03"
+msgid "<1.so>You are going to be the death of me."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>Breathe in... Breathe out..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near01"
+msgid "<1.so>Hearty truffles..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "PairAtacked00"
+msgid ""
+"<1.so>There's still some monsters left. <2.pa>Is my\n"
+"sister gonna be OK?"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairAtacked01"
+msgid "<1.so>Don't talk to me! Go help my sister!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "PairFailed00"
+msgid "<1.so>Meghyn, wake up... <2.pa>Come on! Meghyn!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed01"
+msgid "<1.so>Nooo! Meghyn!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>Thanks. <2.pa>I was starting to sweat until you\n"
+"showed up!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Those things are such a nuisance.<2.pa>\n"
+"Thanks for getting them off of me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Way to send those things packing!<2.pa>\n"
+"You could use this, right?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>Hah! You sure showed them. <2.pa>I can't\n"
+"afford to hire you as a real bodyguard,\n"
+"but I can at least give you this."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_00"
+msgid "<1.so>I'm...I'm not dead! <2.pa>Thank you so much!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>Are you some kind of wandering do-\n"
+"gooder? <2.pa>Because the world could really\n"
+"use a few more of those! <3.pa>Thanks!"
+msgstr ""
+

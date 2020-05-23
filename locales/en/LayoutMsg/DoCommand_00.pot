@@ -1,0 +1,178 @@
+msgctxt "0008"
+msgid "Glide"
+msgstr ""
+
+msgctxt "0009"
+msgid "Pick up"
+msgstr ""
+
+msgctxt "0011"
+msgid "Climb down"
+msgstr ""
+
+msgctxt "0017"
+msgid "Open"
+msgstr ""
+
+msgctxt "0018"
+msgid "Talk"
+msgstr ""
+
+msgctxt "0019"
+msgid "Take"
+msgstr ""
+
+msgctxt "0020"
+msgid "Take"
+msgstr ""
+
+msgctxt "0021"
+msgid "Search"
+msgstr ""
+
+msgctxt "0027"
+msgid "Mount"
+msgstr ""
+
+msgctxt "0028"
+msgid "Sleep"
+msgstr ""
+
+msgctxt "0036"
+msgid "Examine"
+msgstr ""
+
+msgctxt "0039"
+msgid "Soothe"
+msgstr ""
+
+msgctxt "0042"
+msgid "Recall"
+msgstr ""
+
+msgctxt "0043"
+msgid "Grab"
+msgstr ""
+
+msgctxt "0044"
+msgid "Buy"
+msgstr ""
+
+msgctxt "0045"
+msgid "Climb"
+msgstr ""
+
+msgctxt "0046"
+msgid "Cook"
+msgstr ""
+
+msgctxt "0047"
+msgid "Sit"
+msgstr ""
+
+msgctxt "0048"
+msgid "Flurry Rush"
+msgstr ""
+
+msgctxt "0049"
+msgid "Wake"
+msgstr ""
+
+msgctxt "0050"
+msgid "Display"
+msgstr ""
+
+msgctxt "0051"
+msgid "Pray"
+msgstr ""
+
+msgctxt "0052"
+msgid "Pull"
+msgstr ""
+
+msgctxt "0053"
+msgid "Take"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "0054"
+msgid "Pull <1.se_co>(Hold)<2.re_co>"
+msgstr ""
+
+msgctxt "0056"
+msgid "Stop Time"
+msgstr ""
+
+msgctxt "0057"
+msgid "Activate"
+msgstr ""
+
+msgctxt "0058"
+msgid "Freeze"
+msgstr ""
+
+msgctxt "0059"
+msgid "Shatter"
+msgstr ""
+
+msgctxt "0060"
+msgid "Sneakstrike"
+msgstr ""
+
+msgctxt "0061"
+msgid "Swim Upward"
+msgstr ""
+
+msgctxt "0062"
+msgid "Dash"
+msgstr ""
+
+msgctxt "0063"
+msgid "Leave"
+msgstr ""
+
+msgctxt "0064"
+msgid "Hold On"
+msgstr ""
+
+msgctxt "0065"
+msgid "Come"
+msgstr ""
+
+msgctxt "0066"
+msgid "Stay"
+msgstr ""
+
+msgctxt "0068"
+msgid "Search"
+msgstr ""
+
+msgctxt "0069"
+msgid "Catch"
+msgstr ""
+
+msgctxt "0070"
+msgid "Listen"
+msgstr ""
+
+msgctxt "0071"
+msgid "Ride"
+msgstr ""
+
+msgctxt "0072"
+msgid "Hit"
+msgstr ""
+
+msgctxt "0073"
+msgid "Place"
+msgstr ""
+
+msgctxt "0074"
+msgid "Fuel"
+msgstr ""
+
+msgctxt "0075"
+msgid "Summon"
+msgstr ""
+

@@ -1,0 +1,12 @@
+msgctxt "QL_ShieldofKolog_mini_Finish"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_ShieldofKolog_mini_Goal"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_ShieldofKolog_mini_Retire"
+msgid "<NO_STRING>"
+msgstr ""
+

@@ -1,0 +1,18 @@
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: sound
+msgctxt "Talk_01"
+msgid ""
+"<1.so>Earlier, when I went to investigate the\n"
+"temple, I saw a shrine that wasn't\n"
+"previously there...\n"
+"A new shrine.<2.pa><3.so> That can only mean\n"
+"one thing.\n"
+"\n"
+"<4.so>This must be a trial given to me by the\n"
+"seven heroines! When I beat it, I'll be\n"
+"the star of the archaeological society!\n"
+"Oh, I'm so excited!"
+msgstr ""
+

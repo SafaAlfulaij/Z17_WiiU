@@ -1,0 +1,417 @@
+msgctxt "0001"
+msgid "Can I sell to you?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "5500"
+msgid "Yes."
+msgstr ""
+
+msgctxt "5501"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5502"
+msgid "I wanna buy."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "5508"
+msgid "All of them."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_00"
+msgid "<1.so>What do you want to sell?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_01"
+msgid ""
+"<1.so>All right... I'll buy it from\n"
+"you for <2.se_co><3.va> rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Com_Talk_02"
+msgid "<1.so>Sarqso.<2.pa> Those rupees are mine now."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02b"
+msgid "<1.so>Sarqso!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_02c"
+msgid "<1.so>Sarqso.<2.pa> My kid will love this. Thanks!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02d"
+msgid ""
+"<1.so>Sarqso. Today must be my lucky day\n"
+"for me to get my hands on something\n"
+"like this!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_04"
+msgid "<1.so>Well, there's no hurry."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_05"
+msgid "<1.so>Are you done?"
+msgstr ""
+
+msgctxt "Com_Talk_05b"
+msgid ""
+"Go ahead and show me what else you\n"
+"have! There's no harm in me taking a\n"
+"look, at least."
+msgstr ""
+
+msgctxt "Com_Talk_05c"
+msgid ""
+"You seem to have more things that my\n"
+"kid will like."
+msgstr ""
+
+msgctxt "Com_Talk_05d"
+msgid ""
+"I can never get enough items from the\n"
+"outside world. I'll buy whatever you've\n"
+"got."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_08"
+msgid ""
+"<1.so>Haggling is not permitted in this town.\n"
+"If you need money, maybe try selling\n"
+"ore or something?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_09"
+msgid ""
+"<1.so>Oh, but you don't have anywhere to put\n"
+"this! Make space in your inventory, and\n"
+"come back."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Com_Talk_13"
+msgid "<1.so>All right. How many do you want to sell?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"<1.so>So <2.va> of them would be <3.se_co><4.va> rupees<5.re_co>.\n"
+"How's that sound?<6.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_15"
+msgid ""
+"<1.so>I can't buy that from you...\n"
+"Maybe try some other place."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>Is it a Hylian custom to sell the clothes\n"
+"that you're wearing? Unfortunately, that\n"
+"isn't really a thing here..."
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_31"
+msgid "Sounds good. How many do you want?<1.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_33"
+msgid ""
+"<1.so>Just one?<2.pa> In that case, it'll\n"
+"be <3.se_co><4.va> rupees<5.re_co>, OK?<6.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: pause (short)
+#. 5: variable (ShopTradePrice)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Com_Talk_34"
+msgid ""
+"Oh? All of them?<1.pa>\n"
+"There's <2.va>, so it'll be <3.se_co><4.pa><5.va> rupees<6.re_co>.\n"
+"That OK?<7.ch>"
+msgstr ""
+
+#. 1: variable (Shop_TradeItemNum)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"Oh, all <1.va> of them?\n"
+"I'll buy them for <2.se_co><3.va> rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_50"
+msgid "<1.so>That'll be <2.se_co><3.va> rupees<4.re_co>. Is that OK?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Com_Talk_51"
+msgid "<1.so>And how many?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_52"
+msgid ""
+"<1.so>So, <2.va> of them? Altogether,\n"
+"it'll come to <3.se_co><4.va> rupees<5.re_co>, OK?<6.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_53"
+msgid ""
+"<1.so>Oh, did you change your mind?\n"
+"That's too bad."
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_54"
+msgid ""
+"<1.so>Haggling is not permitted in this town.\n"
+"If you need money, maybe try selling\n"
+"ore or something?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_55"
+msgid ""
+"<1.so>Oh, you're carrying too much stuff. Sell\n"
+"or throw some of it away, and come back."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_56"
+msgid ""
+"<1.so>Just one, right? That will\n"
+"be <2.se_co><3.va> rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+msgctxt "Near001"
+msgid "They're ready for eating..."
+msgstr ""
+
+msgctxt "Near002"
+msgid "I'm all sold out..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Talk_01"
+msgid ""
+"<1.so>Vasaaq.<2.pa>\n"
+"Our fruit here is fresh and juicy, just how\n"
+"everyone likes it!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "Talk_02"
+msgid ""
+"<1.so>Vasaaq.<2.pa>\n"
+"The desert heat can drain your health so\n"
+"easily. Our fruit really helps fight that!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "Talk_03"
+msgid ""
+"<1.so>My kid really loves <2.se_co>fruitcake<3.re_co>, so I make it\n"
+"every once in a while.\n"
+"\n"
+"I have all the fruit I'd ever need, but it's\n"
+"a bit difficult to find <4.se_co>Tabantha wheat<5.re_co>,\n"
+"<6.se_co>cane sugar<7.re_co>, and <8.se_co>goat butter<9.re_co>...\n"
+"Anyway, if you have the ingredients, you\n"
+"should try making it yourself sometime."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_05"
+msgid "<1.so>No problem."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_06"
+msgid "<1.so>Sarqso..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk_07"
+msgid "<1.so>Sarqso.<2.pa> I'll make sure to restock for you!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_09"
+msgid ""
+"<1.so>It's fun just seeing the kinds of things\n"
+"that foreigners carry with them when\n"
+"they get here.\n"
+"Feel free to come back and show me\n"
+"more sometime."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_11"
+msgid ""
+"<1.so>Vasaaq.\n"
+"Our fruit here is sweet as can be, just\n"
+"like my wonderful daughter.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_12"
+msgid ""
+"<1.so>Smells nice, right?\n"
+"They're perfect for eating now.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Talk_13"
+msgid ""
+"<1.so>It still smells pretty nice around the\n"
+"stall, doesn't it?<2.pa> The fruit I had was ripe\n"
+"and ready to be eaten!\n"
+"Even with the fruit gone now, the\n"
+"wonderful smell still lingers.<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_14"
+msgid ""
+"<1.so>They're perfect for eating now, you\n"
+"know. I'm sure they're pretty tasty."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_15"
+msgid ""
+"<1.so>Sarqso.<2.pa> That was a great purchase,\n"
+"don't you think?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk_16"
+msgid "<1.so>Sarqso.<2.pa> Come again!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_17"
+msgid ""
+"<1.so>Oh, am I all out? I'll have to restock\n"
+"for you."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound2
+#. 7: sound2
+#. 8: pause (longer)
+#. 9: choice
+msgctxt "Talk_18"
+msgid ""
+"<1.so>Oh, have you heard the good news?\n"
+"<2.se_co>Naboris <3.re_co>has finally been calmed!\n"
+"\n"
+"It sounds like our <4.se_co>chief<5.re_co> and Patricia\n"
+"played a big part in the whole adventure,\n"
+"too!\n"
+"<6.so>You know, I've actually been feeding\n"
+"Patricia my own fruit whenever I can.\n"
+"\n"
+"Now seems like the perfect time to kick\n"
+"off my new brand!\n"
+"\n"
+"<7.so>\"Lorn's Fruit Stand. Patricia loves it!\" <8.pa>\n"
+"Hehe. What do you think?\n"
+"\n"
+"Sounds pretty delicious, right? I gotta\n"
+"work hard to get this brand off the\n"
+"ground.<9.ch>"
+msgstr ""
+

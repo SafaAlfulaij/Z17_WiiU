@@ -1,0 +1,218 @@
+msgctxt "0000"
+msgid "I'll buy!"
+msgstr ""
+
+msgctxt "0001"
+msgid "I'll pass."
+msgstr ""
+
+msgctxt "5500"
+msgid "Sure."
+msgstr ""
+
+msgctxt "5501"
+msgid "Nah."
+msgstr ""
+
+msgctxt "5502"
+msgid "I'll buy!"
+msgstr ""
+
+msgctxt "5503"
+msgid "Actually, never mind."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "Com_Talk_06"
+msgid ""
+"Sweet, delicious, wonderful bananas!\n"
+"Step right up, and buy 'em right up!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_07"
+msgid "<1.so>No bananas left, all thanks to you!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_08"
+msgid ""
+"<1.so>You haven't got enough rupees, friend.\n"
+"I'm afraid you can't pay for these\n"
+"bananas in installments."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_09"
+msgid ""
+"<1.so>Well, it looks like your inventory is full.\n"
+"Not even room for a banana in there.\n"
+"I can tell from here."
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_10"
+msgid "Buy these sweet, sweet bananas!<1.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11"
+msgid "<1.so>Sellin' over here! Sellin' over here!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11b"
+msgid "<1.so>Thanky-thanky-thank-a you."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11c"
+msgid "<1.so>Even the bananas are happy now!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11d"
+msgid "<1.so>I bet you want more, don't you?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_12"
+msgid "<1.so>These bananas are my pride and joy!"
+msgstr ""
+
+#. 1: variable (Shop_TradeItemNum)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_30"
+msgid ""
+"If you buy <1.va>, that'll come to a total\n"
+"of <2.se_co><3.va> rupees<4.re_co>. Buy 'em right up!<5.ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_31"
+msgid "Pick as many as you want.<1.ch>"
+msgstr ""
+
+#. 1: pause (long)
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_34"
+msgid ""
+"All the bananas?! I don't know what to\n"
+"say!<1.pa> So then...<2.va> will run you <3.se_co><4.va>\n"
+"rupees<5.re_co>. What a sale!<6.ch>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_36"
+msgid "<1.so>You really are a banana fan, aren't you?"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Com_Talk_37"
+msgid ""
+"<1.so>Well, well...<2.pa> Thanks to you, I haven't got\n"
+"any more bananas today.\n"
+"\n"
+"Want to take a look at the banana\n"
+"delivery schedule before you go?<3.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (ShopTradePrice)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Com_Talk_56"
+msgid ""
+"Just one? That'll be <1.se_co><2.va> rupees<3.re_co>, then.\n"
+"Buy 'em right up!<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Henshin00"
+msgid "<1.so><2.ra><3.te_si>I will take your life!<4.te_si><5.au_ad>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+msgctxt "Henshin01"
+msgid ""
+"<1.so><2.ra><3.te_si>For the bana—I mean, for the\n"
+"boss!<4.te_si><5.au_ad>"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>Step right up and buy 'em!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Talk00"
+msgid ""
+"<1.so>Step right up—don't be shy! Check out\n"
+"my fine bananas! They're available...\n"
+"to buy!\n"
+"So yellow,<2.pa> they'll make you yell \"oh!\" So\n"
+"fresh, you'll think there's a tree around\n"
+"the corner. And the taste—like a dream!\n"
+"Stay right there and buy a pair!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "Talk01"
+msgid ""
+"<1.so>Pass? Pass?! It would be a mistake to\n"
+"pass on these amazing, wonderful,\n"
+"fantastic bananas!\n"
+"<2.so>Listen, here's how it works: I sell; you\n"
+"buy! Stop holding up the show, and do\n"
+"your part!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk02"
+msgid ""
+"<1.so>Well then... I hope you come back later...<2.pa>\n"
+"That's a lie as slippery as a banana peel."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk03"
+msgid "<1.so>...What—do you hate bananas?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk04"
+msgid ""
+"<1.so>Come on down, young man! Looking to\n"
+"buy bananas this time? You can!\n"
+"\n"
+"Just take a look at these fine bananas!\n"
+"Buy them up quick before you've\n"
+"missed your chance!<2.ch>"
+msgstr ""
+

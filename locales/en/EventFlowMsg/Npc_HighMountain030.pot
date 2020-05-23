@@ -1,0 +1,377 @@
+msgctxt "0000"
+msgid "OK."
+msgstr ""
+
+msgctxt "0001"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "0005"
+msgid "What?"
+msgstr ""
+
+msgctxt "0006"
+msgid "You're right."
+msgstr ""
+
+msgctxt "0010"
+msgid "The joy of the Rito"
+msgstr ""
+
+msgctxt "0011"
+msgid "The honor of the Rito"
+msgstr ""
+
+msgctxt "0012"
+msgid "The pride of the Rito"
+msgstr ""
+
+msgctxt "0013"
+msgid "The wings of the Rito"
+msgstr ""
+
+msgctxt "0020"
+msgid "Village in the sky"
+msgstr ""
+
+msgctxt "0021"
+msgid "Bird in the sky"
+msgstr ""
+
+msgctxt "0022"
+msgid "Mountain in the sky"
+msgstr ""
+
+msgctxt "0023"
+msgid "Pillar in the sky"
+msgstr ""
+
+msgctxt "0030"
+msgid "Its heart lights up"
+msgstr ""
+
+msgctxt "0031"
+msgid "Its face lights up"
+msgstr ""
+
+msgctxt "0032"
+msgid "Its shadow lights up"
+msgstr ""
+
+msgctxt "0033"
+msgid "Its wings light up"
+msgstr ""
+
+msgctxt "0040"
+msgid "When the arrows fly"
+msgstr ""
+
+msgctxt "0041"
+msgid "When the sun is high"
+msgstr ""
+
+msgctxt "0042"
+msgid "When the time is nigh"
+msgstr ""
+
+msgctxt "0043"
+msgid "When the day is shy"
+msgstr ""
+
+msgctxt "0044"
+msgid "I'll give it a shot."
+msgstr ""
+
+msgctxt "0045"
+msgid "I'll pass."
+msgstr ""
+
+msgctxt "near01"
+msgid "Phew..."
+msgstr ""
+
+msgctxt "near02"
+msgid "Pillar in the sky..."
+msgstr ""
+
+msgctxt "near03"
+msgid "..."
+msgstr ""
+
+msgctxt "near04"
+msgid "Zzz...zzz..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid "<1.so>Morning."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Hello."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Evening."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid "<1.so>Hmm. OK."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk05"
+msgid ""
+"<1.so>You...are basically naked.\n"
+"\n"
+"\n"
+"That's close enough.<2.pa> Don't make me call\n"
+"someone."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk06"
+msgid ""
+"<1.so>I'm about to turn in for the night.<2.pa>\n"
+"Come back tomorrow."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk07"
+msgid ""
+"<1.so>What are you doing here?<2.pa>\n"
+"You adventurers are crazy.<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid "<1.so>What do you mean, \"what\"?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk09"
+msgid ""
+"<1.so>Thanks to <2.se_co>Divine Beast Vah Medoh<3.re_co>, our\n"
+"village is under siege! It could bomb us\n"
+"all at any given moment!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid ""
+"<1.so>If I were a properly trained soldier,\n"
+"I'd go straight at the beast and bring it\n"
+"down..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk11"
+msgid ""
+"<1.so>\"You're right\"?\n"
+"<2.pa>I was talking about you, you know."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "talk12"
+msgid ""
+"<1.so>You see <2.se_co>Divine Beast Vah Medoh <3.re_co>flying\n"
+"around up there?\n"
+"\n"
+"<4.so>The village is in disarray thanks to that\n"
+"thing."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk13"
+msgid "<1.so>Zzz...zzz..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk14"
+msgid "<1.so>Hmph..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (longer)
+#. 4: sound
+#. 5: choice
+msgctxt "talk15"
+msgid ""
+"<1.so>So Bedoli told you I would sing you the\n"
+"last half of the ancient Rito song?\n"
+"\n"
+"<2.so>Her memory really is the worst...\n"
+"\n"
+"\n"
+"I can help you...<3.pa>but there is a catch!\n"
+"\n"
+"\n"
+"<4.so>Recite the first half from memory, and I\n"
+"will teach you the second half.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk16"
+msgid ""
+"<1.so>You want me to sing the second half\n"
+"of the song?\n"
+"\n"
+"Only if you can recite the first half\n"
+"without messing it up.<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk17"
+msgid "<1.so>That is disappointing."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk18"
+msgid "<1.so>Go ahead.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk20"
+msgid ""
+"<1.so>Now that <2.se_co>Divine Beast Vah Medoh <3.re_co>has\n"
+"calmed down, the village is peaceful\n"
+"once again."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk21"
+msgid ""
+"<1.so>Seems like everyone in the village is\n"
+"thinking about going on vacation."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk22"
+msgid ""
+"<1.so>ENNNNNNGH! Wrong!<2.pa>\n"
+"Come back once you can actually\n"
+"recite the first half."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "talk23"
+msgid "<1.so>Correct,<2.pa> and after that?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: choice
+msgctxt "talk24"
+msgid ""
+"<1.so>Ah...<2.pa> Right again.<3.pa>\n"
+"And then?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "talk25"
+msgid "<1.so>Well done.<2.pa> Now for the final line...<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (longer)
+msgctxt "talk26"
+msgid ""
+"<1.so>Aha!<2.pa> You got every word right!\n"
+"\n"
+"\n"
+"<3.so>Well, a promise is a promise.<4.pa> I'll teach\n"
+"you the last half of the song."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (20f)
+#. 4: pause (20f)
+#. 5: pause (20f)
+#. 6: pause (5f)
+msgctxt "talk27"
+msgid ""
+"<1.so><2.ra>The heart shines upon<3.pa> a path not whole,<4.pa>\n"
+"but a warming flame<5.pa> can stir its soul<6.pa>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk28"
+msgid ""
+"<1.so>That's the second half of the \n"
+"ancient Rito song.<2.pa>\n"
+"\n"
+"Profound, isn't it?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk30"
+msgid ""
+"<1.so>...Don't tell me you came all the way\n"
+"here just to hear an ancient Rito song.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk31"
+msgid "<1.so>You want to hear the ancient Rito song?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk32"
+msgid ""
+"<1.so>Nothing makes me want to not do \n"
+"something more than being asked to do\n"
+"it on the spot...<2.pa> But sure, why not."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (20f)
+#. 4: pause (20f)
+#. 5: pause (20f)
+#. 6: pause (5f)
+msgctxt "talk33"
+msgid ""
+"<1.so><2.ra>The pride of the Rito, <3.pa>pillar in the sky,<4.pa>\n"
+"its heart lights up<5.pa> when the sun is high.<6.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk34"
+msgid ""
+"<1.so>That's the whole song.<2.pa>\n"
+"Pretty deep, huh?\n"
+"Makes you think."
+msgstr ""
+

@@ -1,0 +1,80 @@
+msgctxt "Horse_Link_Mane_01_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_01_Name"
+msgid "Long Mane"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_02_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_02_Name"
+msgid "Mohawk Mane"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_03_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_03_Name"
+msgid "French-Braided Mane"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_04_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_04_Name"
+msgid "Braided Mane"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_05_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_05_Name"
+msgid "Long Red Mane"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_06_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_06_Name"
+msgid "Long Blue Mane"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_07_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_07_Name"
+msgid "Long Green Mane"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_08_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_08_Name"
+msgid "Long Purple Mane"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_09_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_09_Name"
+msgid "Floral Mane"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_Desc"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "Horse_Link_Mane_Name"
+msgid "Normal Mane"
+msgstr ""
+

@@ -1,0 +1,336 @@
+msgctxt "0000"
+msgid "I'll do it!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Korok Trials?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Maybe later..."
+msgstr ""
+
+msgctxt "Npc_Kokiri008_F_Near000"
+msgid "Amazing!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (short)
+msgctxt "Npc_Kokiri008_F_Talk000"
+msgid ""
+"<1.so>What?! <2.pa>You've finished all of the <3.se_co>trials<4.re_co>?\n"
+"\n"
+"\n"
+"<5.so>*whistle*<6.pa>\n"
+"That's amazing! You're so cool!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_Kokiri008_F_Talk010"
+msgid ""
+"<1.so>Now it's only a matter of time before\n"
+"you're able to pull out the <2.se_co>Master Sword<3.re_co>.\n"
+"\n"
+"Hurry up and show us what you've got!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Npc_Kokiri008_F_Talk020"
+msgid ""
+"<1.so>Ah!<2.pa> I know that look.\n"
+"\n"
+"\n"
+"You want me to give you something since\n"
+"you visited all the places, don't you?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_Kokiri008_F_Talk030"
+msgid ""
+"<1.so>...I guess I have no choice.<2.pa>\n"
+"I'll give you my treasured item."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: raw
+#. 10: sound
+#. 11: set_colour (blue)
+#. 12: reset_colour
+msgctxt "Npc_Kokiri008_F_Talk040"
+msgid ""
+"<1.so>...Hnngh!\n"
+"You have too many <2.se_co>big hearty truffles<3.re_co>!\n"
+"\n"
+"<4.so>I wanted to give you a few\n"
+"<5.se_co>big hearty truffles <6.re_co>as a reward, but...\n"
+"\n"
+"It would be rude to the <7.se_co>big hearty truffle<8.re_co>\n"
+"to jam it into your pouch so\n"
+"unceremoniously...<9.ra><10.so>Come back and see me when your\n"
+"<11.se_co>big hearty truffle<12.re_co> supply runs out!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: sound
+#. 6: pause (short)
+msgctxt "Npc_Kokiri008_F_Talk060"
+msgid ""
+"<1.so>Try eating a dish cooked with that\n"
+"<2.se_co>big hearty truffle<3.re_co>...<4.pa>\n"
+"\n"
+"It'll soothe all of your aches and pains\n"
+"and then some!\n"
+"\n"
+"<5.so>I'm not pulling your branch here!<6.pa>\n"
+"Just try it for yourself!"
+msgstr ""
+
+msgctxt "Npc_Kokiri008_R_Near000"
+msgid "Complete the trials!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (red)
+#. 12: reset_colour
+#. 13: choice
+msgctxt "Npc_Kokiri008_R_Talk000"
+msgid ""
+"<1.so>Us Koroks all got together and prepared\n"
+"some <2.se_co>trials<3.re_co> just for you, Mr. Hero!\n"
+"\n"
+"<4.so>Although you may not need them, since\n"
+"you already pulled the <5.se_co>Master Sword<6.re_co> out\n"
+"and all...\n"
+"But these <7.se_co>trials<8.re_co> will help you grow even\n"
+"stronger than you are now!\n"
+"\n"
+"Among them is an extra-tough one\n"
+"designed by me, the elder of\n"
+"<9.se_co>Korok Forest<10.re_co>.\n"
+"So will you test your mettle in the \n"
+"<11.se_co>Korok Trials<12.re_co>?<13.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: pause (short)
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: pause (long)
+#. 13: sound
+#. 14: set_colour (red)
+#. 15: reset_colour
+#. 16: set_colour (blue)
+#. 17: reset_colour
+#. 18: set_colour (red)
+#. 19: reset_colour
+#. 20: choice
+msgctxt "Npc_Kokiri008_R_Talk010"
+msgid ""
+"<1.so>Us Koroks all got together and prepared\n"
+"some <2.se_co>trials<3.re_co> just for you, Mr. Hero!\n"
+"\n"
+"If you pass the ve<4.pa>e<5.pa>e<6.pa>e<7.pa>ry tough "
+"<8.se_co>trials<9.re_co>\n"
+"we've prepared...pulling out the\n"
+"<10.se_co>Master Sword <11.re_co>will be a piece of cake!<12.pa>\n"
+"...Probably!\n"
+"\n"
+"\n"
+"<13.so>Among the <14.se_co>trials<15.re_co> is an extra-tough one\n"
+"designed by me, the elder of\n"
+"<16.se_co>Korok Forest<17.re_co>.\n"
+"So will you test your mettle in the\n"
+"<18.se_co>Korok Trials<19.re_co>?<20.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_Kokiri008_R_Talk020"
+msgid ""
+"<1.so>Ya know, if you keep doing everything\n"
+"everyone asks of you without question,\n"
+"you're gonna get conned eventually...\n"
+"<2.so>Anyway, where was I?<3.pa>\n"
+"Oh, yeah! The <4.se_co>Korok Trials<5.re_co>!\n"
+"\n"
+"Long story short—you need to visit all\n"
+"the shrines in the Korok Forest so that\n"
+"you can be considered <6.se_co>a real grown-up<7.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: raw
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: sound
+msgctxt "Npc_Kokiri008_R_Talk030"
+msgid ""
+"<1.so>Ah, you need to think about it first...\n"
+"Wise boy...\n"
+"\n"
+"<2.so>The <3.se_co>Korok Trials<4.re_co>!<5.ra>Long story short—you need "
+"to visit all\n"
+"the shrines in the Korok Forest so that\n"
+"you can be considered <6.se_co>a real grown-up<7.re_co>!\n"
+"It's a ceremony that every Korok must\n"
+"undertake, and it's based on the trials of\n"
+"the legendary hero himself!\n"
+"<8.so>I've done it...and so has Hestu...and him\n"
+"over there, and her too, and even the\n"
+"Great Deku Tree himself has done it!\n"
+"OK...that last part was a lie.\n"
+"He's pretty rooted."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: sound
+#. 5: pause (long)
+msgctxt "Npc_Kokiri008_R_Talk040"
+msgid ""
+"<1.so>You don't want to do it?! Well, why not?!\n"
+"Don't let this opportunity go to waste!\n"
+"\n"
+"If you do it, I'll tell you all about the time\n"
+"Hestu fell flat on his face while dancing!\n"
+"<2.te_si>Even though I promised I wouldn't!<3.te_si>\n"
+"<4.so>You don't seem interested...<5.pa>\n"
+"*sigh* I give up..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_Kokiri008_R_Talk500"
+msgid "<1.so><2.te_si>Trial one!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Npc_Kokiri008_R_Talk510"
+msgid ""
+"<1.so>In the southwest forest:\n"
+"<2.pa><3.se_co>Trial of Second Sight<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_Kokiri008_R_Talk520"
+msgid "<1.so><2.te_si>Trial two!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Npc_Kokiri008_R_Talk530"
+msgid ""
+"<1.so>In the northwest forest:<2.pa>\n"
+"<3.se_co>The Lost Pilgrimage<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_Kokiri008_R_Talk540"
+msgid "<1.so><2.te_si>Trial three!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Npc_Kokiri008_R_Talk550"
+msgid ""
+"<1.so>In the eastern forest:<2.pa>\n"
+"<3.se_co>The Test of Wood<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+msgctxt "Npc_Kokiri008_R_Talk560"
+msgid ""
+"<1.so>If you can overcome the Korok Trials,\n"
+"you can overcome anything!\n"
+"\n"
+"We've also prepared some wonderful\n"
+"prizes for you!<2.ra><3.so>Now show us what you're made of!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: raw
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (short)
+msgctxt "Npc_Kokiri008_R_Talk570"
+msgid ""
+"<1.so>All right, do your be—<2.pa>st...<3.ra><4.so>You've already "
+"completed all of the\n"
+"<5.se_co>trials<6.re_co>?!\n"
+"\n"
+"<7.so>*whistle* <8.pa>\n"
+"That's amazing! You're so cool!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Kokiri008_R_Talk580"
+msgid "<1.so>Well? Will you do it?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Npc_Kokiri008_R_Talk590"
+msgid "<1.so>All right!<2.pa> Do your best!"
+msgstr ""
+

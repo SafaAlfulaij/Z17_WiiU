@@ -1,0 +1,39 @@
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk01"
+msgid ""
+"<1.so>What a tranquil landscape.<2.pa> It's nice to\n"
+"relax and paint in a place like this every\n"
+"now and then."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "Talk03"
+msgid ""
+"<1.so>Ah... Here you can see <2.se_co>Hyrule Castle<3.re_co> in\n"
+"the distance. So this must be <4.se_co>north of\n"
+"the castle<5.re_co>.\n"
+"The south side of the castle is where\n"
+"Castle Town used to be, but I don't\n"
+"see any buildings here, which means...\n"
+"<6.so>Yes, indeed, I'd say this is likely on the\n"
+"north side, across the castle moat.\n"
+"It should be <7.se_co>southeast<8.re_co> of this stable."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk05"
+msgid ""
+"<1.so>However...<2.pa> The area around the castle is\n"
+"extremely dangerous. If you find yourself\n"
+"in trouble, please promise to run. FAST."
+msgstr ""
+

@@ -1,0 +1,175 @@
+msgctxt "0000"
+msgid "Leave it to me!"
+msgstr ""
+
+msgctxt "0001"
+msgid "I'm a bit busy..."
+msgstr ""
+
+msgctxt "0002"
+msgid "It was a metal axe."
+msgstr ""
+
+msgctxt "Near00"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "Near01"
+msgid "*shudder*"
+msgstr ""
+
+msgctxt "Near02"
+msgid "Urrrmm..."
+msgstr ""
+
+msgctxt "Near03"
+msgid "Zzzz..."
+msgstr ""
+
+msgctxt "Near05"
+msgid "Looks like rain..."
+msgstr ""
+
+msgctxt "Near06"
+msgid "*yaaawn*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (15f)
+#. 6: sound
+#. 7: choice
+msgctxt "talk00"
+msgid ""
+"<1.so>Oh dear, oh dear...<2.pa> <3.se_co>Lightning<4.re_co> strikes this\n"
+"stable so often, I get nervous whenever\n"
+"it rains even a little.\n"
+"I just don't understand why it strikes so\n"
+"often...<5.pa> <6.so>Hey, it's a long shot, but if you\n"
+"have some time, could you find out why?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: choice
+msgctxt "talk01"
+msgid ""
+"<1.so>Have you...<2.pa>have you decided to\n"
+"help me? Please figure out why <3.se_co>lightning<4.re_co>\n"
+"keeps hitting this stable!<5.pa> Please!<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk02"
+msgid ""
+"<1.so>*sigh*<2.pa> I get scared in the evening...<3.pa> \n"
+"I wonder why the <4.se_co>lightning <5.re_co>seems to\n"
+"have it out for this place."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid "<1.so>I can finally relax!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Urrrm...run away..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk06"
+msgid ""
+"<1.so>Please... Help!<2.pa> Stop the<3.se_co> lightning<4.re_co>!\n"
+"Please find out why it keeps striking\n"
+"this stable!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (15f)
+#. 3: pause (15f)
+msgctxt "talk07"
+msgid ""
+"<1.so>Aiiiiieeee! I just...can't...<2.pa>\n"
+"I'm so scared...<3.pa>\n"
+"Please find out why this is happening!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (15f)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (15f)
+#. 7: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>Eeeeyah! I've had it...<2.pa> I can't handle this\n"
+"constant fear.<3.pa>\n"
+"\n"
+"<4.se_co>Lightning<5.re_co> strikes this stable really often, \n"
+"so I get scared whenever it starts to\n"
+"rain...<6.pa>\n"
+"Please... Could you go try and find out\n"
+"why this keeps happening?<7.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid ""
+"<1.so>You will?! Really? I'm so happy!\n"
+"I'm counting on you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk10"
+msgid ""
+"<1.so>I see...<2.pa> Well, I guess it can't be helped.<3.pa>\n"
+"*sigh*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: single_choice
+msgctxt "talk12"
+msgid ""
+"<1.so>What?<2.pa> You found out what was drawing\n"
+"the <3.se_co>lightning <4.re_co>here?<5.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>Aha! <2.pa>Yeah, that's as good as a lightning\n"
+"rod, isn't it?\n"
+"\n"
+"I wonder if someone put it up there on\n"
+"purpose. How strange..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk14"
+msgid ""
+"<1.so>Thanks for looking into it for me!<2.pa>\n"
+"Here's something for your trouble."
+msgstr ""
+

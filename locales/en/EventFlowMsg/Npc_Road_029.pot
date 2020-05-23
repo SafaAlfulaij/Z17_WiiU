@@ -1,0 +1,413 @@
+#. 1: sound
+msgctxt "Atacked00"
+msgid "<1.so>Don't get careless."
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid "<1.so>Those monsters..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>I shame the Gerudo with a performance\n"
+"like that."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed01"
+msgid "<1.so>Urgh... <2.pa>That monster..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+msgctxt "Guardian00"
+msgid ""
+"<1.so>Oh, no. <2.pa>I'm not tangling with a "
+"<3.se_co>Guardian<4.re_co>!<5.pa>\n"
+"Time to move!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (long)
+msgctxt "MSG_Orud_00"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name! <2.pa>I came to Eldin from the\n"
+"<3.se_co>Gerudo Desert<4.re_co>, far to the southwest.\n"
+"<5.so>I'm traveling in search of voe, but I\n"
+"haven't found any good ones so far.<6.pa>\n"
+"Until just now, heh heh."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "MSG_Orud_00_1"
+msgid ""
+"<1.so>I came from <2.se_co>Gerudo Desert<3.re_co>, far to the\n"
+"southwest, on a journey to hunt for voe."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (long)
+#. 5: pause (short)
+msgctxt "MSG_Orud_01"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name!<2.ra><3.so>I run into voe from all sorts of races\n"
+"on the road. <4.pa>I like the Gorons a lot. <5.pa>I\n"
+"wish my hide was as tough as theirs!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Orud_01_1"
+msgid ""
+"<1.so>I run into voe from all sorts of races on\n"
+"the road. <2.pa>It's so thrilling to see how the\n"
+"rest of the world lives."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: raw
+#. 7: sound
+msgctxt "MSG_Orud_02"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name!<2.ra>Only vai are allowed in <3.se_co>Gerudo "
+"Town<4.re_co>.<5.pa>\n"
+"Our laws are very strict about that.<6.ra><7.so>So the only way for us to"
+" meet strong\n"
+"voe is to go on a journey outside the\n"
+"town walls, like I'm doing now!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "MSG_Orud_02_1"
+msgid ""
+"<1.so>Only vai are allowed in <2.se_co>Gerudo Town<3.re_co>, so\n"
+"I'm on a journey outside the town walls\n"
+"to meet a strong voe."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+msgctxt "MSG_Orud_03"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name!<2.ra>If you go north of here to <3.se_co>Goron City<4.re_co>,\n"
+"there's a place called Goron Hot Springs \n"
+"that's supposed to be good for your skin.\n"
+"<5.so>And you'll need to take good care of\n"
+"your skin, too, after the monsters on\n"
+"the way tear it to ribbons!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "MSG_Orud_03_1"
+msgid ""
+"<1.so>Goron Hot Springs in <2.se_co>Goron City <3.re_co>to the\n"
+"north is supposed to be good for your\n"
+"skin, but it's a dangerous trip to make."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (short)
+msgctxt "MSG_Orud_04"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name!<2.ra>The molten rocks raining down from the\n"
+"volcano make the road from this stable\n"
+"to <3.se_co>Goron City <4.re_co>a dangerous trek.\n"
+"<5.so>I'm thinking of challenging prospective\n"
+"voe I meet to walk that road. <6.pa>It's one way\n"
+"to weed out the cowards!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "MSG_Orud_04_1"
+msgid ""
+"<1.so>The molten rocks raining down from the\n"
+"volcano make the road from this stable\n"
+"to <2.se_co>Goron City <3.re_co>a dangerous trek."
+msgstr ""
+
+msgctxt "Near00"
+msgid "Where are the good voe?"
+msgstr ""
+
+msgctxt "Near01"
+msgid "Making good time..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "Where are the good voe?"
+msgstr ""
+
+msgctxt "Near03"
+msgid "Making good time..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "I hate this sky water..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "Rest_00"
+msgid ""
+"<1.so>My home is in the <2.se_co>Gerudo Desert<3.re_co> to the\n"
+"southwest of here.<4.pa> And I'm not going\n"
+"back until I've found myself a voe."
+msgstr ""
+
+#. 1: sound
+msgctxt "Rest_01"
+msgid ""
+"<1.so>The heat in this place is awful—even\n"
+"worse than the desert's—but at least\n"
+"it's a dry heat."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>Water should never fall from the sky!<2.pa>\n"
+"But I admit, it's a nice excuse to strike\n"
+"up a conversation with people."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (short)
+msgctxt "RetMSG_Orud_00"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name!<2.ra>I'd love to meet a voe brave-hearted\n"
+"enough to walk the road between the\n"
+"<3.se_co>Woodland Stable <4.re_co>and <5.se_co>Foothill Stable<6.re_co>.\n"
+"<7.so>I don't know if a voe like that exists,\n"
+"but if he does, I'd be proud to walk at\n"
+"his side. <8.pa>Just the two of us..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "RetMSG_Orud_00_1"
+msgid ""
+"<1.so>I'd love to meet a voe brave-hearted\n"
+"enough to walk the road between the\n"
+"<2.se_co>Woodland Stable <3.re_co>and <4.se_co>Foothill Stable<5.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "RetMSG_Orud_01"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name!<2.ra>It's been quite a while since I left home\n"
+"to go on this journey, but my passion\n"
+"hasn't gone down one bit.\n"
+"<3.so>You know who else has endurance like\n"
+"that? <4.pa>The Gorons. <5.pa>Maybe one of them\n"
+"would be a match for me..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "RetMSG_Orud_01_1"
+msgid ""
+"<1.so>You know who has a lot of endurance?<2.pa>\n"
+"The Gorons. <3.pa>Maybe one of them could\n"
+"be a match for me..."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+msgctxt "RetMSG_Orud_02"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name!<2.ra>All I want is to find the voe I was born\n"
+"to be with. <3.pa>It doesn't matter to me which\n"
+"race he is.\n"
+"<4.so>I wouldn't turn down a voe because his\n"
+"skin was orange or his neck had gills.<5.pa>\n"
+"This is true love we're talking about!"
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Orud_02_1"
+msgid ""
+"<1.so>Once I've found the voe I was born to be\n"
+"with, I can get on with the rest of my life."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+msgctxt "RetMSG_Orud_03"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name!<2.ra>I'm just a traveler now, but there was a\n"
+"time when I was a master archer in the\n"
+"<3.se_co>Gerudo Town<4.re_co> guard.\n"
+"<5.so>I can't count how many times I stopped\n"
+"monsters from invading the town with\n"
+"a single, well-placed arrow."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "RetMSG_Orud_03_1"
+msgid ""
+"<1.so>I can't count how many times I stopped\n"
+"monsters from invading <2.se_co>Gerudo Town<3.re_co>\n"
+"with a single, well-placed arrow."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (long)
+msgctxt "RetMSG_Orud_04"
+msgid ""
+"<1.so>I'm Karsh of the Gerudo. Remember\n"
+"that name!<2.ra>The only thing I wish I'd brought on my\n"
+"journey are some clothes that can\n"
+"withstand the burning heat.\n"
+"<3.so>I hear it's unbearable on the <4.se_co>roads\n"
+"around the volcano<5.re_co>. <6.pa>Even worse than\n"
+"the desert air, if that's possible!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Orud_04_1"
+msgid ""
+"<1.so>I hear the heat on the roads around the\n"
+"volcano is unbearable. <2.pa>I wish I'd thought\n"
+"to bring some cooler clothes..."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_00"
+msgid "<1.so>All clear?"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>I'm so tired of dealing with these\n"
+"monsters every day."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_00"
+msgid "<1.so>That's the way! Never give an inch!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>They have to come at me harder than\n"
+"that to impress me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>Sa'oten... <2.pa>That was... <3.pa>*ahem* <4.pa>That was\n"
+"nothing. <5.pa>I'm fine."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>I really thought the sands of my life had\n"
+"run out... <2.pa>Sarqso!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk04"
+msgid "<1.so><2.so>Sav'otta!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk05"
+msgid "<1.so><2.so>Sav'aaq."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk06"
+msgid "<1.so><2.so>Sav'saaba!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Thanks00"
+msgid ""
+"<1.so>Hey... <2.pa>It would be rude of me not to\n"
+"thank you for your help. <3.pa>So thanks."
+msgstr ""
+

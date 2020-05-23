@@ -1,0 +1,41 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_GoronCityMini_BeatGolem_Beated"
+msgid ""
+"You defeated the <1.se_co>Igneo Talus <2.re_co>at <3.se_co>Darunia "
+"Lake<4.re_co>!\n"
+"Go and tell Fugo!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "QL_GoronCityMini_BeatGolem_Desc"
+msgid ""
+"Fugo needs to defeat the <1.se_co>Igneo Talus <2.re_co>at\n"
+"<3.se_co>Darunia Lake <4.re_co>to win his master Rohan's\n"
+"respect.\n"
+"\n"
+"But he's not sure about his ability to reach\n"
+"the place to begin with, so he's looking for\n"
+"someone to fight the <5.se_co>Igneo Talus <6.re_co>in his stead."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_GoronCityMini_BeatGolem_Finish"
+msgid ""
+"You defeated the Igneo Talus at Darunia Lake\n"
+"and reported back to Fugo. In return, he gave\n"
+"you <1.se_co>100 rupees<2.re_co>."
+msgstr ""
+
+msgctxt "QL_GoronCityMini_BeatGolem_Name"
+msgid "The Road to Respect"
+msgstr ""
+

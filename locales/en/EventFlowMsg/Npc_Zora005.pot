@@ -1,0 +1,361 @@
+msgctxt "0000"
+msgid "Get a load of this..."
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "By yourself?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Yes, please!"
+msgstr ""
+
+msgctxt "0006"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0007"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "0011"
+msgid "Morning."
+msgstr ""
+
+msgctxt "0012"
+msgid "Afternoon."
+msgstr ""
+
+msgctxt "0013"
+msgid "Night."
+msgstr ""
+
+msgctxt "0014"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "near00"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "near01"
+msgid "*cough*"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (longer)
+#. 7: sound
+#. 8: pause (short)
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: sound
+#. 13: pause (longer)
+#. 14: pause (short)
+msgctxt "talk00"
+msgid ""
+"<1.so>Well, well! It is always nice to have a\n"
+"visitor here.<2.pa> Thank you for journeying\n"
+"to our fair <3.se_co>Zora's Domain<4.re_co>...\n"
+"...\n"
+"\n"
+"\n"
+"<5.so>Wait a moment... You...<6.pa>\n"
+"You're Link!\n"
+"\n"
+"<7.so>The perpetrator who forced Lady Mipha\n"
+"to join his crusade 100 years ago,<8.pa>\n"
+"only to be destroyed by <9.se_co>Calamity Ganon<10.re_co>!\n"
+"As though I could ever forget that face.\n"
+"\n"
+"\n"
+"You should know that the elderly here\n"
+"who loved Lady Mipha still remember...<11.pa>\n"
+"and they still resent you.\n"
+"<12.so>I, however, resent the deed and not\n"
+"the person.<13.pa> I also believe in allowing\n"
+"the mistakes of the past to wash away.\n"
+"Link...\n"
+"\n"
+"\n"
+"I have retired from my role as a priest.<14.pa>\n"
+"I am now living my life free from the\n"
+"material concerns of this world."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk01"
+msgid ""
+"<1.so>As for the location... <2.pa>Hmmm...\n"
+"\n"
+"\n"
+"<3.se_co>Tarrey Town <4.re_co>in <5.se_co>Akkala<6.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk02"
+msgid ""
+"<1.so>I have been waiting to hear those words.<2.pa>\n"
+"Now, please tell me the specifics..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: choice
+msgctxt "talk03"
+msgid ""
+"<1.so><2.se_co>Akkala <3.re_co>isn't too far from here.<4.pa> It would\n"
+"please me to hurry there right away.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk04"
+msgid ""
+"<1.so>No need to worry about me.<2.pa>\n"
+"I have always had confidence\n"
+"in my fins and feet!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk05"
+msgid ""
+"<1.so>It has been a long while since I have\n"
+"had work.<2.pa> I am eager to put my skills\n"
+"to good use!\n"
+"<3.so>You should come as well.<4.pa> I will start\n"
+"my preparations in <5.se_co>Tarrey Town<6.re_co>\n"
+"in the meantime."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk06"
+msgid ""
+"<1.so>Joining two souls is a true honor, one I\n"
+"shall stake my life on.<2.pa> Just one more\n"
+"wedding...and I shall be fulfilled."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk07"
+msgid ""
+"<1.so>Joining two souls is a true honor, one I\n"
+"shall stake my life on.<2.pa> Just one more\n"
+"wedding...and I shall be fulfilled.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "talk15"
+msgid ""
+"<1.so>However... <2.pa>Ever since I retired, each day\n"
+"is more boring than the last...\n"
+"\n"
+"Spending day after day in idleness,<3.pa>\n"
+"only to pass from this world soon...\n"
+"\n"
+"Link...<4.pa> As I'm sure you are well aware,\n"
+"the afterlife lays claim to all. We never\n"
+"know when it will beckon."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk16"
+msgid "<1.so>Bah ha ha!<2.pa> Leave it to me!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk17"
+msgid ""
+"<1.so>May the kindness of Goddess Hylia<2.pa>\n"
+"be ever with you..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk18"
+msgid ""
+"<1.so>If during your travels you meet any\n"
+"<2.se_co>engaged couples<3.re_co>,<4.pa> I would like you to\n"
+"introduce them to me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "talk20"
+msgid ""
+"<1.so>Link...<2.pa> Are you in need of a good sleep\n"
+"and a hearty meal?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: choice
+msgctxt "talk21"
+msgid ""
+"<1.so>I thought so.<2.pa> Thanks to the benevolence\n"
+"of the Goddess Hylia,<3.pa> I can offer you a\n"
+"place to stay.\n"
+"When would you like me to wake you?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk22"
+msgid ""
+"<1.so>It shall be done.<2.pa> Now then, time for a\n"
+"short rest..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk23"
+msgid "<1.so>Did you sleep well?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk24"
+msgid ""
+"<1.so>Ohmmm... <2.pa>Goddess Hyliaaaa...\n"
+"\n"
+"\n"
+"Please cast your divine judgment down\n"
+"upon the humble servant <3.pa>who speaks to\n"
+"me from atop my furniture..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk25"
+msgid ""
+"<1.so>I have heard...\n"
+"\n"
+"\n"
+"Hudson and Rhondson are planning on\n"
+"having a ceremony, correct?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk26"
+msgid ""
+"<1.so>Hudson and Rhondson's ceremony...<2.pa>\n"
+"I have agreed to preside over it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk27"
+msgid ""
+"<1.so>But it would seem that an important\n"
+"guest has yet to arrive...<2.pa> You should\n"
+"ask Hudson for the details."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk28"
+msgid ""
+"<1.so>It was a beautiful ceremony.\n"
+"\n"
+"\n"
+"It has been a long while since I last\n"
+"performed rites like that,<2.pa> so my voice\n"
+"was a little shrill and nervous.\n"
+"Hudson and Rhondson are lucky to have\n"
+"found each other. Clearly they were\n"
+"guided by Goddess Hylia.\n"
+"Marriages are made in heaven...<3.pa>\n"
+"Perhaps you will find your own\n"
+"partner one day..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk29"
+msgid ""
+"<1.so>Oh, by the way... <2.pa>Hudson mentioned\n"
+"that he wanted to speak with you.\n"
+"\n"
+"Go and find him, hm?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk30"
+msgid "<1.so>Hmm. Link..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "talk31"
+msgid ""
+"<1.so>We can start the ceremony anytime.<2.pa>\n"
+"Talk to Hudson when you are ready\n"
+"to begin.\n"
+"Or...<3.pa>if you are looking for a place to\n"
+"stay the night,<4.pa> please speak with me\n"
+"at the counter."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk33"
+msgid ""
+"<1.so>The preparations for the ceremony have\n"
+"been taken care of.<2.pa> Speak to Hudson\n"
+"when you are ready to begin."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk34"
+msgid ""
+"<1.so>Oh, humble servant led here by destiny...<2.pa>\n"
+"I can provide you with one meal and\n"
+"some lodging.\n"
+"Come and speak with me at the counter."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk35"
+msgid ""
+"<1.so>Need a place to stay?<2.pa> If so, come speak\n"
+"with me at the counter."
+msgstr ""
+

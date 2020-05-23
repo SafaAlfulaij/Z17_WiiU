@@ -1,0 +1,117 @@
+msgctxt "0000"
+msgid "Shield what now?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Nope."
+msgstr ""
+
+msgctxt "0002"
+msgid "Totally!"
+msgstr ""
+
+msgctxt "0003"
+msgid "Nah."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_00"
+msgid ""
+"<1.so>Hey, maaan!<2.pa> What's that? <3.pa>You're dyin'\n"
+"for some <4.se_co>shield-surfing<5.re_co> action, that it?<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_01"
+msgid ""
+"<1.so>Chill out, my man.<2.pa> You don't need to\n"
+"worry about the details!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_02"
+msgid ""
+"<1.so>My best bud is standin' over there\n"
+"beneath that tree!<2.pa> He can show you\n"
+"the ropes."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_03"
+msgid ""
+"<1.so>So you gonna go up there or not,\n"
+"my man?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Talk_04"
+msgid ""
+"<1.so>What's your DEAL, man?<2.pa> You're really\n"
+"crampin' my vibe right now!<3.pa> Come back\n"
+"after you chill out."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_05"
+msgid ""
+"<1.so>Epic!<2.pa> That's the spirit! After all,\n"
+"shields were made to be surfed on!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Talk_06"
+msgid ""
+"<1.so>Hey, maaan!<2.pa> Back for some more\n"
+"<3.se_co>shield surfing<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Talk_07"
+msgid ""
+"<1.so>Hey, maaan!<2.pa> So you're a <3.se_co>shield-surfing<4.re_co>\n"
+"junkie now, eh?<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_08"
+msgid ""
+"<1.so>My best bud is beneath that tree\n"
+"over there!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Talk_09"
+msgid ""
+"<1.so>Hey, maaan!<2.pa> I heard it all from <3.se_co>Russ<4.re_co>.<5.pa>"
+"\n"
+"Back for more <6.se_co>shield surfing<7.re_co>, yeah?"
+msgstr ""
+
+msgctxt "near_00"
+msgid "I bet he's slacking off..."
+msgstr ""
+

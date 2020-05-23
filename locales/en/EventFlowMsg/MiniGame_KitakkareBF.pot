@@ -1,0 +1,499 @@
+msgctxt "0000"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Hmm?"
+msgstr ""
+
+msgctxt "0003"
+msgid "I'll light it for you."
+msgstr ""
+
+msgctxt "0004"
+msgid "Easily."
+msgstr ""
+
+msgctxt "0005"
+msgid "I give up."
+msgstr ""
+
+msgctxt "0006"
+msgid "No way."
+msgstr ""
+
+msgctxt "0007"
+msgid "The lab?"
+msgstr ""
+
+msgctxt "0008"
+msgid "I'll do it!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Horse-handling fee?!"
+msgstr ""
+
+msgctxt "0010"
+msgid "If you say so."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Ask"
+msgid "<1.so>You're not thinking of quitting, are you?<2.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "BeforeStart_00"
+msgid "<1.so><2.so>Alrighty... <3.pa>On your mark...<4.pa>get set... "
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: raw
+#. 4: raw
+#. 5: raw
+#. 6: sound
+#. 7: text_size
+msgctxt "BeforeStart_01"
+msgid "<1.te_si><2.so>Three...<3.ra>Two...<4.ra>One...<5.ra><6.so>Go!<7.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "BeforeStart_02"
+msgid "<1.so>See, I'll say that, and then you'll start."
+msgstr ""
+
+#. 1: sound
+msgctxt "CantPlay_End"
+msgid "<1.so>Don't put it out!"
+msgstr ""
+
+#. 1: text_size
+#. 2: set_colour (grey)
+#. 3: sound
+#. 4: reset_colour
+#. 5: text_size
+msgctxt "CantPlay_End_00"
+msgid "<1.te_si><2.se_co><3.so>I told you not to put it out...<4.re_co><5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: pause (short)
+msgctxt "CantPlay_LanternOn_AfterTalk"
+msgid ""
+"<1.so>Is there anything in all the world\n"
+"as pretty as the <2.se_co>blue flame<3.re_co>?<4.pa>\n"
+"I'm thinking...<5.pa>no."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "CantPlay_LanternOn_BeforeTalk"
+msgid ""
+"<1.so>*sigh...* Good old <2.se_co>blue flame<3.re_co>.<4.pa> It's so\n"
+"soothing to stare at, don't you think?"
+msgstr ""
+
+#. 1: sound
+msgctxt "CantPlay_Weather"
+msgid ""
+"<1.so>The weather's pretty lousy, though,\n"
+"so maybe not."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "CantPlay_Weather_00"
+msgid ""
+"<1.so>You can try anyway, but the reward is\n"
+"still the same <2.se_co>20 rupees<3.re_co>.<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "Explanation_00"
+msgid ""
+"<1.so>You? <2.pa>Hmm...<3.pa> That's one possibility,\n"
+"I guess."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: choice
+msgctxt "Explanation_01"
+msgid ""
+"<1.so>How fast can you do it? Do you think\n"
+"you can bring the <2.se_co>blue flame <3.re_co>to this\n"
+"<4.se_co>lantern <5.re_co>in under <6.se_co>three minutes<7.re_co>?<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: choice
+msgctxt "Explanation_02"
+msgid ""
+"<1.so>How fast can you do it? Do you think\n"
+"you can bring the <2.se_co>blue flame <3.re_co>to this\n"
+"<4.se_co>lantern <5.re_co>in under <6.se_co>one minute<7.re_co>?<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: choice
+msgctxt "Explanation_03"
+msgid ""
+"<1.so>How fast can you do it? Do you think\n"
+"you can bring the <2.se_co>blue flame <3.re_co>to this\n"
+"<4.se_co>lantern <5.re_co>in under <6.se_co>20 seconds<7.re_co>?<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: single_choice
+#. 6: raw
+#. 7: sound
+#. 8: pause (long)
+#. 9: pause (short)
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: choice
+msgctxt "Explanation_04"
+msgid ""
+"<1.so>Great!<2.pa> But I'll be taking <3.se_co>20 rupees <4.re_co>as a\n"
+"horse-handling fee.<5.si_ch><6.ra><7.so>Well, you're going to use a "
+"horse, right?<8.pa>\n"
+"I don't see any other way to do it that\n"
+"fast.<9.pa> So yeah, <10.se_co>20 rupees<11.re_co>.<12.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Explanation_05"
+msgid ""
+"<1.so>Great!<2.pa> But I'll be taking <3.se_co>20 rupees <4.re_co>as a\n"
+"horse-handling fee.<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Explanation_06"
+msgid "<1.so>You won't regret it!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (long)
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Explanation_07"
+msgid ""
+"<1.so>Unless I'm counting wrong...<2.pa>this isn't\n"
+"enough rupees. <3.pa>Come back when you've\n"
+"saved up at least <4.se_co>20 rupees<5.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "Explanation_08"
+msgid "<1.so>Thank you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: raw
+#. 4: sound
+#. 5: pause (short)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Fail"
+msgid ""
+"<1.so>You failed... <2.pa>Why'd you go and get my\n"
+"hopes up?<3.ra><4.so>I hope you'll try again sometime.<5.pa> Come\n"
+"talk to me when the <6.se_co>blue flame <7.re_co>isn't lit."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: raw
+#. 5: sound
+#. 6: pause (short)
+msgctxt "Fail02"
+msgid ""
+"<1.so>Of course, if the rain hits it, it's bye-bye\n"
+"<2.se_co>blue flame<3.re_co>.<4.ra><5.so>You'll never get it here in this"
+" weather.<6.pa>\n"
+"Wait for it to clear up, and then give it\n"
+"another try."
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "FirstTalk_00"
+msgid "<1.so>*sigh...*<2.si_ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: set_colour (grey)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (grey)
+#. 8: reset_colour
+#. 9: text_size
+#. 10: single_choice
+msgctxt "FirstTalk_01"
+msgid ""
+"<1.te_si><2.so><3.se_co>The <4.re_co><5.se_co>blue "
+"flame<6.re_co><7.se_co>...<8.re_co><9.te_si><10.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: pause (short)
+#. 15: raw
+msgctxt "FirstTalk_02"
+msgid ""
+"<1.so>Oh, sorry! Guess I was daydreaming.<2.ra><3.so>Life has been so "
+"dull since I married into\n"
+"this family.<4.pa> I used to pass the time by\n"
+"staring at the <5.se_co>lantern<6.re_co>'s <7.se_co>blue "
+"flame<8.re_co>...\n"
+"<9.so>But the <10.se_co>director <11.re_co>at the\n"
+"<12.se_co>Akkala Ancient Tech Lab<13.re_co> <14.pa>hasn't\n"
+"lit the fire in so long.<15.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: raw
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: raw
+msgctxt "FirstTalk_03"
+msgid ""
+"<1.so>What's wrong with the <2.se_co>director<3.re_co>?<4.ra><5.so>Why "
+"won't he light the <6.se_co>lanterns <7.re_co>with\n"
+"that beautiful <8.se_co>blue flame <9.re_co>again?<10.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (short)
+#. 10: pause (short)
+msgctxt "FirstTalk_04"
+msgid ""
+"<1.so>Yes... <2.pa>Its <3.se_co>director<4.re_co> used to light the\n"
+"<5.se_co>lanterns <6.re_co>with a <7.se_co>blue flame<8.re_co> for "
+"his<9.pa>\n"
+"experiments.\n"
+"But he's getting up there in age now,<10.pa>\n"
+"so maybe he can't get out as often as\n"
+"he used to."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "FirstTalk_05"
+msgid ""
+"<1.so>I'm talking about the \n"
+"<2.se_co>Akkala Ancient Tech Lab <3.re_co>right<4.pa>\n"
+"up this road, if you haven't been."
+msgstr ""
+
+#. 1: sound
+msgctxt "FirstTalk_06"
+msgid ""
+"<1.so>They remodeled it from an old\n"
+"lighthouse, so it's easy to spot."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Goodbye"
+msgid "<1.so>I'll see you later!<2.pa> Bye!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Goodbye_01"
+msgid "<1.so>Well, thanks anyway."
+msgstr ""
+
+#. 1: sound
+msgctxt "Greetings_AboutNoon"
+msgid "<1.so>Hello!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Greetings_Again"
+msgid "<1.so>Hi, hi!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Greetings_Morning"
+msgid "<1.so>G'morning!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Greetings_Night"
+msgid "<1.so>Evening!"
+msgstr ""
+
+msgctxt "Near_Game"
+msgid "So excited!"
+msgstr ""
+
+msgctxt "Near_LanternOff"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "Near_LanternOn"
+msgid "Tum te dum..."
+msgstr ""
+
+#. 1: sound
+msgctxt "NotAccept_00"
+msgid "<1.so>Good-bye."
+msgstr ""
+
+#. 1: sound
+msgctxt "NotAccept_01"
+msgid "<1.so>I see..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Please_00"
+msgid "<1.so>Remember—<2.se_co>three minutes <3.re_co>or less!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Please_01"
+msgid "<1.so>Remember—<2.se_co>one minute <3.re_co>or less!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Please_02"
+msgid "<1.so>Remember—<2.se_co>20 seconds <3.re_co>or less!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Restart"
+msgid "<1.so>You can do it! I know you can!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Reward"
+msgid ""
+"<1.so>I really ought to do something to thank\n"
+"you, huh?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Succeed_First"
+msgid ""
+"<1.so>Unbelievable!<2.pa> It's back! The <3.se_co>blue flame<4.re_co>\n"
+"is really back!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Succeed_Rain"
+msgid ""
+"<1.so>You even managed to light it in the rain?!<2.pa>\n"
+"That deserves a little something extra!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: choice
+msgctxt "Talk_AfterMiniGameClear"
+msgid ""
+"<1.se_co><2.so><3.re_co>The <4.se_co>blue flame <5.re_co>went "
+"out...<6.pa>\n"
+"Can you light it again?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: raw
+msgctxt "Talk_BeforeMiniGameClear"
+msgid ""
+"<1.so>Will I ever get to see that wondrous\n"
+"<2.se_co>blue flame <3.re_co>in its <4.se_co>lantern <5.re_co>again?<6.ra>"
+msgstr ""
+

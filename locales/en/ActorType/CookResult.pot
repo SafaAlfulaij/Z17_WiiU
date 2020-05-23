@@ -1,0 +1,1904 @@
+msgctxt "Item_Cook_A_01_BaseName"
+msgid "Mushroom Skewer"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_01_Desc"
+msgid ""
+"<1.ra>This simple mushroom-packed skewer has its\n"
+"colorful presentation to thank for its appeal."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_01_Name"
+msgid "<1.ra>Mushroom Skewer"
+msgstr ""
+
+msgctxt "Item_Cook_A_02_BaseName"
+msgid "Steamed Mushrooms"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_02_Desc"
+msgid ""
+"<1.ra>A healthy vegetable dish achieved by\n"
+"steaming mushrooms in plant leaves."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_02_Name"
+msgid "<1.ra>Steamed Mushrooms"
+msgstr ""
+
+msgctxt "Item_Cook_A_03_BaseName"
+msgid "Steamed Fruit"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_03_Desc"
+msgid ""
+"<1.ra>A regional dish made by steaming near-\n"
+"ripened fruits in the leaves of fragrant plants."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_03_Name"
+msgid "<1.ra>Steamed Fruit"
+msgstr ""
+
+msgctxt "Item_Cook_A_04_BaseName"
+msgid "Steamed Fish"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_04_Desc"
+msgid ""
+"<1.ra>A refined dish made by wrapping a fresh fish\n"
+"in fragrant wild greens and cooking it."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_04_Name"
+msgid "<1.ra>Steamed Fish"
+msgstr ""
+
+msgctxt "Item_Cook_A_05_BaseName"
+msgid "Steamed Meat"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_05_Desc"
+msgid ""
+"<1.ra>This meat dish has been wrapped in fragrant\n"
+"leaves and steamed to preserve its moisture."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_05_Name"
+msgid "<1.ra>Steamed Meat"
+msgstr ""
+
+msgctxt "Item_Cook_A_07_BaseName"
+msgid "Fruit and Mushroom Mix"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_07_Desc"
+msgid ""
+"<1.ra>This dish contrasts the sweetness of fruit with\n"
+"the savoriness of mushrooms."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_07_Name"
+msgid "<1.ra>Fruit and Mushroom Mix"
+msgstr ""
+
+msgctxt "Item_Cook_A_08_BaseName"
+msgid "Fish and Mushroom Skewer"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_08_Desc"
+msgid ""
+"<1.ra>A simple dish made by cooking skewered,\n"
+"fresh fish alongside fragrant mushrooms."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_08_Name"
+msgid "<1.ra>Fish and Mushroom Skewer"
+msgstr ""
+
+msgctxt "Item_Cook_A_09_BaseName"
+msgid "Meat and Mushroom Skewer"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_09_Desc"
+msgid ""
+"<1.ra>A filling dish made by grilling various\n"
+"mountain ingredients with meat."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_09_Name"
+msgid "<1.ra>Meat and Mushroom Skewer"
+msgstr ""
+
+msgctxt "Item_Cook_A_10_BaseName"
+msgid "Omelet"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_10_Desc"
+msgid ""
+"<1.ra>This simple dish is common all over Hyrule.\n"
+"Simply fry egg until it's nice and plump."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_10_Name"
+msgid "<1.ra>Omelet"
+msgstr ""
+
+msgctxt "Item_Cook_A_11_BaseName"
+msgid "Glazed Mushrooms"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_11_Desc"
+msgid ""
+"<1.ra>The honey in this mushroom dish gives it a\n"
+"sweet, complex taste and a savory finish."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_11_Name"
+msgid "<1.ra>Glazed Mushrooms"
+msgstr ""
+
+msgctxt "Item_Cook_A_12_BaseName"
+msgid "Glazed Meat"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_12_Desc"
+msgid ""
+"<1.ra>The sweetness of the honey permeates the\n"
+"meat, giving it a complex taste profile."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_12_Name"
+msgid "<1.ra>Glazed Meat"
+msgstr ""
+
+msgctxt "Item_Cook_A_13_BaseName"
+msgid "Glazed Seafood"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_13_Desc"
+msgid ""
+"<1.ra>A seafood dish that you can actually\n"
+"wolf down whole!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_13_Name"
+msgid "<1.ra>Glazed Seafood"
+msgstr ""
+
+msgctxt "Item_Cook_A_14_BaseName"
+msgid "Glazed Veggies"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_14_Desc"
+msgid ""
+"<1.ra>Don't like the taste of vegetables? Simply\n"
+"sauté them in honey for a salty-sweet flavor!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_A_14_Name"
+msgid "<1.ra>Glazed Veggies"
+msgstr ""
+
+msgctxt "Item_Cook_B_01_BaseName"
+msgid "Fried Wild Greens"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_01_Desc"
+msgid ""
+"<1.ra>A basic vegetable dish made by sautéing\n"
+"fresh wild plants."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_01_Name"
+msgid "<1.ra>Fried Wild Greens"
+msgstr ""
+
+msgctxt "Item_Cook_B_02_BaseName"
+msgid "Simmered Fruit"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_02_Desc"
+msgid ""
+"<1.ra>This sweet dish is made by heaping tasty\n"
+"fruits into a pan and simmering until tender."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_02_Name"
+msgid "<1.ra>Simmered Fruit"
+msgstr ""
+
+msgctxt "Item_Cook_B_05_BaseName"
+msgid "Fish Skewer"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_05_Desc"
+msgid ""
+"<1.ra>A simple dish made by cooking chunks of\n"
+"fresh fish on a skewer."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_05_Name"
+msgid "<1.ra>Fish Skewer"
+msgstr ""
+
+msgctxt "Item_Cook_B_06_BaseName"
+msgid "Meat Skewer"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_06_Desc"
+msgid ""
+"<1.ra>A juicy, filling snack made by grilling small\n"
+"chunks of meat on a skewer."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_06_Name"
+msgid "<1.ra>Meat Skewer"
+msgstr ""
+
+msgctxt "Item_Cook_B_11_BaseName"
+msgid "Copious Fried Wild Greens"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_11_Desc"
+msgid ""
+"<1.ra>A healthy dish made by cooking mixed \n"
+"greens over a strong flame."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_11_Name"
+msgid "<1.ra>Copious Fried Wild Greens"
+msgstr ""
+
+msgctxt "Item_Cook_B_12_BaseName"
+msgid "Copious Simmered Fruit"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_12_Desc"
+msgid ""
+"<1.ra>The flavors of the various fruits in this\n"
+"simmered dish exist in perfect harmony."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_12_Name"
+msgid "<1.ra>Copious Simmered Fruit"
+msgstr ""
+
+msgctxt "Item_Cook_B_13_BaseName"
+msgid "Copious Mushroom Skewers"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_13_Desc"
+msgid ""
+"<1.ra>Fans of fungal cuisine can't resist this simple\n"
+"mushroom-skewer dish. Very filling."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_13_Name"
+msgid "<1.ra>Copious Mushroom Skewers"
+msgstr ""
+
+msgctxt "Item_Cook_B_15_BaseName"
+msgid "Copious Seafood Skewers"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_15_Desc"
+msgid ""
+"<1.ra>It's just a whole heap of stuff shoved on to a\n"
+"skewer, but it's still a pretty tasty dish."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_15_Name"
+msgid "<1.ra>Copious Seafood Skewers"
+msgstr ""
+
+msgctxt "Item_Cook_B_16_BaseName"
+msgid "Copious Meat Skewers"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_16_Desc"
+msgid ""
+"<1.ra>Just shove a bunch of meat on to a skewer\n"
+"and you're good to go."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_16_Name"
+msgid "<1.ra>Copious Meat Skewers"
+msgstr ""
+
+msgctxt "Item_Cook_B_17_BaseName"
+msgid "Meat and Seafood Fry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_17_Desc"
+msgid ""
+"<1.ra>A filling dish made by cooking fresh seafood\n"
+"and meat together."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_17_Name"
+msgid "<1.ra>Meat and Seafood Fry"
+msgstr ""
+
+msgctxt "Item_Cook_B_18_BaseName"
+msgid "Prime Meat and Seafood Fry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_18_Desc"
+msgid ""
+"<1.ra>This comfort dish is made with choice cuts\n"
+"of meat and seafood."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_18_Name"
+msgid "<1.ra>Prime Meat and Seafood Fry"
+msgstr ""
+
+msgctxt "Item_Cook_B_19_BaseName"
+msgid "Gourmet Meat and Seafood Fry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_19_Desc"
+msgid ""
+"<1.ra>A marriage of the choicest cuts of meat and\n"
+"seafood. As delicious as it is filling!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_19_Name"
+msgid "<1.ra>Gourmet Meat and Seafood Fry"
+msgstr ""
+
+msgctxt "Item_Cook_B_20_BaseName"
+msgid "Meat-Stuffed Pumpkin"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_20_Desc"
+msgid ""
+"<1.ra>This hollow, meat-filled fortified pumpkin is a\n"
+"local specialty of Kakariko Village."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_20_Name"
+msgid "<1.ra>Meat-Stuffed Pumpkin"
+msgstr ""
+
+msgctxt "Item_Cook_B_21_BaseName"
+msgid "Sautéed Peppers"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_21_Desc"
+msgid ""
+"<1.ra>The spiciness of these sautéed peppers has\n"
+"been broken by the heat for a sweeter taste."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_21_Name"
+msgid "<1.ra>Sautéed Peppers"
+msgstr ""
+
+msgctxt "Item_Cook_B_22_BaseName"
+msgid "Sautéed Nuts"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_22_Desc"
+msgid ""
+"<1.ra>These sautéed tree seeds are the perfect\n"
+"snack for the busy adventurer on the go!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_22_Name"
+msgid "<1.ra>Sautéed Nuts"
+msgstr ""
+
+msgctxt "Item_Cook_B_23_BaseName"
+msgid "Seafood Skewer"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_23_Desc"
+msgid ""
+"<1.ra>The natural water in this medley of seafaring\n"
+"creatures makes for a delicious broth."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_B_23_Name"
+msgid "<1.ra>Seafood Skewer"
+msgstr ""
+
+msgctxt "Item_Cook_C_16_BaseName"
+msgid "Fairy Tonic"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_C_16_Desc"
+msgid ""
+"<1.ra>This powerful recovery elixir harnesses the\n"
+"power of fairies. It has a sweet fragrance."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_C_16_Name"
+msgid "<1.ra>Fairy Tonic"
+msgstr ""
+
+#. 1: raw
+#. 2: variable (GiveItemNumber)
+msgctxt "Item_Cook_C_17_00_BaseName"
+msgid "<1.ra>Elixir x<2.va>"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_C_17_00_Desc"
+msgid "<1.ra>"
+msgstr ""
+
+#. 1: raw
+#. 2: variable (GiveItemNumber)
+msgctxt "Item_Cook_C_17_00_Name"
+msgid "<1.ra>Elixir x<2.va>"
+msgstr ""
+
+msgctxt "Item_Cook_C_17_BaseName"
+msgid "Elixir"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_C_17_Desc"
+msgid "<1.ra>"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_C_17_Name"
+msgid "<1.ra>Elixir"
+msgstr ""
+
+msgctxt "Item_Cook_D_01_BaseName"
+msgid "Salt-Grilled Mushrooms"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_01_Desc"
+msgid ""
+"<1.ra>A basic mushroom dish made by lightly\n"
+"salting mushrooms and grilling them."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_01_Name"
+msgid "<1.ra>Salt-Grilled Mushrooms"
+msgstr ""
+
+msgctxt "Item_Cook_D_02_BaseName"
+msgid "Salt-Grilled Greens"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_02_Desc"
+msgid ""
+"<1.ra>A health-boosting dish made with leafy\n"
+"greens and a touch of salt."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_02_Name"
+msgid "<1.ra>Salt-Grilled Greens"
+msgstr ""
+
+msgctxt "Item_Cook_D_03_BaseName"
+msgid "Salt-Grilled Fish"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_03_Desc"
+msgid ""
+"<1.ra>A simple dish made by rolling a whole fish in\n"
+"natural rock salt before grilling it."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_03_Name"
+msgid "<1.ra>Salt-Grilled Fish"
+msgstr ""
+
+msgctxt "Item_Cook_D_04_BaseName"
+msgid "Salt-Grilled Meat"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_04_Desc"
+msgid ""
+"<1.ra>Short on ingredients? Just rub some meat in\n"
+"salt and cook it for a simple, tasty dish."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_04_Name"
+msgid "<1.ra>Salt-Grilled Meat"
+msgstr ""
+
+msgctxt "Item_Cook_D_05_BaseName"
+msgid "Salt-Grilled Prime Meat"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_05_Desc"
+msgid ""
+"<1.ra>A simple yet exquisite dish made by grilling\n"
+"high-quality meat on top of rock salt."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_05_Name"
+msgid "<1.ra>Salt-Grilled Prime Meat"
+msgstr ""
+
+msgctxt "Item_Cook_D_06_BaseName"
+msgid "Salt-Grilled Gourmet Meat"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_06_Desc"
+msgid ""
+"<1.ra>This lavish grilled dish makes liberal use of\n"
+"high-quality cuts of meat."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_06_Name"
+msgid "<1.ra>Salt-Grilled Gourmet Meat"
+msgstr ""
+
+msgctxt "Item_Cook_D_07_BaseName"
+msgid "Pepper Steak"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_07_Desc"
+msgid ""
+"<1.ra>The meat has been cooked in crushed\n"
+"peppers to accent its natural taste."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_07_Name"
+msgid "<1.ra>Pepper Steak"
+msgstr ""
+
+msgctxt "Item_Cook_D_08_BaseName"
+msgid "Pepper Seafood"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_08_Desc"
+msgid ""
+"<1.ra>The pepper seeds grilled with this seafood\n"
+"draw out its taste and pleasant aroma."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_08_Name"
+msgid "<1.ra>Pepper Seafood"
+msgstr ""
+
+msgctxt "Item_Cook_D_09_BaseName"
+msgid "Salt-Grilled Crab"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_09_Desc"
+msgid ""
+"<1.ra>Nine out of ten fishermen agree: crab is best\n"
+"enjoyed grilled and with just a bit of salt."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_09_Name"
+msgid "<1.ra>Salt-Grilled Crab"
+msgstr ""
+
+msgctxt "Item_Cook_D_10_BaseName"
+msgid "Crab Stir-Fry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_10_Desc"
+msgid ""
+"<1.ra>The Goron spice used in preparing this crab\n"
+"pairs perfectly with the flavor of its meat."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_D_10_Name"
+msgid "<1.ra>Crab Stir-Fry"
+msgstr ""
+
+msgctxt "Item_Cook_E_01_BaseName"
+msgid "Poultry Pilaf"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_E_01_Desc"
+msgid ""
+"<1.ra>Sautéed Hylian rice steamed in poultry\n"
+"broth. Cook on low heat until the rice is fluffy."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_E_01_Name"
+msgid "<1.ra>Poultry Pilaf"
+msgstr ""
+
+msgctxt "Item_Cook_E_02_BaseName"
+msgid "Prime Poultry Pilaf"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_E_02_Desc"
+msgid ""
+"<1.ra>The rice permeates the savory taste of the\n"
+"poultry in this Gerudo-region favorite."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_E_02_Name"
+msgid "<1.ra>Prime Poultry Pilaf"
+msgstr ""
+
+msgctxt "Item_Cook_E_03_BaseName"
+msgid "Gourmet Poultry Pilaf"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_E_03_Desc"
+msgid ""
+"<1.ra>Made with the highest-quality poultry, every\n"
+"bite of this pilaf floods your mouth with flavor."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_E_03_Name"
+msgid "<1.ra>Gourmet Poultry Pilaf"
+msgstr ""
+
+msgctxt "Item_Cook_E_04_BaseName"
+msgid "Fried Egg and Rice"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_E_04_Desc"
+msgid ""
+"<1.ra>The soft egg yolk pairs well with the fresh\n"
+"rice in this simple dish."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_E_04_Name"
+msgid "<1.ra>Fried Egg and Rice"
+msgstr ""
+
+msgctxt "Item_Cook_F_01_BaseName"
+msgid "Creamy Meat Soup"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_F_01_Desc"
+msgid ""
+"<1.ra>This nutritious soup contains serious portions\n"
+"of lightly-braised meat and many vegetables."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_F_01_Name"
+msgid "<1.ra>Creamy Meat Soup"
+msgstr ""
+
+msgctxt "Item_Cook_F_02_BaseName"
+msgid "Creamy Seafood Soup"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_F_02_Desc"
+msgid ""
+"<1.ra>Thick-cut chunks of seafood and stock\n"
+"provides a satisfying savoriness."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_F_02_Name"
+msgid "<1.ra>Creamy Seafood Soup"
+msgstr ""
+
+msgctxt "Item_Cook_F_03_BaseName"
+msgid "Veggie Cream Soup"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_F_03_Desc"
+msgid ""
+"<1.ra>This creamy soup showcases the sweetness\n"
+"of vegetables in a veritable taste explosion."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_F_03_Name"
+msgid "<1.ra>Veggie Cream Soup"
+msgstr ""
+
+msgctxt "Item_Cook_F_04_BaseName"
+msgid "Creamy Heart Soup"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_F_04_Desc"
+msgid ""
+"<1.ra>Enjoying this sweet soup with another person\n"
+"will bring you both closer together."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_F_04_Name"
+msgid "<1.ra>Creamy Heart Soup"
+msgstr ""
+
+msgctxt "Item_Cook_G_02_BaseName"
+msgid "Seafood Rice Balls"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_02_Desc"
+msgid ""
+"<1.ra>Stuffed with aromatic seafood, the flavor can\n"
+"vary by ingredients but never disappoints."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_02_Name"
+msgid "<1.ra>Seafood Rice Balls"
+msgstr ""
+
+msgctxt "Item_Cook_G_03_BaseName"
+msgid "Veggie Rice Balls"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_03_Desc"
+msgid ""
+"<1.ra>This home-style dish of Kakariko Village is\n"
+"stuffed with the bounty of the mountains."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_03_Name"
+msgid "<1.ra>Veggie Rice Balls"
+msgstr ""
+
+msgctxt "Item_Cook_G_04_BaseName"
+msgid "Mushroom Rice Balls"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_04_Desc"
+msgid ""
+"<1.ra>The aroma of the mushrooms tickles your\n"
+"nose as you peel back the leafy wrapping."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_04_Name"
+msgid "<1.ra>Mushroom Rice Balls"
+msgstr ""
+
+msgctxt "Item_Cook_G_05_BaseName"
+msgid "Meat and Rice Bowl"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_05_Desc"
+msgid ""
+"<1.ra>This dish of rice and lightly seared meat is a\n"
+"mainstay all throughout Hyrule."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_05_Name"
+msgid "<1.ra>Meat and Rice Bowl"
+msgstr ""
+
+msgctxt "Item_Cook_G_06_BaseName"
+msgid "Prime Meat and Rice Bowl"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_06_Desc"
+msgid ""
+"<1.ra>This bowl is loaded with high-quality meat.\n"
+"Your hunt for a serious meal ends here."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_06_Name"
+msgid "<1.ra>Prime Meat and Rice Bowl"
+msgstr ""
+
+msgctxt "Item_Cook_G_09_BaseName"
+msgid "Gourmet Meat and Rice Bowl"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_09_Desc"
+msgid ""
+"<1.ra>Only the most carefully selected cuts of high-\n"
+"quality meats go into this dish."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_09_Name"
+msgid "<1.ra>Gourmet Meat and Rice Bowl"
+msgstr ""
+
+msgctxt "Item_Cook_G_10_BaseName"
+msgid "Seafood Fried Rice"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_10_Desc"
+msgid ""
+"<1.ra>Various seafood has been sautéed with rice.\n"
+"The stronger the flame, the tastier the dish!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_10_Name"
+msgid "<1.ra>Seafood Fried Rice"
+msgstr ""
+
+msgctxt "Item_Cook_G_11_BaseName"
+msgid "Curry Pilaf"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_11_Desc"
+msgid ""
+"<1.ra>The Goron spice used in this pilaf has given\n"
+"it a rich, spicy aroma."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_11_Name"
+msgid "<1.ra>Curry Pilaf"
+msgstr ""
+
+msgctxt "Item_Cook_G_12_BaseName"
+msgid "Mushroom Risotto"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_12_Desc"
+msgid ""
+"<1.ra>The tantalizing aroma of mushrooms and\n"
+"butter beckons you to the table."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_12_Name"
+msgid "<1.ra>Mushroom Risotto"
+msgstr ""
+
+msgctxt "Item_Cook_G_13_BaseName"
+msgid "Vegetable Risotto"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_13_Desc"
+msgid ""
+"<1.ra>The sweetness of the ingredients\n"
+"gives this risotto a mild flavor."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_13_Name"
+msgid "<1.ra>Vegetable Risotto"
+msgstr ""
+
+msgctxt "Item_Cook_G_14_BaseName"
+msgid "Salmon Risotto"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_14_Desc"
+msgid ""
+"<1.ra>The rice used in this rich risotto permeates\n"
+"the light flavor of the salmon."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_14_Name"
+msgid "<1.ra>Salmon Risotto"
+msgstr ""
+
+msgctxt "Item_Cook_G_15_BaseName"
+msgid "Meaty Rice Balls"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_15_Desc"
+msgid ""
+"<1.ra>The sweet and spicy meat stuffed into these\n"
+"rice balls will keep you full for some time."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_15_Name"
+msgid "<1.ra>Meaty Rice Balls"
+msgstr ""
+
+msgctxt "Item_Cook_G_16_BaseName"
+msgid "Crab Omelet with Rice"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_16_Desc"
+msgid ""
+"<1.ra>The fluffy crab legs pair perfectly with the\n"
+"rice for a truly scrumptious dish."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_16_Name"
+msgid "<1.ra>Crab Omelet with Rice"
+msgstr ""
+
+msgctxt "Item_Cook_G_17_BaseName"
+msgid "Crab Risotto"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_17_Desc"
+msgid ""
+"<1.ra>An everyday staple of seaside villages, the\n"
+"secret to its delicious flavor lies in crab fat."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_G_17_Name"
+msgid "<1.ra>Crab Risotto"
+msgstr ""
+
+msgctxt "Item_Cook_H_01_BaseName"
+msgid "Seafood Meunière"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_H_01_Desc"
+msgid ""
+"<1.ra>Rich butter flanks fresh seafood. The secret\n"
+"ingredient is lots and lots of love."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_H_01_Name"
+msgid "<1.ra>Seafood Meunière"
+msgstr ""
+
+msgctxt "Item_Cook_H_02_BaseName"
+msgid "Porgy Meunière"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_H_02_Desc"
+msgid ""
+"<1.ra>Popular among residents of coastal regions,\n"
+"this juicy porgy is a delish dish."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_H_02_Name"
+msgid "<1.ra>Porgy Meunière"
+msgstr ""
+
+msgctxt "Item_Cook_H_03_BaseName"
+msgid "Salmon Meunière"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_H_03_Desc"
+msgid ""
+"<1.ra>The crispy skin of this fried hearty salmon\n"
+"puts its texture in a class all its own."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_H_03_Name"
+msgid "<1.ra>Salmon Meunière"
+msgstr ""
+
+msgctxt "Item_Cook_I_01_BaseName"
+msgid "Fruit Pie"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_01_Desc"
+msgid ""
+"<1.ra>A celebration isn't a celebration until this\n"
+"fruit-filled crust hits the table!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_01_Name"
+msgid "<1.ra>Fruit Pie"
+msgstr ""
+
+msgctxt "Item_Cook_I_02_BaseName"
+msgid "Apple Pie"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_02_Desc"
+msgid ""
+"<1.ra>The crispy, flaky pie crust and sweet apples\n"
+"are a match made in heaven."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_02_Name"
+msgid "<1.ra>Apple Pie"
+msgstr ""
+
+msgctxt "Item_Cook_I_03_BaseName"
+msgid "Egg Tart"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_03_Desc"
+msgid ""
+"<1.ra>You'll know this simple dessert is done\n"
+"baking when it smells just delightful."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_03_Name"
+msgid "<1.ra>Egg Tart"
+msgstr ""
+
+msgctxt "Item_Cook_I_04_BaseName"
+msgid "Meat Pie"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_04_Desc"
+msgid ""
+"<1.ra>You'll need an extra napkin to deal with this\n"
+"juicy pie of perfectly baked minced meat."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_04_Name"
+msgid "<1.ra>Meat Pie"
+msgstr ""
+
+msgctxt "Item_Cook_I_05_BaseName"
+msgid "Carrot Cake"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_05_Desc"
+msgid ""
+"<1.ra>Even those who don't like carrots tend to\n"
+"enjoy the mild sweetness of this cake."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_05_Name"
+msgid "<1.ra>Carrot Cake"
+msgstr ""
+
+msgctxt "Item_Cook_I_06_BaseName"
+msgid "Pumpkin Pie"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_06_Desc"
+msgid ""
+"<1.ra>The intense sweetness of fortified pumpkins\n"
+"makes this dessert popular among children."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_06_Name"
+msgid "<1.ra>Pumpkin Pie"
+msgstr ""
+
+msgctxt "Item_Cook_I_07_BaseName"
+msgid "Hot Buttered Apple"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_07_Desc"
+msgid ""
+"<1.ra>The apple's sweetness has been enhanced\n"
+"by smothering it with butter and baking it."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_07_Name"
+msgid "<1.ra>Hot Buttered Apple"
+msgstr ""
+
+msgctxt "Item_Cook_I_08_BaseName"
+msgid "Honeyed Apple"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_08_Desc"
+msgid ""
+"<1.ra>A juicy sweet-and-sour dish combining\n"
+"newly ripened apples with honey. "
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_08_Name"
+msgid "<1.ra>Honeyed Apple"
+msgstr ""
+
+msgctxt "Item_Cook_I_09_BaseName"
+msgid "Honeyed Fruits"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_09_Desc"
+msgid ""
+"<1.ra>A dish that combines the thick sweetness of\n"
+"honey with the acidity of sour fruits."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_09_Name"
+msgid "<1.ra>Honeyed Fruits"
+msgstr ""
+
+msgctxt "Item_Cook_I_10_BaseName"
+msgid "Plain Crepe"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_10_Desc"
+msgid ""
+"<1.ra>The simplicity of this dish lets the flavor of its\n"
+"ingredients shine."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_10_Name"
+msgid "<1.ra>Plain Crepe"
+msgstr ""
+
+msgctxt "Item_Cook_I_11_BaseName"
+msgid "Wildberry Crepe"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_11_Desc"
+msgid ""
+"<1.ra>Sweet, tart wildberries are folded into thin,\n"
+"springy dough to make this dessert."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_11_Name"
+msgid "<1.ra>Wildberry Crepe"
+msgstr ""
+
+msgctxt "Item_Cook_I_12_BaseName"
+msgid "Nutcake"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_12_Desc"
+msgid ""
+"<1.ra>Forest nuts give this cake a pleasant texture\n"
+"and a simple, understated sweetness."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_12_Name"
+msgid "<1.ra>Nutcake"
+msgstr ""
+
+msgctxt "Item_Cook_I_13_BaseName"
+msgid "Fried Bananas"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_13_Desc"
+msgid ""
+"<1.ra>Children love fried mighty bananas. The trick\n"
+"is frying them over very high heat."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_13_Name"
+msgid "<1.ra>Fried Bananas"
+msgstr ""
+
+msgctxt "Item_Cook_I_14_BaseName"
+msgid "Egg Pudding"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_14_Desc"
+msgid ""
+"<1.ra>Made by cooking eggs and milk in a special\n"
+"mold, its soft texture melts in your mouth."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_14_Name"
+msgid "<1.ra>Egg Pudding"
+msgstr ""
+
+msgctxt "Item_Cook_I_15_BaseName"
+msgid "Fish Pie"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_15_Desc"
+msgid ""
+"<1.ra>A mainstay in any fisherman's home, the\n"
+"crisp crust pairs well with the fishy flavor."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_15_Name"
+msgid "<1.ra>Fish Pie"
+msgstr ""
+
+msgctxt "Item_Cook_I_16_BaseName"
+msgid "Honey Candy"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_16_Desc"
+msgid ""
+"<1.ra>A natural sweet, brimming with nutrition and\n"
+"made by stewing fresh honey."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_16_Name"
+msgid "<1.ra>Honey Candy"
+msgstr ""
+
+msgctxt "Item_Cook_I_17_BaseName"
+msgid "Honey Crepe"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_17_Desc"
+msgid ""
+"<1.ra>Honey has been drizzled over thin crepes to\n"
+"bring out their natural sweetness and flavor."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_I_17_Name"
+msgid "<1.ra>Honey Crepe"
+msgstr ""
+
+msgctxt "Item_Cook_J_01_BaseName"
+msgid "Curry Rice"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_01_Desc"
+msgid ""
+"<1.ra>A favorite all over Hyrule, this simple dish has\n"
+"a flavor you just won't get tired of."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_01_Name"
+msgid "<1.ra>Curry Rice"
+msgstr ""
+
+msgctxt "Item_Cook_J_02_BaseName"
+msgid "Vegetable Curry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_02_Desc"
+msgid ""
+"<1.ra>This healthy curry is popular for its mild flavor\n"
+"and moderate spiciness."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_02_Name"
+msgid "<1.ra>Vegetable Curry"
+msgstr ""
+
+msgctxt "Item_Cook_J_03_BaseName"
+msgid "Seafood Curry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_03_Desc"
+msgid ""
+"<1.ra>This dish brims with treasures from the sea.\n"
+"Its spice packs a kick, so it's not for kids."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_03_Name"
+msgid "<1.ra>Seafood Curry"
+msgstr ""
+
+msgctxt "Item_Cook_J_04_BaseName"
+msgid "Poultry Curry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_04_Desc"
+msgid ""
+"<1.ra>The savory meat pairs well with the aroma\n"
+"of spice in this common curry."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_04_Name"
+msgid "<1.ra>Poultry Curry"
+msgstr ""
+
+msgctxt "Item_Cook_J_05_BaseName"
+msgid "Prime Poultry Curry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_05_Desc"
+msgid ""
+"<1.ra>The secret to this curry's flavor is taking it off\n"
+"the heat while you add the spices."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_05_Name"
+msgid "<1.ra>Prime Poultry Curry"
+msgstr ""
+
+msgctxt "Item_Cook_J_06_BaseName"
+msgid "Meat Curry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_06_Desc"
+msgid ""
+"<1.ra>The heat from the spice allows you to enjoy\n"
+"the large portion of the meat's savoriness."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_06_Name"
+msgid "<1.ra>Meat Curry"
+msgstr ""
+
+msgctxt "Item_Cook_J_07_BaseName"
+msgid "Prime Meat Curry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_07_Desc"
+msgid ""
+"<1.ra>The high-quality meat in this curry has given\n"
+"it a deeper taste than most other curries."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_07_Name"
+msgid "<1.ra>Prime Meat Curry"
+msgstr ""
+
+msgctxt "Item_Cook_J_08_BaseName"
+msgid "Gourmet Poultry Curry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_08_Desc"
+msgid ""
+"<1.ra>Once served in Hyrule Castle, the poultry\n"
+"used in this dish is of immensely high quality."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_08_Name"
+msgid "<1.ra>Gourmet Poultry Curry"
+msgstr ""
+
+msgctxt "Item_Cook_J_09_BaseName"
+msgid "Gourmet Meat Curry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_09_Desc"
+msgid ""
+"<1.ra>The high-quality meat used in this prized\n"
+"dish satisfies meat and curry lovers alike."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_J_09_Name"
+msgid "<1.ra>Gourmet Meat Curry"
+msgstr ""
+
+msgctxt "Item_Cook_K_01_BaseName"
+msgid "Meat Stew"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_01_Desc"
+msgid ""
+"<1.ra>The hearty meat in this mainstay dish leaves\n"
+"bellies satisfied all throughout Hyrule."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_01_Name"
+msgid "<1.ra>Meat Stew"
+msgstr ""
+
+msgctxt "Item_Cook_K_02_BaseName"
+msgid "Prime Meat Stew"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_02_Desc"
+msgid ""
+"<1.ra>Letting the large portions of choice cuts of\n"
+"meat simmer brought out their savoriness."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_02_Name"
+msgid "<1.ra>Prime Meat Stew"
+msgstr ""
+
+msgctxt "Item_Cook_K_03_BaseName"
+msgid "Pumpkin Stew"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_03_Desc"
+msgid ""
+"<1.ra>Simply simmer a fortified pumpkin to make\n"
+"this dish. A favorite in Kakariko Village."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_03_Name"
+msgid "<1.ra>Pumpkin Stew"
+msgstr ""
+
+msgctxt "Item_Cook_K_04_BaseName"
+msgid "Clam Chowder"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_04_Desc"
+msgid ""
+"<1.ra>The nutritional value of hearty blueshell snail\n"
+"combines with butter and milk in a rich soup."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_04_Name"
+msgid "<1.ra>Clam Chowder"
+msgstr ""
+
+msgctxt "Item_Cook_K_05_BaseName"
+msgid "Gourmet Meat Stew"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_05_Desc"
+msgid ""
+"<1.ra>The meat has simmered for so long it melts in\n"
+"your mouth. A true bucket-list meal!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_05_Name"
+msgid "<1.ra>Gourmet Meat Stew"
+msgstr ""
+
+msgctxt "Item_Cook_K_06_BaseName"
+msgid "Cream of Mushroom Soup"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_06_Desc"
+msgid ""
+"<1.ra>This creamy mushroom and vegetable soup\n"
+"is so chunky it eats like a meal!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_06_Name"
+msgid "<1.ra>Cream of Mushroom Soup"
+msgstr ""
+
+msgctxt "Item_Cook_K_07_BaseName"
+msgid "Cream of Vegetable Soup"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_07_Desc"
+msgid ""
+"<1.ra>Made by simmering vegetables in milk, this\n"
+"healthy dish is as simple as its ingredients."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_07_Name"
+msgid "<1.ra>Cream of Vegetable Soup"
+msgstr ""
+
+msgctxt "Item_Cook_K_08_BaseName"
+msgid "Carrot Stew"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_08_Desc"
+msgid ""
+"<1.ra>This simple stew sat simmering for a long time\n"
+"to bring out the sweetness of the carrots."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_08_Name"
+msgid "<1.ra>Carrot Stew"
+msgstr ""
+
+msgctxt "Item_Cook_K_09_BaseName"
+msgid "Warm Milk"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_09_Desc"
+msgid ""
+"<1.ra>Make this by heating up some milk. Drink it\n"
+"before bed to ensure a good night's sleep."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_K_09_Name"
+msgid "<1.ra>Milk"
+msgstr ""
+
+msgctxt "Item_Cook_L_01_BaseName"
+msgid "Monster Stew"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_01_Desc"
+msgid ""
+"<1.ra>Meat and seafood simmered in monster\n"
+"extract. A savory dish despite its ingredients."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_01_Name"
+msgid "<1.ra>Monster Stew"
+msgstr ""
+
+msgctxt "Item_Cook_L_02_BaseName"
+msgid "Monster Soup"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_02_Desc"
+msgid ""
+"<1.ra>Using monster extract as a base, this soup's\n"
+"distinct gaminess is either loved or hated."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_02_Name"
+msgid "<1.ra>Monster Soup"
+msgstr ""
+
+msgctxt "Item_Cook_L_03_BaseName"
+msgid "Monster Cake"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_03_Desc"
+msgid ""
+"<1.ra>It's said that once you have a taste of this\n"
+"cake, you'll never forget its sweetness."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_03_Name"
+msgid "<1.ra>Monster Cake"
+msgstr ""
+
+msgctxt "Item_Cook_L_04_BaseName"
+msgid "Monster Rice Balls"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_04_Desc"
+msgid ""
+"<1.ra>Rice balls flavored with monster extract.\n"
+"Their unique aroma is not for everyone."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_04_Name"
+msgid "<1.ra>Monster Rice Balls"
+msgstr ""
+
+msgctxt "Item_Cook_L_05_BaseName"
+msgid "Monster Curry"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_05_Desc"
+msgid ""
+"<1.ra>This unusual take on curry uses monster\n"
+"extract and doesn't rely only on spices."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_L_05_Name"
+msgid "<1.ra>Monster Curry"
+msgstr ""
+
+msgctxt "Item_Cook_M_01_BaseName"
+msgid "Wheat Bread"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_M_01_Desc"
+msgid ""
+"<1.ra>Made with wheat from the Tabantha region,\n"
+"this soft, springy bread smells just heavenly."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_M_01_Name"
+msgid "<1.ra>Wheat Bread"
+msgstr ""
+
+msgctxt "Item_Cook_N_01_BaseName"
+msgid "Seafood Paella"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_N_01_Desc"
+msgid ""
+"<1.ra>No fisherman's birthday bash would be\n"
+"complete without this top-shelf seafood dish."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_N_01_Name"
+msgid "<1.ra>Seafood Paella"
+msgstr ""
+
+msgctxt "Item_Cook_N_02_BaseName"
+msgid "Fruitcake"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_N_02_Desc"
+msgid ""
+"<1.ra>Making ample use of fruits found all over\n"
+"Hyrule, this cake is a must for celebrations."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_N_02_Name"
+msgid "<1.ra>Fruitcake"
+msgstr ""
+
+msgctxt "Item_Cook_N_03_BaseName"
+msgid "Vegetable Omelet"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_N_03_Desc"
+msgid ""
+"<1.ra>This home-style dish mixes fluffy eggs with\n"
+"chopped vegetables for nutritional balance."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_N_03_Name"
+msgid "<1.ra>Vegetable Omelet"
+msgstr ""
+
+msgctxt "Item_Cook_N_04_BaseName"
+msgid "Mushroom Omelet"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_N_04_Desc"
+msgid ""
+"<1.ra>The fluffy texture of this omelet is one of the\n"
+"great joys of this dish, as well as life."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_N_04_Name"
+msgid "<1.ra>Mushroom Omelet"
+msgstr ""
+
+msgctxt "Item_Cook_O_01_BaseName"
+msgid "Dubious Food"
+msgstr ""
+
+msgctxt "Item_Cook_O_01_Desc"
+msgid ""
+"It's too gross to even look at. A bizarre smell\n"
+"issues forth from this heap. Eating it won't\n"
+"hurt you, though...probably."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_O_01_Name"
+msgid "<1.ra>Dubious Food"
+msgstr ""
+
+msgctxt "Item_Cook_O_02_BaseName"
+msgid "Rock-Hard Food"
+msgstr ""
+
+msgctxt "Item_Cook_O_02_Desc"
+msgid ""
+"A dish gone awry after adding the wrong\n"
+"ingredient. Chewing your way through this\n"
+"won't be fun, but it will fill you up when\n"
+"you're between a rock and a hard place."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_O_02_Name"
+msgid "<1.ra>Rock-Hard Food"
+msgstr ""
+
+msgctxt "Item_Cook_P_01_BaseName"
+msgid "Fragrant Mushroom Sauté"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_01_Desc"
+msgid ""
+"<1.ra>The fragrant aroma of this sautéed spice and\n"
+"mushroom dish makes your mouth water."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_01_Name"
+msgid "<1.ra>Fragrant Mushroom Sauté"
+msgstr ""
+
+msgctxt "Item_Cook_P_02_BaseName"
+msgid "Herb Sauté"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_02_Desc"
+msgid ""
+"<1.ra>A fragrant mixture of herbs and spices.\n"
+"It's easily recognized by its unique aroma."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_02_Name"
+msgid "<1.ra>Herb Sauté"
+msgstr ""
+
+msgctxt "Item_Cook_P_03_BaseName"
+msgid "Spiced Meat Skewer"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_03_Desc"
+msgid ""
+"<1.ra>A special Goron spice covers up the scent\n"
+"of the meat, allowing its flavor to shine."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_03_Name"
+msgid "<1.ra>Spiced Meat Skewer"
+msgstr ""
+
+msgctxt "Item_Cook_P_04_BaseName"
+msgid "Prime Spiced Meat Skewer"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_04_Desc"
+msgid ""
+"<1.ra>The simple preparation of this steak dish\n"
+"belies its complex taste profile."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_04_Name"
+msgid "<1.ra>Prime Spiced Meat Skewer"
+msgstr ""
+
+msgctxt "Item_Cook_P_05_BaseName"
+msgid "Gourmet Spiced Meat Skewer"
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_05_Desc"
+msgid ""
+"<1.ra>The rich aroma and juicy texture of this high-\n"
+"quality meat puts it in a league of its own."
+msgstr ""
+
+#. 1: raw
+msgctxt "Item_Cook_P_05_Name"
+msgid "<1.ra>Gourmet Spiced Meat Skewer"
+msgstr ""
+

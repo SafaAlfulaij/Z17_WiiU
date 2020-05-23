@@ -1,0 +1,209 @@
+msgctxt "0000"
+msgid "Divine Beast?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Gerudo Town?"
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Talk_000"
+msgid ""
+"<1.so>That <2.se_co>Divine Beast<3.re_co>... It feels like it gets a\n"
+"little bit closer every day.\n"
+"\n"
+"<4.so>I wonder how long it will be before I can\n"
+"get back to <5.se_co>Gerudo Town<6.re_co>...<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_001"
+msgid ""
+"<1.so>If only that <2.se_co>Divine Beast<3.re_co> wasn't around.\n"
+"I would already be back at \n"
+"<4.se_co>Gerudo Town<5.re_co>...<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_006"
+msgid ""
+"<1.so>Thanks to that <2.se_co>Divine Beast<3.re_co>, I'd been\n"
+"unable to get home for so long that\n"
+"I'd forgotten my actual address!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_007"
+msgid "<1.so>Hey! This isn't a joke!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk_008"
+msgid "<1.so>Sav'otta..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk_009"
+msgid "<1.so>Sav'aaq..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk_010"
+msgid "<1.so>Sav'saaba..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk_011"
+msgid "<1.so>Sav'otta."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk_012"
+msgid "<1.so>Sav'aaq."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Talk_013"
+msgid "<1.so>Sav'saaba."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Talk_101"
+msgid ""
+"<1.so>When I say <2.se_co>Divine Beast<3.re_co>, I'm talking\n"
+"about that giant thing roaming around\n"
+"the desert...\n"
+"It's been kicking up bad sandstorms, and\n"
+"apparently it'll blast you with lightning if\n"
+"you get too close!\n"
+"<4.so>The thought of getting zapped is\n"
+"terrifying. I can't risk traveling to\n"
+"<5.se_co>Gerudo Town<6.re_co>...<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+#. 4: sound
+msgctxt "Talk_102"
+msgid ""
+"<1.so>There's a town to the southwest, made\n"
+"up almost entirely of Gerudo.\n"
+"\n"
+"It's the largest settlement in these parts.\n"
+"It's got a lively market, and a canteen...\n"
+"The town's active from morning to night!\n"
+"<2.so>But... <3.pa><4.so>Well, they have a rule that'll affect\n"
+"you—guys aren't allowed in.\n"
+"\"No voe may enter!\" they say..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Talk_103"
+msgid ""
+"<1.so>Didn't you buy that outfit at \n"
+"<2.se_co>Gerudo Town<3.re_co>?\n"
+"\n"
+"It's the largest settlement in these parts.\n"
+"It's got a lively market and a canteen...\n"
+"The town's active at all hours!\n"
+"But the <4.se_co>Divine Beast<5.re_co> has been stomping\n"
+"around and is generally being dangerous,\n"
+"so I can't go back right now..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_105"
+msgid ""
+"<1.so>I don't want to be stuck here, but I don't\n"
+"want to be zapped by an angry\n"
+"creature's lightning, either...\n"
+"If only someone, perhaps a hero just\n"
+"passing through town, could take care of\n"
+"the <2.se_co>Divine Beast<3.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_106"
+msgid ""
+"<1.so>Didn't you buy that outfit at \n"
+"<2.se_co>Gerudo Town<3.re_co>?\n"
+"\n"
+"It's the largest settlement in these parts.\n"
+"It's got a lively market and a canteen.\n"
+"The town's active from morning to night!\n"
+"But the <4.se_co>Divine Beast<5.re_co> has been stomping\n"
+"around and is generally being dangerous,\n"
+"so I can't go back right now...<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: choice
+msgctxt "Talk_107"
+msgid ""
+"<1.so>There's a town to the southwest, made\n"
+"up almost entirely of Gerudo.\n"
+"\n"
+"It's the largest settlement in these parts.\n"
+"It's got a lively market and a canteen...\n"
+"The town's active from morning to night!\n"
+"<2.so>But... <3.so>Well, they have a rule that'll affect\n"
+"you—guys aren't allowed in.\n"
+"\"No voe may enter!\" they say...<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Talk_108"
+msgid ""
+"<1.so>When I say <2.se_co>Divine Beast<3.re_co>, I'm talking\n"
+"about that giant thing roaming around\n"
+"the desert...\n"
+"It's been kicking up bad sandstorms, and\n"
+"apparently it'll blast you with lightning if\n"
+"you get too close!\n"
+"<4.so>The thought of getting zapped is\n"
+"terrifying. I can't risk traveling to\n"
+"<5.se_co>Gerudo Town<6.re_co>..."
+msgstr ""
+

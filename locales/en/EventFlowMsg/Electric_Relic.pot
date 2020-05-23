@@ -1,0 +1,1493 @@
+msgctxt "0030"
+msgid "About the thieves..."
+msgstr ""
+
+msgctxt "0031"
+msgid "Where's the hideout?"
+msgstr ""
+
+msgctxt "0032"
+msgid "That's all."
+msgstr ""
+
+msgctxt "0033"
+msgid "It looks good!"
+msgstr ""
+
+msgctxt "0034"
+msgid "It's a tad big..."
+msgstr ""
+
+msgctxt "0100"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "0101"
+msgid "Give me some time..."
+msgstr ""
+
+msgctxt "0102"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "0103"
+msgid "The plan, once more."
+msgstr ""
+
+msgctxt "0106"
+msgid "Um... I... Well..."
+msgstr ""
+
+msgctxt "0108"
+msgid "I can calm Naboris."
+msgstr ""
+
+msgctxt "0110"
+msgid "I'm ready!"
+msgstr ""
+
+msgctxt "0111"
+msgid "The strategy, again?"
+msgstr ""
+
+msgctxt "0112"
+msgid "Give me a bit..."
+msgstr ""
+
+msgctxt "0113"
+msgid "Retreat!"
+msgstr ""
+
+msgctxt "0114"
+msgid "Keep up the fight!"
+msgstr ""
+
+msgctxt "0122"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "0123"
+msgid "Er... Not right now..."
+msgstr ""
+
+msgctxt "Debug_Invasion_001"
+msgid "(Receives final hit and screams)"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: pause (long)
+msgctxt "Npc_GerudoDesert001_Defeat_001"
+msgid ""
+"<1.so>If you're looking for the <2.se_co>chief<3.re_co>, she's gone\n"
+"back to <4.se_co>Gerudo Town<5.re_co>. <6.pa>She looked\n"
+"absolutely exhausted.\n"
+"I would be too, though. That battle\n"
+"looked so intense. <7.pa>I hope she didn't\n"
+"overdo it..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_GerudoDesert001_Finish_001"
+msgid ""
+"<1.so>I couldn't see all the details of what\n"
+"happened out there, but I think you truly\n"
+"have quieted the Divine Beast..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Npc_GerudoDesert001_Invasion_001"
+msgid ""
+"<1.so>The <2.se_co>chief <3.re_co>is upstairs.<4.pa> She was pretty\n"
+"exhausted before, but it seems like\n"
+"she's back to normal now.\n"
+"I'm annoyed that while she risked so\n"
+"much, there was nothing I could do to\n"
+"help..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Npc_GerudoDesert001_Strategy_001"
+msgid ""
+"<1.so>I'm shocked... Despite what the chief\n"
+"said, I wasn't expecting someone as...\n"
+"short as you.\n"
+"But the <2.se_co>chief<3.re_co> must have her reasons for\n"
+"believing you can fight the <4.se_co>Divine Beast<5.re_co>.\n"
+"\n"
+"She's waiting for you at the <6.se_co>top of the\n"
+"lookout post<7.re_co>. Hurry up."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "Npc_GerudoDesert001_Strategy_002"
+msgid ""
+"<1.so>If you're looking for the <2.se_co>chief<3.re_co>, she's "
+"<4.se_co>up\n"
+"top<5.re_co>. Don't make her wait forever."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "Npc_oasis003_Defeat_001"
+msgid ""
+"<1.so>You know...<2.pa>this might be the first time\n"
+"I've felt like I've lived up to the\n"
+"expectations of being chief.\n"
+"<3.so>I leave the rest to you. You're the only\n"
+"one who can truly calm this beast.\n"
+"\n"
+"Just...<4.pa>promise me you'll come back safe."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Finish_001"
+msgid "<1.so>Oh, you're back?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: text_size
+#. 5: pause (longer)
+#. 6: text_size
+msgctxt "Npc_oasis003_Finish_003"
+msgid ""
+"<1.so>I'm glad you're OK...<2.pa>\n"
+"\n"
+"\n"
+"<3.so><4.te_si>Truly, I am...<5.pa><6.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_oasis003_Finish_004"
+msgid ""
+"<1.so><2.se_co>Naboris <3.re_co>is no longer a threat to the\n"
+"town...\n"
+"\n"
+"I'm still worried about the larger threat to\n"
+"Hyrule, but at least my people won't be\n"
+"troubled by <4.se_co>Naboris <5.re_co>anymore."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: sound
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Npc_oasis003_Finish_005"
+msgid ""
+"<1.so>These pieces of equipment are priceless\n"
+"treasures of the Gerudo people.\n"
+"They were once worn by <2.se_co>Lady Urbosa<3.re_co>.\n"
+"<4.se_co><5.so><6.re_co>Since you and <7.se_co>Lady Urbosa<8.re_co> were "
+"friends,\n"
+"it's only right that you have them."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Finish_009"
+msgid ""
+"<1.so>I want to offer you these as thanks for\n"
+"your help. I trust you'll accept them."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Npc_oasis003_GetBack_001"
+msgid ""
+"<1.so>I can't believe my <2.se_co>heirloom <3.re_co>was stolen!\n"
+"<4.pa>This is probably the most discouraging\n"
+"event this town has ever seen...\n"
+"I believe that Lady Urbosa and our other\n"
+"ancestors must be looking down on us\n"
+"with such shame right now.\n"
+"I wonder if my people can tell just how\n"
+"powerless their young ruler truly is..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Npc_oasis003_GetBack_002"
+msgid ""
+"<1.so>My lady, do not take this crisis so\n"
+"personally!\n"
+"\n"
+"This failure rests entirely on myself and\n"
+"on the soldiers tasked with protecting\n"
+"the heirloom.\n"
+"<2.so>If only I'd been more vigilant..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_GetBack_003"
+msgid ""
+"<1.so>You needn't beat yourself up in my\n"
+"stead, Buliara... "
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Npc_oasis003_GetBack_101"
+msgid ""
+"<1.so>I am, as you have no doubt noticed,\n"
+"still but a child.\n"
+"\n"
+"<2.so>The people look on me with nothing\n"
+"but warmth in their eyes, but even this\n"
+"brings me some pain, I must admit...\n"
+"I've tried so hard to be worthy of their\n"
+"love, to be a worthy chief...and to prove\n"
+"to myself that I was worthy, too.\n"
+"When my family heirloom was stolen,\n"
+"I felt as though a shadow had fallen\n"
+"over me..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Npc_oasis003_GetBack_102"
+msgid ""
+"<1.so>How...<2.pa>how is it?! \n"
+"Do I look all right?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_oasis003_GetBack_103"
+msgid "<1.so><2.te_si>Um. How do I look?<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Npc_oasis003_GetBack_104"
+msgid ""
+"<1.so>Heheh, who would have thought that,\n"
+"just before such a momentous battle...\n"
+"\n"
+"hearing a simple, confident pledge of\n"
+"support from you would be what puts\n"
+"me at ease?\n"
+"<2.so>I'll head out now. Let's meet up at the\n"
+"<3.se_co>lookout post<4.re_co> <5.se_co>south of town<6.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_GetBack_105"
+msgid "<1.so>I see..."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_oasis003_GetBack_106"
+msgid ""
+"<1.se_co><2.so><3.re_co>The threat <4.se_co>Divine Beast Vah "
+"Naboris<5.re_co>\n"
+"poses has only grown since we began\n"
+"searching for the heirloom."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_GetBack_107"
+msgid ""
+"<1.so>I'll be there waiting for you with my\n"
+"favorite sand seal, Patricia."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "Npc_oasis003_GetBack_108"
+msgid ""
+"<1.so>There's only one way to get close to\n"
+"<2.se_co>Naboris<3.re_co>, and that's with the help of\n"
+"a <4.se_co>sand seal<5.re_co>.\n"
+"The <6.se_co>lookout post<7.re_co> isn't too far from town,\n"
+"but you should take a <8.se_co>sand seal <9.re_co>there.\n"
+"You can get some practice in that way."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Npc_oasis003_GetBack_109"
+msgid ""
+"<1.so>I've been waiting for you...\n"
+"\n"
+"\n"
+"<2.so>Oh, you needn't say a word.\n"
+"\n"
+"\n"
+"As the chief of the Gerudo, I can sense\n"
+"the power of the heirloom flowing from\n"
+"you. I know that you've succeeded!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_oasis003_GetBack_111"
+msgid ""
+"<1.so>Hah... I suppose that even a Champion\n"
+"such as yourself must need some time to\n"
+"prepare for such a battle.\n"
+"I will go on ahead. Once you have\n"
+"steeled yourself, meet me at the \n"
+"<2.se_co>lookout post<3.re_co> <4.se_co>south of town<5.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_oasis003_GetBack_112"
+msgid ""
+"<1.so>I believe that Gerudo Town itself may\n"
+"be in danger before too long...\n"
+"\n"
+"As chief, and as a Gerudo, I must find\n"
+"some way to stop that thing before it\n"
+"threatens my people. Will you help me?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Npc_oasis003_GetBack_113"
+msgid "<1.so>Still...<2.pa> It really is a little big..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_GetBack_114"
+msgid "<1.so>..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_GetBack_115"
+msgid "<1.so>...You don't say."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Npc_oasis003_GetBack_117"
+msgid ""
+"<1.so>What's wrong? You're just staring...<2.pa>\n"
+"Anyway, what matters now is..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Npc_oasis003_GetBack_118"
+msgid ""
+"<1.so>Yes, your arrival in the midst of all of this\n"
+"must be the work of Lady Urbosa...\n"
+"\n"
+"<2.so>Now, please give me the helm."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Npc_oasis003_Invasion_001"
+msgid ""
+"<1.so>If we hadn't withdrawn, that could have\n"
+"been the end for me. <2.pa>Don't worry, I'm\n"
+"doing fine now.\n"
+"How are you holding up? Don't forget to\n"
+"make sure your <3.se_co>bow<4.re_co> isn't damaged and\n"
+"that you've got enough <5.se_co>bomb arrows<6.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Invasion_002"
+msgid ""
+"<1.so>We can't take on the Divine Beast unless\n"
+"we work together. I'll be right here until\n"
+"you're ready to go."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Invasion_003"
+msgid ""
+"<1.so>It is of the utmost importance that we\n"
+"make it back unharmed. I can explain the\n"
+"plan as many times as you like."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: pause (short)
+#. 10: sound
+#. 11: sound
+#. 12: sound
+#. 13: pause (long)
+#. 14: set_colour (red)
+#. 15: reset_colour
+#. 16: choice
+msgctxt "Npc_oasis003_Invasion_004"
+msgid ""
+"<1.so>First, we'll use the <2.se_co>sand seals <3.re_co>to get in\n"
+"really close to that thing. I'll take the\n"
+"lead.\n"
+"I'm counting on you to <4.se_co>shoot<5.re_co> at its feet\n"
+"with your <6.se_co>bomb arrows<7.re_co>.\n"
+"\n"
+"Naboris draws energy from the\n"
+"ground to keep moving.<8.pa> If you damage\n"
+"the feet, I think you can stop it.\n"
+"Those lightning strikes, though...<9.pa>\n"
+"Getting hit even once could prove fatal.\n"
+"\n"
+"<10.so>The Thunder Helm can repel the\n"
+"lightning strikes, protecting me\n"
+"from harm.\n"
+"<11.so>It can also shield a limited area around\n"
+"me, so you'll have to stay close if you\n"
+"don't want to be shocked.\n"
+"<12.so>And listen...<13.pa> If you're too injured to keep\n"
+"fighting, promise me <14.se_co>you'll retreat here,\n"
+"to the lookout post<15.re_co>.\n"
+"Don't do anything reckless under any\n"
+"circumstances.\n"
+"\n"
+"This is the last time I will ask...\n"
+"Are you ready?<16.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Invasion_005"
+msgid "<1.so>Let's move!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis003_Invasion_006"
+msgid ""
+"<1.so>Link! If you get any farther away, you'll\n"
+"lose sight of <2.se_co>Naboris<3.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_oasis003_Invasion_007"
+msgid "<1.so>Do you want to retreat for now?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Invasion_008"
+msgid ""
+"<1.so>OK, that sounds good! Let's regroup\n"
+"back at the lookout post!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Invasion_009"
+msgid ""
+"<1.so>Aim for the feet!\n"
+"You can do this!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_oasis003_Invasion_028"
+msgid ""
+"<1.so>We're going on the attack again!\n"
+"Are you ready?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "Npc_oasis003_Ready_001"
+msgid ""
+"<1.so>Hold on, Buliara...<2.pa> This one appears to\n"
+"be more than a common traveler.\n"
+"\n"
+"You there—<3.pa>what is your name?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: single_choice
+msgctxt "Npc_oasis003_Ready_002"
+msgid ""
+"<1.so>Link...<2.pa> And what is it you've come all\n"
+"the way here to tell me, Link?<3.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_oasis003_Ready_004"
+msgid ""
+"<1.so>What of the device on this one's hip?<2.pa>\n"
+"It appears to be a precious relic of the\n"
+"Sheikah.\n"
+"I can't imagine they would give\n"
+"something so valuable to a simple\n"
+"drifter—can you?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis003_Ready_005"
+msgid ""
+"<1.so>You saw it on your way to our town.\n"
+"\n"
+"\n"
+"<2.se_co>Divine Beast Vah Naboris<3.re_co>, cloaked in\n"
+"a massive sandstorm, hurling lightning at\n"
+"any who dare approach."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Npc_oasis003_Ready_006"
+msgid ""
+"<1.so>They do indeed...<2.pa> If I recall correctly, it\n"
+"was called the <3.se_co>sword that seals the\n"
+"darkness<4.re_co>. \n"
+"The Princess of Hyrule supposedly hid it\n"
+"away in <5.se_co>a forest somewhere<6.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Ready_008"
+msgid "<1.so>Ah, yes... An interesting suggestion."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Npc_oasis003_Ready_009"
+msgid ""
+"<1.so>They do indeed...<2.pa> If I recall correctly, it\n"
+"was called the <3.se_co>sword that seals the\n"
+"darkness<4.re_co>. \n"
+"The Princess of Hyrule supposedly hid it\n"
+"away in <5.se_co>the middle of a deep forest<6.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis003_Ready_010"
+msgid ""
+"<1.so>Without my heirloom, you'll never be\n"
+"able to approach <2.se_co>Naboris<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (long)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "Npc_oasis003_Ready_011"
+msgid ""
+"<1.so>A voe within our walls is a great crime.<2.pa>\n"
+"But a voe who is a <3.se_co>Champion<4.re_co>...\n"
+"\n"
+"Well, we'd never mistreat a friend of\n"
+"<5.se_co>Lady Urbosa<6.re_co>.<7.pa> And if you're here to help\n"
+"us with <8.se_co>Naboris<9.re_co>, then we are allies."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "Npc_oasis003_Ready_012"
+msgid ""
+"<1.so>Hmm...<2.pa> Buliara, a memory just\n"
+"jumped into my head—<3.pa>something my\n"
+"mother spoke of.\n"
+"When the Calamity happened, <4.pa>the\n"
+"princess of Hyrule placed a fallen\n"
+"swordsman into a deep sleep.\n"
+"That swordsman, much like our new\n"
+"friend here, was named Link...<5.pa>though it\n"
+"always seemed more legend than fact."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "Npc_oasis003_Ready_013"
+msgid ""
+"<1.so>You see, there is only one thing in all of\n"
+"Hyrule that can withstand the <2.se_co>lightning<3.re_co>\n"
+"from <4.se_co>Naboris<5.re_co>.\n"
+"The <6.se_co>Thunder Helm<7.re_co>, a family heirloom and\n"
+"relic of the Gerudo.<8.pa> But as Buliara says,\n"
+"it was stolen from us."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_oasis003_Ready_014"
+msgid "<1.so>Heh, you know...<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "Npc_oasis003_Ready_015"
+msgid ""
+"<1.so>They do indeed...<2.pa> If I recall correctly, it\n"
+"was called the <3.se_co>sword that seals the\n"
+"darkness<4.re_co>. \n"
+"The Princess of Hyrule supposedly hid it\n"
+"away in <5.se_co>the Lost Woods<6.re_co>."
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis003_Ready_016"
+msgid ""
+"I take heart in having such a rare visitor\n"
+"as yourself.<1.pa> <2.se_co>Lady Urbosa<3.re_co> must be\n"
+"looking out for us."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_oasis003_Ready_017"
+msgid ""
+"<1.so>What of the device on this one's hip?<2.pa>\n"
+"It appears to be a precious relic of the\n"
+"Sheikah.\n"
+"I can't imagine they would give\n"
+"something so valuable to a simple\n"
+"drifter—can you?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Npc_oasis003_Ready_018"
+msgid ""
+"<1.so>We have to do something to stop it, but\n"
+"we have yet to find any way to appease\n"
+"the <2.se_co>Divine Beast <3.re_co>on our own.\n"
+"<4.so>If you truly are a Champion, perhaps you\n"
+"will be able to enter <5.se_co>Naboris<6.re_co> and\n"
+"calm its anger."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Npc_oasis003_Strategy_001"
+msgid ""
+"<1.so>What a sight. <2.se_co>Divine Beast Vah Naboris<3.re_co>\n"
+"is pretty intimidating...\n"
+"\n"
+"If we want to get close enough to that\n"
+"thing, we'll need to use <4.se_co>sand seals<5.re_co>...\n"
+"Are you ready?<6.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Strategy_002"
+msgid ""
+"<1.so>I can't do this all on my own, so I'll wait\n"
+"until you're sure you're ready."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Strategy_003"
+msgid ""
+"<1.so>Feeling confident? Good. Let's get\n"
+"going, then!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: pause (short)
+msgctxt "Npc_oasis003_Strategy_004"
+msgid ""
+"<1.so>First, we'll use the <2.se_co>sand seals <3.re_co>to get in\n"
+"really close to that thing. I'll take the\n"
+"lead.\n"
+"I'm counting on you to <4.se_co>shoot<5.re_co> at its feet\n"
+"with <6.se_co>bomb arrows<7.re_co>.\n"
+"\n"
+"Naboris draws energy from the\n"
+"ground to keep moving.<8.pa> If you damage\n"
+"the feet, I think you can stop it.\n"
+"Those lightning strikes, though...<9.pa>\n"
+"Getting hit even once could prove fatal."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound2
+#. 5: sound
+#. 6: sound
+#. 7: pause (long)
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "Npc_oasis003_Strategy_006"
+msgid ""
+"<1.so>The <2.se_co>Thunder Helm<3.re_co> can repel the\n"
+"lightning strikes, protecting me\n"
+"from harm.\n"
+"<4.so>But it can also shield a limited area\n"
+"around me...\n"
+"\n"
+"<5.so>You'll have to stay close if you don't\n"
+"want to be shocked.\n"
+"\n"
+"<6.so>And listen...<7.pa> If you're too injured to keep\n"
+"fighting, promise me <8.se_co>you'll retreat here,\n"
+"to the lookout post<9.re_co>.\n"
+"Don't do anything reckless under any\n"
+"circumstances."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Strategy_007"
+msgid ""
+"<1.so>It is of the utmost importance that we\n"
+"make it back unharmed. I can explain the\n"
+"plan as many times as you like."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Strategy_008"
+msgid ""
+"<1.so>I can't take on this Divine Beast on my\n"
+"own, so I'll wait until you're sure\n"
+"you're ready."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Strategy_010"
+msgid ""
+"<1.so>Could you give me a bit of room, just\n"
+"for a moment?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis003_Strategy_011"
+msgid ""
+"<1.so>My name is Riju, descendant of the royal\n"
+"line and leader of the Gerudo people!\n"
+"\n"
+"With the power of the heirloom passed\n"
+"down in my family, I shall calm the\n"
+"<2.se_co>Divine Beast Vah Naboris<3.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Npc_oasis003_Strategy_012"
+msgid ""
+"<1.so>Oh, wow!<2.pa> I can feel their power coursing\n"
+"through me!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Strategy_015"
+msgid "<1.so>Let's move!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Npc_oasis003_Strategy_016"
+msgid ""
+"<1.so><2.se_co>Lady Urbosa<3.re_co>...<4.pa> Please grant Link and me\n"
+"your protection..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis003_Strategy_020"
+msgid ""
+"<1.so>Ancestors of the Gerudo!\n"
+"Answer my call! Aid me in this task!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Npc_oasis003_Strategy_022"
+msgid ""
+"<1.so>Well then... That's what you really look\n"
+"like, huh...\n"
+"\n"
+"<2.so>Hehe... With voe banned from town, it's\n"
+"not very common for me to see someone\n"
+"like you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Npc_oasis003_Strategy_023"
+msgid ""
+"<1.so>This is the last time I'll ask...<2.pa>\n"
+"Are you ready?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis003_Strategy_024"
+msgid ""
+"<1.so>Here are some Gerudo <2.se_co>bomb arrows<3.re_co>.\n"
+"There aren't many, so be sure to put\n"
+"them to good use."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Npc_oasis003_Strategy_025"
+msgid ""
+"<1.so>Hang on a second...<2.se_co><3.re_co>\n"
+"\n"
+"\n"
+"You don't have a lot of <4.se_co>bomb arrows<5.re_co>.\n"
+"Are you really planning on going out\n"
+"like that?\n"
+"I haven't got any on me to give to you...\n"
+"\n"
+"\n"
+"<6.so>You can buy <7.se_co>bomb arrows <8.re_co>in town. I\n"
+"think it'd be a good idea to stock up a\n"
+"bit before this fight..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_oasis003_Strategy_026"
+msgid ""
+"<1.so>Hang on a second...<2.se_co><3.re_co>\n"
+"\n"
+"\n"
+"You don't have a lot of <4.se_co>bomb arrows<5.re_co>.\n"
+"Are you really planning on going out\n"
+"like that?\n"
+"I was hanging on to these as an\n"
+"emergency supply. Looks like we\n"
+"needed them!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_oasis003_Strategy_027"
+msgid ""
+"<1.so>...Wait.<2.pa>\n"
+"\n"
+"\n"
+"You don't have a lot of <3.se_co>bomb arrows<4.re_co>.\n"
+"Are you really planning on going out\n"
+"like that?\n"
+"These were basically my emergency,\n"
+"emergency supply. I entrust them to you,\n"
+"but that really is all I've got!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: sound
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: pause (short)
+#. 11: sound
+#. 12: pause (long)
+msgctxt "Npc_oasis004_GetBack_001"
+msgid ""
+"<1.so>Hey, what are you doing here?<2.pa> This is\n"
+"the hideout of those Yiga thieves who\n"
+"stole the <3.se_co>Thunder Helm<4.re_co>...\n"
+"If they spot you, they'll <5.se_co>call their friends<6.re_co>\n"
+"for sure. There's no way you can take\n"
+"them all on.\n"
+"<7.so>If only you had some way of distracting\n"
+"them...but I don't know how.\n"
+"\n"
+"All I ever see them do is patrol and eat\n"
+"<8.se_co>bananas<9.re_co>.<10.pa> I haven't seen anything else\n"
+"that you could exploit as a weakness.\n"
+"<11.so>Listen, this place is dangerous.<12.pa>\n"
+"You should get out of here while you\n"
+"can. I can take care of myself."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: pause (long)
+#. 9: sound
+msgctxt "Npc_oasis004_GetBack_004"
+msgid ""
+"<1.so>Why haven't you escaped yet?\n"
+"\n"
+"\n"
+"If anyone spots you, they'll <2.se_co>call their\n"
+"friends <3.re_co>for sure. There's no way you can\n"
+"take them all on.\n"
+"<4.so>All I ever see them do is patrol and eat\n"
+"<5.se_co>bananas<6.re_co>.<7.pa> I haven't seen anything else\n"
+"that you could exploit as a weakness.\n"
+"Like I said, this place is dangerous.<8.pa>\n"
+"<9.so>You should get out of here while you\n"
+"can. I can take care of myself."
+msgstr ""
+
+msgctxt "Npc_oasis004_GetBack_Near_001"
+msgid "Gotta escape somehow..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Npc_oasis007_Defeat_001"
+msgid ""
+"<1.so>I was so worried that something horrible\n"
+"would happen to the <2.se_co>chief<3.re_co>, I could barely\n"
+"contain myself.\n"
+"<4.so>But it seems like I had nothing to worry\n"
+"about.\n"
+"\n"
+"Actually...<5.pa>and maybe I'm seeing things...<6.pa>\n"
+"but it really looks like the <7.se_co>chief<8.re_co> has\n"
+"grown into a true leader."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "Npc_oasis007_Finish_001"
+msgid ""
+"<1.so>You did it. You really did it.<2.pa>\n"
+"Please...<3.pa> Let me know if there is anything\n"
+"at all I can do to help you from now on."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis007_GetBack_001"
+msgid ""
+"<1.so>What's wrong? If you truly are the\n"
+"Champion of legend, recovering the\n"
+"chief's heirloom should be simple."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_oasis007_GetBack_002"
+msgid ""
+"<1.so>If you want to know more about the\n"
+"thieves, then you should speak to\n"
+"<2.se_co>Captain Teake<3.re_co>.\n"
+"Just head down those stairs."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis007_GetBack_003"
+msgid ""
+"<1.so>Use this chance to show us what you're\n"
+"capable of!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+msgctxt "Npc_oasis007_GetBack_101"
+msgid ""
+"<1.so>If you are looking for <2.se_co>Lady Riju<3.re_co>, she's\n"
+"on the <4.se_co>second floor<5.re_co>.\n"
+"\n"
+"Normally people aren't allowed into\n"
+"her sleeping quarters, but she has given\n"
+"you permission it seems...\n"
+"<6.so>Be on your best manners. If she deems\n"
+"you to be a disturbance to her, it will not\n"
+"end well for you!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: sound
+#. 8: reset_colour
+#. 9: set_colour (red)
+#. 10: reset_colour
+msgctxt "Npc_oasis007_Strategy_001"
+msgid ""
+"<1.so><2.se_co>Lady Riju<3.re_co> could tell who you were—what\n"
+"you were capable of—all along.<4.so>\n"
+"\n"
+"I thought I was a good judge of\n"
+"character, <5.so>but clearly I still have a ways\n"
+"to go.\n"
+"Leave the town's defenses to me.\n"
+"<6.se_co><7.so>Lady Riju <8.re_co>needs you at the <9.se_co>lookout "
+"post<10.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (long)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: pause (long)
+#. 12: set_colour (blue)
+#. 13: sound
+#. 14: reset_colour
+msgctxt "Npc_oasis007_Strategy_003"
+msgid ""
+"<1.so>Truth be told, I didn't think you'd make it\n"
+"back with the helm. <2.so>I can only offer my\n"
+"apologies for doubting you.\n"
+"<3.so>I've dedicated my life to protecting Lady\n"
+"Riju and the Gerudo people, but against\n"
+"this <4.se_co>Divine Beast<5.re_co>...<6.pa>I'm powerless.\n"
+"It's up to you and <7.se_co>Lady Riju<8.re_co>. She's\n"
+"waiting for you at the<9.se_co> lookout post<10.re_co>.<11.pa>\n"
+"<12.se_co><13.so><14.re_co>Please take care of her. "
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Npc_oasis024_Ready_001"
+msgid ""
+"<1.so>Sound the alarm! A voe has been\n"
+"detected! <2.pa>Capture him at once!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis024_Ready_005"
+msgid ""
+"<1.so>Voe are forbidden from entering this\n"
+"town. This is Gerudo law. Do you\n"
+"understand?\n"
+"Never come back!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "Npc_oasis024_Ready_006"
+msgid ""
+"<1.so>You again...<2.pa> How many times must I tell\n"
+"you—voe are not allowed within the\n"
+"town walls!\n"
+"You understand that you're a voe, right?<3.pa>\n"
+"Do NOT return!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Npc_oasis024_Ready_007"
+msgid ""
+"<1.so>Why, you pesky little... When will you\n"
+"learn? <2.pa>No voe are allowed within the\n"
+"town! It's a rule of the Gerudo!\n"
+"Do not come back here! <3.pa>Not ever!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_oasis042_GetBack_001"
+msgid ""
+"<1.so>Our captain has instructed me to\n"
+"cooperate with you on this, but our info\n"
+"isn't entirely complete...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_oasis042_GetBack_004"
+msgid ""
+"<1.so>These thieves are highly skilled in both\n"
+"stealth and disguise. They refer to\n"
+"themselves as the Yiga.\n"
+"They slipped into town in the dark of\n"
+"night, stole the chief's heirloom, and\n"
+"vanished like smoke in the wind.\n"
+"<2.so>We believe them to be descendants of\n"
+"the Sheikah tribe that splintered and\n"
+"turned to villainy.\n"
+"But why would they want to steal the\n"
+"<3.se_co>Thunder Helm<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: choice
+msgctxt "Npc_oasis042_GetBack_005"
+msgid ""
+"<1.so>We know that the thieves' hideout is in\n"
+"<2.se_co>Karusa Valley<3.re_co>. The path through the\n"
+"valley is very difficult...\n"
+"<4.so>Despite repeated attempts to infiltrate\n"
+"the hideout, we haven't yet managed to\n"
+"set foot inside.\n"
+"Painful though it is to admit, it seems\n"
+"possible that some other group of\n"
+"desert dwellers has bested us.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_oasis042_GetBack_006"
+msgid ""
+"<1.so>We're continuing our investigation\n"
+"through the heat of day and the cold of\n"
+"night. So far, we know...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+msgctxt "Npc_oasis042_GetBack_007"
+msgid ""
+"<1.so>Ask the <2.se_co>guard at the northwest gate<3.re_co> to\n"
+"point you toward the hideout.\n"
+"\n"
+"The <4.se_co>northwest gate<5.re_co> is on the left as you\n"
+"exit these barracks.\n"
+"\n"
+"I'd walk you over there if I could, but\n"
+"there is always trouble to deal with\n"
+"here...\n"
+"<6.so>Sometimes, I don't even know which\n"
+"crisis to deal with first..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Npc_oasis042_GetBack_008"
+msgid ""
+"<1.so>These thieves are highly skilled in both\n"
+"stealth and disguise. They refer to\n"
+"themselves as the Yiga.\n"
+"They slipped into town in the dark of\n"
+"night, stole the chief's heirloom, and\n"
+"vanished like smoke in the wind.\n"
+"<2.so>We believe them to be descendants of\n"
+"the Sheikah tribe that splintered and\n"
+"turned to villainy.\n"
+"But why would they want to steal the\n"
+"<3.se_co>Thunder Helm<4.re_co>?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Npc_oasis042_GetBack_009"
+msgid ""
+"<1.so>We know that the thieves' hideout is in\n"
+"<2.se_co>Karusa Valley<3.re_co>. The path through the\n"
+"valley is very difficult...\n"
+"<4.so>Despite repeated attempts to infiltrate\n"
+"the hideout, we haven't yet managed to\n"
+"set foot inside.\n"
+"Painful though it is to admit, it seems\n"
+"possible that some other group of\n"
+"desert dwellers has bested us."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis042_GetBack_201"
+msgid ""
+"<1.so>Hey, I haven't seen Barta. Where's she\n"
+"gone off to?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Npc_oasis042_GetBack_202"
+msgid ""
+"<1.so>She said she was going to scout the\n"
+"thieves' hideout, but then she left\n"
+"before we could say anything.\n"
+"<2.so>Now that I think about it, she's been\n"
+"gone for two days. I wonder what\n"
+"happened to her..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: sound
+msgctxt "Npc_oasis042_GetBack_203"
+msgid ""
+"<1.so><2.te_si>You—<3.pa> Are you serious?!<4.te_si>\n"
+"\n"
+"\n"
+"<5.so>Why did you let her go by herself?!\n"
+"And why did you wait two days to\n"
+"report this?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Npc_oasis042_GetBack_204"
+msgid ""
+"<1.so>I'm—<2.pa> I apologize... She said she just\n"
+"wanted to check it out and would be\n"
+"careful, so I thought..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Npc_oasis042_GetBack_205"
+msgid ""
+"<1.so>Uuugghhh. As if we aren't busy enough\n"
+"searching for the chief's heirloom, now\n"
+"we have to find <2.se_co>Barta<3.re_co> too...\n"
+"<4.so>If the captain hears about this fiasco,\n"
+"she'll punish us for sure! Probably 100\n"
+"laps around Gerudo Desert...again."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis042_GetBack_206"
+msgid "<1.so>Oh... Oh, no. What should we do?"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "Npc_oasis042_GetBack_207"
+msgid "<1.te_si><2.so>I'm thinking about it!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk00"
+msgid ""
+"<1.so>You stand before <2.se_co>Lady Riju<3.re_co>, chief\n"
+"of the Gerudo! Declare your business,\n"
+"but come no closer!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk01"
+msgid ""
+"<1.so>You think you have what it takes to\n"
+"subdue something so powerful as a\n"
+"Divine Beast?\n"
+"The only ones who could ever control\n"
+"them were Champions like Lady Urbosa.\n"
+"\n"
+"And all of the Champions died in the\n"
+"<2.se_co>Calamity<3.re_co> 100 years ago."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk02"
+msgid "<1.so>Wait a moment...<2.pa> You're a voe!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk04"
+msgid ""
+"<1.so>Lady Riju! I don't see how you can trust\n"
+"a complete stranger with something as\n"
+"important as this task."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid ""
+"<1.so>Our soldiers can tell you all you need to\n"
+"know about the thieves who stole Lady\n"
+"Riju's heirloom."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk06"
+msgid ""
+"<1.so>But, Lady Riju!<2.pa> Do those same stories\n"
+"not also say that the Hylian Champion\n"
+"carried a <3.se_co>legendary sword<4.re_co>?\n"
+"I see no such weapon in this person's\n"
+"care."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk07"
+msgid ""
+"<1.so>Head through this arch. It will lead you\n"
+"to the barracks.<2.pa> Then, seek out <3.se_co>Captain\n"
+"Teake<4.re_co>, and ask for a full report."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk08"
+msgid ""
+"<1.so>...I don't remember ever hearing of\n"
+"a Hylian<2.pa> vai<3.pa> among the Champions."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk13"
+msgid ""
+"<1.so>You needn't worry, Lady Riju.<2.pa> If he truly\n"
+"is a Champion, this should be an easy\n"
+"task for him."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid ""
+"<1.so>Perhaps if this person were first to prove\n"
+"his worth by recovering your stolen\n"
+"Thunder Helm..."
+msgstr ""
+

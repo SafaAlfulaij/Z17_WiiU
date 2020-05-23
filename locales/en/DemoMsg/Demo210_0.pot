@@ -1,0 +1,42 @@
+#. 1: sound2
+msgctxt "Demo210_0_Text000"
+msgid "<1.so>Ah. So you have finally returned."
+msgstr ""
+
+msgctxt "Demo210_0_Text001"
+msgid ""
+"Your mind, body, and soul are now\n"
+"ready to wield the Master Sword\n"
+"at its full potential."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo210_0_Text002"
+msgid "<1.an>You never fail to impress!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo210_0_Text003"
+msgid ""
+"<1.an>Now you are truly one with that sword\n"
+"of yours. I must say, its sacred glow\n"
+"suits you well."
+msgstr ""
+
+msgctxt "Demo210_0_Text004"
+msgid ""
+"As ever, I shall watch over your journey\n"
+"from here..."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo210_0_Text005"
+msgid "<1.an>The princess..."
+msgstr ""
+
+msgctxt "Demo210_0_Text006"
+msgid ""
+"I am certain Hyrule's princess is pleased\n"
+"with your accomplishment as well..."
+msgstr ""
+

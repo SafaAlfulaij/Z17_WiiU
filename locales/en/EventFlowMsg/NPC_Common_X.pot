@@ -1,0 +1,183 @@
+msgctxt "ClearTerrorEnemy_00"
+msgid "Phew..."
+msgstr ""
+
+msgctxt "ClearTerrorEnemy_01"
+msgid "Haah... Haah..."
+msgstr ""
+
+msgctxt "ClearTerrorEnemy_02"
+msgid "Hoh..."
+msgstr ""
+
+msgctxt "ClearTerrorGuardian_00"
+msgid "Phew... Safe at last..."
+msgstr ""
+
+msgctxt "ClearTerrorGuardian_01"
+msgid "Haah... Haah..."
+msgstr ""
+
+msgctxt "ClearTerrorGuardian_02"
+msgid "I thought I was a goner..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "NakedPlayer_00"
+msgid "<1.so>No clothes today, then?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "NakedPlayer_01"
+msgid "<1.so>You're energetic."
+msgstr ""
+
+#. 1: sound2
+msgctxt "NakedPlayer_02"
+msgid "<1.so>Did you lose your clothes?"
+msgstr ""
+
+msgctxt "TerrorAnimal_00"
+msgid "Run awaaay!"
+msgstr ""
+
+msgctxt "TerrorAnimal_01"
+msgid "Gyaah!"
+msgstr ""
+
+msgctxt "TerrorAnimal_02"
+msgid "Get away!"
+msgstr ""
+
+msgctxt "TerrorArrow_00"
+msgid "Please, stop..."
+msgstr ""
+
+msgctxt "TerrorArrow_01"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "TerrorArrow_02"
+msgid "Hey now..."
+msgstr ""
+
+msgctxt "TerrorBomb_00"
+msgid "What's the deal?"
+msgstr ""
+
+msgctxt "TerrorBomb_01"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "TerrorBomb_02"
+msgid "Aah!"
+msgstr ""
+
+msgctxt "TerrorEnemy_00"
+msgid "Help meee!"
+msgstr ""
+
+msgctxt "TerrorEnemy_01"
+msgid "Gyaah!"
+msgstr ""
+
+msgctxt "TerrorEnemy_02"
+msgid "Noooooo!"
+msgstr ""
+
+msgctxt "TerrorExplosion_00"
+msgid "Yiiiikes!"
+msgstr ""
+
+msgctxt "TerrorExplosion_01"
+msgid "Waaah!"
+msgstr ""
+
+msgctxt "TerrorExplosion_02"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorFire_00"
+msgid "Hot! Hot!"
+msgstr ""
+
+msgctxt "TerrorFire_01"
+msgid "Gyaah!"
+msgstr ""
+
+msgctxt "TerrorFire_02"
+msgid "Yowch!"
+msgstr ""
+
+msgctxt "TerrorGuardian_00"
+msgid "Help meee!"
+msgstr ""
+
+msgctxt "TerrorGuardian_01"
+msgid "Gyaah!"
+msgstr ""
+
+msgctxt "TerrorGuardian_02"
+msgid "I don't want to die!"
+msgstr ""
+
+msgctxt "TerrorHorse_00"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "TerrorHorse_01"
+msgid "Yiiikes!"
+msgstr ""
+
+msgctxt "TerrorHorse_02"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorImpulse_00"
+msgid "Yipes!"
+msgstr ""
+
+msgctxt "TerrorImpulse_01"
+msgid "Gyaah!"
+msgstr ""
+
+msgctxt "TerrorImpulse_02"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorInsect_00"
+msgid "Ughhhh!"
+msgstr ""
+
+msgctxt "TerrorInsect_01"
+msgid "Gyaah!"
+msgstr ""
+
+msgctxt "TerrorInsect_02"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorLightning_00"
+msgid "Yiiiikes!"
+msgstr ""
+
+msgctxt "TerrorLightning_01"
+msgid "Waaah!"
+msgstr ""
+
+msgctxt "TerrorLightning_02"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorSword_00"
+msgid "Hyahh!"
+msgstr ""
+
+msgctxt "TerrorSword_01"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "TerrorSword_02"
+msgid "Hey!"
+msgstr ""
+

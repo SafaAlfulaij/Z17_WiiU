@@ -1,0 +1,431 @@
+msgctxt "0002"
+msgid "You're on."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (long)
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: choice
+msgctxt "128"
+msgid ""
+"<1.so><2.te_si>Yahoo!<3.pa><4.te_si> Now we're talking! <5.pa>This is\n"
+"fantastic!<6.pa> But every challenge has to\n"
+"have some stakes.\n"
+"I'll bet you <7.se_co>20 rupees<8.re_co><9.pa> I can beat you in\n"
+"a <10.se_co>race<11.re_co>. You have to pay first, though!<12.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: choice
+msgctxt "129"
+msgid ""
+"<1.so><2.te_si>Yahoo!<3.pa><4.te_si> Now we're talking!<5.pa> This is\n"
+"fantastic! <6.pa>Why don't you put down\n"
+"another <7.se_co>20 rupees<8.re_co> and <9.se_co>race<10.re_co> me "
+"again?<11.ch>"
+msgstr ""
+
+msgctxt "0004"
+msgid "I don't feel like it."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: sound
+#. 7: pause (long)
+#. 8: text_size
+#. 9: text_size
+msgctxt "256"
+msgid ""
+"<1.so><2.te_si>Noooo!<3.te_si><4.pa> What a letdown...<5.pa><6.so> I "
+"thought I'd\n"
+"finally met a tough boy with some real\n"
+"potential. <7.pa><8.te_si>Guess I thought wrong.<9.te_si>"
+msgstr ""
+
+msgctxt "0005"
+msgid "Let's get started."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (long)
+msgctxt "320"
+msgid ""
+"<1.so><2.te_si>Yesss!<3.pa><4.te_si> Now you're getting into the\n"
+"spirit of things!<5.pa> I'll go set things up.\n"
+"Don't go anywhere!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (long)
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "321"
+msgid ""
+"<1.so><2.te_si>OK!<3.pa><4.te_si> Thanks for waiting!<5.pa> I'm so ready\n"
+"I could burst, and I bet you are too!\n"
+"So let's begin...<6.pa>the <7.se_co>race<8.re_co>!"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: pause (long)
+msgctxt "323"
+msgid ""
+"The goal is the <1.se_co>flags on top of the \n"
+"mountain<2.re_co>!<3.pa> There's only two of us, so the\n"
+"race ends once someone reaches them!"
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+#. 3: pause (short)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "324"
+msgid ""
+"<1.te_si>One more thing!<2.te_si><3.pa> You could probably\n"
+"guess this already, but this is a <4.se_co>foot race<5.re_co>,\n"
+"not a <6.se_co>hoof race<7.re_co>.\n"
+"If you ride your horse or run away from\n"
+"the goal instead of toward it, you'll\n"
+"be <8.se_co>disqualified<9.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: pause (long)
+#. 5: text_size
+msgctxt "327"
+msgid "<1.so><2.te_si>And now...<3.pa>it's time!<4.pa> Get ready...<5.te_si>"
+msgstr ""
+
+#. 1: raw
+#. 2: text_size
+#. 3: text_size
+#. 4: auto_advance
+msgctxt "0005_08"
+msgid "<1.ra><2.te_si>Go!<3.te_si><4.au_ad>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (short)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "0005_NotEnoughMoney"
+msgid ""
+"<1.so><2.te_si>Oops!<3.te_si><4.pa> I don't race without those "
+"<5.se_co>20\n"
+"rupees<6.re_co> on the line. Why don't you go\n"
+"get some so we can finally race?<7.pa>\n"
+"I'll be waiting!"
+msgstr ""
+
+msgctxt "0006"
+msgid "You lost me."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: text_size
+#. 7: pause (long)
+#. 8: text_size
+msgctxt "384"
+msgid ""
+"<1.so><2.te_si>What?!<3.te_si><4.pa> You're giving up before we\n"
+"even start?<5.pa> <6.te_si>Yikes...<7.pa> <8.te_si>You'll never get\n"
+"anywhere in life with that attitude!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (long)
+msgctxt "0009_01"
+msgid ""
+"<1.so><2.te_si>Whew!<3.pa> <4.te_si>If you ever want to go again,\n"
+"I'd jump at the chance!<5.pa> See you around!"
+msgstr ""
+
+msgctxt "0010"
+msgid "Then I'll continue."
+msgstr ""
+
+msgctxt "0014"
+msgid "One more time!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: text_size
+#. 6: pause (long)
+msgctxt "768"
+msgid ""
+"<1.so><2.te_si>Woooo-hooo!<3.pa> I love this guy!<4.pa> \n"
+"All right!<5.te_si>\n"
+"\n"
+"<6.pa>Same rules as before. Whoever reaches\n"
+"the goal first wins!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "0014_NotEnoughMoney"
+msgid ""
+"<1.so><2.te_si>Whoops!<3.pa> <4.te_si>You need <5.se_co>20 "
+"rupees<6.re_co> if you\n"
+"wanna <7.se_co>race<8.re_co>!"
+msgstr ""
+
+msgctxt "0015"
+msgid "I've had enough."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (short)
+#. 6: text_size
+#. 7: text_size
+msgctxt "832"
+msgid ""
+"<1.so><2.te_si>Aww.<3.pa> <4.te_si>That's...<5.pa><6.te_si>not the answer"
+" I hoped for...<7.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "833"
+msgid ""
+"<1.so>Use all that traveling you do as a\n"
+"chance to build up your leg muscles!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (long)
+#. 6: pause (longer)
+msgctxt "AtGoal_00"
+msgid ""
+"<1.so><2.te_si>Wheeee!<3.pa> I did it!<4.te_si><5.pa> I won!<6.pa> You "
+"gotta\n"
+"give those flat feet some exercise if you\n"
+"ever wanna beat me, friend!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (short)
+#. 6: pause (long)
+#. 7: text_size
+#. 8: pause (long)
+#. 9: text_size
+msgctxt "AtGoal_00_00"
+msgid ""
+"<1.so><2.te_si>Done!<3.pa> <4.te_si>Wait...<5.pa> You're done too?\n"
+"You were done...first? <6.pa>Hrm...<7.te_si><8.pa>\n"
+"That means I lose...<9.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: variable (MiniGame_Crosscountry_Current_Minutes)
+#. 4: variable (MiniGame_Crosscountry_Current_Seconds)
+#. 5: variable (MiniGame_Crosscountry_Current_MilliSeconds)
+#. 6: reset_colour
+#. 7: raw
+#. 8: pause (short)
+#. 9: pause (long)
+#. 10: set_colour (red)
+#. 11: reset_colour
+msgctxt "AtGoal_01_03"
+msgid ""
+"<1.so>Your time was <2.se_co><3.va>.<4.va>.<5.va><6.re_co>.<7.ra>I wasn't"
+" REALLY trying my best...<8.pa>but a \n"
+"bet is a bet!<9.pa> Here's your <10.se_co>reward<11.re_co> for a\n"
+"race well run!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (short)
+#. 5: set_colour (red)
+#. 6: variable (MiniGame_Crosscountry_Current_Minutes)
+#. 7: variable (MiniGame_Crosscountry_Current_Seconds)
+#. 8: variable (MiniGame_Crosscountry_Current_MilliSeconds)
+#. 9: reset_colour
+#. 10: raw
+msgctxt "AtGoal_01_04"
+msgid ""
+"<1.so><2.te_si>Nice!<3.te_si><4.pa> My time was "
+"<5.se_co><6.va>.<7.va>.<8.va><9.re_co>.<10.ra>You did OK, but if you're "
+"ever gonna beat\n"
+"me, you've gotta try harder than that!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: choice
+msgctxt "AtGoal_02"
+msgid "<1.so><2.te_si>Whew! <3.pa><4.te_si>So...wanna race again? <5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: sound
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: pause (long)
+#. 12: text_size
+#. 13: text_size
+msgctxt "Halt_00"
+msgid ""
+"<1.so><2.te_si>Whoa, whoa, whoa!<3.pa> <4.te_si>This is a <5.se_co>foot\n"
+"race<6.re_co>, not a hoof race!<7.pa><8.so> <9.se_co>No horses\n"
+"allowed<10.re_co>! <11.pa><12.te_si>Hey... That means I win by "
+"default!<13.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (short)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: sound
+#. 10: pause (short)
+#. 11: set_colour (red)
+#. 12: reset_colour
+msgctxt "Halt_01"
+msgid ""
+"<1.so><2.te_si>One more time!<3.te_si><4.pa> Maybe I wasn't clear\n"
+"enough before, but a race is all about\n"
+"<5.se_co>reaching the goal<6.re_co> on <7.se_co>your own two "
+"feet<8.re_co>!\n"
+"<9.so>In other words,<10.pa> running the wrong way\n"
+"or getting on your horse means you're\n"
+"<11.se_co>disqualified<12.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: pause (long)
+#. 6: sound
+#. 7: pause (long)
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: pause (short)
+msgctxt "Halt_02"
+msgid ""
+"<1.so><2.te_si>What the heck?!<3.pa> <4.te_si>Where do you think \n"
+"you're going?<5.pa> If you're not racing\n"
+"toward the goal, you're just running!\n"
+"<6.so>And that doesn't do anyone any good...<7.pa>\n"
+"The <8.se_co>race is off<9.re_co>!<10.pa> Why don't you come back\n"
+"so I can explain the rules again?"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: text_size
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "Initial_00"
+msgid ""
+"<1.so><2.te_si>Hey, friend!<3.pa> <4.te_si>You look like a tough boy.\n"
+"But how tough are you? Tough enough\n"
+"to challenge me to a <5.se_co>race<6.re_co>?<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (short)
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "Initial_01"
+msgid ""
+"<1.so><2.te_si>Hey, friend!<3.te_si><4.pa> Sure, horses are\n"
+"convenient and fast, but what about\n"
+"<5.se_co>standing on your own two feet<6.re_co>?\n"
+"Don't you think it's important to exercise\n"
+"your legs too?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "Initial_02"
+msgid ""
+"<1.so>I'm itching to challenge you to\n"
+"<2.se_co>a foot race<3.re_co>, but you need to get off\n"
+"your high horse first! <4.pa>Please? <5.pa>For me?"
+msgstr ""
+

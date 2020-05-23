@@ -1,0 +1,53 @@
+msgctxt "CompTalk01"
+msgid ""
+"You've found all of the hidden Koroks!\n"
+"You should tell Hestu the good news!"
+msgstr ""
+
+msgctxt "CompTalk02"
+msgid "You found all the hidden Koroks!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: sound
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (long)
+#. 7: pause (long)
+#. 8: sound
+#. 9: pause (short)
+msgctxt "Talk00"
+msgid ""
+"<1.so><2.an>Ya-ha-ha! You found me!\n"
+"\n"
+"\n"
+"<3.so>Huh?<4.pa> You're not Hestu!\n"
+"\n"
+"\n"
+"<5.so>But you can...<6.pa>see me?<7.pa>\n"
+"I didn't know your kind could see the\n"
+"children of the forest!\n"
+"<8.so>Well,<9.pa> if you run into Hestu, please\n"
+"return this to him."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk01"
+msgid ""
+"<1.so>Oh, and my friends are hiding in lots of\n"
+"different places too! Don't be shy about\n"
+"poking your nose into suspicious places!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "Talk02"
+msgid "<1.so><2.an>Yahaha! You found me!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk03"
+msgid "<1.so>Buh-bye!"
+msgstr ""
+

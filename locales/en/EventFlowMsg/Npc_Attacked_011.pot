@@ -1,0 +1,253 @@
+#. 1: sound
+#. 2: pause (short)
+msgctxt "After00"
+msgid ""
+"<1.so>We're all right... <2.pa>We should count\n"
+"ourselves lucky for that."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>These things came out of nowhere!<2.pa> Mils!<3.pa>\n"
+"What happened to keeping lookout?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Atacked01"
+msgid ""
+"<1.so>Don't just stand there gawking! <2.pa>We got\n"
+"a real situation here!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Failed00"
+msgid ""
+"<1.so>Gah... <2.pa>This is really gonna hurt my rep...<3.pa>\n"
+"How will I ever live this down?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Of all the shameful ways to go down...<2.pa>\n"
+"I must be losing my edge."
+msgstr ""
+
+#. 1: sound
+msgctxt "GoodBye00"
+msgid "<1.so>Hmph. I'll get 'em next time for sure!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Guardian00"
+msgid "<1.so>Can't talk now! <2.pa>Guardian coming!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Meeting00"
+msgid ""
+"<1.so>Hey! <2.pa>We're not here for a chin wag!<3.pa>\n"
+"Hurry up and find some treasure!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: raw
+#. 4: sound
+#. 5: raw
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: pause (short)
+msgctxt "Meeting02"
+msgid ""
+"<1.so>This was once an up-and-coming place\n"
+"with lots of folks moving here. But then\n"
+"the monsters drove everyone out.\n"
+"<2.so>Which means there's plenty of treasure\n"
+"to be had! That's where we come in.<3.ra><4.so>We're treasure hunters, "
+"searching for a\n"
+"one-in-a-million payday. <5.ra>I'm guessing you are too. <6.pa>So as a "
+"tip\n"
+"from one pro to another, stay clear of\n"
+"Hyrule Castle.\n"
+"It's protected by things called <7.se_co>Guardians<8.re_co>.<9.pa>\n"
+"If they spot you, all bets are off on\n"
+"whether you survive."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+#. 5: raw
+#. 6: sound
+#. 7: pause (short)
+#. 8: pause (short)
+#. 9: raw
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: pause (short)
+msgctxt "Meeting02_01"
+msgid ""
+"<1.so>Looks like this place is deserted too.<2.pa>\n"
+"It was never much to look at, but folks\n"
+"used to call it home.\n"
+"Not anymore. <3.pa>The monsters going\n"
+"berserk everywhere have led to lots of\n"
+"abandoned little towns like this one.\n"
+"<4.so>Which is great for us since that means\n"
+"there's treasure to be had!<5.ra><6.so>We're treasure hunters on the hunt"
+" for\n"
+"that one-in-a-million jackpot. <7.pa>And so are\n"
+"you, I take it?\n"
+"A tip from one pro to another: <8.pa>stay far\n"
+"away from Hyrule Castle.<9.ra>It's protected by things called "
+"<10.se_co>Guardians<11.re_co>.<12.pa>\n"
+"If one spots you, all bets are off on\n"
+"whether you survive."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Meeting03"
+msgid ""
+"<1.so>They say once you're in a Guardian's\n"
+"sights, you don't have long to live.<2.pa>\n"
+"I get nervous just thinking about 'em."
+msgstr ""
+
+#. 1: sound
+msgctxt "Meeting04"
+msgid ""
+"<1.so>All right, you, go find some treasure,\n"
+"or I'll give you something to be nervous\n"
+"about!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Meeting05"
+msgid ""
+"<1.so>We're treasure hunters, looking out for\n"
+"that one-in-a-million score. <2.pa>If you're out\n"
+"for treasure too...<3.pa>look someplace else.\n"
+"<4.so>Oh, but not Hyrule Castle, though.<5.pa>\n"
+"You don't want to mess with all the\n"
+"<6.se_co>Guardians <7.re_co>out that way."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>That was a close call."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Hurry it up, Mils!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairAtacked00"
+msgid "<1.so>That dummy can't even run away right!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "PairAtacked01"
+msgid ""
+"<1.so>You! <2.pa>Get your rear in gear and go help\n"
+"my poor sap of a brother!"
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed00"
+msgid "<1.so>That idiot's gone and done it now..."
+msgstr ""
+
+#. 1: sound
+msgctxt "PairFailed01"
+msgid "<1.so>Ugh! Mils is down AGAIN!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>Hah! <2.pa>If you think I was in the slightest\n"
+"danger, you need to have your eyes\n"
+"checked.<3.pa> But I like your style. <4.pa>Here y'go."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>Funny, I don't remember asking for your\n"
+"help.<2.pa> And now they'll call ME the rude\n"
+"one if I don't thank you somehow!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>That got hairier than I expected. You did\n"
+"pretty good!<2.ra><3.so>Much as it galls me to thank you for\n"
+"saving us...that is what happened.\n"
+"So, sure, here's a little something."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>You've got a way with a sword, don't\n"
+"you? <2.pa>I'll admit, I was maybe in a little\n"
+"over my head there. <3.pa>Thanks."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>Calling it now—that monster was the\n"
+"worst. <2.pa>There has never been nor ever will\n"
+"be a worse monster than that.\n"
+"<3.so>Thanks for having my back before things\n"
+"got REALLY ugly."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (long)
+#. 5: pause (short)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>Just where did you learn to take down\n"
+"monsters of that caliber?<2.ra><3.so>I almost want to invite you to join "
+"us for\n"
+"a share of the loot... <4.pa>But, nah. <5.pa>This little\n"
+"thank-you is all you get."
+msgstr ""
+

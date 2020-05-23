@@ -1,0 +1,320 @@
+msgctxt "0002"
+msgid "I don't remember."
+msgstr ""
+
+msgctxt "0003"
+msgid "That sounds familiar..."
+msgstr ""
+
+msgctxt "0004"
+msgid "\"Again\"?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Mipha?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Trello?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Throne room?"
+msgstr ""
+
+msgctxt "0008"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "near00"
+msgid "Hm?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid "<1.so>Good morning."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Good day."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid "<1.so>Good evening."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk03"
+msgid "<1.so>Nothing to report, <2.pa>Master Link."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (longer)
+#. 5: choice
+msgctxt "talk04"
+msgid ""
+"<1.so>It's me! <2.pa>Rivan!\n"
+"\n"
+"\n"
+"<3.so>We used to swim together when I was\n"
+"but a child...<4.pa> Remember?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: pause (long)
+#. 6: pause (long)
+#. 7: pause (longer)
+msgctxt "talk05"
+msgid ""
+"<1.so>Well, it has been <2.se_co>100 years<3.re_co> since then.<4.pa>\n"
+"And now I'm over 130 years old...\n"
+"\n"
+"I must say, you've aged well for a Hylian.<5.pa>\n"
+"Unbelievably well!\n"
+"\n"
+"Now that I think about it—<6.pa>shouldn't you\n"
+"be dead?<7.pa> Sorry. That may be too\n"
+"personal a question."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: sound
+#. 7: pause (short)
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: pause (longer)
+msgctxt "talk06"
+msgid ""
+"<1.so>The leader of the pack, Bazz...\n"
+"The heroine, Gaddison...\n"
+"\n"
+"And my father, Trello... They have all\n"
+"aged quite a bit, I'm afraid.<2.pa> But they\n"
+"are all doing well.\n"
+"<3.so>Oh... <4.pa>But, Master Link, <5.pa>you probably\n"
+"shouldn't speak to the elderly.\n"
+"\n"
+"<6.so>Oops! <7.pa>Sorry for keeping you too long.\n"
+"\n"
+"\n"
+"You have business in the <8.se_co>throne room<9.re_co>,\n"
+"right?<10.pa> Please proceed there at your\n"
+"earliest convenience."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: single_choice
+msgctxt "talk07"
+msgid ""
+"<1.so>By the way... <2.pa>Master Link, are you going\n"
+"to fight <3.se_co>Calamity Ganon<4.re_co> again?<5.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: sound
+#. 7: pause (short)
+#. 8: sound
+#. 9: pause (longer)
+#. 10: choice
+msgctxt "talk08"
+msgid ""
+"<1.so>I mean...<2.pa> Master Link...\n"
+"\n"
+"\n"
+"You and Lady Mipha fought <3.se_co>Calamity\n"
+"Ganon<4.re_co> 100 years ago. <5.pa>Don't you recall?\n"
+"\n"
+"<6.so>Master Link... <7.pa>You really don't remember\n"
+"anything, do you?\n"
+"\n"
+"<8.so>OK!<9.pa> In that case, ask me anything \n"
+"you want to!<10.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk09"
+msgid "<1.so>Did you want to ask me something?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (short)
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "talk10"
+msgid ""
+"<1.so>Lady Mipha is the princess of the Zora<2.pa>\n"
+"and Prince Sidon's elder sister.\n"
+"\n"
+"She is also the Zora Champion.<3.pa>\n"
+"That means she was able to command\n"
+"the <4.se_co>Divine Beast Vah Ruta<5.re_co>.\n"
+"<6.so>But unfortunately...Lady Mipha was...<7.pa>\n"
+"Well, 100 years ago...<8.se_co>Calamity Ganon<9.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk11"
+msgid ""
+"<1.so>I should not be the one telling you this.<2.pa>\n"
+"Sorry. Please ask King Dorephan if you\n"
+"wish to know more."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: pause (short)
+msgctxt "talk12"
+msgid ""
+"<1.so>Trello is my father.<2.pa>\n"
+"\n"
+"\n"
+"Since retiring, he has been in charge\n"
+"of the Champion Festival. It is he who\n"
+"now bears the <3.se_co>Ceremonial Trident<4.re_co>.\n"
+"But, Master Link...<5.pa> You really should not\n"
+"speak with any of the elderly here.\n"
+"Including my father.\n"
+"As for me... Well...<6.pa> I just do not believe\n"
+"you are guilty of anything!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>The <2.se_co>throne room<3.re_co> is where King Dorephan\n"
+"and Prince Sidon can often be found.\n"
+"\n"
+"You can use either staircase to go up.<4.pa>\n"
+"When you get to the second floor,\n"
+"the throne room is up and to the back."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk14"
+msgid "<1.so>Roger that!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk15"
+msgid ""
+"<1.so>The sky is clear for the first time in a bit!\n"
+"\n"
+"\n"
+"I would like to celebrate by taking my\n"
+"daughter on a trip,<2.pa> but I cannot afford\n"
+"to leave my post..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+msgctxt "talk16"
+msgid ""
+"<1.so>Oh! <2.pa>Thank you for saving <3.se_co>Zora's Domain<4.re_co>!\n"
+"\n"
+"\n"
+"The <5.se_co>Divine Beast Vah Ruta <6.re_co>is your\n"
+"ally now... <7.pa>How incredible.\n"
+"\n"
+"Keep your spirits up, and use its power\n"
+"to banish <8.se_co>Calamity Ganon<9.re_co> from\n"
+"<10.se_co>Hyrule Castle<11.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk17"
+msgid "<1.so>Huh?<2.pa> What is it?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk18"
+msgid ""
+"<1.so>No, I mean...<2.pa>Hylian Champion!\n"
+"\n"
+"\n"
+"Come back anytime!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk19"
+msgid "<1.so>Is there anything else you want to ask?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk20"
+msgid ""
+"<1.so>*AHEM* Father...<2.pa> We are on guard duty\n"
+"right now."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk21"
+msgid "<1.so>Oh, right... <2.pa>Sorry."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk22"
+msgid ""
+"<1.so>So the Hylian that Prince Sidon brought\n"
+"here...<2.pa> Don't tell me..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: sound
+msgctxt "talk23"
+msgid ""
+"<1.te_si><2.so>Master Link!<3.te_si>\n"
+"\n"
+"\n"
+"<4.so>Is it truly you? The Hylian Champion?!"
+msgstr ""
+

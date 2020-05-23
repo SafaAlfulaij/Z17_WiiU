@@ -1,0 +1,293 @@
+msgctxt "0000"
+msgid "Indeed."
+msgstr ""
+
+msgctxt "0001"
+msgid "Not really..."
+msgstr ""
+
+msgctxt "0002"
+msgid "...Ancient Tech Lab?"
+msgstr ""
+
+msgctxt "0003"
+msgid "The Great Calamity?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Hateno Village?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "near00"
+msgid "Zzz..."
+msgstr ""
+
+msgctxt "near01"
+msgid "Ho, ho..."
+msgstr ""
+
+msgctxt "near02"
+msgid "♪～～♪"
+msgstr ""
+
+msgctxt "near03"
+msgid "Whew!"
+msgstr ""
+
+msgctxt "near04"
+msgid "Whoa..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: sound
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "talk00"
+msgid ""
+"<1.so>The <2.se_co>blue flame<3.re_co>!<4.pa> I haven't seen that\n"
+"in quite a while! <5.se_co><6.so><7.re_co>How is Purah?<8.pa>\n"
+"\n"
+"We haven't seen her lately, so we've all\n"
+"been a little worried about her."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk01"
+msgid ""
+"<1.so>It's been a while since I saw Purah<2.pa>\n"
+"carrying around that <3.se_co>blue flame<4.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "talk02"
+msgid ""
+"<1.so>Oh, are you an adventurer? I am the\n"
+"head of Hateno Village. Call me Reede.\n"
+"\n"
+"<2.so>Isn't this a peaceful place we have here,\n"
+"don't you think?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk03"
+msgid ""
+"<1.so>Yes...<2.pa> We're finally feeling a bit of \n"
+"recovery from the <3.se_co>Great Calamity<4.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk04"
+msgid ""
+"<1.so>Haha! This village looks like an urban\n"
+"center to you, eh?\n"
+"\n"
+"<2.so>Well, Hateno Village has definitely grown\n"
+"in size recently now that we're\n"
+"recovering from the <3.se_co>Great Calamity<4.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk05"
+msgid ""
+"<1.so>Our village is pleasant, peaceful, and has\n"
+"plenty of food to go around!<2.pa> Please stay\n"
+"as long as you'd like."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk06"
+msgid "<1.so>Yes, yes..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk07"
+msgid "<1.so>Mornin'!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid "<1.so>Hullo!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid "<1.so>Evenin'!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid "<1.so>Zzz... Zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk12"
+msgid "<1.so>Can I help you with anything?<2.ra>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk13"
+msgid "<1.so>Yes, yes. Good-bye."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "talk14"
+msgid ""
+"<1.so>It's hard to even talk about the\n"
+"<2.se_co>Great Calamity<3.re_co>. It was a disastrous event\n"
+"that took place 100 years ago.\n"
+"Villages everywhere were burned. <4.pa>Many\n"
+"lives were lost...\n"
+"\n"
+"That was all before I was born, of course.<5.pa>\n"
+"The elders here would know more."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (short)
+msgctxt "talk15"
+msgid ""
+"<1.so>Hateno Village barely survived the\n"
+"<2.se_co>Great Calamity<3.re_co>. The village was later\n"
+"rebuilt by <4.se_co>Hylian <5.re_co>hands.\n"
+"<6.so>Now many people live here in peace\n"
+"amongst the shops.<7.pa> It's nice to see\n"
+"travelers stop by now and then as well."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+msgctxt "talk16"
+msgid ""
+"<1.se_co><2.so>Hateno Ancient Tech Lab<3.re_co>? Oh, sure!\n"
+"That's the <4.se_co>building up on the top\n"
+"of that hill<5.re_co>.\n"
+"<6.so>A person from the Sheikah tribe lives up\n"
+"there. You never know what they're\n"
+"diving into.\n"
+"They rarely come out lately, now that I\n"
+"think about it. They must be really\n"
+"busy lately..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: sound
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (short)
+msgctxt "talk17"
+msgid ""
+"<1.so>Oh, the <2.se_co>blue flame<3.re_co>!<4.pa> I haven't seen that\n"
+"in quite a while.\n"
+"\n"
+"<5.se_co><6.so><7.re_co>How was the <8.se_co>director<9.re_co>?<10.pa> We"
+" haven't\n"
+"seen the lab folks in a bit, so some\n"
+"of us were getting a little worried..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk18"
+msgid ""
+"<1.so>It's been a while since I saw the\n"
+"<2.se_co>director<3.re_co> carrying around that\n"
+"<4.se_co>blue flame<5.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk19"
+msgid "<1.so>Yup. <2.pa>Rainin'."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk20"
+msgid ""
+"<1.so>Don't think the rain's gonna let up\n"
+"anytime soon."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk21"
+msgid "<1.so>Why don't we chat somewhere nicer?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk22"
+msgid "<1.so>Anything else you wanna ask?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: sound
+msgctxt "talk23"
+msgid ""
+"<1.so>Seems at least one member of the\n"
+"Sheikah tribe has lived up there since\n"
+"the time of the <2.se_co>Great Calamity<3.re_co>.\n"
+"They call what goes on up there\n"
+"research,<4.pa> but I don't know what kind.\n"
+"\n"
+"<5.so>Those folks up there should get out\n"
+"more, y'know? It's not healthy to stay\n"
+"cooped up all day!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk24"
+msgid ""
+"<1.so>If you're looking for the\n"
+"<2.se_co>Hateno Ancient Tech Lab<3.re_co>,<4.pa>\n"
+"it's atop the <5.se_co>small hill<6.re_co> to the east."
+msgstr ""
+

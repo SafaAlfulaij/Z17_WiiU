@@ -1,0 +1,348 @@
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>Whoa... Whoa... <2.pa>Gotta calm my horse\n"
+"down somehow..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Atacked01"
+msgid ""
+"<1.so>OK, just stay calm... Find the calm\n"
+"place inside..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Failed00"
+msgid ""
+"<1.so>Forget about me... I'm worried about my\n"
+"horse, Spinch..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed01"
+msgid "<1.so>Oof...<2.pa> Hurt my arm a little..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Guardian00"
+msgid "<1.so>I'm not sticking around! No way!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (long)
+#. 5: pause (short)
+#. 6: pause (short)
+msgctxt "MSG_Firo_00"
+msgid ""
+"<1.so>Yee-haw!<2.pa> My name is Spinch!<3.pa> This is my\n"
+"horse, Spinch!<4.pa> That's right—same name!<5.pa>\n"
+"Is it confusing? I don't care!\n"
+"Spinch and I are taking a ride out\n"
+"to Lurelin Village!<6.pa> Hi-hooooo!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "MSG_Firo_00_1"
+msgid ""
+"<1.so>Spinch and I are taking a little gallop<2.pa> out\n"
+"to Lurelin Village!<3.pa>\n"
+"Heigh-hooooo!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "MSG_Firo_01"
+msgid ""
+"<1.so>Yee-haw! <2.pa>The name's Spinch!<3.pa>\n"
+"The horse's name is Spinch!<4.pa>\n"
+"They call us the Spinches!\n"
+"Did you know... <5.pa>Way out west in the\n"
+"Taobab Grasslands, along the Faron\n"
+"Highroad, there's tell of a giant horse?"
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Firo_01_1"
+msgid ""
+"<1.so>I heard that, way out west in the\n"
+"Taobab Grasslands, along the Faron\n"
+"Highroad, there's a giant horse roaming."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "MSG_Firo_02"
+msgid ""
+"<1.so>Hahaha! <2.pa>There, there!<3.pa> You're pretty well\n"
+"informed for a horse, you know!\n"
+"\n"
+"Spinch says that if you head south,\n"
+"you'll find a heart-shaped pond.<4.pa>\n"
+"Apparently that's where you find love!"
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Firo_02_1"
+msgid ""
+"<1.so>South of here is a heart-shaped pond\n"
+"that is apparently a great place to find\n"
+"love!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Firo_03"
+msgid ""
+"<1.so>Yee-haw! Let me share a little Spinch\n"
+"wisdom with you!\n"
+"\n"
+"If you want to take down monsters while\n"
+"riding on horseback,<2.pa> you've got to really\n"
+"practice your archery skills!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Firo_03_1"
+msgid ""
+"<1.so>If you want to take down monsters while\n"
+"riding on horseback,<2.pa> you've got to really\n"
+"practice your archery skills!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "MSG_Firo_04"
+msgid ""
+"<1.so>Yee-haw! <2.pa>Call me Spinch! <3.pa>\n"
+"Call my horse Spinch too!<4.pa>\n"
+"\n"
+"Are we a man-horse? A horse-man?\n"
+"Where does one end and the other\n"
+"begin? It's a mystery for the ages!\n"
+"What isn't a mystery is Lurelin Village's\n"
+"really tasty fish! Kind of makes me and\n"
+"Spinch want to settle down here!"
+msgstr ""
+
+#. 1: sound
+msgctxt "MSG_Firo_04_1"
+msgid ""
+"<1.so>Lurelin Village has some of the best,\n"
+"most tasty fish! Kind of makes me and\n"
+"Spinch want to settle down here!"
+msgstr ""
+
+msgctxt "Near00"
+msgid "My name is Spinch."
+msgstr ""
+
+msgctxt "Near01"
+msgid "My horse is Spinch."
+msgstr ""
+
+msgctxt "Near02"
+msgid "We...are the Spinchs!"
+msgstr ""
+
+msgctxt "Near03"
+msgid "Hahaha!"
+msgstr ""
+
+msgctxt "Near04"
+msgid "Ugh... Seriously?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "Rest_00"
+msgid ""
+"<1.so>Everywhere I go, all I'm hearing about is \n"
+"this giant horse...<2.pa>\n"
+"\n"
+"<3.so>Everyone's saying if you take the Faron\n"
+"High Road out west, you'll find a giant\n"
+"horse in the Taobab Grassland."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Rest_01"
+msgid ""
+"<1.so>I'm Spinch! <2.pa>My horse is also called\n"
+"Spinch! <3.pa>You should totally change\n"
+"your name to Spinch! It'd be great!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>I'm Spinch! <2.pa>My horse is also named\n"
+"Spinch!<3.pa> We both hate the rain."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (long)
+#. 5: pause (short)
+msgctxt "RetMSG_Firo_00"
+msgid ""
+"<1.so>Yee-haw!<2.pa> My name is Spinch!<3.pa> This is my\n"
+"horse, Spinch!<4.pa> That's right—same name!<5.pa>\n"
+"Is it confusing? I don't care!\n"
+"Have you heard the rumors about the \n"
+"giant horse! They say it appears waaay\n"
+"out west, in the Taobab Grassland!"
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Firo_00_1"
+msgid ""
+"<1.so>Have you heard the rumors about the \n"
+"giant horse?! They say it appears way\n"
+"out west in the Taobab Grassland!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Firo_01"
+msgid ""
+"<1.so>Yee-haw!<2.pa> Let me teach you something!\n"
+"\n"
+"\n"
+"You'll have to do a really sweet acrobatic\n"
+"move if you try to mount a horse from\n"
+"the front. So cool!"
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Firo_01_1"
+msgid ""
+"<1.so>Have you done the really sweet acrobatic\n"
+"move where you try to mount a horse\n"
+"from the front? So cool!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "RetMSG_Firo_02"
+msgid ""
+"<1.so>Hahah! <2.pa>Whoa there!<3.pa>\n"
+"You're really well-informed for a horse!\n"
+"\n"
+"He's saying that deep in the woods of\n"
+"Faron, to the west, is a place sometimes\n"
+"called the Mouth of the Dragon."
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Firo_02_1"
+msgid ""
+"<1.so>Deep in the woods of Faron, to the west,\n"
+"is a place sometimes called the Mouth\n"
+"of the Dragon..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Firo_03"
+msgid ""
+"<1.so>Yee-haw! <2.pa>Let me teach you something!\n"
+"\n"
+"\n"
+"Horses vary in size and strength! Find\n"
+"one that suits you and make it your own!"
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Firo_03_1"
+msgid ""
+"<1.so>Horses vary in size and strength! Find\n"
+"one that suits you and make it your own!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "RetMSG_Firo_04"
+msgid ""
+"<1.so>Yahoo! <2.pa>My name is Spinch! <3.pa>My horse \n"
+"is also Spinch!<4.pa> Is your name Spinch,\n"
+"too? That'd be extra crazy...\n"
+"Here's a tip. <5.pa>Pay close attention to how\n"
+"much stamina your horse has when\n"
+"you're riding it really hard!"
+msgstr ""
+
+#. 1: sound
+msgctxt "RetMSG_Firo_04_1"
+msgid ""
+"<1.so>Listen, you gotta pay close attention to\n"
+"how much stamina your horse has when\n"
+"you're riding it really hard!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "SavedLv1_00"
+msgid "<1.so>Thanks! <2.pa>That was really close!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>I'm all right! <2.pa>My horse, Spinch, is\n"
+"all right too!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_00"
+msgid "<1.so>I can't thank you enough!"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>Damned monsters. Thinking they can just\n"
+"attack without a care..."
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_00"
+msgid "<1.so>Never mind about me—are you OK?"
+msgstr ""
+
+#. 1: sound
+msgctxt "SavedLv3_01"
+msgid "<1.so>I thought I was a goner for sure..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Thanks00"
+msgid "<1.so>Oh!<2.pa> I should give you something."
+msgstr ""
+

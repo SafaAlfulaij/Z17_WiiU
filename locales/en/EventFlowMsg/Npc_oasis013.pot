@@ -1,0 +1,262 @@
+#. 1: sound
+#. 2: text_size
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: text_size
+msgctxt "Npc_oasis013_001"
+msgid ""
+"<1.so><2.te_si>Vasaaq.<3.pa>\n"
+"Buy a lot<4.pa>...OK?<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: sound
+#. 7: text_size
+#. 8: text_size
+#. 9: pause (longer)
+#. 10: text_size
+#. 11: sound
+#. 12: text_size
+msgctxt "Npc_oasis013_002"
+msgid ""
+"<1.so>Hey, lady!<2.pa> Be sure to buy a LOT of stuff,\n"
+"OK?\n"
+"\n"
+"I really recommend...<3.se_co>bomb arrows<4.re_co>!<5.pa>\n"
+"If you shoot them at something...\n"
+"\n"
+"<6.so><7.te_si>BOOOOOM!!!<8.te_si><9.pa>\n"
+"\n"
+"\n"
+"<10.te_si><11.so><12.te_si>It's amazing!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "Npc_oasis013_004"
+msgid ""
+"<1.so><2.so>Sav'saaba.<3.pa>\n"
+"Today was another busy day, so I think\n"
+"I'll go to bed soon."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis013_006"
+msgid ""
+"<1.so>I wonder how Dalia's crops are\n"
+"doing..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: text_size
+#. 6: sound
+#. 7: pause (longer)
+#. 8: sound
+#. 9: text_size
+msgctxt "Npc_oasis013_008"
+msgid ""
+"<1.so>Hey, lady!<2.pa> Be sure to buy a LOT of stuff,\n"
+"OK?\n"
+"\n"
+"I really recommend...<3.se_co>shock arrows<4.re_co>!\n"
+"If you shoot them at something...\n"
+"\n"
+"<5.te_si><6.so>BZZBZZT!!!<7.pa>\n"
+"\n"
+"\n"
+"<8.so><9.te_si>They zap!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: text_size
+#. 7: pause (longer)
+#. 8: sound
+#. 9: text_size
+msgctxt "Npc_oasis013_009"
+msgid ""
+"<1.so>Hey, lady!<2.pa> Be sure to buy a LOT of stuff,\n"
+"OK?\n"
+"\n"
+"I really recommend...<3.se_co>fire arrows<4.re_co>!\n"
+"If you shoot them at something...\n"
+"\n"
+"<5.so><6.te_si>BOOSH!!!<7.pa>\n"
+"\n"
+"\n"
+"<8.so><9.te_si>Flames everywhere!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: text_size
+#. 9: pause (longer)
+#. 10: sound
+#. 11: text_size
+msgctxt "Npc_oasis013_010"
+msgid ""
+"<1.te_si><2.so><3.te_si>Hey, lady!<4.pa> Be sure to buy a LOT of stuff,\n"
+"OK?\n"
+"\n"
+"I really recommend...<5.se_co>ice arrows<6.re_co>!\n"
+"If you shoot them at something...\n"
+"\n"
+"<7.so><8.te_si>CRAAAAACK!!!<9.pa>\n"
+"\n"
+"\n"
+"<10.so><11.te_si>Frozen solid!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis013_011"
+msgid "<1.so>Have you heard about Dalia's crops?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis013_012"
+msgid "<1.so>Dalia... She won't stop crying..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis013_013"
+msgid "<1.so>Where is everyone?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis013_014"
+msgid "<1.so>I wanna eat a lot of fruit!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis013_015"
+msgid "<1.so>Let's go help everyone next time!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis013_016"
+msgid ""
+"<1.so>Who would do something like that?\n"
+"I'll never forgive you!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis013_017"
+msgid "<1.so>Hey, you guys! Are you in love?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Npc_oasis013_018"
+msgid ""
+"<1.so>When I'm all growed up, I will be!<2.pa>\n"
+"I'll go to Miss Ashai's class, and I'll\n"
+"become in love and I'll get married!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+msgctxt "Npc_oasis013_019"
+msgid ""
+"<1.so>Mom says it's really strange that Miss\n"
+"Ashai is unmarried but teaches her class\n"
+"on voe.<2.pa>\n"
+"<3.so>I wonder what unmarried means..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_oasis013_020"
+msgid ""
+"<1.so>I heard that being in love and being\n"
+"married is the sweetest thing in the\n"
+"world!\n"
+"But I really like berries, and those\n"
+"are really sweet. I don't know if I can\n"
+"handle something sweeter than that!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Npc_oasis013_021"
+msgid ""
+"<1.so>Whoa...<2.pa>\n"
+"That's a really big vure..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Npc_oasis013_022"
+msgid ""
+"<1.so>You're a good person, right, lady?<2.pa>\n"
+"My vaba always says that people who\n"
+"spend lots of money are good people!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+#. 4: sound
+msgctxt "Talk_01"
+msgid ""
+"<1.so><2.so>Sav'otta!<3.pa>\n"
+"\n"
+"\n"
+"<4.so>...Wait, I don't have time to hang around\n"
+"here greeting people like this!\n"
+"\n"
+"I've got to hurry and go help out!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "Talk_02"
+msgid "<1.so><2.so>Sav'aaq!<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_03"
+msgid "<1.so><2.so>Sav'saaba!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_04"
+msgid "<1.so><2.so>Vasaaq!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_05"
+msgid ""
+"<1.so>...Wait, I don't have time to hang around\n"
+"here greeting people like this!\n"
+"\n"
+"I've got to hurry up and meet the others!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_06"
+msgid ""
+"<1.so>Wait... I don't have time to hang around\n"
+"here greeting people like this!\n"
+"\n"
+"If I don't hurry, the vure will go away!"
+msgstr ""
+

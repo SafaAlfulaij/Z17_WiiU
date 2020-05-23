@@ -1,0 +1,357 @@
+msgctxt "0000"
+msgid "That's fine."
+msgstr ""
+
+msgctxt "0001"
+msgid "Let's do it later..."
+msgstr ""
+
+msgctxt "0002"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0003"
+msgid "Please!"
+msgstr ""
+
+msgctxt "0004"
+msgid "Some other time."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk00"
+msgid "<1.so>Ah, we meet again!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk01"
+msgid ""
+"<1.so>I'm taking a moment's rest from my\n"
+"calling to enjoy some musical frivolity\n"
+"with my daughters.\n"
+"Though it may not be within my power, \n"
+"I commit my wish as song...that this\n"
+"peace might last forever."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+msgctxt "Talk02"
+msgid ""
+"<1.so>...<2.pa>By the by, I've something I must ask\n"
+"of you. I need you to hear a song.\n"
+"\n"
+"<3.so>If it pleases you, could you come back\n"
+"here later? After the sun is down?\n"
+"Ever so sorry for the trouble."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Talk03"
+msgid ""
+"<1.so>If it pleases you, could you come\n"
+"back here again at night?\n"
+"\n"
+"I've a song that I need you to hear.<2.pa>\n"
+"Most pleadingly...<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk04"
+msgid ""
+"<1.so>Ah, there he is.<2.pa>\n"
+"Thank you for coming."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk05"
+msgid ""
+"<1.so>Very well then...<2.pa>\n"
+"Let me know when you are free. "
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk06"
+msgid ""
+"<1.so>Thank you ever so much.<2.pa>\n"
+"I wanted to talk to you about my teacher."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (long)
+#. 6: sound
+#. 7: pause (long)
+#. 8: sound
+msgctxt "Talk07"
+msgid ""
+"<1.so>My teacher was of the <2.se_co>Sheikah tribe<3.re_co>.\n"
+"He was the court poet for the Hyrulean\n"
+"royal family.\n"
+"At the time, there was a beautiful\n"
+"princess in the royal family, quite close\n"
+"to my teacher in age, apparently.\n"
+"<4.so>Though he must have known it was\n"
+"doomed to be unrequited, my teacher \n"
+"fell in love with her...<5.pa>\n"
+"But the princess herself only had eyes\n"
+"for her escort, her own knight attendant.\n"
+"\n"
+"<6.so>My teacher was consumed with\n"
+"jealousy...<7.pa> He fumed that the knight was\n"
+"neither nobility nor royalty himself.\n"
+"<8.so>And then the Calamity struck."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "Talk08"
+msgid ""
+"<1.so>Thank you for accepting<2.pa> my teacher's\n"
+"song.\n"
+"\n"
+"I'll sing it again, if you wish.<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk09"
+msgid "<1.so>Oh? Are you ready to hear it now?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk10"
+msgid ""
+"<1.so>I wish to speak with you, so this will\n"
+"take some time. Is that all right?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+#. 4: sound
+#. 5: pause (long)
+msgctxt "Talk11"
+msgid ""
+"<1.so>My teacher fled the Calamity and\n"
+"returned to his hometown of\n"
+"Kakariko Village.\n"
+"But on his way, he witnessed the\n"
+"princess's knight sacrifice himself to\n"
+"protect the princess.\n"
+"<2.so>The elder of Kakariko Village, Impa,\n"
+"explained these circumstances to him,\n"
+"and his mind was made up.\n"
+"He would seek the songs of the hero\n"
+"who sealed the Calamity away in an\n"
+"age past...<3.pa> \n"
+"so they could be passed on to the\n"
+"knight once he returned.\n"
+"\n"
+"<4.so>All so that the princess might be saved...<5.pa>\n"
+"Those were my teacher's last words,\n"
+"passed on now through me."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (long)
+msgctxt "Talk12"
+msgid ""
+"<1.au_ad><2.ra>Her appointed knight<3.pa> gives his life,<4.pa>\n"
+"Shields her figure, and pays the price."
+msgstr ""
+
+#. 1: pause (long)
+msgctxt "Talk13"
+msgid ""
+"...<1.pa>My teacher believed a hero would\n"
+"appear to beat back the Calamity. He\n"
+"poured that belief into a song.\n"
+"And that song is what I need you to hear."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+#. 4: single_choice
+#. 5: sound
+#. 6: pause (short)
+#. 7: pause (long)
+#. 8: sound
+#. 9: pause (long)
+#. 10: sound
+#. 11: pause (long)
+msgctxt "Talk14"
+msgid ""
+"<1.so>So...<2.pa>appointed knight.<3.pa>\n"
+"Will you accept this song from my \n"
+"departed teacher?<4.si_ch>\n"
+"<5.so>Thank you so much!<6.pa>\n"
+"I knew you would. I was sure of it.<7.pa>\n"
+"\n"
+"<8.so>My teacher would often speak of the\n"
+"princess's beauty. I would love to meet\n"
+"her and craft a song worthy of her...<9.pa>\n"
+"<10.so>Thank you for spending this time with\n"
+"me.<11.pa>"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+msgctxt "Talk15"
+msgid ""
+"<1.au_ad><2.ra>The princess's love for her fallen knight\n"
+"awakens her power / <3.pa>And within the\n"
+"castle the Calamity is forced to cower."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (long)
+msgctxt "Talk16"
+msgid ""
+"<1.au_ad><2.ra>But the knight survives!<3.pa>\n"
+"In the <4.se_co>Shrine of Resurrection<5.re_co> he sleeps,<6.pa>\n"
+"Until from his healing dream he leaps!"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (longer)
+#. 4: pause (long)
+#. 5: pause (long)
+msgctxt "Talk17"
+msgid ""
+"<1.au_ad><2.ra>For fierce and deadly trials await.<3.pa>\n"
+"To regain his strength.<4.pa> Fulfill his fate.<5.pa>"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (long)
+msgctxt "Talk18"
+msgid ""
+"<1.au_ad><2.ra>To become a hero once again!<3.pa>\n"
+"To wrest the princess<4.pa> from evil's den."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: pause (long)
+msgctxt "Talk19"
+msgid ""
+"<1.au_ad><2.ra>An ancient hero,<3.pa> a Calamity appears,<4.pa>\n"
+"Now resurrected<5.pa> after 10,000 years."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+msgctxt "Talk20"
+msgid ""
+"<1.so>I'm taking a moment's rest from my\n"
+"tireless search for the ancient songs to\n"
+"perform in my hometown. \n"
+"<2.so>...<3.pa>By the by, I've something I must ask\n"
+"of you. I've a song that I need you to\n"
+"hear."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk21"
+msgid "<1.so>Hmm... It's long past dawn now.<2.pa>"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: pause (long)
+#. 6: pause (long)
+msgctxt "Talk22"
+msgid ""
+"<1.au_ad><2.ra>The hero, the princess—<3.pa>hand in hand—<4.pa>\n"
+"Must bring the light<5.pa> back to this land.<6.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk23"
+msgid "<1.so>Thank you.<2.pa> Well then..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "Talk24"
+msgid ""
+"<1.so>Of course.<2.pa>\n"
+"Please let me know if you want to hear\n"
+"it again.\n"
+"I can do naught but sing, <3.pa>but I pray for\n"
+"your safety."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Talk25"
+msgid ""
+"<1.so>Thank you for listening to<2.pa> my teacher's\n"
+"song.\n"
+"\n"
+"I can do naught but sing, <3.pa>but I pray for\n"
+"your safety."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "Talk26"
+msgid ""
+"<1.so>Thank you for listening to<2.pa> my teacher's\n"
+"song.\n"
+"\n"
+"If you want to hear the song again,\n"
+"you'll need to come back at nighttime.\n"
+"\n"
+"<3.so>That's the only time my kids will leave\n"
+"me alone..."
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "WAAAAAA!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "TerrorFire"
+msgid "<1.so>Ack!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Knock it off!"
+msgstr ""
+

@@ -1,0 +1,43 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt_touzoku07_Desc"
+msgid ""
+"The royal family of Hyrule collected historically\n"
+"significant outfits, but they were stolen by a\n"
+"bandit named Misko. One of the items stolen\n"
+"was the helmet of the Usurper King.\n"
+"\n"
+"Somewhere in the <1.se_co>Deya Village Ruins<2.re_co>\n"
+"is a journal that places the location\n"
+"of this treasure..."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt_touzoku07_Finish"
+msgid ""
+"\"The helm of the self-proclaimed King of\n"
+"Shadows is in the swamp of the valley\n"
+"of dead trees, south of Dueling Peaks.\"\n"
+"\n"
+"You found the treasure that was hidden at\n"
+"Tobio's Hollow and obtained <1.se_co>Zant's Helmet<2.re_co>!"
+msgstr ""
+
+msgctxt "QL_TreasureHunt_touzoku07_Name"
+msgid "EX Treasure: Usurper King"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_TreasureHunt_touzoku07_Step01"
+msgid ""
+"\"The helm of the self-proclaimed King of\n"
+"Shadows is <1.se_co>in the swamp of the valley\n"
+"of dead trees, south of Dueling Peaks<2.re_co>.\"\n"
+"\n"
+"Misko's EX Journal 2 notes where the Usurper\n"
+"King's Helmet is hidden...but where could it\n"
+"be talking about?"
+msgstr ""
+

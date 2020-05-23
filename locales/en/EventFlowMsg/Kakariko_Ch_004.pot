@@ -1,0 +1,226 @@
+msgctxt "0000"
+msgid "You're pretty too."
+msgstr ""
+
+msgctxt "0001"
+msgid "They don't live long."
+msgstr ""
+
+msgctxt "Near00"
+msgid "Hello, firefly..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Hello, firefly..."
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: sound
+#. 6: pause (longer)
+#. 7: sound
+#. 8: pause (longer)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: pause (long)
+#. 12: pause (long)
+#. 13: sound
+#. 14: pause (longer)
+#. 15: pause (long)
+#. 16: sound
+msgctxt "Talk01"
+msgid ""
+"...<1.pa>\n"
+"\n"
+"\n"
+"<2.so>Hey! <3.pa>Who do you think you are?!<4.pa>\n"
+"Don't you think it's rude to barge\n"
+"into a lady's room at night?\n"
+"<5.so>...<6.pa>Huh?\n"
+"\n"
+"\n"
+"<7.so>Isn't that <8.pa>a <9.se_co>Sheikah Slate<10.re_co>?\n"
+"\n"
+"\n"
+"Could it be <11.pa>that you're the legendary\n"
+"swordsman grandma told me about?\n"
+"<12.pa>The one from the Great Calamity?!\n"
+"<13.so>Huh.<14.pa> I thought you'd be A LOT older.\n"
+"<15.pa>Honestly, it's hard for someone as young\n"
+"as me to imagine the Great Calamity...\n"
+"<16.so>But...judging by the look on your face,\n"
+"I suppose it's hard for you to imagine\n"
+"it too?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Talk07"
+msgid ""
+"<1.so>*sigh* <2.pa>I wish those <3.se_co>fireflies <4.re_co>would come\n"
+"play near my house..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "Talk09"
+msgid ""
+"<1.so>...<2.te_si>Oh! <3.pa>Wow!<4.te_si>\n"
+"\n"
+"Look at all those <5.se_co>fireflies<6.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (longer)
+#. 5: sound
+msgctxt "Talk10"
+msgid ""
+"<1.so>Oh! <2.pa>Thank you!\n"
+"\n"
+"\n"
+"<3.so>But...I'm afraid there aren't enough.\n"
+"<4.pa>There are so few, they disappear\n"
+"too quickly to enjoy.\n"
+"<5.so>It would be nice if you could find more\n"
+"before morning..."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: text_size
+#. 8: sound
+#. 9: pause (long)
+#. 10: text_size
+msgctxt "Talk11"
+msgid ""
+"<1.so>Hm? Your pouch is...glowing? <2.te_si><3.pa><4.te_si>Could it\n"
+"be you brought me some <5.se_co>fireflies<6.re_co>?<7.te_si>\n"
+"\n"
+"<8.so>I'm actually crazy busy right now...<9.pa>\n"
+"Maybe you could come by my house later?<10.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk12"
+msgid ""
+"<1.so>Huh? That glowing... <2.pa>Could it be you\n"
+"caught some?! Show me, show me!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "Talk13"
+msgid ""
+"<1.so>*sigh*\n"
+"\n"
+"\n"
+"They say the roads are dangerous at\n"
+"night, so I have to come straight home\n"
+"without searching for <2.se_co>fireflies<3.re_co>...\n"
+"I miss them so much. And the night sky...\n"
+"Now it's the same tired thing every night.\n"
+"I'm so sick of it...\n"
+"<4.so>If only the <5.se_co>fireflies <6.re_co>would come to play\n"
+"here so I could still see them..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk14"
+msgid ""
+"<1.so>They glow so prettily...\n"
+"It's magical...<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk17"
+msgid "<1.so>Heehee! <2.pa>Thanks!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk18"
+msgid "<1.so>Ugh! <2.pa>Boys are SO unromantic..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk20"
+msgid ""
+"<1.so>Thank you... This is all I have to offer,\n"
+"but please accept it with my gratitude!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Talk21"
+msgid ""
+"<1.so>You brought some <2.se_co>fireflies<3.re_co> for me,\n"
+"didn't you?! Show me, show me!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk23"
+msgid ""
+"<1.so>Ahhhh, I'm sooo tired! I'm eager to relax,\n"
+"so maybe we can chat at my place?"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: text_size
+#. 8: text_size
+#. 9: sound
+#. 10: pause (longer)
+msgctxt "Talk24"
+msgid ""
+"<1.so>Hm? Is your pouch...glowing? <2.te_si><3.pa><4.te_si>Could it\n"
+"be you caught some <5.se_co>fireflies<6.re_co>?<7.te_si><8.te_si>\n"
+"\n"
+"<9.so>I just got home, so...<10.pa>can you please give\n"
+"me a moment to settle in?"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: sound
+#. 6: pause (longer)
+msgctxt "Talk26"
+msgid ""
+"<1.so>...<2.te_si>Seriously?<3.pa><4.te_si>\n"
+"\n"
+"\n"
+"<5.so>Well...<6.pa>I suppose there are a lot of\n"
+"crazy things in this world that are\n"
+"hard to grasp.\n"
+"Oh, my name's Lasli. I run a clothing\n"
+"shop in the village with my older sister,\n"
+"Claree. You should stop by sometime."
+msgstr ""
+

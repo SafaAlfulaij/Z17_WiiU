@@ -1,0 +1,529 @@
+msgctxt "0000"
+msgid "It's yours."
+msgstr ""
+
+msgctxt "0001"
+msgid "It's yours."
+msgstr ""
+
+msgctxt "0002"
+msgid "It's yours."
+msgstr ""
+
+msgctxt "0003"
+msgid "It's yours."
+msgstr ""
+
+msgctxt "0004"
+msgid "It's yours."
+msgstr ""
+
+msgctxt "0005"
+msgid "I can't trade now."
+msgstr ""
+
+msgctxt "0006"
+msgid "Tell me..."
+msgstr ""
+
+msgctxt "0007"
+msgid "Nope, I'm good."
+msgstr ""
+
+msgctxt "0008"
+msgid "Goron style!"
+msgstr ""
+
+msgctxt "0009"
+msgid "Rito style!"
+msgstr ""
+
+msgctxt "0010"
+msgid "Zora style!"
+msgstr ""
+
+msgctxt "0011"
+msgid "Another way!"
+msgstr ""
+
+msgctxt "0012"
+msgid "Gerudo style!"
+msgstr ""
+
+msgctxt "0013"
+msgid "Sheikah style!"
+msgstr ""
+
+msgctxt "0014"
+msgid "My own way!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk_00"
+msgid ""
+"<1.so>Have you gone to the giant castle north\n"
+"of here? That's Hyrule Castle.\n"
+"\n"
+"It's said to have fallen to ruin over a\n"
+"hundred years ago.\n"
+"\n"
+"I used to sneak in there to salvage\n"
+"ancient treasures, but it's too dangerous\n"
+"to go in there now.\n"
+"<2.so>These days it's surrounded by an eerie\n"
+"mist and savage machine-like creatures.\n"
+"\n"
+"<3.so>Back when it was safer, I went in looking\n"
+"for this ultra-rare equipment that once\n"
+"belonged to the <4.se_co>royal guard<5.re_co>.\n"
+"It's legendary among collectors, but I\n"
+"was never able to find any..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_01"
+msgid ""
+"<1.so>I bet you there are still all kinds of \n"
+"treasures hidden away in Hyrule Castle\n"
+"that we don't even know about..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_hint00"
+msgid ""
+"<1.so>What?! You're planning to break into the\n"
+"castle? There are various ways to get in.\n"
+"You want some advice?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_hint01"
+msgid ""
+"<1.so>Do you want me to give you some advice\n"
+"on getting into the castle?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_hint02"
+msgid ""
+"<1.so>It's deathly dangerous near there so I\n"
+"can't recommend it, but if you're set on\n"
+"going, make sure you're prepared."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "talk_hintGerudo"
+msgid ""
+"<1.so>Gerudo style? If you have faith in your\n"
+"courage and technique, this is for you.\n"
+"\n"
+"There are machine-like monsters called\n"
+"Guardians lurking around the castle.\n"
+"\n"
+"Even if they target you with their lasers,\n"
+"don't back down. Just gallop past\n"
+"through the ruins of castle town!<2.so>\n"
+"It won't be easy, but if you're confident\n"
+"in your archery skills, just aim for the\n"
+"Guardians' eyes.\n"
+"Hitting them in their eyes will stun them\n"
+"long enough for you to slip past\n"
+"unharmed."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_hintGoron"
+msgid ""
+"<1.so>Right, Goron style. Do this if you have\n"
+"faith in your willpower and strength.\n"
+"The way in is simple and clear.\n"
+"Storm the castle's front gates! The key\n"
+"here is to bring along food that will\n"
+"restore your health and stamina."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_hintRito"
+msgid ""
+"<1.so>Rito style? If you're comfortable sailing\n"
+"through the air, this method is for you.\n"
+"\n"
+"Just head east or west from these plains,\n"
+"and swing 'round up the mountain to the\n"
+"north of the castle.\n"
+"Then just fly down toward the castle from\n"
+"there, over the moat, and find a safe spot\n"
+"to land."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_hintSelect00"
+msgid ""
+"<1.so>The best way to get into Hyrule Castle is\n"
+"to employ the styles of the people of\n"
+"Hyrule, obviously."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_hintSelect01"
+msgid "<1.so>Another way, huh?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_hintSelect02"
+msgid "<1.so>Want to hear other ways?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_hintSelect03"
+msgid ""
+"<1.so>So what's your style?\n"
+"Goron? Rito? Zora?\n"
+"Or another way?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_hintSelect04"
+msgid "<1.so>Gerudo? Sheikah? Or something else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound2
+#. 4: sound
+#. 5: pause (long)
+msgctxt "talk_hintSelf"
+msgid ""
+"<1.so>If you're so confident, you should do it\n"
+"like the legendary hero himself and just\n"
+"crush all the Guardians on your way in.<2.pa>\n"
+"<3.so>...Ah, just joking.\n"
+"<4.so>Heh...<5.pa> I'm just messing with you.\n"
+"Only a fool would try that."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: sound
+#. 4: sound2
+#. 5: sound
+msgctxt "talk_hintShiekah"
+msgid ""
+"<1.so>Sheikah style, eh?\n"
+"This is the method I use.\n"
+"\n"
+"Observe from a distance, and then try to\n"
+"sneak in a back entrance where there\n"
+"aren't many monsters patrolling.\n"
+"<2.so><3.so>I'll tell you about the two entrances I've\n"
+"found. The first one is called\n"
+"East Passage.\n"
+"To find it, cross Helmhead Bridge to the\n"
+"east of the castle, and with the castle on\n"
+"your left, climb up the hill.\n"
+"Look closely and you'll see an entrance\n"
+"to a tunnel in the middle of the castle.\n"
+"\n"
+"The luminous stones near the entrance\n"
+"sparkle at night, making it easy to find.\n"
+"\n"
+"<4.so><5.so>The second entrance is the docks.\n"
+"\n"
+"\n"
+"From the island west of the castle, use\n"
+"the raft near the dock to sail to the\n"
+"north side. You'll find the docks there.\n"
+"Those are the only hidden entrances I\n"
+"know of."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_hintZora"
+msgid ""
+"<1.so>Ah, Zora style. If you're a strong\n"
+"swimmer who can swim up streams and \n"
+"waterfalls, this is a good option.\n"
+"There's a moat surrounding the castle.\n"
+"It's a little tough to swim through, but\n"
+"there are a few waterfalls still running.\n"
+"Just swim up one of those and you\n"
+"should be able to make it."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_notSell"
+msgid ""
+"<1.so>I guess it wasn't meant to be...\n"
+"Wish I had something else to offer you."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_sellDiamond"
+msgid ""
+"<1.so>I've finally collected everything in the\n"
+"royal guard's series! Thank you!\n"
+"\n"
+"I'll trade you a ruby for another\n"
+"royal guard weapon.\n"
+"\n"
+"I already have the entire set, but I want\n"
+"to keep collecting them!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_sellDone"
+msgid "<1.so>Really?! Thank you!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_sellPorchFull"
+msgid ""
+"<1.so>Looks like you're full up. Come again\n"
+"after you make room in your pouch."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_sellWeaponBow00"
+msgid "<1.so>Hey, that bow..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponBow01"
+msgid "<1.so>Will you trade it for a ruby?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponBow02"
+msgid "<1.so>Will you trade it for a sapphire?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponBow03"
+msgid "<1.so>Will you trade it for a topaz?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponBow04"
+msgid "<1.so>Will you trade it for a diamond?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_sellWeaponLSword00"
+msgid "<1.so>Hey, that big sword..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponLSword01"
+msgid "<1.so>Will you trade it for a ruby?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponLSword02"
+msgid "<1.so>Will you trade it for a sapphire?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponLSword03"
+msgid "<1.so>Will you trade it for a topaz?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponLSword04"
+msgid "<1.so>Will you trade it for a diamond?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_sellWeaponShield00"
+msgid "<1.so>Hey, that shield..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponShield01"
+msgid "<1.so>Will you trade it for a ruby?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponShield02"
+msgid "<1.so>Will you trade it for a sapphire?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponShield03"
+msgid "<1.so>Will you trade it for a topaz?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponShield04"
+msgid "<1.so>Will you trade it for a diamond?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_sellWeaponSpear00"
+msgid "<1.so>Hey, that spear..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponSpear01"
+msgid "<1.so>Will you trade it for a ruby?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponSpear02"
+msgid "<1.so>Will you trade it for a sapphire?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponSpear03"
+msgid "<1.so>Will you trade it for a topaz?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponSpear04"
+msgid "<1.so>Will you trade it for a diamond?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_sellWeaponSword00"
+msgid "<1.so>Hey, that sword..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponSword01"
+msgid "<1.so>Will you trade it for a ruby?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponSword02"
+msgid "<1.so>Will you trade it for a sapphire?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponSword03"
+msgid "<1.so>Will you trade it for a topaz?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk_sellWeaponSword04"
+msgid "<1.so>Will you trade it for a diamond?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (30f)
+msgctxt "talk_showWeapon00"
+msgid "<1.so>This is<2.pa>...<3.pa>incredible."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_showWeapon01"
+msgid ""
+"<1.so>Thank you. You have shown me\n"
+"something truly spectacular. I need to go\n"
+"out and find one of these myself."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_showWeapon02"
+msgid "<1.so>Here's a token of my appreciation."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_showWeaponBow"
+msgid ""
+"<1.so>Wait just a minute! Can you show me\n"
+"that bow you've got there?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_showWeaponLSword"
+msgid ""
+"<1.so>Wait just a minute! Can you show me\n"
+"that big sword you've got there?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_showWeaponShield"
+msgid ""
+"<1.so>Wait just a minute! Can you show me\n"
+"that shield you've got there?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_showWeaponSpear"
+msgid ""
+"<1.so>Wait just a minute! Can you show me\n"
+"that spear you've got there?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_showWeaponSword"
+msgid ""
+"<1.so>Wait just a minute! Can you show me\n"
+"that sword you've got there?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk_sleep00"
+msgid ""
+"<1.so>HEY!<2.pa> You've got some gall waking up a\n"
+"sleeping stranger! Show a little respect!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_sleep01"
+msgid "<1.so>I'M SLEEPY! GO AWAY!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+#. 4: sound
+#. 5: sound
+msgctxt "talk_sleep02"
+msgid ""
+"<1.so>HEY! You've got some nerve waking\n"
+"up a sleeping stranger. <2.pa>And...<3.pa>\n"
+"WHERE ARE YOUR CLOTHES?!\n"
+"<4.so>GET AWAY FROM ME, YOU CREEP!<5.so>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk_sleep03"
+msgid ""
+"<1.so>Here's some friendly advice—don't wake\n"
+"up strangers when you're not wearing\n"
+"clothes,<2.pa> you little creep."
+msgstr ""
+

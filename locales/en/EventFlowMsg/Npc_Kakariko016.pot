@@ -1,0 +1,385 @@
+#. 1: sound
+msgctxt "SupriseHouse"
+msgid "<1.so>Argh! Who's there?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: text_size
+#. 4: text_size
+msgctxt "SupriseHouse_00"
+msgid ""
+"<1.so>Oh! <2.pa>It's Mr. Hero...\n"
+"\n"
+"\n"
+"<3.te_si>You scared me half to death...<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: pause (long)
+msgctxt "Talk_01"
+msgid ""
+"<1.so><2.se_co>Enchanted<3.re_co> is open for business every\n"
+"day of the year!<4.pa>\n"
+"\n"
+"...Oh, my.<5.pa> Look at that face!\n"
+"You are TOTALLY my type.\n"
+"Hi."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "Talk_02"
+msgid "<1.te_si><2.so>A Sheikah Slate?!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_03"
+msgid ""
+"<1.so>Isn't that, like...<2.pa>an incredible thing that\n"
+"only incredible people can have?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_04"
+msgid ""
+"<1.so>We're open rain or shine!\n"
+"<2.se_co>Enchanted<3.re_co>, right this way!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_05"
+msgid ""
+"<1.so>We're open every day!\n"
+"<2.se_co>Enchanted<3.re_co>, right this way!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_06"
+msgid ""
+"<1.so>Good morniiing! You sure look chipper,\n"
+"even though the day's just begun!\n"
+"\n"
+"I'm about to go into Claree's place.\n"
+"If you're after some new threads,\n"
+"you're welcome to come along."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: pause (short)
+#. 7: pause (short)
+#. 8: pause (longer)
+#. 9: sound
+#. 10: pause (longer)
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: pause (long)
+#. 14: pause (long)
+#. 15: sound
+#. 16: pause (longer)
+#. 17: pause (long)
+#. 18: sound
+msgctxt "Talk_09"
+msgid ""
+"<1.so>...<2.pa>\n"
+"\n"
+"\n"
+"<3.so>HEY!<4.pa> How could you BE so rude!\n"
+"Bothering a lady in her room!<5.pa>\n"
+"And AT NIGHT of all times!\n"
+"...<6.pa>\n"
+"...<7.pa>\n"
+"...Huh?<8.pa>\n"
+"<9.so>Isn't that...<10.pa>a <11.se_co>Sheikah Slate<12.re_co>?\n"
+"\n"
+"\n"
+"Are you the hero Grandmother told me\n"
+"about?<13.pa> The legendary swordsman...<14.pa>\n"
+"of the Great Calamity?\n"
+"<15.so>WOW!<16.pa> I figured you'd be all old and\n"
+"wrinkly by now. <17.pa>But you SO are not...\n"
+"\n"
+"Young people like me have a hard time\n"
+"wrapping our heads around something\n"
+"like the Great Calamity.\n"
+"<18.so>Huh... Judging by the look on your face,\n"
+"I dare say you're having a hard time\n"
+"with it too."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (longer)
+#. 4: sound
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+#. 9: pause (long)
+#. 10: pause (short)
+msgctxt "Talk_10"
+msgid ""
+"<1.so>Oh! You're paying me a visit?\n"
+"That's sweet of you.\n"
+"\n"
+"<2.so>Ya know, I used to really love the night.\n"
+"At night the world sparkles and shines\n"
+"in an almost magical way. It's beautiful.\n"
+"Oh, and fireflies are everywhere!<3.pa>\n"
+"Though trying to sneak up on and\n"
+"catch them is quite a challenge.\n"
+"<4.so>There were times when I'd stay out so\n"
+"late, I didn't realize morning had come.\n"
+"Grandmother always scolded me for that.\n"
+"<5.so>But that's all in the past. Now there are\n"
+"monsters around the village and rumors\n"
+"that the <6.se_co>Yiga Clan<7.re_co> is nearby and active...\n"
+"<8.so>That's why I'm forced to lounge around\n"
+"at home instead of chasing the night.<9.pa>\n"
+"*sigh*<10.pa> I wish I could do something..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "Talk_11"
+msgid ""
+"<1.so>The fireflies were so pretty...<2.pa>\n"
+"I didn't think I'd ever see them again.<3.pa>\n"
+"Thank you, Mr. Hero."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_12"
+msgid ""
+"<1.so>I don't know why, <2.pa>but seeing fireflies\n"
+"always warms my heart..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_13"
+msgid ""
+"<1.so>Oh, my! It's already so dark!\n"
+"I've gotta get back home right away,\n"
+"or Grandmother will scold me!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_14"
+msgid ""
+"<1.so>Wow, the fireflies were gorgeous today.\n"
+"I love that you can see them all year\n"
+"long in this village.\n"
+"But...they're really hard to catch.\n"
+"I was pretty good at it when I was\n"
+"a kid, though."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (long)
+#. 7: pause (short)
+msgctxt "Talk_15"
+msgid ""
+"<1.so>I used to go out at night to catch\n"
+"fireflies. They fly away quickly, so you \n"
+"have to sneak up on them slowly.\n"
+"It's more than fun...it's magical.\n"
+"\n"
+"\n"
+"<2.so>But that's all in the past. Now there are\n"
+"monsters around the village and rumors\n"
+"that the <3.se_co>Yiga Clan<4.re_co> is nearby and active...\n"
+"<5.so>That's why I'm forced to stay inside\n"
+"when it's dark instead of chasing the\n"
+"night.<6.pa> *sigh*<7.pa> I wish I could do something."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Talk_16"
+msgid ""
+"<1.so>I saw some fireflies fireflying around,\n"
+"so now I'm in a good mood and ready\n"
+"to face the day!\n"
+"I'm gonna do my best to get lots of\n"
+"customers today! <2.pa>Promise to come\n"
+"back again soon, Mr. Hero!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_20"
+msgid ""
+"<1.so>We've sold through all of our stock... \n"
+"\n"
+"\n"
+"<2.so>But don't worry! The lovely Claree\n"
+"is always happy to greet you.\n"
+"See for yourself!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_21"
+msgid "<1.so>Good morniiing!<2.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "Talk_23"
+msgid ""
+"<1.so>I can't believe it! I can see fireflies right\n"
+"outside my house! <2.pa>Life doesn't get any\n"
+"better than this.\n"
+"I really owe you one... <3.pa>Oh! Oh!\n"
+"I bet Claree would like a picture\n"
+"of this!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: sound
+#. 6: pause (long)
+msgctxt "Talk_25"
+msgid ""
+"<1.so>We're open rain or shine!\n"
+"<2.se_co>Enchanted<3.re_co>, right this...<4.pa>\n"
+"right this way...\n"
+"<5.so>Oh, my... What's this?<6.pa> Look at that face!\n"
+"You are TOTALLY my type. Hi."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: sound
+#. 5: text_size
+msgctxt "Talk_26"
+msgid ""
+"<1.so><2.te_si>You must be kidding me...<3.pa>\n"
+"\n"
+"\n"
+"<4.so><5.te_si>I don't...know about that kind of stuff.\n"
+"But I'm pretty sure the hero of legend\n"
+"is on...like, a quest or something?\n"
+"I'm, uh, running a clothing shop here...\n"
+"so stop by if you're looking for\n"
+"something cute to wear."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: sound
+#. 6: set_colour (red)
+#. 7: reset_colour
+msgctxt "Talk_27"
+msgid ""
+"<1.so><2.te_si>...Are you kidding me?<3.pa><4.te_si>\n"
+"\n"
+"\n"
+"<5.so>Um, you should go see <6.se_co>Lady Impa<7.re_co>.\n"
+"She seems like she would know about\n"
+"that kind of thing."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_28"
+msgid "<1.so>Wow, it's really coming down!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_29"
+msgid ""
+"<1.so>Good morniiing! The weather's kinda\n"
+"yuck today, isn't it?\n"
+"\n"
+"I'm going into Claree's place now,\n"
+"but feel free to tag along if you're\n"
+"looking to buy some new clothes."
+msgstr ""
+
+#. 1: pause (long)
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (longer)
+#. 6: sound
+#. 7: pause (longer)
+msgctxt "Talk_30"
+msgid ""
+"Ooh, <1.pa>and you even have a <2.se_co>Sheikah Slate<3.re_co>\n"
+"on your hip!\n"
+"\n"
+"<4.so>...<5.pa>\n"
+"\n"
+"\n"
+"<6.so>Wait...<7.pa>huh?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+msgctxt "Talk_32"
+msgid ""
+"<1.so>You sure look chipper even though\n"
+"it's such a rainy day.\n"
+"\n"
+"<2.so>...Oh, my.<3.pa> Look at that face!\n"
+"You are TOTALLY my type.\n"
+"Hi."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (long)
+msgctxt "Talk_33"
+msgid ""
+"<1.so>Hm? <2.pa>Who is it?\n"
+"\n"
+"\n"
+"<3.so>Oh, my... What's this?<4.pa> Look at that face!\n"
+"You are TOTALLY my type!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk_34"
+msgid ""
+"<1.so>I'm not sure what this all means, mister...<2.pa>\n"
+"But it seems you're a great deal more\n"
+"important than you appear."
+msgstr ""
+
+msgctxt "near00"
+msgid "Hm?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "near01"
+msgid "<1.so>New clothes! Cute outfits!"
+msgstr ""
+

@@ -1,0 +1,2278 @@
+msgctxt "0000"
+msgid "I've been sleeping."
+msgstr ""
+
+msgctxt "0001"
+msgid "I lost my memory."
+msgstr ""
+
+msgctxt "0002"
+msgid "Mipha who?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Doesn't ring a bell."
+msgstr ""
+
+msgctxt "0004"
+msgid "I'm ready!"
+msgstr ""
+
+msgctxt "0005"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "0008"
+msgid "I remember."
+msgstr ""
+
+msgctxt "0009"
+msgid "Just a bit..."
+msgstr ""
+
+msgctxt "0010"
+msgid "I'm so sorry..."
+msgstr ""
+
+msgctxt "0011"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "0012"
+msgid "I'm ready."
+msgstr ""
+
+msgctxt "0013"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "0014"
+msgid "What sword?"
+msgstr ""
+
+msgctxt "0015"
+msgid "Perhaps."
+msgstr ""
+
+msgctxt "0016"
+msgid "I'm on it!"
+msgstr ""
+
+msgctxt "0017"
+msgid "Come again?"
+msgstr ""
+
+msgctxt "0018"
+msgid "I'm in. Let's do this!"
+msgstr ""
+
+msgctxt "0019"
+msgid "I, um..."
+msgstr ""
+
+msgctxt "0020"
+msgid "Mipha... I remember."
+msgstr ""
+
+#. 1: animation
+msgctxt "0022"
+msgid "<1.an>No problem!"
+msgstr ""
+
+msgctxt "0023"
+msgid "Let's retreat."
+msgstr ""
+
+msgctxt "0024"
+msgid "Never surrender!"
+msgstr ""
+
+msgctxt "0025"
+msgid "I heard Zelda's voice."
+msgstr ""
+
+msgctxt "0026"
+msgid "Yes, in Hyrule Castle."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_F_001"
+msgid ""
+"<1.so>Link! You did well to survive your trial!<2.pa>\n"
+"I have been awaiting your return!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_Zora003_F_002"
+msgid ""
+"<1.so>The violent downpour has disappeared,\n"
+"as has the threat to Zora's Domain!\n"
+"It is all little more than a bad dream now.\n"
+"<2.so>Thanks to your efforts, there is no longer\n"
+"any danger of a great flood laying waste\n"
+"to <3.se_co>Hyrule<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_003"
+msgid ""
+"<1.so>The heavy rains have stopped, and the\n"
+"Divine Beast is our ally once again!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: choice
+msgctxt "Npc_Zora003_F_004"
+msgid ""
+"<1.so>By the way, Link. <2.pa>I see you are without\n"
+"your trusty blade...the <3.se_co>sword that seals\n"
+"the darkness<4.re_co>.\n"
+"<5.so>Did you perhaps lose it when you lost\n"
+"your memory?<6.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_005"
+msgid ""
+"<1.so>It is no doubt resting somewhere in\n"
+"Hyrule even now...waiting for its\n"
+"master to return."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_006"
+msgid ""
+"<1.so>It undoubtedly found a safe place\n"
+"to wait for you...sleeping soundly,\n"
+"just like its master."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: sound
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: set_colour (blue)
+#. 13: reset_colour
+msgctxt "Npc_Zora003_F_007"
+msgid ""
+"<1.so>Speaking of the <2.se_co>sword that seals the\n"
+"darkness<3.re_co>... <4.pa>I hear that a legendary\n"
+"blade now sleeps in the <5.se_co>Lost Woods<6.re_co>.\n"
+"Mind that I cannot say with certainty\n"
+"that it is the same blade you wielded\n"
+"100 years ago.\n"
+"<7.se_co><8.so><9.re_co>Still, I advise you to go there and see it\n"
+"for yourself. The <10.se_co>Lost Woods <11.re_co>are to\n"
+"the west, north of <12.se_co>Hyrule Castle<13.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_008"
+msgid ""
+"<1.so>Link, all of the Zora thank you from the\n"
+"depths of our hearts for your heroic\n"
+"and selfless work!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+msgctxt "Npc_Zora003_F_009"
+msgid ""
+"<1.so>As your father,<2.pa> I am proud of you\n"
+"for fighting the Divine Beast\n"
+"alongside Link.\n"
+"<3.so>You have grown much recently.<4.pa> I know\n"
+"you will be a worthy heir when your\n"
+"time comes."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (20f)
+msgctxt "Npc_Zora003_F_010"
+msgid ""
+"<1.so>Oh...but I see you already awakened the\n"
+"sword that seals the darkness. Perhaps\n"
+"you do not have need of this after all.\n"
+"<2.so>What you have there is a legendary blade\n"
+"that only you can wield.<3.pa> You must take\n"
+"great care of it."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_011"
+msgid "<1.so>Hm. So you have forgotten that as well..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_012"
+msgid "<1.so>What? Is it truly lost?!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_013"
+msgid ""
+"<1.so>That is a legendary blade that only you,\n"
+"the Hylian Champion, can wield."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_014"
+msgid ""
+"<1.so>I expect it was awaiting your return while\n"
+"you slept, resting in a sacred forest\n"
+"or some such."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_F_015"
+msgid "<1.so>Link!<2.pa> I must reward your efforts!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_016"
+msgid "<1.so>...And you too, Sidon."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Npc_Zora003_F_018"
+msgid ""
+"<1.so>You appeased the Divine Beast Vah Ruta\n"
+"and thusly saved <2.se_co>Zora's Domain<3.re_co>!\n"
+"\n"
+"<4.so>We are all truly grateful! What you did\n"
+"for us is more than we could have\n"
+"ever expected of you."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (20f)
+msgctxt "Npc_Zora003_F_019"
+msgid ""
+"<1.so>Now then! I implore you to collect the\n"
+"treasure inside that chest over there.\n"
+"\n"
+"<2.so>It was cherished by Mipha. A memento\n"
+"of sorts. <3.pa>I would like you to have it as\n"
+"a token of our friendship.\n"
+"Please take good care of it."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_F_020"
+msgid ""
+"<1.so>How glorious! Truly splendid!\n"
+"Wah ha ha ha!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: pause (20f)
+#. 4: pause (20f)
+#. 5: pause (20f)
+#. 6: sound
+#. 7: pause (20f)
+#. 8: pause (20f)
+msgctxt "Npc_Zora003_R_001"
+msgid ""
+"<1.so>Hm?<2.pa> Well, I'll be!<3.pa>\n"
+"Are you not...<4.pa>a Hylian?\n"
+"\n"
+"By chance, did my son, Sidon, ask you\n"
+"to come here?<5.pa> I am so glad you could\n"
+"make it!\n"
+"<6.so>So then... <7.pa>Where is Sidon?<8.pa>\n"
+"Did he not come with you?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_R_002"
+msgid "<1.so>Ah. You are a Hylian, are you not?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_R_003"
+msgid ""
+"<1.so>Ah. <2.pa>You must be the Hylian that Sidon\n"
+"brought here, correct?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: pause (20f)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: text_size
+#. 8: text_size
+#. 9: raw
+msgctxt "Npc_Zora003_R_004"
+msgid ""
+"<1.so>Hm? <2.pa>That object upon your waist...<3.pa>\n"
+"is that not a <4.se_co>Sheikah Slate<5.re_co>?!\n"
+"\n"
+"<6.so><7.te_si>HMMM?!<8.te_si><9.ra>Now that I have gotten a good look\n"
+"at you, it is all too clear who you are..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: pause (20f)
+msgctxt "Npc_Zora003_R_005"
+msgid ""
+"<1.so>Come again? <2.pa>Sleeping, you say...<3.pa>\n"
+"Hm. Is that why you do not seem\n"
+"to remember me?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_R_006"
+msgid ""
+"<1.so>Come again? <2.pa>You say you have lost\n"
+"your memory?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: choice
+msgctxt "Npc_Zora003_R_007"
+msgid ""
+"<1.so>But surely you must remember my\n"
+"precious daughter, Mipha, yes?<2.pa>\n"
+"You do, do you not?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (10f)
+#. 4: sound
+msgctxt "Npc_Zora003_R_008"
+msgid ""
+"<1.so>I cannot believe it... Have you truly\n"
+"forgotten my dear Mipha as well?\n"
+"\n"
+"<2.so>You and Mipha were so close...<3.pa>\n"
+"Yet you do not remember her?\n"
+"\n"
+"<4.so>Young hero... Please look upon the\n"
+"beauty of Zora's Domain."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_R_010"
+msgid ""
+"<1.so>But first, it is worth noting<2.pa> how\n"
+"remarkable it is that Sidon brought\n"
+"a Champion here without realizing it!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (20f)
+#. 7: sound
+msgctxt "Npc_Zora003_R_011"
+msgid ""
+"<1.so>Now then. Hero...I must inform you that\n"
+"Zora's Domain is in danger of vanishing\n"
+"<2.pa>because of <3.se_co>Divine Beast Vah Ruta<4.re_co>.\n"
+"<5.so>I shall do you the courtesy of speaking\n"
+"bluntly. <6.pa>We alone cannot stop this beast.\n"
+"\n"
+"<7.so>Will you lend us your strength?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_R_012"
+msgid ""
+"<1.so>Muzu, I expected more of you.<2.pa>\n"
+"How can you still protest?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: raw
+#. 6: sound
+#. 7: reset_colour
+#. 8: pause (10f)
+#. 9: sound
+#. 10: pause (20f)
+#. 11: sound
+#. 12: pause (20f)
+#. 13: sound
+#. 14: set_colour (blue)
+#. 15: reset_colour
+#. 16: raw
+#. 17: sound
+#. 18: set_colour (blue)
+#. 19: reset_colour
+#. 20: pause (10f)
+#. 21: sound
+msgctxt "Npc_Zora003_R_013"
+msgid ""
+"<1.so>...<2.ra><3.so>Link...<4.se_co><5.ra><6.so>Divine Beast Vah Ruta "
+"<7.re_co>has great power.<8.pa>\n"
+"It has the unique ability to create an\n"
+"endless supply of water.\n"
+"<9.so>Of late it has been mercilessly spouting\n"
+"water into the air.<10.pa> As a result, this area\n"
+"has been plagued by heavy rains.\n"
+"<11.so>For us Zora, water and air are as one,<12.pa>\n"
+"so you would not think this would be\n"
+"quite so critical of a problem.\n"
+"<13.so>Sadly, the rains have filled the eastern\n"
+"<14.se_co>reservoir<15.re_co> nearly to the point of "
+"flooding.<16.ra><17.so>If the <18.se_co>reservoir<19.re_co> bursts, as it"
+" soon will,<20.pa>\n"
+"I fear immense damage will befall not\n"
+"only Zora's Domain...\n"
+"<21.so>but also the area downstream from us.\n"
+"There, Hylian lives are in very\n"
+"grave danger."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (longer)
+msgctxt "Npc_Zora003_R_014"
+msgid ""
+"<1.so>Thank you, Link. Truly.\n"
+"We are in your debt.\n"
+"\n"
+"<2.so>Our goal is the same. <3.pa>That means our\n"
+"meeting was nothing short of destiny.\n"
+"\n"
+"<4.so>Now then, allow me to offer you this gift\n"
+"as a show of faith.<5.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_R_015"
+msgid ""
+"<1.so>Hmm...<2.pa> The Divine Beast is crying out\n"
+"once again..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: raw
+#. 5: sound
+#. 6: pause (10f)
+#. 7: sound
+#. 8: pause (10f)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: sound
+#. 12: set_colour (red)
+#. 13: reset_colour
+#. 14: pause (10f)
+#. 15: sound
+msgctxt "Npc_Zora003_R_016"
+msgid ""
+"<1.so>The <2.se_co>Divine Beast Vah Ruta<3.re_co>...<4.ra><5.so>Your "
+"princess, Zelda, often studied the\n"
+"Divine Beasts.<6.pa> That is, in the time before\n"
+"the Great Calamity.\n"
+"<7.so>According to her research,<8.pa> the orbs\n"
+"located on <9.se_co>Ruta<10.re_co>'s shoulders...\n"
+"\n"
+"<11.so>are <12.se_co>mechanisms that can control\n"
+"the water it generates<13.re_co>. <14.pa>However,\n"
+"they require electricity to work.\n"
+"<15.so>These orbs are clearly out of control\n"
+"now because there is no electricity\n"
+"coursing through to stop them."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+msgctxt "Npc_Zora003_R_017"
+msgid ""
+"<1.so>Hmm, but what shall we do now?<2.ra><3.so>I tasked Muzu with "
+"finding the\n"
+"<4.se_co>shock arrows <5.re_co>we will need to\n"
+"appease <6.se_co>Vah Ruta<7.re_co>.\n"
+"<8.so>But now he has rushed off in a huff..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+msgctxt "Npc_Zora003_R_020"
+msgid ""
+"<1.so>Well, perhaps your memory will return\n"
+"in time.<2.pa>\n"
+"\n"
+"<3.so>I dearly hope so."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: sound
+#. 4: raw
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (10f)
+#. 9: sound
+msgctxt "Npc_Zora003_R_021"
+msgid ""
+"<1.so>Indeed!<2.pa> Link is a Champion,\n"
+"through and through.\n"
+"\n"
+"<3.so>As things now stand, Zora's Domain...<4.ra><5.so>Nay! Perhaps all "
+"of <6.se_co>Hyrule<7.re_co>...<8.pa>is doomed\n"
+"to be swallowed by the sea.\n"
+"\n"
+"<9.so>This is bigger than all of us, my friend.\n"
+"Zora and Hylians alike must put aside\n"
+"our differences and band together."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: raw
+#. 4: sound
+msgctxt "Npc_Zora003_R_022"
+msgid ""
+"<1.so>Hmph.<2.pa> That Muzu is not easily swayed\n"
+"once his mind is set.<3.ra><4.so>You must understand... He was in charge\n"
+"of educating my dear daughter, Mipha."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+msgctxt "Npc_Zora003_R_023"
+msgid ""
+"<1.so>Link...<2.pa> Muzu is most likely at the\n"
+"square down below.\n"
+"\n"
+"<3.so>Would you mind going down there?<4.pa>\n"
+"I would like you to try to speak\n"
+"with him."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: raw
+#. 5: sound
+msgctxt "Npc_Zora003_R_025"
+msgid ""
+"<1.se_co><2.so><3.re_co>You are the Hylian Champion, Link!<4.ra><5.so>Do "
+"not tell me you have forgotten me..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: sound
+#. 6: choice
+msgctxt "Npc_Zora003_R_026"
+msgid ""
+"<1.so>I cannot believe it. The Hylian Champion,\n"
+"Link, has appeared before us... <2.pa>We have\n"
+"met numerous times, I'll have you know.\n"
+"<3.so>Ah... So many memories! <4.pa>My mind is\n"
+"overflowing with nostalgia, my friend.\n"
+"\n"
+"<5.so>I had heard a terrible rumor that you had\n"
+"fallen in combat, but it appears you\n"
+"managed to survive. Extraordinary!<6.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: pause (20f)
+#. 3: text_size
+msgctxt "Npc_Zora003_R_028"
+msgid ""
+"<1.te_si>Sidon...<2.pa> I suppose that means you are\n"
+"going to tell him...<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+msgctxt "Npc_Zora003_R_029"
+msgid "<1.so>Oh? <2.pa>Yes, of course."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_Zora003_R_030"
+msgid ""
+"<1.so>Link, your pouch appears to be full.<2.pa>\n"
+"Please make some space in there so\n"
+"I may gift you this <3.se_co>Zora armor<4.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (10f)
+msgctxt "Npc_Zora003_R_032"
+msgid ""
+"<1.so><2.se_co>Link<3.re_co>, I doubt not that you have endured\n"
+"a great many trials. <4.pa>Still, I must ask you\n"
+"to hear my plea."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_R_033"
+msgid "<1.so>That is quite a feat, my boy!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound
+msgctxt "Npc_Zora003_R_034"
+msgid ""
+"<1.so>So long as you wear this,<2.pa> you can\n"
+"<3.se_co>ascend waterfalls <4.re_co>just like a Zora.\n"
+"\n"
+"<5.so>Please, take good care of it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_R_035"
+msgid ""
+"<1.so>Do you see that statue? <2.pa>Does gazing\n"
+"upon Mipha's immortalized form still\n"
+"not jog your memory?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: sound
+#. 4: sound
+msgctxt "Npc_Zora003_R_036"
+msgid ""
+"<1.so>Naturally, she means a lot to him...<2.pa>\n"
+"just as she means the world to us.\n"
+"\n"
+"<3.so>Ever since we lost her to the Calamity,\n"
+"he has grown to despise Hylians.\n"
+"\n"
+"<4.so>I hope you can forgive his rudeness."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_R_037"
+msgid ""
+"<1.so>I am King Dorephan, ruler of the Zora.<2.pa>\n"
+"You did well to come all the way here!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_R_038"
+msgid "<1.so>You did well to come all the way here!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_R_039"
+msgid "<1.so>I am King Dorephan, ruler of the Zora."
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "Npc_Zora003_R_040"
+msgid ""
+"<1.so>Hm? What is the matter, Link?\n"
+"You seem to be looking about\n"
+"as though in a bother...<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "Npc_Zora003_R_041"
+msgid ""
+"<1.so>Lady Zelda's voice, you say?!\n"
+"\n"
+"\n"
+"Lady Zelda...is still alive?!<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: pause (short)
+msgctxt "Npc_Zora003_R_042"
+msgid ""
+"<1.so>I do not believe it...<2.pa> She was alive this\n"
+"whole time, just as you were!\n"
+"\n"
+"The events of 100 years ago cannot be\n"
+"altered, it is true.<3.pa>\n"
+"\n"
+"But if we can regain control of the Divine\n"
+"Beasts...they may yet prove useful in\n"
+"sealing Calamity Ganon once and for all!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_R_043"
+msgid ""
+"<1.so>The creature behind that roar\n"
+"you just heard..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: sound
+#. 7: single_choice
+msgctxt "Npc_Zora003_R_044"
+msgid ""
+"<1.so>Whaaat?!<2.pa>\n"
+"\n"
+"\n"
+"<3.so>Princess Zelda herself instructed you\n"
+"to board the<4.se_co> Divine Beast<5.re_co> and appease\n"
+"it from within?\n"
+"<6.so>So then...Princess Zelda is still alive?<7.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora003_R_045"
+msgid "<1.so>Wah ha ha! That is a good one!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (long)
+msgctxt "Npc_Zora003_R_046"
+msgid ""
+"<1.so>Sidon was looking for a Hylian to bring\n"
+"to Zora's Domain.\n"
+"\n"
+"<2.so>And now you have come...<3.pa>as if led by\n"
+"something."
+msgstr ""
+
+msgctxt "Npc_Zora003_R_Near"
+msgid "Hmm..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+msgctxt "Npc_Zora003_S1_001"
+msgid ""
+"<1.so>Link...<2.pa> Muzu is most likely at the\n"
+"square down below.\n"
+"\n"
+"<3.so>Would you mind going down there?<4.pa>\n"
+"I need you to convince him to fulfill\n"
+"his duty."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_S1_002"
+msgid ""
+"<1.so>Ah, Link!<2.pa> I was unable to give this\n"
+"to you earlier, so please take it\n"
+"now, along with my best wishes."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: sound
+msgctxt "Npc_Zora003_S1_003"
+msgid ""
+"<1.so>Oh. Link...<2.pa> It seems your inventory is full.\n"
+"\n"
+"\n"
+"<3.so>Please return after you have made\n"
+"some room."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: sound
+msgctxt "Npc_Zora003_S1_004"
+msgid ""
+"<1.so>My daughter, Mipha, put her heart and\n"
+"soul into making that <2.se_co>Zora armor<3.re_co>.\n"
+"\n"
+"<4.so>So long as you wear it, even a Hylian\n"
+"like yourself will have<5.se_co> the power to\n"
+"ascend waterfalls <6.re_co>like a Zora.\n"
+"<7.so>Please take good care of it."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_Zora003_S1_005"
+msgid ""
+"<1.so>Muzu... What am I to do with him?\n"
+"\n"
+"\n"
+"<2.so>He insists he will not cooperate unless\n"
+"you prove you are the one Mipha had\n"
+"feelings for.\n"
+"<3.so>If only there was a way to prove that\n"
+"this <4.se_co>Zora armor <5.re_co>is rightfully yours..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+msgctxt "Npc_Zora003_S2_001"
+msgid ""
+"<1.so>You were informed how to appease the\n"
+"Divine Beast, were you not?<2.pa> Sidon can\n"
+"be found at <3.se_co>East Reservoir Lake<4.re_co>.\n"
+"<5.so>I ask that you meet up with him and do\n"
+"all you can to calm the Divine Beast."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_S2_003"
+msgid "<1.so>You remember!<2.pa> That is wonderful!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "Npc_Zora003_S2_004"
+msgid ""
+"<1.so>No, please do not apologize. It is not\n"
+"your fault.<2.pa> All of this is the despicable\n"
+"work of <3.se_co>Calamity Ganon<4.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_S2_005"
+msgid ""
+"<1.so>You mean...what happened to Mipha?<2.pa>\n"
+"Not even I know that."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (20f)
+#. 5: sound
+#. 6: pause (20f)
+#. 7: sound
+#. 8: pause (20f)
+msgctxt "Npc_Zora003_S2_006"
+msgid ""
+"<1.so><2.se_co>Calamity Ganon<3.re_co> took control of the\n"
+"four Divine Beasts...<4.pa>and trapped\n"
+"the Champions inside of them.\n"
+"<5.so>Since then, not a single one of them has\n"
+"returned. <6.pa>It pains me to think what must\n"
+"have happened.\n"
+"<7.so>All I can do is hope and pray, <8.pa>though I\n"
+"am well aware of the odds that anyone\n"
+"could have survived something like that."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_S2_007"
+msgid ""
+"<1.so>I see! Well, even if you only remember\n"
+"her a little, that is better than nothing.<2.pa>\n"
+"It warms my heart to hear it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: sound
+#. 4: sound
+#. 5: choice
+msgctxt "Npc_Zora003_S2_008"
+msgid ""
+"<1.so>I was so proud when Mipha was chosen\n"
+"as our Champion...<2.pa>but I was also quite\n"
+"distressed about it.\n"
+"<3.so>When Calamity Ganon took control of\n"
+"Divine Beast Vah Ruta...it all happened\n"
+"so fast.\n"
+"<4.so>I cannot help but feel that I should have\n"
+"tried harder to keep Mipha from harm...\n"
+"I should not have let her go.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Npc_Zora003_S2_009"
+msgid ""
+"<1.so>What befell my dear Mipha and the other\n"
+"Champions within those Divine Beasts?\n"
+"\n"
+"<2.so>Sadly, I have no way of knowing.\n"
+"I can only hope that by some\n"
+"miracle they are still alive."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora003_S2_010"
+msgid ""
+"<1.so>What is this?! The rain has stopped!<2.pa>\n"
+"Link! Were you actually able to\n"
+"appease the Divine Beast?!\n"
+"Link, you are a true Champion!\n"
+"I am grateful beyond words!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Npc_Zora003_S2_011"
+msgid ""
+"<1.so>By the way...did you ever regain your\n"
+"memories of my daughter, Mipha?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (20f)
+#. 5: sound
+msgctxt "Npc_Zora004_F_001"
+msgid ""
+"<1.so>You are rather incredible for a <2.se_co>Hylian<3.re_co>!<4.pa>\n"
+"I will have to rethink my preconceptions\n"
+"about you people.\n"
+"<5.so>Yes, perhaps people who are not Zora\n"
+"are not so hopeless after all! I am eager\n"
+"to learn more about other ways of life."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: sound
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Npc_Zora004_F_002"
+msgid ""
+"<1.so>Link...<2.pa> I must sincerely apologize for\n"
+"my harsh treatment of you.\n"
+"\n"
+"<3.so>That whole time, you were thinking of\n"
+"Hyrule's and Lady Mipha's well-being,\n"
+"just like the rest of us.\n"
+"<4.so>All of the members of our council humbly\n"
+"fold our fins back in gratitude, along with\n"
+"the rest of our people.\n"
+"<5.so>Perhaps the older generation of Zora,\n"
+"myself included, misunderstood <6.se_co>Hylians<7.re_co>\n"
+"after all. It would seem so.\n"
+"That said, I would be overjoyed if you\n"
+"could find it in your heart to forgive me.\n"
+"If not now, then perhaps one day."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora004_F_Near"
+msgid "<1.so>Link!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: animation
+#. 4: text_size
+#. 5: raw
+#. 6: sound
+#. 7: pause (10f)
+msgctxt "Npc_Zora004_R_001"
+msgid ""
+"<1.so><2.te_si><3.an>King Dorephan! My liege!\n"
+"Please do not speak so!<4.te_si><5.ra><6.so>To ask a Hylian for "
+"help...<7.pa> Why, the very\n"
+"thought of it curls my fins!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (20f)
+#. 4: sound
+#. 5: pause (10f)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Npc_Zora004_R_002"
+msgid ""
+"<1.so><2.an>Have you forgotten already, my king?!<3.pa>\n"
+"We cannot trust these lowly Hylians!\n"
+"\n"
+"<4.so>A hundred years ago, they abused the\n"
+"power of an ancient civilization<5.pa> and\n"
+"turned <6.se_co>Hyrule<7.re_co> into what it is today!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: animation
+#. 4: text_size
+#. 5: raw
+#. 6: set_colour (blue)
+#. 7: sound
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: raw
+#. 12: sound
+#. 13: animation
+#. 14: pause (10f)
+#. 15: sound
+#. 16: pause (10f)
+msgctxt "Npc_Zora004_R_003"
+msgid ""
+"<1.te_si><2.so><3.an>King "
+"Dorephan!!<4.te_si><5.ra><6.se_co><7.so><8.re_co>Surely you do not really"
+" intend to give\n"
+"this outsider the <9.se_co>Zora "
+"armor<10.re_co>!<11.ra><12.so><13.an>Countless generations of Zora "
+"princesses\n"
+"have gifted that armor <14.pa>to the one they\n"
+"have sworn to marry!\n"
+"<15.so>Princess Mipha made that one there with\n"
+"her own hands!<16.pa> It is far too important\n"
+"to entrust to a shady Hylian!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora004_R_004"
+msgid ""
+"<1.so>This is just too much, my liege! <2.pa>\n"
+"I do not understand it one bit!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora004_R_005"
+msgid "<1.so>And that is not the least of it!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "Npc_Zora004_R_006"
+msgid ""
+"<1.so><2.an>It is their fault that Lady Mipha was lost\n"
+"to us..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+msgctxt "Npc_Zora004_R_007"
+msgid ""
+"<1.so>He may be a Champion, but Mipha had\n"
+"no such relationship with him. <2.pa>So why\n"
+"should HE receive such an honor?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora004_R_008"
+msgid "<1.so>What?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (20f)
+msgctxt "Npc_Zora004_R_F001"
+msgid ""
+"<1.so>I am Muzu.<2.pa> I tend to the affairs of\n"
+"<3.se_co>Zora's Domain<4.re_co> by the grace of our\n"
+"beloved King Dorephan.\n"
+"<5.so>But wait... Are you a Hylian?<6.pa>\n"
+"What is a Hylian doing in\n"
+"our domain?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: pause (20f)
+msgctxt "Npc_Zora004_S1_001"
+msgid ""
+"<1.so>Hmph.<2.pa> You came all the way here,\n"
+"but it was in vain.<3.pa> I have no desire\n"
+"to speak with you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora004_S1_002"
+msgid ""
+"<1.so>Hmph.<2.pa> I never would have imagined\n"
+"she would make that special armor\n"
+"for one such as he..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: pause (20f)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Npc_Zora004_S1_010"
+msgid ""
+"<1.so>That tall mountain over yonder...\n"
+"<2.se_co><3.pa><4.re_co>It is called <5.se_co>Ploymus Mountain<6.re_co>, "
+"and there\n"
+"you will also find <7.se_co>Shatterback Point<8.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_Zora004_S1_011"
+msgid ""
+"<1.so>A terrifying creature has made its home\n"
+"up there.\n"
+"\n"
+"<2.so>This awful beast shoots volley after\n"
+"volley of <3.se_co>shock arrows<4.re_co>. Even a single\n"
+"one could be fatal to a Zora."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Npc_Zora004_S1_013"
+msgid ""
+"<1.so>Save your lies for another Zora. Without\n"
+"any solid proof, <2.pa>I have no choice but to\n"
+"assume you are a lying scoundrel.\n"
+"<3.so>If you are truly Lady Mipha's beloved,<4.pa>\n"
+"then prove it!\n"
+"\n"
+"<5.so>Do so and I will tell you how to get\n"
+"those <6.se_co>shock arrows<7.re_co>, as well as\n"
+"anything else you wish to know."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: pause (22f)
+msgctxt "Npc_Zora004_S1_014"
+msgid ""
+"<1.so>Hm? <2.pa>You really think changing your\n"
+"clothes is going to make me...<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (22f)
+#. 3: pause (20f)
+#. 4: set_colour (red)
+#. 5: set_colour (blue)
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: sound
+msgctxt "Npc_Zora004_S1_016"
+msgid ""
+"<1.so>In order to appease the Divine Beast,\n"
+"I estimate that you will need...<2.pa>hmm...<3.pa>\n"
+"<4.se_co>at least 20 <5.se_co>shock arrows<6.se_co><7.re_co>.\n"
+"<8.so>Do you think you can gather that many?"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (20f)
+msgctxt "Npc_Zora004_S1_017"
+msgid ""
+"<1.so>WHAT?!<2.ra><3.so>Do not mistake me for a fool, Hylian!<4.pa>\n"
+"There is no way you remembered her\n"
+"just now, when it is most convenient."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora004_S1_018"
+msgid "<1.so>What?! No..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: pause (10f)
+#. 4: single_choice
+msgctxt "Npc_Zora004_S1_019"
+msgid ""
+"<1.so>Hm? <2.pa>You are quivering like a hatchling...<3.pa>\n"
+"Whatever is the matter? <4.si_ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora004_S1_020"
+msgid ""
+"<1.so>How could Lady Mipha possibly have\n"
+"feelings for a Hylian like him?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora004_S1_021"
+msgid ""
+"<1.so>The facts are clear. He remembers\n"
+"nothing. <2.pa>Even when he looks upon\n"
+"Princess Mipha's statue..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: pause (20f)
+#. 4: reset_colour
+#. 5: sound
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "Npc_Zora004_S1_022"
+msgid ""
+"<1.so>In any case, without any solid proof,<2.se_co><3.pa><4.re_co>\n"
+"I cannot possibly take you at your word!\n"
+"\n"
+"<5.so>If you have any such proof, now is the\n"
+"time to show it.\n"
+"\n"
+"<6.so>Do so, and...and I...I shall tell you how to\n"
+"get those <7.se_co>shock arrows<8.re_co>! Yes, as well as\n"
+"anything else you wish to know."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: raw
+#. 5: sound
+#. 6: pause (20f)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: pause (20f)
+#. 11: reset_colour
+#. 12: set_colour (blue)
+#. 13: pause (10f)
+#. 14: reset_colour
+msgctxt "Npc_Zora004_S1_023"
+msgid ""
+"<1.so><2.te_si>Eh?!<3.te_si><4.ra><5.so>What in the... <6.pa>That is the "
+"<7.se_co>Zora armor<8.re_co>\n"
+"from before!\n"
+"\n"
+"Lady Mipha made that by hand...<9.se_co><10.pa><11.re_co>\n"
+"and yet it fits you perfectly!\n"
+"\n"
+"What is the meaning of this?!<12.se_co><13.pa><14.re_co>"
+msgstr ""
+
+msgctxt "Npc_Zora004_S1_024"
+msgid "..."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: pause (20f)
+#. 5: sound
+#. 6: pause (20f)
+#. 7: raw
+#. 8: set_colour (blue)
+#. 9: sound
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: pause (20f)
+#. 13: reset_colour
+#. 14: set_colour (blue)
+#. 15: reset_colour
+msgctxt "Npc_Zora004_S1_025"
+msgid ""
+"<1.se_co><2.so><3.re_co>I do not approve of asking for help from\n"
+"a Hylian,<4.pa> but I suppose it is our only\n"
+"option at this point.\n"
+"<5.so>I am a proud Zora. <6.pa>That means I must\n"
+"take responsibility for my unwarranted\n"
+"behavior toward you.<7.ra><8.se_co><9.so><10.re_co>As "
+"promised,<11.se_co><12.pa><13.re_co> I shall tell you where you\n"
+"can collect as many <14.se_co>shock arrows<15.re_co> as\n"
+"you will need."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora004_S1_026"
+msgid ""
+"<1.so>You cannot fool me with such a\n"
+"fanciful lie. Not this Zora!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Zora004_S1_Near"
+msgid "<1.so>I don't care what you say!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: sound
+#. 12: pause (20f)
+msgctxt "Npc_Zora004_S2_001"
+msgid ""
+"<1.so>If you want <2.se_co>shock arrows<3.re_co>, you should\n"
+"go to <4.se_co>Ploymus Mountain<5.re_co>.\n"
+"\n"
+"<6.so>There resides a vicious beast there...\n"
+"A <7.se_co>Lynel <8.re_co>that is known to frequently\n"
+"shoot <9.se_co>shock arrows<10.re_co>.\n"
+"<11.so>Though be warned... <12.pa>If you go, I cannot\n"
+"guarantee you will survive."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+msgctxt "Npc_Zora004_S2_002"
+msgid ""
+"<1.so>Incredible... The rain has stopped!<2.pa>\n"
+"Hylian! Did you really appease the\n"
+"Divine Beast?\n"
+"<3.so>No...that cannot be! <4.pa>This must be a\n"
+"mistake of sorts."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (10f)
+#. 4: text_size
+msgctxt "Npc_Zora030_S3_001"
+msgid ""
+"<1.te_si><2.so>WOW!<3.pa> That was astounding!\n"
+"An absolute thrill!<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_Zora030_S3_002"
+msgid ""
+"<1.so>Link, look!<2.pa> The water spouting from\n"
+"<3.se_co>Ruta <4.re_co>has slowed down!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (20f)
+msgctxt "Npc_Zora030_S3_003"
+msgid ""
+"<1.so><2.se_co>Ruta<3.re_co> is floating higher now!<4.pa> You wanted\n"
+"to venture inside it, right?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_Zora030_S3_004"
+msgid ""
+"<1.so>I'll bring you closer! <2.pa>We're counting on\n"
+"you, hero! Do good work in there!"
+msgstr ""
+
+#. 1: animation
+#. 2: pause (20f)
+#. 3: sound
+#. 4: sound
+#. 5: pause (20f)
+#. 6: sound
+#. 7: text_size
+#. 8: pause (long)
+#. 9: text_size
+msgctxt "Npc_ZoraB001_F_001"
+msgid ""
+"<1.an>Link! Thank you so much!<2.pa> Truly, I could\n"
+"never thank you enough!\n"
+"\n"
+"<3.so>You helped save our home from\n"
+"vanishing away!\n"
+"\n"
+"<4.so>This calls for a top-tier expression\n"
+"of gratitude!<5.pa>\n"
+"\n"
+"<6.so>ZO! ZO! RA RA RA!\n"
+"<7.te_si><8.pa><9.te_si>With all my heart...\n"
+"Thank you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_F_002"
+msgid ""
+"<1.so>Link! Thank you so much! <2.pa>Now hurry!\n"
+"You must go tell my father!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_F_003"
+msgid "<1.so>Father... I... Thank you!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (10f)
+#. 4: text_size
+msgctxt "Npc_ZoraB001_F_004"
+msgid "<1.te_si><2.so>Link! <3.pa>This is wonderful!<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (10f)
+#. 5: sound
+#. 6: pause (20f)
+#. 7: sound
+#. 8: pause (10f)
+msgctxt "Npc_ZoraB001_R_001"
+msgid ""
+"<1.so>Seggin, who is quite shock resistant for\n"
+"a Zora, hit one with a <2.se_co>shock arrow<3.re_co>.<4.pa>\n"
+"Sure enough, it slowed the water a bit.\n"
+"<5.so>Unfortunately, as an aquatic race,<6.pa>\n"
+"we Zora are terribly vulnerable to\n"
+"the power of electricity.\n"
+"<7.so>Perhaps because we could not safely\n"
+"strike it with enough electricity at once,<8.pa>\n"
+"the water soon returned to its full force."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_R_002"
+msgid ""
+"<1.so>That is why I went in search of a Hylian\n"
+"who could help us!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+msgctxt "Npc_ZoraB001_R_003"
+msgid ""
+"<1.so>Muzu! It is rude to speak that way to\n"
+"your king and his guest.<2.pa> Link is here\n"
+"because I invited him!\n"
+"<3.so>With such unprecedented rainfall,<4.pa>\n"
+"we have no choice but to rely on\n"
+"the aid of a trustworthy Hylian.\n"
+"Have we not already discussed this and\n"
+"arrived at that very conclusion?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+msgctxt "Npc_ZoraB001_R_004"
+msgid ""
+"<1.so>He is the key to saving Zora's Domain.<2.pa>\n"
+"I have no doubt in my mind."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: raw
+#. 4: set_colour (blue)
+#. 5: sound
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: raw
+#. 10: animation
+#. 11: pause (20f)
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: single_choice
+msgctxt "Npc_ZoraB001_R_005"
+msgid ""
+"<1.so>Link,<2.pa> I am certain you have already\n"
+"figured this out, but...<3.ra><4.se_co><5.so><6.re_co>We need you to use "
+"<7.se_co>shock arrows <8.re_co>to\n"
+"get those orbs working properly again!<9.ra><10.an>I will aid you in any "
+"way I can, of course.\n"
+"Please, hero... I beg of you. <11.pa>Help me\n"
+"stop <12.se_co>Ruta<13.re_co>'s rampage of destruction!<14.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_R_006"
+msgid ""
+"<1.so>Father... I do not believe discussing my\n"
+"sister is helping matters at the moment.<2.pa>\n"
+"Link seems confused."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: pause (20f)
+msgctxt "Npc_ZoraB001_R_007"
+msgid ""
+"<1.so>Link! Do not let his words concern you.<2.pa>\n"
+"I will work this out with Muzu.<3.pa>\n"
+"I shall return shortly!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (20f)
+msgctxt "Npc_ZoraB001_R_008"
+msgid ""
+"<1.so>Muzu! How dare you speak so rudely\n"
+"to your king and his guest!<2.ra><3.so>This Hylian has come to us in our "
+"most\n"
+"dire hour of need. <4.pa>That our paths have\n"
+"crossed is certainly the work of fate."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "Npc_ZoraB001_R_010"
+msgid ""
+"<1.so>The Hylian Champion? <2.pa>You can't mean\n"
+"THE Link? THAT Champion?!\n"
+"\n"
+"<3.so>So that's where I have heard your name\n"
+"before! <4.pa>What a fateful coincidence that\n"
+"we should cross paths!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: raw
+#. 4: set_colour (blue)
+#. 5: sound
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: raw
+#. 10: animation
+#. 11: pause (20f)
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: sound
+#. 15: set_colour (blue)
+#. 16: reset_colour
+#. 17: set_colour (red)
+#. 18: reset_colour
+#. 19: single_choice
+msgctxt "Npc_ZoraB001_R_011"
+msgid ""
+"<1.so>Link,<2.pa> I am certain you have already\n"
+"figured this out, but...<3.ra><4.se_co><5.so><6.re_co>We need you to use "
+"<7.se_co>shock arrows <8.re_co>to\n"
+"get those orbs working properly again!<9.ra><10.an>I will aid you in any "
+"way I can, of course.\n"
+"Please, hero... I beg of you. <11.pa>Help me\n"
+"stop <12.se_co>Ruta<13.re_co>'s rampage of destruction!\n"
+"<14.so>What's more, if we are able to stop <15.se_co>Ruta<16.re_co>,\n"
+"you should be able to <17.se_co>get inside of it<18.re_co>!<19.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Npc_ZoraB001_R_012"
+msgid ""
+"<1.so>I did not know you had such grand\n"
+"ambitions, Link...<2.pa>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_R_013"
+msgid "<1.so>Wondrous! Naturally, I shall help too!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (longer)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: single_choice
+msgctxt "Npc_ZoraB001_R_014"
+msgid ""
+"<1.se_co><2.so><3.re_co>Once it has stopped rampaging, you can\n"
+"easily <4.se_co>climb inside it<5.re_co>.<6.pa> Come, Link!\n"
+"Let us appease <7.se_co>Ruta <8.re_co>together!<9.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: text_size
+#. 4: sound
+#. 5: raw
+#. 6: sound
+#. 7: text_size
+msgctxt "Npc_ZoraB001_R_F001"
+msgid ""
+"<1.so>Oh! <2.pa>You are a Hylian, are you not?!\n"
+"\n"
+"\n"
+"<3.te_si><4.so>This is perfect!<5.ra><6.so><7.te_si>What excellent timing"
+" for you to\n"
+"show up!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_R_F002"
+msgid ""
+"<1.so>Come, friend, and speak with our king!<2.pa>\n"
+"He has something important he wishes\n"
+"to ask of you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+#. 5: sound
+#. 6: sound
+msgctxt "Npc_ZoraB001_S1_002"
+msgid ""
+"<1.so>Listen well, Muzu.<2.pa> There is something\n"
+"you need to know.\n"
+"\n"
+"<3.so>He who stands here...the man called\n"
+"Link...<4.pa>is the one whom my sister,\n"
+"Mipha, had feelings for.\n"
+"<5.so>I was only a child then, so I did not know\n"
+"it myself at the time. But it is so.\n"
+"\n"
+"<6.so>I grew up hearing my father tell stories,\n"
+"some of which were about my sister's\n"
+"undying love for a Hylian named Link."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+#. 4: pause (22f)
+#. 5: raw
+#. 6: text_size
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: text_size
+msgctxt "Npc_ZoraB001_S1_003"
+msgid ""
+"<1.so><2.te_si>Aha!<3.te_si><4.pa><5.ra><6.te_si>You must mean that "
+"<7.se_co>Lynel<8.re_co>!\n"
+"He is a man-beast, that one!<9.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_S1_004"
+msgid "<1.so>OK... Listen carefully."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (20f)
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: choice
+msgctxt "Npc_ZoraB001_S1_005"
+msgid ""
+"<1.se_co><2.so><3.re_co>When you have <4.se_co>gathered at least "
+"20<5.re_co>\n"
+"<6.se_co>shock arrows<7.re_co>,<8.pa> come join me at<9.se_co><10.re_co>\n"
+"<11.se_co>East Reservoir Lake<12.re_co>. I'll be waiting!<13.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S1_007"
+msgid ""
+"<1.so>Why do you still doubt him, Muzu?<2.pa>\n"
+"I have no doubt he will be triumphant!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S1_009"
+msgid ""
+"<1.so>Wonderful! <2.pa>Together we shall stop that\n"
+"Divine Beast's onslaught!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S1_010"
+msgid ""
+"<1.so>It is the truth, Muzu.<2.pa> Though you never\n"
+"knew it, he was ever in Mipha's heart."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (10f)
+#. 5: sound
+msgctxt "Npc_ZoraB001_S1_011"
+msgid ""
+"<1.so>Now you understand, do you not?<2.ra><3.so>Now you know who her "
+"heart\n"
+"belonged to<4.pa> and who she made\n"
+"this special armor for.\n"
+"<5.so>The fact that this armor fits Link perfectly\n"
+"should be proof enough that Mipha made\n"
+"it for him and him alone!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_ZoraB001_S1_012"
+msgid ""
+"<1.so>The stubborn fool. <2.pa>Lucky for us,\n"
+"we have proof!\n"
+"\n"
+"<3.so>Link! Go ahead and show Muzu the\n"
+"<4.se_co>Zora armor <5.re_co>my father gave you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S1_013"
+msgid ""
+"<1.so>What is the matter, Link?<2.pa>\n"
+"Are you unwell?"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_S1_014"
+msgid ""
+"<1.so>Muzu! Look closely at the clothes\n"
+"Link is wearing!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S1_015"
+msgid ""
+"<1.so>You have always disliked Hylians,\n"
+"even before the Great Calamity.<2.pa>\n"
+"That is why Mipha never told you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (20f)
+msgctxt "Npc_ZoraB001_S1_016"
+msgid ""
+"<1.so>Now that you know, you must promise\n"
+"to help him save us all, Muzu.\n"
+"\n"
+"Please... <2.pa>Tell us where we can find the\n"
+"<3.se_co>shock arrows <4.re_co>we need.<5.pa> Knowing you,\n"
+"I bet you have already figured it out."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: pause (20f)
+#. 6: reset_colour
+#. 7: sound
+msgctxt "Npc_ZoraB001_S1_017"
+msgid ""
+"<1.so>That beast does indeed wield\n"
+"<2.se_co>shock arrows<3.re_co>.<4.se_co><5.pa><6.re_co> That is certainly"
+"\n"
+"one way to collect them quickly.\n"
+"<7.so>He is vicious, to be sure. But I am certain\n"
+"Link will rise to the challenge."
+msgstr ""
+
+#. 1: animation
+#. 2: pause (20f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (20f)
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: sound
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: pause (20f)
+#. 15: set_colour (red)
+#. 16: reset_colour
+#. 17: set_colour (blue)
+#. 18: reset_colour
+#. 19: choice
+msgctxt "Npc_ZoraB001_S1_018"
+msgid ""
+"<1.an>OK, Link. Let's get moving.<2.pa> The fastest\n"
+"way to <3.se_co>Ploymus Mountain <4.re_co>is to ascend\n"
+"the <5.se_co>waterfall east of the domain<6.re_co>!\n"
+"<7.so>That Zora armor should come in handy.<8.pa>\n"
+"Just <9.se_co>swim to the waterfall basin<10.re_co>, and then\n"
+"go up the waterfall from there!\n"
+"<11.so>I'll wait at <12.se_co>East Reservoir Lake<13.re_co>, right by\n"
+"the Divine Beast.<14.pa> Gather <15.se_co>at least 20<16.re_co>\n"
+"<17.se_co>shock arrows<18.re_co>, and then come join me!<19.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (20f)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "Npc_ZoraB001_S1_020"
+msgid ""
+"<1.so>Hm?<2.ra><3.so>Well, well! What have we here?<4.pa>\n"
+"It seems you already have some\n"
+"<5.se_co>shock arrows<6.re_co>!\n"
+"<7.so>Still, if you need any more, you can\n"
+"always go to <8.se_co>Ploymus Mountain<9.re_co>\n"
+"to restock!"
+msgstr ""
+
+#. 1: animation
+#. 2: pause (20f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: choice
+msgctxt "Npc_ZoraB001_S1_021"
+msgid ""
+"<1.an>Link... <2.pa>I'll be waiting for you at\n"
+"<3.se_co>East Reservoir Lake<4.re_co>, right by the\n"
+"Divine Beast.\n"
+"<5.so>When you are ready, come join me there!<6.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+#. 9: pause (20f)
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: choice
+msgctxt "Npc_ZoraB001_S1_022"
+msgid ""
+"<1.se_co><2.so><3.re_co>If you run out of <4.se_co>shock arrows<5.re_co>,"
+"\n"
+"remember <6.se_co>Ploymus Mountain<7.re_co>!\n"
+"\n"
+"<8.so>But it looks like you're all set for now.<9.pa>\n"
+"Come join me at <10.se_co>East Reservoir Lake<11.re_co>!<12.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_ZoraB001_S1_024"
+msgid ""
+"<1.so>The stubborn fool. <2.pa>Lucky for us,\n"
+"we have proof!\n"
+"\n"
+"<3.so>Show Muzu the <4.se_co>Zora armor <5.re_co>my father\n"
+"gifted you with!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_S1_027"
+msgid ""
+"<1.so>Have you truly not figured it out yet?\n"
+"Simply take a closer look at what Link\n"
+"is wearing!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_S1_Near"
+msgid "<1.so>Muzu... Please listen..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_S2_001"
+msgid "<1.so>Glad to see you're ready to go, Link!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: raw
+#. 4: sound
+#. 5: text_size
+#. 6: pause (20f)
+#. 7: pause (20f)
+#. 8: sound
+#. 9: text_size
+#. 10: text_size
+msgctxt "Npc_ZoraB001_S2_002"
+msgid ""
+"<1.so><2.te_si>Wonderful!<3.ra><4.so><5.te_si>You never cease to amaze, "
+"Link!<6.pa>\n"
+"Now then, let us go and appease\n"
+"that Divine Beast as one!<7.pa>\n"
+"<8.so><9.te_si>Here we go!!<10.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "Npc_ZoraB001_S2_003"
+msgid "<1.so><2.an>Gaze now upon the Divine Beast's back!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: raw
+#. 11: sound
+#. 12: pause (20f)
+msgctxt "Npc_ZoraB001_S2_004"
+msgid ""
+"<1.so>Do you see those glowing, pink orbs?<2.pa>\n"
+"You will need to shoot each of them with\n"
+"a <3.se_co>shock arrow<4.re_co>!\n"
+"<5.so>With your <6.se_co>Zora armor<7.re_co>, you now have the\n"
+"ability to <8.se_co>ascend waterfalls<9.re_co>!<10.ra><11.so>So I shall "
+"take you right up to the side of\n"
+"the Divine Beast,<12.pa> and from there you can\n"
+"swim up and take aim!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S2_005"
+msgid ""
+"<1.so>What? Not yet?!<2.pa> That is not a good sign,\n"
+"my friend!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: animation
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: choice
+msgctxt "Npc_ZoraB001_S2_006"
+msgid ""
+"<1.se_co><2.an><3.re_co>Are you ready for this? Do you have your\n"
+"<4.se_co>Zora armor <5.re_co>and enough <6.se_co>shock "
+"arrows<7.re_co>?<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: choice
+msgctxt "Npc_ZoraB001_S2_007"
+msgid ""
+"<1.so>I know you can do it! I believe in you!<2.ra>Now hurry up and get "
+"on my back!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: pause (20f)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_ZoraB001_S2_008"
+msgid ""
+"<1.so>Hm? <2.pa>Wait a second...<3.pa> You need at least\n"
+"four <4.se_co>shock arrows<5.re_co> for this mission!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S2_009"
+msgid "<1.so>Good answer! <2.pa>Let's get going!"
+msgstr ""
+
+#. 1: animation
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S2_010"
+msgid ""
+"<1.an>What are you talking about?!\n"
+"We can do this!<2.pa> Let's get going!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: text_size
+msgctxt "Npc_ZoraB001_S2_011"
+msgid "<1.so><2.te_si>OK! Here we go!!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_S2_012"
+msgid "<1.so>Ha! I am unstoppable in the water!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: pause (20f)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "Npc_ZoraB001_S2_013"
+msgid ""
+"<1.se_co><2.so><3.re_co>I'll keep going at full speed! <4.pa>It's up to\n"
+"you to ward off <5.se_co>Ruta<6.re_co>'s attacks!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (20f)
+msgctxt "Npc_ZoraB001_S2_014"
+msgid ""
+"<1.so><2.se_co>Ruta <3.re_co>is responding to our presence!<4.pa>\n"
+"I'll move away and wait for an opening\n"
+"before we approach!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (20f)
+#. 5: choice
+msgctxt "Npc_ZoraB001_S2_016"
+msgid ""
+"<1.so>Link! You are leaving the area of\n"
+"<2.se_co>East Reservoir Lake<3.re_co>!<4.pa> Do you wish\n"
+"to retreat for now?!<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_S2_018"
+msgid "<1.so>You almost had it, Link!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (long)
+msgctxt "Npc_ZoraB001_S2_019"
+msgid ""
+"<1.so><2.an>Do you remember what to do, Link?<3.pa>\n"
+"Gaze upon the Divine Beast's back!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: single_choice
+msgctxt "Npc_ZoraB001_S2_020"
+msgid ""
+"<1.so>Link! I still believe in you!<2.ra>Come on! Get on my back and we "
+"shall\n"
+"try it again!<3.si_ch>"
+msgstr ""
+
+#. 1: animation
+msgctxt "Npc_ZoraB001_S2_021"
+msgid ""
+"<1.an>OK... We shall start over when the time\n"
+"is right!"
+msgstr ""
+
+#. 1: animation
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S2_022"
+msgid ""
+"<1.an>OK... Let us regroup then!<2.pa>\n"
+"Come on over!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_ZoraB001_S2_023"
+msgid ""
+"<1.so>Wait a second...<2.pa> Now that I look closer,\n"
+"I see that you are not wearing your\n"
+"<3.se_co>Zora armor<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "Npc_ZoraB001_S2_024"
+msgid ""
+"<1.so>Wait a second...<2.pa> You do not have the\n"
+"right armor equipped, nor do you\n"
+"have all of the arrows you need!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+msgctxt "Npc_ZoraB001_S2_025"
+msgid ""
+"<1.se_co><2.so><3.re_co>Unless you have enough <4.se_co>shock "
+"arrows<5.re_co>\n"
+"and your <6.se_co>Zora armor<7.re_co>, we cannot possibly\n"
+"hope to appease the Divine Beast!\n"
+"<8.so>Please hurry and gather what you need!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: pause (20f)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_ZoraB001_S2_026"
+msgid ""
+"<1.so>Hm?<2.pa> Hey, wait a moment!<3.pa> You do not yet\n"
+"have at least 20 <4.se_co>shock arrows<5.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_ZoraB001_S2_027"
+msgid ""
+"<1.so>Are you ready? <2.se_co>Divine Beast Vah Ruta<3.re_co>\n"
+"will undoubtedly use its ancient and\n"
+"mysterious powers against us..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_ZoraB001_S2_028"
+msgid ""
+"<1.so>That includes hurling giant ice blocks\n"
+"that we will need to watch out for.\n"
+"I shall leave those to you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: sound
+msgctxt "Npc_ZoraB001_S45_001"
+msgid ""
+"<1.so>Link!<2.pa> I must ask you something!\n"
+"What was it like within <3.se_co>Ruta<4.re_co>?\n"
+"\n"
+"<5.so>In any case, I know you still have a job\n"
+"to do, and I am certain you will succeed.\n"
+"\n"
+"<6.so>Give it everything you have, my friend!"
+msgstr ""
+

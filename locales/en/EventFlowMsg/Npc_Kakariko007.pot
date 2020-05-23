@@ -1,0 +1,302 @@
+msgctxt "0000"
+msgid "Aren't you drenched?"
+msgstr ""
+
+msgctxt "0001"
+msgid "Understood."
+msgstr ""
+
+msgctxt "0004"
+msgid "What stories?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Have fun!"
+msgstr ""
+
+msgctxt "Near00"
+msgid "I hear a woman crying..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "SupriseHouse"
+msgid ""
+"<1.so>Wh-who's there?!<2.pa> What do you want?!\n"
+"\n"
+"\n"
+"..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "SupriseHouse_00"
+msgid ""
+"<1.so>Oh! It's you. You shouldn't scare me\n"
+"like that.\n"
+"\n"
+"<2.so>I thought it was...them."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk00"
+msgid ""
+"<1.so>It's said that she offers a special blessing\n"
+"to those that visit her... You should go\n"
+"there and see for yourself."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk01"
+msgid ""
+"<1.so>There's an <2.se_co>inn<3.re_co> in this village. Why not go\n"
+"rest there until morning?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk02"
+msgid ""
+"<1.so>My wife...the mother of my children...\n"
+"she was killed by the <2.se_co>Yiga Clan<3.re_co>. That is\n"
+"why Koko now acts as Cottla's mother.\n"
+"If only... If only I had been able to\n"
+"stop them..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk03"
+msgid "<1.so>It's gotten so late."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk04"
+msgid ""
+"<1.so>Oh! Well, if it isn't Master Link.\n"
+"I'll go back to guarding Lady Impa's\n"
+"home now.\n"
+"The <2.se_co>Yiga Clan<3.re_co> has been snooping around,\n"
+"so please be careful, Master Link."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk05"
+msgid "<1.so>I should get some sleep..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+msgctxt "Talk06"
+msgid ""
+"<1.so>Master Link...\n"
+"\n"
+"\n"
+"I've had a lot on my mind lately, <2.pa>so it's\n"
+"been difficult to sleep well.\n"
+"\n"
+"<3.so>Same for you, I imagine? Well, in any\n"
+"case, you should get some rest at the\n"
+"inn when you're tired."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk07"
+msgid ""
+"<1.so>I'm off to meet my daughters. I'm going\n"
+"to tell them stories about our village\n"
+"under the tree my wife so loved.\n"
+"My stories are always the same though.\n"
+"I hope they don't mind!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk08"
+msgid ""
+"<1.so>My wife used to tell all kinds of stories\n"
+"under this tree... Now it's up to me to\n"
+"pass those stories on to our children.\n"
+"I'm not as good at it as she was,\n"
+"though..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk09"
+msgid ""
+"<1.so>Are you taking a break as well,\n"
+"Master Link? If so, allow me to introduce\n"
+"my precious daughters, Koko and Cottla.\n"
+"Any moment I can spend with my girls\n"
+"is a gift. I always end up boring them\n"
+"with the same stories, though.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (longer)
+#. 7: text_size
+#. 8: sound
+#. 9: text_size
+#. 10: sound
+#. 11: pause (longer)
+#. 12: text_size
+#. 13: sound
+#. 14: set_colour (blue)
+#. 15: reset_colour
+#. 16: pause (longer)
+#. 17: text_size
+#. 18: sound
+msgctxt "Talk10"
+msgid ""
+"<1.so>There's a <2.se_co>shrine <3.re_co>right above this hill,\n"
+"guarding the Sheikah tribe. Sometimes\n"
+"from <4.se_co>the forest behind it<5.re_co>, you can hear...<6.pa>\n"
+"<7.te_si><8.so>a woman sobbing!<9.te_si>\n"
+"\n"
+"\n"
+"<10.so>...Heh! <11.pa>That's the story I'm telling the\n"
+"children right now, anyway.\n"
+"\n"
+"<12.te_si><13.so>Actually, the location I speak of is where the\n"
+"village's <14.se_co>guardian spirit <15.re_co>resides.\n"
+"\n"
+"But lately monsters have been lurking there,\n"
+"and it's become quite dangerous. <16.pa>I'm scaring my\n"
+"daughters so they won't go near that forest...<17.te_si>\n"
+"<18.so>It works on Koko, but for some reason,\n"
+"those stories just excite Cottla..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Talk13"
+msgid ""
+"<1.so>There's an <2.se_co>inn<3.re_co> in this village. Why not go\n"
+"rest there until the morning?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk14"
+msgid ""
+"<1.so>Ha, so that's how it looks! Makes sense.\n"
+"Please allow me to explain.\n"
+"\n"
+"<2.so>The Sheikah tribe was once quite\n"
+"technologically advanced.\n"
+"\n"
+"This outfit I wear was specially made\n"
+"using Sheikah technology. It keeps the\n"
+"rain off and also wards off lightning.\n"
+"I may look soaking wet, but I assure\n"
+"you, I'm actually quite comfortable."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk15"
+msgid ""
+"<1.so>It's said that she offers a special blessing\n"
+"to those that visit her... You should go\n"
+"there and see for yourself.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: set_colour (blue)
+#. 13: reset_colour
+#. 14: sound
+msgctxt "Talk16"
+msgid ""
+"<1.so>If you need anything, please find it here\n"
+"in our village.\n"
+"\n"
+"The <2.se_co>clothing shop<3.re_co>, <4.se_co>materials shop<5.re_co>,\n"
+"<6.se_co>general shop<7.re_co>, and <8.se_co>inn <9.re_co>should be able\n"
+"to provide everything you need.\n"
+"Oh, and just between you and me,\n"
+"there's also a <10.se_co>shrine <11.re_co>in the hills\n"
+"of this village.\n"
+"They say up and behind those hills\n"
+"resides Kakariko's <12.se_co>guardian spirit<13.re_co>.\n"
+"I hear she's incredibly beautiful.\n"
+"<14.so>I'm too intimidated to go see\n"
+"for myself, though..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk17"
+msgid ""
+"<1.so>What are you doing up so late?\n"
+"Monsters roam about at night. It's way\n"
+"too dangerous to wander around."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk18"
+msgid "<1.so>Ah, Master Link..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk19"
+msgid "<1.so>It's gotten so late."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk20"
+msgid ""
+"<1.so>Are you taking a break as well,\n"
+"Master Link? If so, allow me to introduce\n"
+"my precious daughters, Koko and Cottla.\n"
+"The weather is rather unfortunate today,\n"
+"but we won't let that bring us down!\n"
+"\n"
+"Any moment I can spend with my girls\n"
+"is a gift. <2.pa>It's something I make time for\n"
+"every day, no matter what.\n"
+"I always end up boring them with the\n"
+"same stories, though.<3.ch>"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "M-Master Link?!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "Danger!"
+msgstr ""
+
+msgctxt "TerrorEnemy"
+msgid "Danger!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "What are you doing?!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Please, stop!"
+msgstr ""
+

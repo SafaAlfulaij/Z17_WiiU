@@ -1,0 +1,140 @@
+msgctxt "0000"
+msgid "I met her spirit."
+msgstr ""
+
+msgctxt "0002"
+msgid "I'll never forget her."
+msgstr ""
+
+msgctxt "0003"
+msgid "We are united now."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (10f)
+#. 3: sound
+#. 4: pause (20f)
+msgctxt "talk00"
+msgid ""
+"<1.so>Link!<2.pa> I am truly and eternally grateful\n"
+"to you for saving Zora's Domain!\n"
+"\n"
+"<3.so>Everyone is rejoicing.<4.pa> There is no\n"
+"happier place in the world!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: sound
+#. 8: pause (20f)
+#. 9: single_choice
+msgctxt "talk01"
+msgid ""
+"<1.so>But Link...<2.pa> There is something I wish\n"
+"to ask you.\n"
+"\n"
+"<3.so>You journeyed within <4.se_co>Ruta<5.re_co>, the Divine\n"
+"Beast of Water...\n"
+"\n"
+"<6.so>Now you are back, but Mipha has still\n"
+"yet to return...\n"
+"\n"
+"<7.so>Is it as I feared?<8.pa> Were we too late?<9.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "talk02"
+msgid ""
+"<1.so>Her spirit?!\n"
+"\n"
+"\n"
+"So that means Mipha really is...<2.pa>\n"
+"Did...did she say anything to you?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+#. 5: pause (20f)
+#. 6: pause (22f)
+#. 7: sound
+#. 8: pause (20f)
+#. 9: sound
+#. 10: sound
+#. 11: choice
+msgctxt "talk04"
+msgid ""
+"<1.so>I see. My dear Mipha...<2.pa> I simply cannot\n"
+"believe it. There was nothing I could do\n"
+"to save her...\n"
+"<3.so>Still...<4.pa> Mipha fulfilled her heroic duty\n"
+"as Champion.\n"
+"\n"
+"And she will never be alone...<5.pa>\n"
+"It is my duty as her father to\n"
+"watch over her, even now.\n"
+"...<6.pa>\n"
+"\n"
+"\n"
+"<7.so>Link...<8.pa>\n"
+"She really loved you, you know.\n"
+"\n"
+"<9.so>There is no mistaking that even now she\n"
+"is overjoyed to be able to help you.\n"
+"\n"
+"<10.so>Promise me...that you will always\n"
+"remember her. Promise me that.<11.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "talk05"
+msgid ""
+"<1.so>I appreciate you saying that.<2.pa>\n"
+"You are a good man."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "talk06"
+msgid ""
+"<1.so>Thank you for saying so.<2.pa>\n"
+"I truly appreciate it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+#. 3: sound
+#. 4: pause (20f)
+msgctxt "talk07"
+msgid ""
+"<1.so>If you ever run into trouble,<2.pa> know that\n"
+"you are always welcome here.\n"
+"\n"
+"<3.so>No matter the time, we shall all greet\n"
+"you with open fins!\n"
+"\n"
+"Link...<4.pa> Thank you. Thank you from the\n"
+"bottom of my heart."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (20f)
+msgctxt "talk08"
+msgid ""
+"<1.so>Thank you, Link.<2.pa> You have saved us all.\n"
+"\n"
+"\n"
+"I am certain that Mipha is thrilled to be\n"
+"with you, as she ever was.\n"
+"\n"
+"I shall watch over Mipha's fight\n"
+"from here, and yours as well."
+msgstr ""
+

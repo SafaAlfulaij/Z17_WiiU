@@ -1,0 +1,29 @@
+#. 1: raw
+msgctxt "Demo148_0_Text000"
+msgid ""
+"I've been keeping watch over you all this time... <1.ra>I've witnessed "
+"your struggles to return to us\n"
+"as well as your trials in battle."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo148_0_Text001"
+msgid ""
+"I always thought—no, I always believed—<1.ra>that you would find a way to"
+" defeat Ganon. <2.ra>I never lost faith in you over these many years..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo148_0_Text003"
+msgid "May I ask...<1.ra>Do you really remember me?"
+msgstr ""
+
+msgctxt "Demo148_0_Text004"
+msgid "Thank you, Link..."
+msgstr ""
+
+msgctxt "Demo148_0_Text005"
+msgid "...the hero of Hyrule."
+msgstr ""
+

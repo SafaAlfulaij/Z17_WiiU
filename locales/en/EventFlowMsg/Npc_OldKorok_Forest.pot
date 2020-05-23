@@ -1,0 +1,135 @@
+msgctxt "0000"
+msgid "Weapon stash."
+msgstr ""
+
+msgctxt "0001"
+msgid "Bow stash."
+msgstr ""
+
+msgctxt "0002"
+msgid "Shield stash."
+msgstr ""
+
+msgctxt "0003"
+msgid "I'm good."
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: sound
+#. 4: text_size
+#. 5: sound
+msgctxt "talk00"
+msgid ""
+"<1.so><2.te_si>Shalaka?!\n"
+"\n"
+"\n"
+"<3.so><4.te_si>It's you again!\n"
+"\n"
+"\n"
+"<5.so>I'm trying to get back to Korok Forest,\n"
+"but I've lost my way..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (short)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: pause (short)
+#. 13: set_colour (blue)
+#. 14: reset_colour
+#. 15: set_colour (blue)
+#. 16: reset_colour
+#. 17: choice
+msgctxt "talk01"
+msgid ""
+"<1.so>*sniff sniff*<2.pa>\n"
+"I'd know that smell anywhere... <3.pa>\n"
+"It's a <4.se_co>Korok seed<5.re_co>!\n"
+"<6.so>You've collected<7.pa> a <8.se_co>Korok seed<9.re_co> from \n"
+"the forest children, haven't you?!\n"
+"\n"
+"If you give me <10.se_co>Korok seeds<11.re_co>,<12.pa> I'll increase\n"
+"the size of one of your <13.se_co>stashes<14.re_co>! Now\n"
+"which <15.se_co>stash <16.re_co>do you want to expand?<17.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: sound
+#. 9: pause (longer)
+#. 10: pause (short)
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: set_colour (blue)
+#. 14: reset_colour
+msgctxt "talk02"
+msgid ""
+"<1.so>*sniff sniff*<2.pa>\n"
+"\n"
+"\n"
+"<3.so>Aww...<4.pa> You didn't bring me any\n"
+"<5.se_co>Korok seeds<6.re_co><7.pa>, did you?\n"
+"\n"
+"<8.so>C'mon, boy!<9.pa> Go find some<10.pa> <11.se_co>Korok "
+"seeds<12.re_co>!\n"
+"The forest children are hiding\n"
+"everywhere.\n"
+"♪Bring me some, and I'll make your\n"
+"<13.se_co>inventory<14.re_co> bigger!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (longer)
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: sound
+#. 12: pause (short)
+#. 13: sound
+msgctxt "talk03"
+msgid ""
+"<1.so>The folks from the stable here say we're\n"
+"right on the border<2.pa> between the <3.se_co>Eldin\n"
+"Region<4.re_co> and the <5.se_co>Great Hyrule Forest<6.re_co>.\n"
+"<7.so>...Shaka! <8.pa>That means Korok Forest must\n"
+"be <9.se_co>very near<10.re_co>!\n"
+"\n"
+"<11.so>But as long as I'm here, <12.pa>I may as well\n"
+"rest up.\n"
+"\n"
+"<13.so>Ah, wait a minute..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (longer)
+msgctxt "talk04"
+msgid ""
+"<1.so>Ohhh, I think I remember<2.pa> the way back\n"
+"to Korok Forest!\n"
+"\n"
+"<3.so>And it's all thanks to you!<4.pa> I'll definitely\n"
+"make it home to Korok Forest this time!\n"
+"\n"
+"I'll see you there. In Korok Forest!"
+msgstr ""
+

@@ -1,0 +1,4 @@
+msgctxt "0000"
+msgid "Remove"
+msgstr ""
+

@@ -1,0 +1,560 @@
+msgctxt "0000"
+msgid "Yes, please."
+msgstr ""
+
+msgctxt "0001"
+msgid "Thanks, but no."
+msgstr ""
+
+msgctxt "0003"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "0004"
+msgid "Heart Container."
+msgstr ""
+
+msgctxt "0005"
+msgid "Stamina Vessel."
+msgstr ""
+
+msgctxt "0009"
+msgid "I've had enough."
+msgstr ""
+
+msgctxt "0010"
+msgid "A different container."
+msgstr ""
+
+msgctxt "0011"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0012"
+msgid "No."
+msgstr ""
+
+msgctxt "0013"
+msgid "Tell me more..."
+msgstr ""
+
+msgctxt "0015"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0017"
+msgid "Give it back."
+msgstr ""
+
+msgctxt "0018"
+msgid "Give me a heart."
+msgstr ""
+
+msgctxt "0019"
+msgid "Give me stamina."
+msgstr ""
+
+msgctxt "0020"
+msgid "I'm all right for now."
+msgstr ""
+
+msgctxt "0024"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "0025"
+msgid "You can talk?!"
+msgstr ""
+
+msgctxt "0026"
+msgid "Have another one."
+msgstr ""
+
+msgctxt "0027"
+msgid "I want one back."
+msgstr ""
+
+msgctxt "near00"
+msgid "..."
+msgstr ""
+
+msgctxt "talk01"
+msgid "What's the worst that could happen?"
+msgstr ""
+
+msgctxt "talk04"
+msgid ""
+"Very interesting choice... Just don't\n"
+"come crying to me later."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "talk05"
+msgid ""
+"I know from swindles, boy, and I can\n"
+"plainly tell that you don't have the\n"
+"<1.se_co>120 rupees<2.re_co> required."
+msgstr ""
+
+#. 1: pause (short)
+msgctxt "talk16"
+msgid "Then...<1.pa> What are you still doing here?"
+msgstr ""
+
+msgctxt "talk17"
+msgid "You..."
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: pause (short)
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: set_colour (blue)
+#. 14: reset_colour
+#. 15: set_colour (red)
+#. 16: reset_colour
+#. 17: choice
+msgctxt "talk18"
+msgid ""
+"It's simple. <1.pa>I'll give you <2.se_co>100 rupees <3.re_co>to\n"
+"take one of your <4.se_co>Heart Containers <5.re_co>or a\n"
+"<6.se_co>Stamina Vessel<7.re_co> off your hands.\n"
+"You can have one back for <8.se_co>120 rupees<9.re_co>.<10.pa>\n"
+"And if it's not the same one you gave\n"
+"me, why, I won't tell a soul.\n"
+"Exchanging a <11.se_co>Heart Container<12.re_co> for a\n"
+"<13.se_co>Stamina Vessel<14.re_co>, or vice versa, for only\n"
+"<15.se_co>20 rupees <16.re_co>sounds good, doesn't it?\n"
+"You must be salivating at the idea, so\n"
+"let's go ahead and strike our bargain.<17.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk20"
+msgid ""
+"The price to return a <1.se_co>Heart Container<2.re_co> to\n"
+"you will be <3.se_co>120 rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: set_colour (red)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk21"
+msgid ""
+"I'll gladly pay you <1.se_co><2.se_co>100 rupees<3.se_co> <4.re_co>for "
+"one\n"
+"of your <5.se_co>Heart Containers<6.re_co>. Is that what\n"
+"you want?<7.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk22"
+msgid ""
+"The price to return a <1.se_co>Stamina Vessel<2.re_co> to\n"
+"you will be <3.se_co>120 rupees<4.re_co>.<5.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: set_colour (red)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: choice
+msgctxt "talk23"
+msgid ""
+"I'll gladly pay you <1.se_co><2.se_co>100 rupees<3.se_co> <4.re_co>for "
+"one\n"
+"of your <5.se_co>Stamina Vessels<6.re_co>. Is that what\n"
+"you want?<7.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: variable (NpcDemonStatue_UtuwaSum)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "talk26"
+msgid ""
+"I have <1.se_co><2.va><3.re_co> of your <4.se_co>essences <5.re_co>so "
+"far.\n"
+"What now, hmmmm?<6.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "talk31"
+msgid "Come to tamper with your <1.se_co>essence<2.re_co>, yes?<3.ch>"
+msgstr ""
+
+#. 1: pause (long)
+#. 2: raw
+msgctxt "talk32"
+msgid ""
+"No, eh? <1.pa>Fa ha ha... If you say so.<2.ra>Just know that I'm willing "
+"to strike a\n"
+"bargain with anyone who can hear\n"
+"my voice."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: variable (NpcDemonStatue_UtuwaSum)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: choice
+msgctxt "talk33"
+msgid ""
+"I still have <1.se_co><2.va><3.re_co> of your "
+"<4.se_co>essences<5.re_co>...<6.pa>\n"
+"Shall I return another <7.se_co>Heart Container<8.re_co>\n"
+"to you?<9.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "talk34"
+msgid ""
+"I wouldn't object if you wanted to give\n"
+"me more <1.se_co>Heart Containers<2.re_co>.<3.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: variable (NpcDemonStatue_UtuwaSum)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: choice
+msgctxt "talk35"
+msgid ""
+"I still have <1.se_co><2.va><3.re_co> of your "
+"<4.se_co>essences<5.re_co>...<6.pa>\n"
+"Shall I return another <7.se_co>Stamina Vessel<8.re_co>\n"
+"to you?<9.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "talk36"
+msgid ""
+"I wouldn't object if you wanted to give\n"
+"me more <1.se_co>Stamina Vessels<2.re_co>.<3.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "talk37"
+msgid ""
+"I don't see how you can reduce your\n"
+"<1.se_co>Heart Containers <2.re_co>any further."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "talk38"
+msgid ""
+"I don't see how you can reduce your\n"
+"<1.se_co>Stamina Vessels <2.re_co>any further."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "talk39"
+msgid ""
+"I don't see how you can increase your\n"
+"<1.se_co>Heart Containers <2.re_co>any further."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "talk40"
+msgid ""
+"I don't see how you can increase your\n"
+"<1.se_co>Stamina Vessels <2.re_co>any further."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "talk41"
+msgid ""
+"Careful... Give away any more of your\n"
+"<1.se_co>Heart Containers<2.re_co>, and it could have a\n"
+"fatal effect on your health."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "talk42"
+msgid ""
+"Have a care... Give me any more of your\n"
+"<1.se_co>Stamina Vessels<2.re_co>, and you may not have\n"
+"the strength to stand."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "talk43"
+msgid ""
+"No, no... I'm afraid you already have all\n"
+"the <1.se_co>Heart Containers <2.re_co>you possibly can."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+msgctxt "talk44"
+msgid ""
+"No, no... I'm afraid you already have all\n"
+"the <1.se_co>Stamina Vessels <2.re_co>you possibly can."
+msgstr ""
+
+msgctxt "talk45"
+msgid "Then the bargain is struck!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "talk47"
+msgid ""
+"I'm currently without any of your\n"
+"<1.se_co>essences<2.re_co>. Are you in the mood to sell?<3.ch>"
+msgstr ""
+
+#. 1: pause (longer)
+#. 2: pause (long)
+#. 3: single_choice
+msgctxt "talk52"
+msgid ""
+"Ahhhh... <1.pa>So there are some who still\n"
+"pay me homage.<2.pa><3.si_ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "talk53"
+msgid "You don't say... You can hear my voice?<1.ch>"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "talk54"
+msgid ""
+"Now, that is a surprise.<1.ra>What were you praying for? Long life? \n"
+"Wealth, like so many of your kind?<2.ra>Whichever it was, you came to the"
+"\n"
+"right place."
+msgstr ""
+
+msgctxt "talk57"
+msgid ""
+"You came to pray, then... You want what\n"
+"everyone wants. Long life and wealth."
+msgstr ""
+
+#. 1: choice
+msgctxt "talk58"
+msgid ""
+"What's wrong, then? Have your prayers\n"
+"gone unanswered?<1.ch>"
+msgstr ""
+
+msgctxt "talk59"
+msgid "Hmm..."
+msgstr ""
+
+#. 1: raw
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk65"
+msgid ""
+"My touch is as subtle as ever...<1.ra>Note how I took that "
+"<2.se_co>essence<3.re_co> from you<4.se_co><5.re_co>\n"
+"without leaving a mark."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "talk68"
+msgid ""
+"Which type of <1.se_co>essence <2.re_co>will you surrender\n"
+"to me?<3.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: choice
+msgctxt "talk69"
+msgid "Which type of <1.se_co>essence <2.re_co>shall I grant you?<3.ch>"
+msgstr ""
+
+#. 1: raw
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: raw
+#. 5: raw
+#. 6: pause (short)
+#. 7: raw
+#. 8: pause (long)
+#. 9: pause (longer)
+msgctxt "talk77"
+msgid ""
+"A dealer in life and power...\n"
+"That was me, once.<1.ra>Alas, my life-for-money bargains didn't\n"
+"sit well with the <2.se_co>Goddess Hylia<3.re_co>.<4.ra>She trapped me in"
+" this stone statue\n"
+"long, long ago.<5.ra>The villagers here call me the Horned\n"
+"Statue<6.pa> and don't even bother to wipe\n"
+"away the bird droppings.\n"
+"One would think years upon years of\n"
+"such treatment would have made me\n"
+"mend my ways...\n"
+"One would think wrongly.<7.ra>I have only been biding my time for the\n"
+"moment someone who can hear me\n"
+"appears. <8.pa>Someone such as you.\n"
+"But I've said enough.<9.pa>"
+msgstr ""
+
+msgctxt "talk78"
+msgid ""
+"Then stay that way. No further action on\n"
+"your part is required."
+msgstr ""
+
+#. 1: pause (short)
+#. 2: raw
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: raw
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: set_colour (red)
+#. 13: reset_colour
+#. 14: pause (short)
+msgctxt "talk80"
+msgid ""
+"What's this?<1.pa><2.ra>You haven't received even one more\n"
+"<3.se_co>Heart Container <4.re_co>or <5.se_co>Stamina "
+"Vessel<6.re_co>?<7.pa><8.ra>Such a pity... I was eager to help you\n"
+"with a minor <9.se_co>transaction<10.re_co>.<11.pa> But not if you\n"
+"have nothing to trade.\n"
+"Consult a <12.se_co>Goddess Statue <13.re_co>to improve\n"
+"yourself,<14.pa> and then return here to pray."
+msgstr ""
+
+msgctxt "talk82"
+msgid "Fa ha ha..."
+msgstr ""
+
+#. 1: pause (short)
+#. 2: raw
+#. 3: pause (short)
+msgctxt "talk84"
+msgid ""
+"Fa ha ha...<1.pa> Did you think I'd\n"
+"deceived you?<2.ra>Perish the thought. <3.pa>I hope that ours\n"
+"will be a long and profitable relationship.\n"
+"So which will it be?"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: raw
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: pause (longer)
+#. 8: choice
+msgctxt "talk85"
+msgid ""
+"As I may have mentioned once or twice,\n"
+"I'm a dealer in life and power. <1.pa>I can\n"
+"provide a valuable service to you.<2.ra>I take <3.se_co>Heart Containers "
+"<4.re_co>or <5.se_co>Stamina\n"
+"Vessels <6.re_co>from you...<7.pa>and then, for a price,\n"
+"return whichever of the two you like.<8.ch>"
+msgstr ""
+
+#. 1: choice
+msgctxt "talk86"
+msgid ""
+"Which type of essence would you like\n"
+"in return?<1.ch>"
+msgstr ""
+
+msgctxt "talk87"
+msgid "A wise choice. Now, remain still."
+msgstr ""
+
+#. 1: pause (short)
+#. 2: raw
+#. 3: raw
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: raw
+#. 11: pause (short)
+#. 12: set_colour (red)
+#. 13: reset_colour
+#. 14: set_colour (red)
+#. 15: reset_colour
+msgctxt "talk88"
+msgid ""
+"You look skeptical. <1.pa>Not to worry.<2.ra>Money and life are all as "
+"one to me.<3.ra>If you're ready to begin, then first you\n"
+"must sell me either type of <4.se_co>essence <5.re_co>for\n"
+"<6.se_co>100 rupees<7.re_co>.\n"
+"If you want to buy an essence back,\n"
+"the price rises to <8.se_co>120 rupees<9.re_co>.<10.ra>Before you cry "
+"foul, know that you may\n"
+"choose which one I return to you:<11.pa>\n"
+"a <12.se_co>Heart Container <13.re_co>or a <14.se_co>Stamina "
+"Vessel<15.re_co>.\n"
+"I'm eager to help tamper with your\n"
+"essence anytime you want to return\n"
+"and pray here."
+msgstr ""
+
+msgctxt "talk89"
+msgid "Now then, shall we strike a bargain?"
+msgstr ""
+

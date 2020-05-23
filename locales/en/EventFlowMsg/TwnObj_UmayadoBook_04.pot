@@ -1,0 +1,40 @@
+msgctxt "0000"
+msgid "Read."
+msgstr ""
+
+msgctxt "0001"
+msgid "Don't read."
+msgstr ""
+
+#. 1: raw
+#. 2: text_size
+#. 3: text_size
+msgctxt "Book00"
+msgid ""
+"<1.ra>This is Traysi! I have a taste for\n"
+"the rumors of worlds long gone and\n"
+"worlds yet to come!\n"
+"Everyone gossiping in the present\n"
+"world? Here's my favorite bit of the\n"
+"latest news...\n"
+"<2.te_si>Treasures of the Falling Star!<3.te_si>\n"
+"\n"
+"\n"
+"The stars spread out in the sky like a\n"
+"tapestry, and across that expanse, you\n"
+"see one streak of light—a shooting star!\n"
+"And I've heard that there is treasure\n"
+"waiting where these stars have landed.\n"
+"\n"
+"The next time you see one, why not track\n"
+"it down to see where it lands?\n"
+"\n"
+"Traysi's Recommendation: ★★★★☆"
+msgstr ""
+
+#. 1: raw
+#. 2: choice
+msgctxt "BookFirst"
+msgid "<1.ra>Rumor Mill: Volume 4<2.ch>"
+msgstr ""
+

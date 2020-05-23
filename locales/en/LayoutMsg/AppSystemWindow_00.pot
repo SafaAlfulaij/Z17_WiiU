@@ -1,0 +1,56 @@
+msgctxt "0000"
+msgid "Cannot delete data."
+msgstr ""
+
+msgctxt "0001"
+msgid "Delete"
+msgstr ""
+
+msgctxt "0002"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "0003"
+msgid "No Target"
+msgstr ""
+
+msgctxt "0004"
+msgid "Target with Sensor"
+msgstr ""
+
+msgctxt "0015"
+msgid "Travel"
+msgstr ""
+
+msgctxt "0016"
+msgid "You can't travel from here."
+msgstr ""
+
+msgctxt "0017"
+msgid "Edit stamp"
+msgstr ""
+
+msgctxt "0018"
+msgid "Delete stamp"
+msgstr ""
+
+msgctxt "0019"
+msgid "Change to stamp"
+msgstr ""
+
+msgctxt "0020"
+msgid "Delete pin"
+msgstr ""
+
+msgctxt "0021"
+msgid "Leave This Area"
+msgstr ""
+
+msgctxt "0022"
+msgid "You can't leave right now."
+msgstr ""
+
+msgctxt "0023"
+msgid "Open Adventure Log"
+msgstr ""
+

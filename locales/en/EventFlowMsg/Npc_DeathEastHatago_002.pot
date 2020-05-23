@@ -1,0 +1,145 @@
+msgctxt "0000"
+msgid "Sure."
+msgstr ""
+
+msgctxt "0001"
+msgid "They're not for sale."
+msgstr ""
+
+msgctxt "Near_00"
+msgid "Nothin'..."
+msgstr ""
+
+msgctxt "Near_02"
+msgid "Heeeere, li'l lizards..."
+msgstr ""
+
+msgctxt "Near_03"
+msgid "Phew..."
+msgstr ""
+
+#. 1: sound
+msgctxt "NewText_01"
+msgid "<1.so>Whew... Another scorcher."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "NewText_02"
+msgid ""
+"<1.so>Good evening...<2.pa> It stays hot around here,\n"
+"even at night.\n"
+"\n"
+"I've got to hand it to those Gorons.<3.pa>\n"
+"Eating hot soup in this heat..."
+msgstr ""
+
+#. 1: sound
+msgctxt "NewText_04"
+msgid "<1.so>Ah, hey."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "NewText_05"
+msgid ""
+"<1.so>Have you caught any more\n"
+"<2.se_co>fireproof lizards<3.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: set_colour (blue)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (longer)
+#. 7: sound
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: pause (long)
+#. 13: choice
+msgctxt "NewText_06"
+msgid ""
+"<1.so>...One...two...<2.se_co>three <3.se_co>fireproof "
+"lizards<4.se_co><5.re_co>.<6.pa>\n"
+"Very nice.\n"
+"\n"
+"<7.so>I'll buy these <8.se_co>three<9.re_co> for <10.se_co>20 "
+"rupees<11.re_co>.<12.pa>\n"
+"Do we have a deal?<13.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "NewText_07"
+msgid ""
+"<1.so>If you manage to catch <2.se_co>three<3.re_co>\n"
+"<4.se_co>fireproof lizards<5.re_co>,<6.pa> bring 'em on by."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "NewText_08"
+msgid ""
+"<1.so>Thank you!<2.pa>\n"
+"And here you go..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+msgctxt "NewText_09"
+msgid ""
+"<1.so>You don't want to sell them to me?<2.pa>\n"
+"That's too bad...\n"
+"\n"
+"<3.so>If you change your mind, come on back."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: set_colour (blue)
+#. 13: reset_colour
+msgctxt "NewText_10"
+msgid ""
+"<1.so>I'll pay you <2.se_co>20 rupees <3.re_co>for every "
+"<4.se_co>three<5.re_co>\n"
+"<6.se_co>fireproof lizards<7.re_co> you bring me.\n"
+"You can never have too many.\n"
+"If you mix <8.se_co>fireproof lizards <9.re_co>with\n"
+"<10.se_co>monster parts<11.re_co>, you can make\n"
+"<12.se_co>fireproof elixir<13.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "NewText_11"
+msgid ""
+"<1.so>I'll pay you <2.se_co>20 rupees <3.re_co>for every "
+"<4.se_co>three<5.re_co>\n"
+"<6.se_co>fireproof lizards<7.re_co> you bring me.\n"
+"You can never have too many."
+msgstr ""
+

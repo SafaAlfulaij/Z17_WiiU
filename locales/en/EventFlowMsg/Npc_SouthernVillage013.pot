@@ -1,0 +1,269 @@
+msgctxt "0000"
+msgid "You mean Ralera?"
+msgstr ""
+
+msgctxt "0001"
+msgid "I've been there."
+msgstr ""
+
+msgctxt "0002"
+msgid "About the village..."
+msgstr ""
+
+msgctxt "0003"
+msgid "About the ocean..."
+msgstr ""
+
+msgctxt "0004"
+msgid "Eventide Island?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Ruins?"
+msgstr ""
+
+msgctxt "0006"
+msgid "That's it."
+msgstr ""
+
+msgctxt "0007"
+msgid "Treasure-chest game?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: single_choice
+msgctxt "talk03"
+msgid ""
+"<1.so>I have a daughter. <2.pa>She got married and\n"
+"went to Hateno Village recently.\n"
+"I wonder if she's doing well.<3.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk04"
+msgid ""
+"<1.so>Yes! Ralera!<2.pa>\n"
+"She's doing well? That's good to hear."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: single_choice
+msgctxt "talk05"
+msgid ""
+"<1.so>The large island in the sea to the east of\n"
+"the village...<2.pa>is called <3.se_co>Eventide Island<4.re_co>.\n"
+"\n"
+"There are some legends about that\n"
+"island, so the village fishermen tend to\n"
+"avoid it whenever possible.<5.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk06"
+msgid ""
+"<1.so>What?<2.pa> You've been there?<3.pa>\n"
+"That's amazing."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk07"
+msgid ""
+"<1.so>When you're on the island, you start\n"
+"hearing voices... <2.pa>I don't know if it's\n"
+"real or just a dream, though."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk08"
+msgid ""
+"<1.so>The large island in the sea to the east of\n"
+"the village...<2.pa>is called <3.se_co>Eventide Island<4.re_co>.\n"
+"\n"
+"There are some legends about that\n"
+"island, so the village fishermen tend to\n"
+"avoid it whenever possible."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+msgctxt "talk09"
+msgid ""
+"<1.so>Are you a traveler?<2.pa>\n"
+"Welcome to Lurelin Village.\n"
+"\n"
+"I'm Rozel.<3.pa> I'm the head of this village."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk10"
+msgid "<1.so>It's a shame that it's raining."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk11"
+msgid ""
+"<1.so>Feel free to ask me any questions you\n"
+"may have about local things.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk12"
+msgid ""
+"<1.so>Lurelin Village is a fishing village.<2.pa>\n"
+"When I was younger, I used to be a\n"
+"fisherman myself.\n"
+"The fish here are fresh and delicious!<3.pa>\n"
+"You should try some at least once."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>What nice weather.<2.pa> It's a fine day to go\n"
+"out to sea."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk14"
+msgid ""
+"<1.so>It rains pretty often around here.<2.pa>\n"
+"You should definitely be careful if you're\n"
+"planning on going out to sea."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (long)
+msgctxt "talk15"
+msgid ""
+"<1.so>If you walk east from the village and\n"
+"keep going for a bit, you'll end up\n"
+"at <2.se_co>Palmorae Beach<3.re_co>.\n"
+"There are some old <4.se_co>ruins<5.re_co> there.<6.pa> One of\n"
+"the youths from the village, Garini, goes\n"
+"there often to poke around."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk16"
+msgid ""
+"<1.so>Garini visits the ruins often, even when\n"
+"it rains.\n"
+"\n"
+"If you're interested, you should\n"
+"definitely go check them out."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk17"
+msgid ""
+"<1.so>It isn't a large village, so take your time\n"
+"looking around."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: single_choice
+msgctxt "talk18"
+msgid ""
+"<1.so>Lurelin Village is a fishing village.<2.pa>\n"
+"When I was younger, I used to be a\n"
+"fisherman myself.\n"
+"But you can't go out fishing on a rainy\n"
+"day like this. It's just too dangerous.\n"
+"\n"
+"There are some fisherman here who\n"
+"amuse themselves with a treasure-\n"
+"chest game, too.<3.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "talk19"
+msgid ""
+"<1.so>There may still be <2.se_co>treasure<3.re_co> submerged in\n"
+"the ocean.<4.pa>\n"
+"\n"
+"I bet you could see it if you looked into\n"
+"the sea really hard..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk20"
+msgid "<1.so>Have you taken a liking to this village?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk21"
+msgid ""
+"<1.so>If you're interested, you should go see\n"
+"them.\n"
+"\n"
+"Garini should be able to tell you a lot\n"
+"more about them."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk22"
+msgid "<1.so>Anything else you'd like to know?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk23"
+msgid ""
+"<1.so>All right. If you think of anything else to\n"
+"ask, come on back and talk to me."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk24"
+msgid "<1.so>Anything else you'd like to know?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk25"
+msgid "<1.so>Anything else you'd like to know?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk26"
+msgid "<1.so>Anything else you'd like to know?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk27"
+msgid ""
+"<1.so>That's right. Cloyne runs a shop where\n"
+"you can test your luck in his treasure-\n"
+"chest game.\n"
+"It's fun to try every once in a while, but\n"
+"definitely don't go crazy with your\n"
+"savings."
+msgstr ""
+

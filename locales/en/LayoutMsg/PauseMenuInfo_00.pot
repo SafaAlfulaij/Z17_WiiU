@@ -1,0 +1,80 @@
+msgctxt "0000"
+msgid "Hold"
+msgstr ""
+
+msgctxt "0001"
+msgid "Stop holding"
+msgstr ""
+
+msgctxt "0002"
+msgid "Select"
+msgstr ""
+
+msgctxt "0003"
+msgid "Select"
+msgstr ""
+
+msgctxt "0004"
+msgid "Back"
+msgstr ""
+
+msgctxt "0005"
+msgid "Sort"
+msgstr ""
+
+msgctxt "0006"
+msgid "Rotate"
+msgstr ""
+
+msgctxt "0008"
+msgid "Return"
+msgstr ""
+
+msgctxt "0009"
+msgid "Rotate"
+msgstr ""
+
+msgctxt "0010"
+msgid "Active again in:"
+msgstr ""
+
+msgctxt "0011"
+msgid "Master Sword recharged in:"
+msgstr ""
+
+msgctxt "0012"
+msgid "Adventure Log"
+msgstr ""
+
+msgctxt "0013"
+msgid "System"
+msgstr ""
+
+msgctxt "0014"
+msgid "Inventory"
+msgstr ""
+
+msgctxt "0015"
+msgid "Set destination"
+msgstr ""
+
+msgctxt "Pa_Gear_00-Pa_Param_06-T_MaxText_00"
+msgid "Full recovery"
+msgstr ""
+
+msgctxt "Pa_HaveNum_00-T_Guide_01"
+msgid "Add"
+msgstr ""
+
+msgctxt "Pa_HaveNum_00-T_Guide_02"
+msgid "Return to game"
+msgstr ""
+
+msgctxt "Pa_HaveNum_00-T_Text_00"
+msgid "Can hold"
+msgstr ""
+
+msgctxt "Pa_SetBonus_00-T_SetBonus_00"
+msgid "Set Bonus"
+msgstr ""
+

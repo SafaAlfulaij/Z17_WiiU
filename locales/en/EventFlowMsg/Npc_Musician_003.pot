@@ -1,0 +1,42 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Challenge000"
+msgid ""
+"<1.so>Oh, forgive me.<2.pa> It seems I've prattled\n"
+"on...<3.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "Talk00"
+msgid ""
+"<1.so>I see... <2.pa>So you were meant to face the\n"
+"sun and shoot an arrow from the platform\n"
+"as indicated by the tower's shadow...\n"
+"I'm amazed you figured that out!\n"
+"\n"
+"\n"
+"<3.so>I hope our paths cross again.<4.pa> May the\n"
+"light illuminate your path."
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "WAAAAAA!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "TerrorFire"
+msgid "<1.so>Ack!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Knock it off!"
+msgstr ""
+

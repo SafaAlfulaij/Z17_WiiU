@@ -1,0 +1,7 @@
+msgctxt "talk00"
+msgid ""
+"To you who sets foot here...\n"
+"My blessing awaits you at\n"
+"the labyrinth's end."
+msgstr ""
+

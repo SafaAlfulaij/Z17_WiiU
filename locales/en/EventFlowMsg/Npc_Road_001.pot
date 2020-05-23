@@ -1,0 +1,746 @@
+msgctxt "0000"
+msgid "Maybe I'll buy."
+msgstr ""
+
+msgctxt "0001"
+msgid "Maybe I'll sell."
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "5500"
+msgid "Yes."
+msgstr ""
+
+msgctxt "5501"
+msgid "No."
+msgstr ""
+
+msgctxt "5502"
+msgid "I'll buy, sure."
+msgstr ""
+
+msgctxt "5503"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "5507"
+msgid "I'll take 'em all!"
+msgstr ""
+
+msgctxt "5508"
+msgid "All of them."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Atacked00"
+msgid ""
+"<1.so>So it's to be violence, then. Very well.<2.pa> \n"
+"A watchman of my caliber won't fall to \n"
+"the likes of these louts."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Atacked01"
+msgid ""
+"<1.so>Curse your dark hearts, monsters!<2.pa> \n"
+"You think me an easy mark?<3.pa>\n"
+"I am a watchman, and I do not flee!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Com_Talk_00"
+msgid ""
+"<1.so>For starters, why don't you show me\n"
+"what you have?"
+msgstr ""
+
+#. 1: pause (long)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_01"
+msgid ""
+"You want to sell that?<1.pa>\n"
+"How does <2.se_co><3.va> rupees <4.re_co>for it sound?<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_02"
+msgid ""
+"<1.so>My thanks!<2.pa> Is there anything else you\n"
+"want to sell?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02b"
+msgid "<1.so>Very well, thanks!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02c"
+msgid "<1.so>My thanks!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_02d"
+msgid "<1.so>Thanks!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_04"
+msgid "<1.so>Oh...<2.pa> Very well."
+msgstr ""
+
+msgctxt "Com_Talk_05"
+msgid "I'll buy anything!"
+msgstr ""
+
+msgctxt "Com_Talk_05b"
+msgid "There's nothing I won't buy!"
+msgstr ""
+
+msgctxt "Com_Talk_05c"
+msgid "Care to sell something?"
+msgstr ""
+
+msgctxt "Com_Talk_05d"
+msgid "Anything you wish to sell?"
+msgstr ""
+
+msgctxt "Com_Talk_06"
+msgid "Anything catch your eye?"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_07"
+msgid "<1.so>Sorry, I'm out of that right now."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_08"
+msgid ""
+"<1.so>You don't have enough rupees.<2.pa> \n"
+"So I'd advise stopping shopping."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_09"
+msgid ""
+"<1.so>You don't have enough room, I'm afraid.<2.pa>\n"
+"You should sell or toss some stuff."
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_10"
+msgid "You want to buy that?<1.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_11"
+msgid ""
+"<1.so>Naught to fear if you have the right gear!\n"
+"<2.pa>That's an excellent purchase."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11b"
+msgid "<1.so>Use it well!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_11c"
+msgid "<1.so>I know you'll make good use of it!"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_11d"
+msgid ""
+"<1.so>You're an exceptional shopper.<2.pa>\n"
+"Or maybe I'm an exceptional seller?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Com_Talk_12"
+msgid ""
+"<1.so>I apologize for only having arrows.<2.pa>\n"
+"But arrows are something that you can\n"
+"never have too many of, am I right?"
+msgstr ""
+
+#. 1: choice
+msgctxt "Com_Talk_13"
+msgid ""
+"Willing to part with it, huh?\n"
+"How many are you selling? <1.ch>"
+msgstr ""
+
+#. 1: variable (Shop_TradeItemNum)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_14"
+msgid ""
+"OK, <1.va> of them. Got it.\n"
+"How does <2.se_co><3.va> rupees<4.re_co> sound?<5.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (short)
+msgctxt "Com_Talk_15"
+msgid "<1.so>I can't buy that from you.<2.pa> Sorry..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Com_Talk_16"
+msgid ""
+"<1.so>Now that's just weird. I'm not buying\n"
+"your gear while you're still wearing it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Com_Talk_20"
+msgid ""
+"<1.so>I'm amazed you're out adventuring in\n"
+"this weather.<2.pa> To reward your fortitude,\n"
+"I'll throw in extra arrows today!"
+msgstr ""
+
+#. 1: variable (Shop_TradeItemNum)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_30"
+msgid ""
+"OK, <1.va> of them. Got it.\n"
+"How does <2.se_co><3.va> rupees<4.re_co> sound?<5.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: choice
+msgctxt "Com_Talk_31"
+msgid ""
+"Got your eye on that, huh?<1.pa>\n"
+"How many do you need?<2.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_33"
+msgid "Just one?<1.pa> That'll be <2.se_co><3.va> rupees<4.re_co>!<5.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: variable (Shop_TradeItemNum)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_34"
+msgid ""
+"All my stock?<1.pa> That's a total of <2.va>,\n"
+"so it'll be <3.se_co><4.va> rupees<5.re_co>, OK?<6.ch>"
+msgstr ""
+
+#. 1: variable (Shop_TradeItemNum)
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: variable (ShopTradePrice)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Com_Talk_35"
+msgid ""
+"So, <1.va> of them?<2.pa> All right, then.\n"
+"I'll buy them for <3.se_co><4.va> rupees<5.re_co>, OK?<6.ch>"
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Com_Talk_36"
+msgid ""
+"<1.so>And that's the last of those.<2.pa>\n"
+"Thanks for your largesse!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Com_Talk_37"
+msgid ""
+"<1.so>I'm all out of arrows for today.<2.pa>\n"
+"Want to see the arrows I'm planning to\n"
+"restock later?<3.ch>"
+msgstr ""
+
+#. 1: pause (short)
+#. 2: set_colour (red)
+#. 3: variable (ShopTradePrice)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "Com_Talk_56"
+msgid ""
+"Just one?<1.pa> That'll be <2.se_co><3.va> rupees<4.re_co>.\n"
+"That OK?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Failed00"
+msgid ""
+"<1.so>I may be a seasoned watchman, but no\n"
+"one could have handled that alone!<2.pa>\n"
+"I wish you had arrived sooner..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Failed01"
+msgid ""
+"<1.so>Owww... <2.pa>Even I can't handle a monster\n"
+"attack of such ferocity by myself!<3.pa>\n"
+"If only you'd fought beside me..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "GoodBye00"
+msgid "<1.so>OK! <2.pa>Farewell!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+msgctxt "Guardian00"
+msgid ""
+"<1.so>Go! Run! <2.pa>A <3.se_co>Guardian<4.re_co> is coming!<5.pa> \n"
+"We don't stand a chance against the\n"
+"likes of that thing!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (long)
+msgctxt "MSG_Bado_00"
+msgid ""
+"<1.so>...Who, me?<2.pa> What am I doing, you ask?<3.pa>\n"
+"I'm on patrol, keeping the watch!\n"
+"I am a watchman!<4.pa>\n"
+"This southwest corner of Hyrule Field is\n"
+"awash in monsters and suspicious types, <5.pa>\n"
+"so you've got to tread carefully!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "MSG_Bado_00_1"
+msgid ""
+"<1.so>I'm on patrol, keeping the watch!<2.pa>\n"
+"Monsters abound, so watch yourself!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "MSG_Bado_01"
+msgid ""
+"<1.so>A long time ago, there used to be an\n"
+"arena for combat nearby,<2.pa> but it's fallen\n"
+"to ruin and is a home for foul monsters.\n"
+"I suppose you could say<3.pa> it still IS an\n"
+"arena for combat, but more the life-or-\n"
+"death-against-monsters variety."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Bado_01_1"
+msgid ""
+"<1.so>A long time ago, there used to be an\n"
+"arena for combat nearby,<2.pa> but it's fallen\n"
+"to ruin and is a home for foul monsters."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: pause (long)
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "MSG_Bado_02"
+msgid ""
+"<1.so>Say...<2.pa> Have you heard tell of the\n"
+"<3.se_co>Lord of the Mountain<4.re_co>?<5.pa>\n"
+"\n"
+"They say he appears on Satori Mountain,\n"
+"northwest of here...<6.pa>but what is he?\n"
+"The <7.se_co>Lord of the Mountain<8.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "MSG_Bado_02_1"
+msgid ""
+"<1.so>Have you heard of the <2.se_co>Lord of the\n"
+"Mountain<3.re_co>?<4.pa> It's said that he appears on \n"
+"Satori Mountain, northwest of here."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "MSG_Bado_03"
+msgid ""
+"<1.so>They say the north side of the stable is\n"
+"relatively safe,<2.pa> but even so, I won't shirk\n"
+"my patrol duties! I am a watchman!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "MSG_Bado_03_1"
+msgid ""
+"<1.so>They say it's relatively safe, but I won't\n"
+"shirk my patrol duties!<2.pa> I always watch!\n"
+"That's what it means to be a watchman!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (short)
+#. 9: set_colour (red)
+#. 10: reset_colour
+msgctxt "MSG_Bado_04"
+msgid ""
+"<1.so>The <2.se_co>Lord of the Mountain<3.re_co> is said to\n"
+"make Satori Mountain its home... \n"
+"That's just ahead, before Hyrule Ridge.\n"
+"Animals rarely appear there, but...<4.pa>they\n"
+"say if this <5.se_co>lord<6.re_co> appears, the animals will\n"
+"heed its call and gather.\n"
+"<7.so>But just what in the world could it be?<8.pa>\n"
+"What is this <9.se_co>lord<10.re_co> creature?!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "MSG_Bado_04_1"
+msgid ""
+"<1.so>Normally, few animals make their home\n"
+"around Satori Mountain, just ahead...\n"
+"\n"
+"<2.so>But they say an appearance by the\n"
+"<3.se_co>Lord of the Mountain<4.re_co> calls to the souls\n"
+"of the animals and makes them gather."
+msgstr ""
+
+msgctxt "Near00"
+msgid "Now, back to my patrol..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "A watchman watches..."
+msgstr ""
+
+msgctxt "Near02"
+msgid "Sunset pretty soon..."
+msgstr ""
+
+msgctxt "Near03"
+msgid "Ugh, night patrol..."
+msgstr ""
+
+msgctxt "Near04"
+msgid "RAIN!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Rest_00"
+msgid ""
+"<1.so>You're not a watchman like me, are you?<2.pa>\n"
+"Yet I fear we both have the stink of long\n"
+"travel upon us. We are fragrant."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Rest_01"
+msgid ""
+"<1.so>Rain obstructs one's view and steals\n"
+"one's concentration.<2.pa> If you aren't familiar\n"
+"with the area, it's dangerous to wander!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "Rest_02"
+msgid ""
+"<1.so>Rain obstructs one's view and steals\n"
+"one's concentration.<2.pa> Why don't you take\n"
+"shelter from the rain here, too?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: pause (short)
+msgctxt "RetMSG_Bado_00"
+msgid ""
+"<1.so>Hey, <2.pa>it's dangerous to travel alone!<3.pa>\n"
+"Monsters of great strength haunt the\n"
+"way to the desert.\n"
+"If you insist on going, make sure you\n"
+"have proper weapons equipped<4.pa> so you\n"
+"can protect yourself."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "RetMSG_Bado_00_1"
+msgid ""
+"<1.so>Monsters of great strength lie in wait on\n"
+"the road to the desert.<2.pa> If you insist on\n"
+"going, you'll have to protect yourself."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (long)
+msgctxt "RetMSG_Bado_01"
+msgid ""
+"<1.so>On the other side of those rocky\n"
+"mountains to the east<2.pa> are the ancient\n"
+"<3.se_co>Coliseum Ruins<4.re_co>...\n"
+"<5.so>It's a fell place, teeming with monsters.<6.pa>\n"
+"Only scavengers hunting for weapons\n"
+"dare to go near the ruins."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "RetMSG_Bado_01_1"
+msgid ""
+"<1.so>The ancient <2.se_co>Coliseum Ruins<3.re_co> on the\n"
+"other side of those rocky mountains to\n"
+"the east are alive with fell monsters."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: pause (long)
+#. 6: pause (long)
+msgctxt "RetMSG_Bado_02"
+msgid ""
+"<1.so>You can see the <2.se_co>remains of Hyrule Castle<3.re_co>\n"
+"from the cliff in front of the stable, right?<4.pa>\n"
+"They say legendary weapons sleep there.\n"
+"And not just one or two, either...<5.pa>\n"
+"But do not be tempted!<6.pa> It's far too\n"
+"dangerous to approach, so stay away!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "RetMSG_Bado_02_1"
+msgid ""
+"<1.so>They say legendary weapons sleep in the\n"
+"<2.se_co>remains of Hyrule Castle<3.re_co>,<4.pa> but it's far too\n"
+"dangerous, so don't be tempted!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "RetMSG_Bado_03"
+msgid ""
+"<1.so>Ever since that earthquake when the\n"
+"towers appeared,<2.pa> doesn't it seem like\n"
+"monsters roam in greater numbers?\n"
+"If you want to keep traveling, you'd do\n"
+"well to load up on weapons and gear<3.pa> so\n"
+"you can defend yourself!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "RetMSG_Bado_03_1"
+msgid ""
+"<1.so>If you want to keep traveling, you'd best\n"
+"prepare weapons and equipment<2.pa> so\n"
+"you can defend yourself!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: pause (short)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "RetMSG_Bado_04"
+msgid ""
+"<1.so>You want to go to <2.se_co>Rito Village<3.re_co>, right?<4.pa>\n"
+"Then just follow the road north.<5.pa>\n"
+"Head for the <6.se_co>Tabantha Frontier<7.re_co>!\n"
+"But...if you don't want to run into any\n"
+"Guardians,<8.pa> it may be wiser to take a\n"
+"detour to the east!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "RetMSG_Bado_04_1"
+msgid ""
+"<1.so>If you want to go to <2.se_co>Rito Village<3.re_co>, follow\n"
+"the road north.<4.pa> Cutting through the\n"
+"<5.se_co>Tabantha Frontier<6.re_co> is the fastest route.\n"
+"But there are a bunch of Guardians in\n"
+"that area,<7.pa> so it may be wiser to take a\n"
+"detour to the east!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_00"
+msgid ""
+"<1.so>You handle yourself rather well.<2.pa>\n"
+"You're not quite as adept as a seasoned\n"
+"watchman like me, but really, who is?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "SavedLv1_01"
+msgid ""
+"<1.so>I was just taking an observer role to see\n"
+"how the situation would play out,<2.pa> but\n"
+"you seem to have handled it fairly well."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "SavedLv2_00"
+msgid ""
+"<1.so>Let's...<2.pa> Let's just keep this \"rescue\"\n"
+"between us, shall we? Yes, let's do.\n"
+"<3.pa>I am a watchman, after all..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "SavedLv2_01"
+msgid ""
+"<1.so>It's...<2.pa> It's not as though I've started\n"
+"fearing monsters or anything like that.<3.pa>\n"
+"I am a watchman!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+msgctxt "SavedLv3_00"
+msgid ""
+"<1.so>In<2.pa>explicable...<3.pa> Though I nearly fell, I am\n"
+"a watchman!<4.pa> And though you saved me\n"
+"today, I shall save you tomorrow! Maybe."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "SavedLv3_01"
+msgid ""
+"<1.so>I...<2.pa> I am a watchman! But...<3.pa>perhaps even\n"
+"watchmen need watchers to watch over\n"
+"them now and then..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (long)
+#. 5: choice
+msgctxt "Talk01"
+msgid ""
+"<1.so>Say, <2.pa>on an entirely different topic...<3.pa>\n"
+"I've recently begun selling adventuring\n"
+"gear as I travel.<4.pa>\n"
+"Doing work as a watchman certainly\n"
+"fills my soul, but not my pockets...<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk01_1"
+msgid ""
+"<1.so>You can really never be too prepared.<2.pa>\n"
+"If you need proper gear for adventuring, \n"
+"you've come to the right fellow!<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk02"
+msgid "<1.so>Need anything else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Thanks00"
+msgid ""
+"<1.so>Well...<2.pa> I guess a token of my gratitude\n"
+"would be appropriate."
+msgstr ""
+

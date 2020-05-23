@@ -1,0 +1,34 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_FironeMini_GiantHorse_Desc"
+msgid ""
+"Out in the Faron Grasslands, you came upon\n"
+"Straia, who is conducting a study on animals of\n"
+"the region. He said he's specifically looking for\n"
+"the rumored <1.se_co>giant horse <2.re_co>that lives on the\n"
+"Taobab Grasslands.\n"
+"\n"
+"Straia asked you to help with his investigation\n"
+"into the <3.se_co>giant horse<4.re_co>. After all, how giant could\n"
+"it really be?"
+msgstr ""
+
+msgctxt "QL_FironeMini_GiantHorse_Finish"
+msgid ""
+"You captured the giant horse in\n"
+"Taobab Grasslands.\n"
+"\n"
+"Giant was an accurate description, to be sure.\n"
+"This beast could probably trample monsters\n"
+"with ease.\n"
+"\n"
+"When you brought it back to Straia, he was\n"
+"very surprised."
+msgstr ""
+
+msgctxt "QL_FironeMini_GiantHorse_Name"
+msgid "Hunt for the Giant Horse"
+msgstr ""
+

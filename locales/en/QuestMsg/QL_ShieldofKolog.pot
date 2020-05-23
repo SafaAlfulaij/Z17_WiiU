@@ -1,0 +1,33 @@
+msgctxt "QL_ShieldofKolog_Desc"
+msgid ""
+"You've decided to undergo the trial Damia\n"
+"gave you in Korok Forest.\n"
+"\n"
+"Talk to Damia when you're ready to begin."
+msgstr ""
+
+msgctxt "QL_ShieldofKolog_Finish"
+msgid ""
+"You arrived at your destination with\n"
+"the forest dweller's sword,\n"
+"forest dweller's bow, and\n"
+"forest dweller's shield equipped.\n"
+"There, you found an ancient shrine."
+msgstr ""
+
+msgctxt "QL_ShieldofKolog_Name"
+msgid "The Test of Wood"
+msgstr ""
+
+msgctxt "QL_ShieldofKolog_Retire"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "QL_ShieldofKolog_Step010"
+msgid ""
+"With the forest dweller's sword,\n"
+"forest dweller's bow, and\n"
+"forest dweller's shield equipped,\n"
+"head for your destination."
+msgstr ""
+

@@ -1,0 +1,694 @@
+msgctxt "0000"
+msgid "That's right."
+msgstr ""
+
+msgctxt "0001"
+msgid "No, it's not."
+msgstr ""
+
+msgctxt "0002"
+msgid "I'll listen."
+msgstr ""
+
+msgctxt "0003"
+msgid "Maybe later..."
+msgstr ""
+
+msgctxt "0004"
+msgid "Who's Teba?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Who's Master Revali?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Medoh?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Bye."
+msgstr ""
+
+msgctxt "0008"
+msgid "Sword?"
+msgstr ""
+
+msgctxt "0009"
+msgid "Great Eagle Bow?"
+msgstr ""
+
+msgctxt "0011"
+msgid "How's Medoh?"
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Hoohoo!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "Hoo?"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "Hoohooh!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Hoohoo?!"
+msgstr ""
+
+msgctxt "near00"
+msgid "Hmmm..."
+msgstr ""
+
+msgctxt "near01"
+msgid "Ah!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: sound
+#. 5: sound
+#. 6: pause (longer)
+msgctxt "talk00"
+msgid ""
+"<1.so>Ah, a visitor.\n"
+"Welcome to...\n"
+"\n"
+"...\n"
+"\n"
+"\n"
+"<2.so>Oh. <3.pa>OH!\n"
+"\n"
+"\n"
+"<4.so>That object on your hip...\n"
+"Could it be...\n"
+"\n"
+"<5.so>Forgive me. Where are my manners?<6.pa>\n"
+"I am Kaneli, elder of Rito Village."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: text_size
+#. 9: sound
+#. 10: set_colour (grey)
+#. 11: pause (short)
+#. 12: set_colour (blue)
+#. 13: set_colour (grey)
+#. 14: pause (longer)
+#. 15: set_colour (blue)
+#. 16: set_colour (grey)
+#. 17: reset_colour
+#. 18: sound
+#. 19: text_size
+msgctxt "talk01"
+msgid ""
+"<1.so>Oh, my!<2.pa> So it is true!\n"
+"\n"
+"\n"
+"<3.so>That means you must be a <4.se_co>Champion<5.re_co>\n"
+"like Master Revali—one of the few able to\n"
+"board <6.se_co>Divine Beast Vah Medoh<7.re_co>!\n"
+"<8.te_si><9.so><10.se_co>No... What am I thinking?<11.pa> The "
+"<12.se_co>Champions <13.se_co>have all\n"
+"been dead for 100 years.<14.pa> This boy must be a mere\n"
+"descendant...an inheritor of the <15.se_co>Sheikah "
+"Slate<16.se_co>.<17.re_co>\n"
+"<18.so><19.te_si>Ah, forgive me..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk02"
+msgid ""
+"<1.so>Hoo hoo...\n"
+"So I was mistaken..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>Hoo hoo..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: set_colour (blue)
+#. 12: sound
+#. 13: reset_colour
+#. 14: set_colour (blue)
+#. 15: reset_colour
+#. 16: set_colour (blue)
+#. 17: reset_colour
+#. 18: pause (short)
+#. 19: set_colour (blue)
+#. 20: reset_colour
+#. 21: sound
+#. 22: set_colour (blue)
+#. 23: reset_colour
+#. 24: set_colour (blue)
+#. 25: reset_colour
+#. 26: pause (short)
+#. 27: set_colour (blue)
+#. 28: reset_colour
+msgctxt "talk04"
+msgid ""
+"<1.so>Thank you. Truly.\n"
+"\n"
+"\n"
+"<2.so>Now that I know you have the blood of a\n"
+"<3.se_co>Champion<4.re_co>, there is something I must ask\n"
+"of you.\n"
+"How shall I put this...\n"
+"\n"
+"\n"
+"I would like you to deal with\n"
+"<5.se_co>Divine Beast Vah Medoh<6.re_co>.\n"
+"The giant beast circling above us.\n"
+"Only a chosen one, a <7.se_co>Champion<8.re_co>, can stop\n"
+"a <9.se_co>Divine Beast<10.re_co>. You must enter the beast\n"
+"and bend it to your will.\n"
+"I tried explaining this to the more\n"
+"headstrong Rito warriors, but they\n"
+"wouldn't listen to reason.\n"
+"<11.se_co><12.so>Teba<13.re_co> and <14.se_co>Harth<15.re_co> tried to "
+"confront <16.se_co>Medoh<17.re_co>,<18.pa>\n"
+"but it did not go well, and <19.se_co>Harth <20.re_co>was\n"
+"injured.\n"
+"<21.so>Teba escaped unscathed, but I fear he\n"
+"now plans to face <22.se_co>Medoh<23.re_co> alone. \n"
+"\n"
+"As a descendant of the <24.se_co>Champions<25.re_co>,<26.pa>\n"
+"perhaps you can help us.\n"
+"\n"
+"Please. Find Teba. If you work together,\n"
+"you may be able to stop\n"
+"<27.se_co>Divine Beast Vah Medoh<28.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk05"
+msgid ""
+"<1.so>Is there something else you wish to\n"
+"know?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (short)
+#. 8: pause (short)
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: sound
+#. 12: sound
+#. 13: pause (short)
+#. 14: sound
+msgctxt "talk06"
+msgid ""
+"<1.so>Did you perchance see that <2.se_co>giant bird<3.re_co> up\n"
+"there? Soaring high above our village?\n"
+"\n"
+"That...is <4.se_co>Divine Beast Vah Medoh<5.re_co>.\n"
+"\n"
+"\n"
+"<6.so>The Divine Beasts.<7.pa> Our misbegotten\n"
+"inheritance from the ancient Sheikah.<8.pa>\n"
+"Created eons ago to defeat <9.se_co>Ganon<10.re_co>.\n"
+"<11.so>In an ironic turn of events, the Divine\n"
+"Beasts were taken over by the same evil\n"
+"force they were created to defeat.\n"
+"<12.so>But that was 100 years ago. To think the\n"
+"Divine Beasts would suddenly reappear<13.pa>\n"
+"and begin attacking innocent people...\n"
+"<14.so>Could this foretell the return of Ganon?"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk07"
+msgid ""
+"<1.so>If you mean to help us, then allow me\n"
+"to fill you in on the particulars.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk09"
+msgid ""
+"<1.so>That there on your hip.\n"
+"Is that not a <2.se_co>Sheikah Slate<3.re_co>?<4.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: pause (short)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (longer)
+#. 11: sound
+msgctxt "talk10"
+msgid ""
+"<1.se_co><2.so><3.re_co>So you've met Teba.\n"
+"\n"
+"\n"
+"<4.so>Hmm...<5.se_co><6.pa> <7.re_co>He says he will not come back\n"
+"until he has destroyed\n"
+"<8.se_co>Divine Beast Vah Medoh<9.re_co>?<10.pa>\n"
+"<11.so>There is not a reasonable bone in that\n"
+"boy's body. Facing Medoh alone is\n"
+"unthinkably reckless..."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (long)
+#. 7: pause (long)
+msgctxt "talk11"
+msgid ""
+"<1.se_co><2.so><3.re_co>Facing <4.se_co>Divine Beast Vah Medoh "
+"<5.re_co>alone\n"
+"is unthinkably reckless...\n"
+"\n"
+"If you could help Teba,<6.pa> or at least talk\n"
+"some sense into him,<7.pa> I'm sure his family\n"
+"would be very grateful."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (longer)
+msgctxt "talk12"
+msgid ""
+"<1.so>You have done it!<2.pa> And you survived,\n"
+"at that!<3.pa> You conquered\n"
+"<4.se_co>Divine Beast Vah Medoh<5.re_co>!\n"
+"<6.so>To think the beast has taken up\n"
+"roost at the top of the village!<7.pa>\n"
+"It looks simply...divine."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk13"
+msgid ""
+"<1.so>That bow I gave you is the finest in the\n"
+"land, crafted in the Rito tradition. The\n"
+"<2.se_co>Champion<3.re_co> Revali once called it his own.\n"
+"I will not lie—the bow is difficult to\n"
+"handle.<4.pa> No Rito alive is capable of using\n"
+"it to its full potential.\n"
+"Fortunately, our bowyer, Harth, knows\n"
+"the bow well. You should talk to him for\n"
+"details."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: sound
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: sound
+msgctxt "talk14"
+msgid ""
+"<1.so>Teba is a warrior of Rito Village.\n"
+"He lives right next door to my humble\n"
+"abode.\n"
+"He's the one who decided to confront\n"
+"<2.se_co>Divine Beast Vah Medoh<3.re_co>. He set off\n"
+"alongside another villager named Harth.\n"
+"<4.so>Unfortunately, Harth was shot down by\n"
+"<5.se_co>Medoh <6.re_co>and had to retreat.<7.pa>\n"
+"\n"
+"This defeat only made Teba more\n"
+"determined. I fear he has set out to face\n"
+"<8.se_co>Medoh<9.re_co> by himself.\n"
+"<10.so>As you can see, <11.se_co>Medoh <12.re_co>is still flying\n"
+"about up there. I hope Teba is OK.\n"
+"\n"
+"<13.so>Teba's wife Saki may be able to tell you\n"
+"more about his whereabouts."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: set_colour (red)
+#. 12: reset_colour
+#. 13: sound
+#. 14: set_colour (blue)
+#. 15: reset_colour
+#. 16: pause (short)
+msgctxt "talk15"
+msgid ""
+"<1.so>Master Revali was a fierce warrior from\n"
+"Rito Village who died 100 years ago.\n"
+"\n"
+"According to the stories, he flew like the\n"
+"wind itself<2.pa> and wielded a bow twice his\n"
+"own size with ease.\n"
+"His skill was recognized by <3.se_co>King Rhoam<4.re_co>,<5.pa>\n"
+"and he was entrusted to control\n"
+"<6.se_co>Divine Beast Vah Medoh<7.re_co>.\n"
+"<8.so>Master Revali lost his life while piloting\n"
+"the Divine Beast during the great battle\n"
+"with <9.se_co>Calamity<10.re_co> <11.se_co>Ganon<12.re_co>.\n"
+"<13.so>What could have happened inside \n"
+"<14.se_co>Divine Beast Vah Medoh<15.re_co><16.pa> 100 years ago\n"
+"to kill such a celebrated warrior?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "talk16"
+msgid ""
+"<1.so>You, descendant of the <2.se_co>Champions<3.re_co>...\n"
+"Please stop <4.se_co>Medoh<5.re_co>...<6.pa>and help Teba."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "talk18"
+msgid ""
+"<1.so>Champion descendant, <2.pa>it pains me to ask\n"
+"again but...<3.pa> Please, help Teba and stop\n"
+"<4.se_co>Medoh<5.re_co>.<6.pa> I beg of you."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk19"
+msgid "<1.so>But never mind that now..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "talk20"
+msgid ""
+"<1.so><2.se_co>Champion <3.re_co>descendant...\n"
+"The Rito you met at the <4.se_co>Flight Range <5.re_co>was\n"
+"in fact none other than Teba...\n"
+"He is the fiercest of warriors,<6.pa> but I\n"
+"cannot say he was ever one to listen..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk21"
+msgid ""
+"<1.so>Now then...<2.pa>is that not a <3.se_co>Sheikah Slate<4.re_co>\n"
+"dangling from your hip?<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk23"
+msgid "<1.so>Champion descendant..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk24"
+msgid "<1.so>A thousand times, thank you."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk26"
+msgid ""
+"<1.so><2.se_co>Champion <3.re_co>descendant...<4.pa> If you would\n"
+"listen to this old man's request, you\n"
+"would have my eternal gratitude.<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: raw
+#. 8: sound
+#. 9: set_colour (blue)
+#. 10: reset_colour
+msgctxt "talk27"
+msgid ""
+"<1.so><2.se_co>Champion <3.re_co>descendant...<4.pa> I have only just\n"
+"realized. That sword you have in your\n"
+"possession...\n"
+"Could it be the <5.se_co>sword that seals the\n"
+"darkness<6.re_co>?<7.ra><8.so>The <9.se_co>Hylian Champion <10.re_co>who "
+"fought\n"
+"alongside Master Revali 100 years ago...\n"
+"\n"
+"Could...that be you?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "talk28"
+msgid ""
+"<1.so>What you did was miraculous.<2.pa> Though I\n"
+"should expect nothing less of one from\n"
+"the bloodline of a Champion.\n"
+"Why...<3.pa>you are almost the equal of the\n"
+"very <4.se_co>Hylian Champion <5.re_co>who fought with\n"
+"Master Revali 100 years ago...\n"
+"<6.so>All you lack is the <7.se_co>sword that seals the\n"
+"darkness<8.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "talk29"
+msgid ""
+"<1.so>If you had the <2.se_co>sword that seals the\n"
+"darkness <3.re_co>in your possession, you would\n"
+"be the spitting image..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+msgctxt "talk30"
+msgid ""
+"<1.so>They say the <2.se_co>Hylian Champion <3.re_co>wielded\n"
+"the <4.se_co>sword that seals the darkness<5.re_co> that\n"
+"now sleeps deep within the forest."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk31"
+msgid ""
+"<1.so>They say the <2.se_co>Hylian Champion <3.re_co>wielded\n"
+"the <4.se_co>sword that seals the darkness <5.re_co>that\n"
+"now sleeps in the <6.se_co>Lost Woods<7.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "talk32"
+msgid ""
+"<1.so>They say the <2.se_co>Hylian Champion <3.re_co>wielded\n"
+"the <4.se_co>sword that seals the darkness <5.re_co>that\n"
+"sleeps in the <6.se_co>Lost Woods <7.re_co><8.se_co>east<9.re_co> of here."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk34"
+msgid "<1.so>I am happy to answer anything I can.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (longer)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: pause (short)
+#. 11: set_colour (red)
+#. 12: reset_colour
+#. 13: pause (longer)
+msgctxt "talk36"
+msgid ""
+"<1.so>No, no, I was only joking...\n"
+"\n"
+"\n"
+"<2.so>That sword you have there.<3.pa>\n"
+"That is indeed the <4.se_co>sword that seals the\n"
+"darkness<5.re_co>, is it not?\n"
+"Legend has it that the <6.se_co>Hylian Champion<7.re_co>\n"
+"fought against <8.se_co>Ganon <9.re_co>with that very\n"
+"sword.\n"
+"Champion descendant...<10.pa> That <11.se_co>sword<12.re_co> is a\n"
+"precious gift from your ancestors...<13.pa>\n"
+"You must never let it go."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk37"
+msgid ""
+"<1.se_co><2.so>Divine Beast Vah Medoh<3.re_co>...\n"
+"\n"
+"\n"
+"An ancient Sheikah weapon with the\n"
+"power to seal evil. <4.pa>It was once piloted by\n"
+"the Rito Champion, Revali..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: sound
+#. 6: animation
+msgctxt "talk38"
+msgid ""
+"<1.so>If the legends are true, \"the light from\n"
+"the Divine Beasts will ravage the\n"
+"Calamity.\"\n"
+"For now, <2.se_co>Divine Beast Vah Medoh <3.re_co>will\n"
+"become the protector of this village\n"
+"and live on in legend...<4.pa>alongside you.\n"
+"<5.so><6.an>Hoo hoo hoo..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk39"
+msgid ""
+"<1.so>...Oh, yes! Of course!<2.pa>\n"
+"I must reward you properly!"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk40"
+msgid "<1.so>Was there anything else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk41"
+msgid "<1.so>A guest..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk42"
+msgid ""
+"<1.so>Feel free to take what you find in that\n"
+"treasure chest.<2.pa> You will get more use out\n"
+"of it than I."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk43"
+msgid "<1.so>Hoo hoo hoo..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "talk44"
+msgid ""
+"<1.so>Your skills rival those of the <2.se_co>Hylian\n"
+"Champion <3.re_co>who lived 100 years ago.\n"
+"\n"
+"<4.so>All you lack is the <5.se_co>sword that seals the \n"
+"darkness<6.re_co>."
+msgstr ""
+

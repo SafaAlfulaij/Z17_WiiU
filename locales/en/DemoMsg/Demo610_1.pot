@@ -1,0 +1,158 @@
+msgctxt "Npc_DungeonPriest_HeroRitoRelief_001"
+msgid ""
+"I applaud your courage in coming here.\n"
+"\n"
+"\n"
+"The locations that will be revealed to\n"
+"you are of trials that will enhance\n"
+"the power sleeping within.\n"
+"Do not let your guard down..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_003"
+msgid ""
+"<1.so>Hm?<2.pa> How long have you been here?<3.pa>\n"
+"I didn't even notice your arrival!"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_004"
+msgid ""
+"<1.so>Ah, we meet again! And it seems you\n"
+"caught me...well, talking to myself."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (66f)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (long)
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_100"
+msgid ""
+"<1.au_ad><2.ra>♪Wind's ally soars <3.pa>the land of cloud.<4.pa>\n"
+"<5.se_co>Medoh<6.re_co>'s Champion, <7.pa>swift and proud.♪"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_101"
+msgid ""
+"<1.so><2.an>Ah, sweet joy! How glorious to sing this\n"
+"song in front of the real <3.se_co>monument<4.re_co>..."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (84f)
+#. 5: pause (long)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_102"
+msgid ""
+"<1.au_ad><2.ra>♪The hero's power <3.pa>shall grow.<4.pa>\n"
+"Seek trials <5.pa><6.se_co>monuments<7.re_co> show.♪"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (73f)
+#. 7: pause (long)
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_103"
+msgid ""
+"<1.au_ad><2.ra>♪One, <3.pa><4.se_co>shoot the flame dragon's "
+"horn<5.re_co>.<6.pa>\n"
+"Two, <7.pa><8.se_co>race down a peak rings adorn<9.re_co>.♪"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (84f)
+#. 7: pause (long)
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_104"
+msgid ""
+"<1.au_ad><2.ra>♪Three, <3.pa><4.se_co>shoot four targets to "
+"win<5.re_co>.<6.pa>\n"
+"Champion, <7.pa>the trials begin!♪"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: auto_advance
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_105"
+msgid ""
+"<1.au_ad><2.so>The song my teacher left behind...\n"
+"There's <3.se_co>a verse<4.re_co> about the trials that\n"
+"<5.se_co>Champion Revali <6.re_co>overcame.\n"
+"<7.au_ad>Allow me to sing it for you..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_201"
+msgid ""
+"<1.so>The confidence it must have taken to\n"
+"master a <2.se_co>Divine Beast<3.re_co>... How inspiring."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_202"
+msgid ""
+"<1.so>My teacher's dream is now mine to fulfill.\n"
+"An <2.se_co>unfinished song<3.re_co> weighs heavily on\n"
+"a bard's soul... I won't allow it."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_203"
+msgid ""
+"<1.so>But in order to see this dream to fruition,\n"
+"I must learn more about the Champions\n"
+"of long ago..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_204"
+msgid ""
+"<1.so>Yet this unfinished song still pulls at\n"
+"my heart. And so, my hometown is but\n"
+"a stopping point on this journey of mine."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Npc_Musician_AoC_HeroRitoRelief_205"
+msgid ""
+"<1.so>Thankfully, <2.se_co>Teba<3.re_co> and the <4.se_co>Rito "
+"Village<5.re_co>\n"
+"elder, <6.se_co>Kaneli<7.re_co>, told me some wonderful\n"
+"stories of the Rito Champion."
+msgstr ""
+

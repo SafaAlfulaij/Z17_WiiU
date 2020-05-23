@@ -1,0 +1,407 @@
+msgctxt "0000"
+msgid "Where is she?"
+msgstr ""
+
+msgctxt "0001"
+msgid "OK, will do."
+msgstr ""
+
+msgctxt "0003"
+msgid "Your mentor?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Good night."
+msgstr ""
+
+msgctxt "0005"
+msgid "Well, you see..."
+msgstr ""
+
+msgctxt "0006"
+msgid "Mentor?"
+msgstr ""
+
+msgctxt "0007"
+msgid "You don't say..."
+msgstr ""
+
+msgctxt "0008"
+msgid "How did you know?"
+msgstr ""
+
+msgctxt "0009"
+msgid "Nope."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Near00"
+msgid "<1.so>Ouch..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Hrm..."
+msgstr ""
+
+#. 1: sound
+msgctxt "SupriseHouse"
+msgid "<1.so>Eek!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (short)
+msgctxt "Talk01"
+msgid ""
+"<1.so><2.ra>Traveler!<3.pa> I'm sorry, but I seem to have\n"
+"twisted my ankle..."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: sound
+#. 6: sound
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: choice
+msgctxt "Talk02"
+msgid ""
+"<1.so><2.ra>Yes. I see...\n"
+"\n"
+"\n"
+"That <3.se_co>Sheikah Slate<4.re_co> is a symbol. It means\n"
+"you are the hero of legend.\n"
+"\n"
+"<5.so>Though there are few who know of such\n"
+"legends anymore...\n"
+"\n"
+"<6.so>But we Sheikah have been waiting\n"
+"for you for a very long time.\n"
+"\n"
+"Please...before all else, I must insist that\n"
+"you meet with our leader, <7.se_co>Lady Impa<8.re_co>.<9.ch>"
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Talk03"
+msgid ""
+"<1.se_co><2.so>Lady Impa<3.re_co>'s house is below\n"
+"<4.se_co>Lantern Falls<5.re_co>—just over there."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk04"
+msgid ""
+"<1.so>In any case... It was a real honor to meet\n"
+"you.<2.pa> Heh, I suppose you're used to that,\n"
+"having lived as long as you have."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "Talk05"
+msgid "<1.so>Before all else, go to <2.se_co>Lady Impa<3.re_co>'s house."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Talk06"
+msgid ""
+"<1.so>It seems you haven't yet been able to\n"
+"get that <2.se_co>Sheikah Slate <3.re_co>fully functioning.\n"
+"I'm certain my mentor can help you.\n"
+"<4.so>However...\n"
+"\n"
+"\n"
+"Um...\n"
+"\n"
+"\n"
+"Just know that this mentor of mine is...\n"
+"a bit odd..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "Talk07"
+msgid ""
+"<1.so>Heh...<2.pa> You see, Purah is my mentor.\n"
+"\n"
+"\n"
+"<3.so>Through her, I have heard much\n"
+"about what took place during the\n"
+"Great Calamity.\n"
+"<4.so>The princess took special care of that\n"
+"<5.se_co>Sheikah Slate<6.re_co>.<7.pa> It carries so many of\n"
+"her memories within it.\n"
+"I am certain she would be happy to know\n"
+"it made its way safely to you."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk08"
+msgid ""
+"<1.so>My mentor is in Hateno Village.\n"
+"It's to the far east of here.\n"
+"I wish you safe travels."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Talk09"
+msgid ""
+"<1.so>It seems you haven't yet been able to\n"
+"get that <2.se_co>Sheikah Slate <3.re_co>fully functioning...\n"
+"I'm certain my mentor can help you.<4.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk10"
+msgid ""
+"<1.so>Well now, I must thank you for taking\n"
+"the time to come all the way here to\n"
+"this dilapidated place."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "Talk11"
+msgid ""
+"<1.so>I'm so sorry you've traveled this far\n"
+"just to see me...<2.pa>in this state...\n"
+"\n"
+"If only I had heeded my mentor's\n"
+"warning...\n"
+"\n"
+"I may look frightful, but is there\n"
+"something I can do for you?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (long)
+#. 8: pause (longer)
+msgctxt "Talk14"
+msgid ""
+"<1.so>Heh. <2.pa>Well, I'll be...<3.pa> That <4.se_co>Champion's "
+"tunic<5.re_co>\n"
+"certainly suits you.\n"
+"\n"
+"<6.so>Master Link, <7.pa>I never thought I would\n"
+"see you in that with my own eyes...<8.pa>\n"
+"It's like a dream come true."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: text_size
+#. 4: text_size
+#. 5: pause (longer)
+msgctxt "Talk18"
+msgid "<1.so><2.ra><3.te_si>Hmm, let's see here...<4.te_si><5.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: sound
+#. 4: pause (longer)
+msgctxt "Talk19_1"
+msgid ""
+"<1.so><2.ra>I'm sorry you had to see me like that.\n"
+"\n"
+"\n"
+"<3.so>...<4.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (longer)
+msgctxt "Talk19_2"
+msgid "<1.so><2.ra>Say, traveler...<3.pa>"
+msgstr ""
+
+#. 1: single_choice
+msgctxt "Talk19_3"
+msgid ""
+"Where did you get that...object hanging\n"
+"from your waist?<1.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Talk20"
+msgid "<1.so>Yes, indeed.<2.pa> Good night."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: sound
+#. 4: pause (short)
+msgctxt "Talk21"
+msgid ""
+"<1.so>I'm sorry to have greeted you this way.\n"
+"\n"
+"\n"
+"My goodness...<2.pa> You look exhausted.\n"
+"\n"
+"\n"
+"<3.so>There's an inn in this village.<4.pa>\n"
+"Please get some rest there."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: choice
+msgctxt "Talk22"
+msgid ""
+"<1.so>So...<2.pa>you must be Master Link.\n"
+"\n"
+"\n"
+"<3.so>Heh. Do not look so surprised.<4.pa>\n"
+"I know just who you are because of\n"
+"that <5.se_co>Sheikah Slate <6.re_co>on your waist.\n"
+"<7.so>You've met with Purah, haven't you?<8.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "Talk23"
+msgid ""
+"<1.so>The princess took special care of that\n"
+"<2.se_co>Sheikah Slate<3.re_co>.<4.pa> It carries so many of\n"
+"her memories within it.\n"
+"I am certain she would be happy to know\n"
+"it made its way safely to you."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk24"
+msgid ""
+"<1.so>Forgive me for getting ahead of myself.\n"
+"\n"
+"\n"
+"My mentor works at the research center\n"
+"to the far east of here, in a place called\n"
+"Hateno Village.\n"
+"My mentor always told me stories about\n"
+"doing extensive research with Princess\n"
+"Zelda herself.\n"
+"I was also told a great deal about what\n"
+"happened...during the Great Calamity."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk25"
+msgid ""
+"<1.so>So...<2.pa>you are Master Link.\n"
+"\n"
+"\n"
+"Heh. Do not look so surprised.<3.pa>\n"
+"I know just who you are because of\n"
+"that <4.se_co>Sheikah Slate <5.re_co>on your waist.\n"
+"My mentor knows much about it.\n"
+"About you.<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+msgctxt "Talk26"
+msgid ""
+"<1.so>My mentor used to work closely with\n"
+"Princess Zelda in her research of\n"
+"that <2.se_co>Sheikah Slate<3.re_co>.\n"
+"Go to the research facility in\n"
+"Hateno Village, located to the\n"
+"far east of here.\n"
+"<4.so>However...\n"
+"\n"
+"\n"
+"Um...\n"
+"\n"
+"\n"
+"Just know that this mentor of mine is...\n"
+"a bit odd."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: sound
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+msgctxt "Talk27"
+msgid ""
+"<1.so>Heh. <2.pa>There's no point trying to deny it.<3.pa>\n"
+"You see, Purah is my mentor.\n"
+"\n"
+"<4.so>Through her, I have heard much\n"
+"about what took place during the\n"
+"Great Calamity.\n"
+"<5.so>The princess took special care of that\n"
+"<6.se_co>Sheikah Slate<7.re_co>.<8.pa> It carries so many of\n"
+"her memories within it.\n"
+"I am certain she would be happy to know\n"
+"it made its way safely to you."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk28"
+msgid ""
+"<1.so>Hm?\n"
+"\n"
+"\n"
+"Well, well. Look who's here..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk29"
+msgid "<1.so>Just head toward <2.se_co>Lantern Falls<3.re_co>."
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "Is that—?!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Show some compassion..."
+msgstr ""
+

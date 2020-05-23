@@ -1,0 +1,215 @@
+msgctxt "0000"
+msgid "I'm a traveler."
+msgstr ""
+
+msgctxt "0001"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0002"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Where am I?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Where do you live?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "0006"
+msgid "What are you doing?"
+msgstr ""
+
+msgctxt "near00"
+msgid "♪"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk00"
+msgid "<1.so>What's with you?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Hmmm..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (longer)
+msgctxt "talk02"
+msgid ""
+"<1.so>...<2.pa>What?!\n"
+"\n"
+"\n"
+"You're the one who approached ME!\n"
+"Why would you just walk up and\n"
+"say good-bye?!\n"
+"<3.so>Heh. I like your style!<4.pa> In fact,\n"
+"I'm gonna do you a favor and\n"
+"accept you as my student."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: raw
+msgctxt "talk03"
+msgid ""
+"<1.so>It's settled. I'm the professor, got it?<2.pa>\n"
+"And I expect my students...<3.pa>to lemme\n"
+"know if they have any questions.<4.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk04"
+msgid "<1.so><2.se_co>Slergo<3.re_co>."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>Goron City."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk06"
+msgid "<1.so><2.se_co>The smithy<3.re_co>'s place."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk07"
+msgid ""
+"<1.so>Good mornin'...<2.pa> I'm still sleepy,\n"
+"but I always have time to answer\n"
+"a student's questions."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk08"
+msgid ""
+"<1.so>It's still hot today... Woof.<2.pa>\n"
+"Now, listen closely, my student."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk09"
+msgid ""
+"<1.so>I'm pretty sleepy, but I'm always game to\n"
+"answer a student's questions."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk10"
+msgid "<1.so>Did ya wanna ask me somethin'?<2.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk11"
+msgid "<1.so>Hmm..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk12"
+msgid "<1.so>I'm on my way home..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk13"
+msgid "<1.so>Hmph... <2.pa>Hmph..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "talk14"
+msgid "<1.so>You again?<2.pa> What's your problem?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk15"
+msgid "<1.so>Anything else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk16"
+msgid ""
+"<1.so>I'm just...<2.pa>so happy to have a pupil who's\n"
+"so curious! Ask me anything you want,\n"
+"whenever you want!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: raw
+msgctxt "talk17"
+msgid ""
+"<1.so>My pupil...<2.pa> Your professor will provide\n"
+"any answers you seek.<3.ra>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "talk18"
+msgid "<1.te_si><2.so>*smack...smack...*<3.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk19"
+msgid "<1.so>I'm...answering my student's questions!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk20"
+msgid "<1.so>I don't have any troubles."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk21"
+msgid ""
+"<1.so>If you're lookin' for someone with issues,<2.pa>\n"
+"Boss Bludo is in a fix because of his\n"
+"back pain..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk22"
+msgid ""
+"<1.so>It seems <2.se_co>Boss<3.re_co> Bludo's back pain got\n"
+"better all of a sudden... <4.pa>It's a miracle!\n"
+"Finally, peace has returned to the land."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk24"
+msgid "<1.so>I was just about to go to bed..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk25"
+msgid "<1.so>Need somethin' else?<2.ch>"
+msgstr ""
+

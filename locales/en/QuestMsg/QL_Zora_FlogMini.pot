@@ -1,0 +1,26 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+msgctxt "QL_Zora_FlogMini_Desc"
+msgid ""
+"Tumbo in Zora's Domain wants you to donate\n"
+"five <1.se_co>hot-footed frogs <2.re_co>to his cause.\n"
+"<3.se_co><4.re_co>\n"
+"Apparently hot-footed frogs are pretty easy to\n"
+"find on <5.se_co>rainy days<6.re_co>."
+msgstr ""
+
+msgctxt "QL_Zora_FlogMini_Finish"
+msgid ""
+"Tumbo gave you an armoranth in exchange for\n"
+"five hot-footed frogs. He seemed pretty\n"
+"pleased with the whole arrangement."
+msgstr ""
+
+msgctxt "QL_Zora_FlogMini_Name"
+msgid "Frog Catching"
+msgstr ""
+

@@ -1,0 +1,8 @@
+msgctxt "DefaultTalk"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "DefaultTalk2"
+msgid "<NO_STRING>"
+msgstr ""
+

@@ -1,0 +1,35 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+msgctxt "QL_Find_Impa_Desc"
+msgid ""
+"You were tasked with going to Kakariko Village\n"
+"to speak with <1.se_co>Impa<2.re_co>, who will give you more\n"
+"details on your quest.\n"
+"\n"
+"Descend from the Great Plateau and head\n"
+"east beyond the Dueling Peaks, then follow\n"
+"the road to the north. The blinking dot on your\n"
+"Sheikah Slate's map will guide the way."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_Find_Impa_Finish"
+msgid ""
+"Impa, the chief of Kakariko Village, relayed the\n"
+"tale of what happened 100 years ago, as well\n"
+"as the mission entrusted to you by Princess\n"
+"Zelda to <1.se_co>free the four Divine Beasts<2.re_co>.\n"
+"\n"
+"But first, it seems that your Sheikah Slate\n"
+"is incomplete. Having it fixed at the\n"
+"Hateno Ancient Tech Lab in <3.se_co>Hateno Village<4.re_co>\n"
+"may provide more clues to your mission."
+msgstr ""
+
+msgctxt "QL_Find_Impa_Name"
+msgid "Seek Out Impa"
+msgstr ""
+

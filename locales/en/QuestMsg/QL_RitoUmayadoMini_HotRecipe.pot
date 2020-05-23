@@ -1,0 +1,39 @@
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "QL_RitoUmayadoMini_HotRecipe_Desc"
+msgid ""
+"Lester from the Rito Stable in the\n"
+"Tabantha Frontier asked for <1.se_co>Goron spice<2.re_co>,\n"
+"an ingredient for curry rice.\n"
+"\n"
+"Get some <3.se_co>Goron spice <4.re_co>and deliver it\n"
+"to Lester at the Rito Stable."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "QL_RitoUmayadoMini_HotRecipe_Finish"
+msgid ""
+"Lester from the Rito Stable in the\n"
+"Tabantha Frontier taught you to make\n"
+"curry rice. The base ingredients are\n"
+"<1.se_co>Hylian rice<2.re_co> and <3.se_co>Goron spice<4.re_co>.\n"
+"You can add different ingredients to the\n"
+"base recipe to make all sorts of curry rice.\n"
+"\n"
+"Should you ever be in need of <5.se_co>Hylian rice<6.re_co>,\n"
+"he will trade you for some <7.se_co>Goron spice<8.re_co>."
+msgstr ""
+
+msgctxt "QL_RitoUmayadoMini_HotRecipe_Name"
+msgid "Curry for What Ails You"
+msgstr ""
+

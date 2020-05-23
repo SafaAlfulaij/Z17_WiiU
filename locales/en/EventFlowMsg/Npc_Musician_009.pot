@@ -1,0 +1,52 @@
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (long)
+#. 5: sound
+#. 6: pause (long)
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound
+#. 10: sound
+#. 11: pause (short)
+msgctxt "Talk08"
+msgid ""
+"<1.so>Good to see you again!<2.pa>\n"
+"I trust you're keeping well?\n"
+"\n"
+"<3.so>You've come quite some distance.\n"
+"<4.pa>Even I, blessed with the gift of flight, \n"
+"struggled a bit to make it here.<5.so>\n"
+"...<6.pa>My teacher was the court poet in the\n"
+"employ of the Hyrulean royal family.\n"
+"\n"
+"One hundred years ago, he came \n"
+"face-to-face with the Calamity at \n"
+"<7.se_co>Hyrule Castle<8.re_co> and was forced to flee.\n"
+"<9.so>It was a perilous journey—very different\n"
+"from my own travels, I imagine. Danger\n"
+"was his constant companion...\n"
+"<10.so>Anyway,<11.pa> I should return to my task."
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "Stop it!"
+msgstr ""
+
+msgctxt "TerrorExplosion"
+msgid "WAAAAAA!"
+msgstr ""
+
+#. 1: sound2
+msgctxt "TerrorFire"
+msgid "<1.so>Ack!"
+msgstr ""
+
+msgctxt "TerrorHorse"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Knock it off!"
+msgstr ""
+

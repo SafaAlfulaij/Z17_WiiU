@@ -1,0 +1,72 @@
+msgctxt "Near00"
+msgid "Oookaaay..."
+msgstr ""
+
+msgctxt "Near01"
+msgid "Zzz... Zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk00"
+msgid ""
+"<1.so>Mommy, I'm hungry!<2.pa>\n"
+"Can you cook some more food?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk01"
+msgid "<1.so>Zzz... Zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk02"
+msgid ""
+"<1.so>I'm gonna go have dinner!<2.pa>\n"
+"I wonder what it'll be tonight!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>My mommy's food is the best!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk04"
+msgid ""
+"<1.so>I gotta go to sleep...<2.pa>\n"
+"Good night."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk05"
+msgid ""
+"<1.so>I'm gonna go have dinner!<2.pa>\n"
+"Tonight's dinner is <3.se_co>seafood paella<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "talk06"
+msgid ""
+"<1.so>I hope dinner is <2.se_co>seafood paella<3.re_co>!<4.pa>\n"
+"It's sooooo yummy!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (long)
+msgctxt "talk07"
+msgid ""
+"<1.so>I hope Mom cooks <2.se_co>seafood paella<3.re_co>\n"
+"tonight! <4.pa>\n"
+msgstr ""
+

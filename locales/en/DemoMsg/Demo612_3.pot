@@ -1,0 +1,85 @@
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: animation
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+msgctxt "Npc_Musician_AoC_HeroGerudo_000"
+msgid ""
+"<1.so>Ah! Wandering around here and listening\n"
+"to anecdotes about <2.se_co>Champion Urbosa<3.re_co>\n"
+"has truly invigorated me.\n"
+"<4.an>In fact, it has inspired me to honor\n"
+"her in my own way, separate from\n"
+"my teacher's <5.se_co>unfinished song<6.re_co>.\n"
+"<7.so>That is why I felt inclined to roost here,\n"
+"near the <8.se_co>Divine Beast Vah Naboris<9.re_co>,\n"
+"which <10.se_co>Urbosa<11.re_co> herself mastered."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: sound
+#. 3: animation
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Npc_Musician_AoC_HeroGerudo_001"
+msgid ""
+"<1.au_ad><2.so><3.an>I've written a song...to try and capture\n"
+"the essence of <4.se_co>Champion Urbosa<5.re_co>..."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: pause (84f)
+#. 7: pause (long)
+#. 8: pause (longer)
+#. 9: auto_advance
+#. 10: raw
+#. 11: set_colour (blue)
+#. 12: reset_colour
+#. 13: pause (long)
+#. 14: pause (90f)
+#. 15: pause (long)
+#. 16: pause (longer)
+msgctxt "Npc_Musician_AoC_HeroGerudo_100"
+msgid ""
+"<1.au_ad><2.ra>♪Recall <3.se_co>Naboris<4.re_co>'s <5.pa>Champion of "
+"sand,<6.pa>\n"
+"before she was lost <7.pa>to the land.♪<8.pa>\n"
+"\n"
+"<9.au_ad><10.ra>♪Chief <11.se_co>Urbosa<12.re_co>'s <13.pa>heart was "
+"strong,<14.pa>\n"
+"so the princess <15.pa>came along.♪<16.pa>"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "Npc_Musician_AoC_HeroGerudo_500"
+msgid ""
+"<1.so><2.an>Hmm... Though she was a fierce warrior,\n"
+"the Gerudo chief was also a loving friend\n"
+"of Hyrule's princess."
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "Npc_Musician_AoC_HeroGerudo_501"
+msgid ""
+"<1.so><2.an>So? What do you think of\n"
+"<3.se_co>Champion Urbosa's Song<4.re_co>?\n"
+"\n"
+"By writing a song that honors the\n"
+"heart of Champion Urbosa, I feel\n"
+"closer than ever to my dear teacher."
+msgstr ""
+

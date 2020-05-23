@@ -1,0 +1,465 @@
+msgctxt "0000"
+msgid "Yes, please!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "0002"
+msgid "Ruby?"
+msgstr ""
+
+msgctxt "0003"
+msgid "Sapphire?"
+msgstr ""
+
+msgctxt "0004"
+msgid "Topaz?"
+msgstr ""
+
+msgctxt "0006"
+msgid "Accessories?"
+msgstr ""
+
+msgctxt "0007"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0008"
+msgid "Here's some flint."
+msgstr ""
+
+msgctxt "0009"
+msgid "What's the matter?"
+msgstr ""
+
+msgctxt "0010"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "Near"
+msgid "I have to do something..."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "Talk_01"
+msgid ""
+"<1.so>Great! You got the last of my free time\n"
+"with that greeting.<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: sound
+#. 6: pause (longer)
+#. 7: sound
+#. 8: sound2
+#. 9: pause (longer)
+#. 10: set_colour (blue)
+#. 11: raw
+#. 12: reset_colour
+#. 13: set_colour (blue)
+#. 14: reset_colour
+#. 15: choice
+msgctxt "Talk_02"
+msgid ""
+"<1.so>Sarqso!<2.pa>\n"
+"\n"
+"\n"
+"<3.so>But...I can't take this all from you with\n"
+"just a sarqso. We hardly know each\n"
+"other,<4.pa> and you've been so nice...\n"
+"<5.so>The shop's been closed so long,\n"
+"I hardly have any inventory...<6.pa>\n"
+"\n"
+"<7.so><8.so>Oh, of course!<9.pa> <10.se_co><11.ra><12.re_co>Now that I "
+"have some\n"
+"<13.se_co>flint<14.re_co>, I could make a jeweled accessory\n"
+"for you if you're interested in something.<15.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: choice
+msgctxt "Talk_03"
+msgid ""
+"<1.so>I'm sorry that these are all I have to offer\n"
+"to show my appreciation...\n"
+"\n"
+"<2.so>But really...I need to give you something\n"
+"to feel OK about accepting your help.\n"
+"Could you please pick one?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+#. 4: sound
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound2
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: choice
+msgctxt "Talk_06"
+msgid ""
+"<1.so>Oh,<2.pa> you...<3.pa>\n"
+"\n"
+"\n"
+"<4.so>I'm sorry you keep coming here for\n"
+"nothing...\n"
+"\n"
+"Without <5.se_co>flint<6.re_co>, I can't process jewels, so\n"
+"I can't sell anything in my shop.\n"
+"\n"
+"<7.so>It'd be a different story if a kind,\n"
+"generous vai were to give me <8.se_co>10 pieces\n"
+"of<9.re_co> <10.se_co>flint<11.re_co>, though...<12.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Talk_08"
+msgid ""
+"<1.so>I use <2.se_co>rubies<3.re_co>, <4.se_co>sapphires<5.re_co>, and "
+"other gems\n"
+"to make <6.se_co>accessories<7.re_co>. \n"
+"\n"
+"Each gem type has its own power that it\n"
+"can transfer to whoever wears it."
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_09"
+msgid ""
+"<1.so>I'm sorry that you came all the way\n"
+"to see me for nothing."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_10"
+msgid ""
+"<1.so><2.so>Brand-new, especially for you!\n"
+"I think it turned out really well!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+#. 4: text_size
+#. 5: text_size
+msgctxt "Talk_11"
+msgid ""
+"<1.so><2.so>Thanks to you, I got the shop running\n"
+"again, so if you ever need an accessory,\n"
+"please come by for a special discount.\n"
+"Just...<3.pa>don't tell my other customers, <4.te_si>OK?<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "Talk_12"
+msgid ""
+"<1.so><2.so>Teehee, I thought you might pick that\n"
+"one.<3.pa> Please give me a moment..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: pause (longer)
+msgctxt "Talk_13"
+msgid ""
+"<1.so><2.so>Teehee, I thought you might pick that\n"
+"one. <3.pa>Just give—\n"
+"\n"
+"Hang on. It doesn't seem like you've got\n"
+"room for this right now. Perhaps you can\n"
+"make some room and come back?"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: sound
+#. 4: choice
+msgctxt "Talk_14"
+msgid ""
+"<1.so><2.so>I'd like to give you something as thanks.\n"
+"\n"
+"\n"
+"<3.so>Have you decided on an accessory\n"
+"you'd like?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Talk_15"
+msgid ""
+"<1.so>There's nothing I can do about not\n"
+"having any <2.se_co>flint<3.re_co>, though..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound2
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: choice
+msgctxt "Talk_16"
+msgid ""
+"<1.so>Sorry you keep coming here with nothing\n"
+"to show for the trip...\n"
+"\n"
+"Without <2.se_co>flint<3.re_co>, I can't make any\n"
+"accessories, so the shop is closed\n"
+"for now.\n"
+"<4.so>It would be a different story if a kind,\n"
+"generous vai were to give me <5.se_co>10 pieces\n"
+"of<6.re_co> <7.se_co>flint<8.re_co>, though...<9.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_17"
+msgid "<1.so><2.so>Uh..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+msgctxt "Talk_18"
+msgid "<1.so>What?!<2.pa> You're just...giving these to me?<3.pa>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_19"
+msgid ""
+"<1.se_co><2.so>Rubies<3.re_co> have the power to grant cold\n"
+"resistance. So you'd like a <4.se_co>ruby circlet<5.re_co>?<6.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_20"
+msgid ""
+"<1.se_co><2.so>Sapphires<3.re_co> have the power to grant heat\n"
+"resistance. So you think you'd like a\n"
+"<4.se_co>sapphire circlet<5.re_co>?<6.ch>"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: choice
+msgctxt "Talk_21"
+msgid ""
+"<1.se_co><2.so>Topaz<3.re_co> has the power to grant electric\n"
+"resistance. So you think you'd like\n"
+"<4.se_co>topaz earrings<5.re_co>?<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: set_colour (red)
+#. 10: pause (longer)
+#. 11: reset_colour
+#. 12: pause (longer)
+#. 13: sound
+#. 14: pause (short)
+#. 15: choice
+msgctxt "Talk_23"
+msgid ""
+"<1.so>I manage a shop that specializes in\n"
+"handmade accessories, <2.so>but I've run out\n"
+"of <3.se_co>flint<4.re_co>. I need it to make my items.\n"
+"If only I had <5.se_co>10<6.re_co>... Just <7.se_co>10<8.re_co>... If "
+"some kind\n"
+"vai would give me <9.se_co>10 pieces of flint<10.pa><11.re_co>, \n"
+"I could offer a nice reward...<12.pa>\n"
+"<13.so>I can dream all I want, though... <14.pa>Nothing\n"
+"goes that smoothly in the real world.<15.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "Talk_24"
+msgid ""
+"<1.so>You're a Hylian, right? Listen, I'm sorry\n"
+"you came all this way,<2.so> but my shop is\n"
+"gonna have to close for a bit."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: sound
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+msgctxt "Talk_25"
+msgid ""
+"<1.so>Hmm.<2.pa> Well, I do appreciate the gesture...\n"
+"\n"
+"\n"
+"<3.se_co><4.so><5.re_co>But unless I have <6.se_co>10 pieces of "
+"<7.re_co><8.se_co>flint <9.re_co>to\n"
+"get started with, there's no point..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: choice
+msgctxt "Talk_26"
+msgid ""
+"<1.so>I haven't really got the time to be\n"
+"greeting people, honestly...\n"
+"\n"
+"Now that the Divine Beast has finally\n"
+"calmed down, there should be a rush of\n"
+"customers any second...\n"
+"<2.so>So why did something like this have to\n"
+"happen to me now, of all times?<3.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Talk_27"
+msgid "<1.so>I'm in a bit of a jam, really..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "Talk_28"
+msgid "<1.so>Hahh... <2.pa>Oooh, what to do, what to do..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+#. 3: sound
+#. 4: choice
+msgctxt "Talk_29"
+msgid ""
+"<1.so><2.so>Vasaaq...\n"
+"\n"
+"\n"
+"<3.so>Not that I have any reason to be\n"
+"greeting people...<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound2
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (red)
+#. 8: reset_colour
+msgctxt "Talk_30"
+msgid ""
+"<1.so>I'm sorry... I still haven't gotten my\n"
+"hands on any <2.se_co>flint<3.re_co>. I can't really make\n"
+"anything without it.\n"
+"<4.so>Hah... I wonder if a kind, generous\n"
+"vai would give me <5.se_co>10 pieces of<6.re_co> "
+"<7.se_co>flint<8.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound2
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: choice
+msgctxt "Talk_31"
+msgid ""
+"<1.so>I'm sorry... I haven't been able to get any\n"
+"<2.se_co>flint <3.re_co>yet, so I'm not in a position to make\n"
+"any <4.se_co>accessories<5.re_co> right now...\n"
+"<6.so>Hmm, I wonder if I'd be able to work if\n"
+"a kind, generous vai were to give me <7.se_co>10\n"
+"pieces of<8.re_co> <9.se_co>flint<10.re_co>, though...<11.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "Talk_32"
+msgid "<1.so>I can't do anything without some <2.se_co>flint<3.re_co>...<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_33"
+msgid "<1.so><2.so>Sav'otta..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_34"
+msgid "<1.so><2.so>Sav'aaq..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_35"
+msgid "<1.so><2.so>Sav'saaba..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_36"
+msgid "<1.so><2.so>Sav'otta!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_37"
+msgid "<1.so><2.so>Sav'aaq!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound2
+msgctxt "Talk_38"
+msgid "<1.so><2.so>Sav'saaba!"
+msgstr ""
+

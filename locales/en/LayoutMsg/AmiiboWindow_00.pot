@@ -1,0 +1,49 @@
+msgctxt "0000"
+msgid "OK"
+msgstr ""
+
+msgctxt "0001"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "0002"
+msgid "Use amiibo"
+msgstr ""
+
+msgctxt "0003"
+msgid "Do not use amiibo"
+msgstr ""
+
+msgctxt "0004"
+msgid ""
+"You cannot use amiibo until you've reached\n"
+"a certain point in the game. Try again after\n"
+"you've made some progress."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"This game is compatible with amiibo.\n"
+"Would you like to enable amiibo functionality?"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Your current settings allow the use of the amiibo rune.\n"
+"Would you like to disable the use of the amiibo rune?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"You can now use the amiibo rune with the\n"
+"Sheikah Slate. You can change this setting\n"
+"on the Options screen at any time."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"You can no longer use the amiibo rune.\n"
+"You can change this setting on the Options\n"
+"screen at any time. "
+msgstr ""
+

@@ -1,0 +1,1350 @@
+msgctxt "0000"
+msgid "Please."
+msgstr ""
+
+msgctxt "0001"
+msgid "Wait."
+msgstr ""
+
+msgctxt "0002"
+msgid "Good-bye."
+msgstr ""
+
+msgctxt "0003"
+msgid "Gear displays."
+msgstr ""
+
+msgctxt "0004"
+msgid "Installations."
+msgstr ""
+
+msgctxt "0005"
+msgid "House exterior."
+msgstr ""
+
+msgctxt "0006"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "0007"
+msgid "Weapon mount."
+msgstr ""
+
+msgctxt "0008"
+msgid "Bow mount."
+msgstr ""
+
+msgctxt "0009"
+msgid "Shield mount."
+msgstr ""
+
+msgctxt "0010"
+msgid "Bed."
+msgstr ""
+
+msgctxt "0011"
+msgid "That's right!"
+msgstr ""
+
+msgctxt "0012"
+msgid "Lighting."
+msgstr ""
+
+msgctxt "0013"
+msgid "Plant some flowers!"
+msgstr ""
+
+msgctxt "0014"
+msgid "Plant trees!"
+msgstr ""
+
+msgctxt "0015"
+msgid "Door."
+msgstr ""
+
+msgctxt "0016"
+msgid "I'm ready to pay up!"
+msgstr ""
+
+msgctxt "0017"
+msgid "Build me something."
+msgstr ""
+
+msgctxt "0018"
+msgid "What?"
+msgstr ""
+
+msgctxt "0019"
+msgid "Hudson?"
+msgstr ""
+
+msgctxt "0020"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0021"
+msgid "A sign with my name!"
+msgstr ""
+
+msgctxt "0022"
+msgid "I'll pay your price!"
+msgstr ""
+
+msgctxt "0023"
+msgid "I can't pay..."
+msgstr ""
+
+msgctxt "0024"
+msgid "Huh?!"
+msgstr ""
+
+msgctxt "0025"
+msgid "That's good!"
+msgstr ""
+
+msgctxt "0026"
+msgid "What're you doing?"
+msgstr ""
+
+msgctxt "0027"
+msgid "Who are you?"
+msgstr ""
+
+msgctxt "0028"
+msgid "I can buy it!"
+msgstr ""
+
+msgctxt "0029"
+msgid "Sounds...dull."
+msgstr ""
+
+msgctxt "0030"
+msgid "I'm ready!"
+msgstr ""
+
+msgctxt "0031"
+msgid "Clearing land?"
+msgstr ""
+
+msgctxt "0032"
+msgid "I'll pay!"
+msgstr ""
+
+msgctxt "0033"
+msgid "Impossible..."
+msgstr ""
+
+msgctxt "0034"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "0035"
+msgid "I'll shell out!"
+msgstr ""
+
+msgctxt "0036"
+msgid "You OK?"
+msgstr ""
+
+msgctxt "0037"
+msgid "That neck charm..."
+msgstr ""
+
+msgctxt "0038"
+msgid "Errr..."
+msgstr ""
+
+msgctxt "TerrorArrow"
+msgid "That's dangerous!"
+msgstr ""
+
+msgctxt "TerrorBomb"
+msgid "What's that?!"
+msgstr ""
+
+msgctxt "TerrorSword"
+msgid "Put that away!"
+msgstr ""
+
+msgctxt "near00"
+msgid "And here..."
+msgstr ""
+
+msgctxt "near01"
+msgid "Hrm..."
+msgstr ""
+
+msgctxt "near04"
+msgid "Zzz...zzz..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk00"
+msgid ""
+"<1.so>So the both of us sort of hit a personal\n"
+"milestone, huh? Time to kick back and\n"
+"get LEISURELY, baby!\n"
+"...Though you look a bit judgmental for\n"
+"such a fine moment.<2.pa> You're looking at me\n"
+"like we should both keep working at it."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: pause (short)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: sound
+#. 10: set_colour (red)
+#. 11: reset_colour
+msgctxt "talk02"
+msgid ""
+"<1.so>Heh! You don't even have to say it.<2.pa>\n"
+"\"Oh, wah, I just bought a house and it's\n"
+"totally empty and depressing!\"\n"
+"<3.so>Oh, sure, that's you to a T. <4.pa>\n"
+"I see it in your eyes.<5.pa> Yup, I was just like\n"
+"you, about a lifetime ago.\n"
+"So tell you what, lemme help by taking\n"
+"care of furniture, or the exterior,<6.pa> or \n"
+"anything really, for <7.se_co>5,000 rupees<8.re_co>.\n"
+"<9.so>Actually, no, scratch that. For you?\n"
+"Let's start at <10.se_co>100 rupees<11.re_co>.\n"
+"\n"
+"Just cruise on by whenever you have\n"
+"the spending cash and we'll talk."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>♪Hi!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk04"
+msgid ""
+"<1.so>Whoa my!<2.pa> ♪Aren't you perky?♪<3.pa>\n"
+"Well then..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk05"
+msgid "<1.so>♪Mornin'!♪"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk06"
+msgid "<1.so>♪Hey!♪"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk07"
+msgid "<1.so>♪Evenin'!♪"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk08"
+msgid "<1.so>♪Farewell!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk10"
+msgid "<1.so>Whatcha want?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk100"
+msgid ""
+"<1.so>You... <2.pa>I'd advise you not to waste any\n"
+"time, either.\n"
+"\n"
+"...Youth. <3.pa>It's just foam on a wave.\n"
+"Gone before you know it.\n"
+"\n"
+"So if you get my meaning, you'd better\n"
+"get moving. I think you know what you \n"
+"still need to do."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk101"
+msgid "<1.so>Anything else you want to ask me?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk102"
+msgid "<1.so>Need anything else?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk103"
+msgid ""
+"<1.so>OK.<2.pa> So I just need to head over to\n"
+"<3.se_co>Tarrey Town<4.re_co>?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk104"
+msgid ""
+"<1.so>So...<2.pa>which is it, then? You're addling me.\n"
+"If you think I should attend,<3.pa> then come\n"
+"talk to me again, will you?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk105"
+msgid ""
+"<1.so>The <2.se_co>blue flame<3.re_co>...<4.pa> Doesn't that belong\n"
+"to the <5.se_co>director<6.re_co> of the <7.se_co>Hateno Ancient\n"
+"Tech Lab<8.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk106"
+msgid ""
+"<1.so>That <2.se_co>blue flame<3.re_co>...<4.pa> Doesn't that belong to\n"
+"Lady Purah from the <5.se_co>Hateno Ancient\n"
+"Tech Lab<6.re_co>?"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk107"
+msgid ""
+"<1.so>You should probably take it up there\n"
+"before you cause anyone any trouble."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk108"
+msgid ""
+"<1.so>I've definitely seen the <2.se_co>director<3.re_co> from the\n"
+"<4.se_co>Hateno Ancient Tech Lab<5.re_co> carrying that\n"
+"<6.se_co>blue flame<7.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk109"
+msgid ""
+"<1.so>I've definitely seen <2.se_co>Lady Purah<3.re_co> from\n"
+"the <4.se_co>Hateno Ancient Tech Lab<5.re_co> carrying\n"
+"that <6.se_co>blue flame<7.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk11"
+msgid "<1.so>What kind of mount?<2.ra>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk111"
+msgid "<1.so>Okey-doo..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk112"
+msgid "<1.so>Okey-doo... <2.pa>Looks like rain..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk113"
+msgid ""
+"<1.so>If you aren't doing anything useful,\n"
+"why don't you see if you can get this \n"
+"dance to catch on? You ready for this?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk114"
+msgid ""
+"<1.so>Bolson Construction! What's our credo?\n"
+"<2.pa>Any nail could fail..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk115"
+msgid "<1.so>So don't let your hammer stammer!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk116"
+msgid ""
+"<1.so>Bolson Construction! What's our credo?!\n"
+"<2.pa>♪THUNK! ZWIP! Hammer! Saw!♪"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk117"
+msgid "<1.so>Good rhythm! Good jaw...b!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk118"
+msgid ""
+"<1.so>Bolson Construction! What's our credo?!<2.pa>\n"
+"If you can't pull the saw..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk119"
+msgid "<1.so>Then don't push it!"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk12"
+msgid "<1.so>What were you thinking?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk120"
+msgid ""
+"<1.so>Bolson Construction! What's our credo?!<2.pa>\n"
+"With seven colors of paint..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk121"
+msgid "<1.so>Buildings bloom like the spring!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk122"
+msgid ""
+"<1.so>Pretty flawless, if I do say so myself.<2.pa>\n"
+"You should take a look."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk123"
+msgid ""
+"<1.so>Practically perfect, if I do say so myself...<2.pa>\n"
+"I'm a little jealous."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk124"
+msgid ""
+"<1.so>♪Well, it's really coming along.♪<2.pa> \n"
+"Take a look, if you get a chance."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: pause (short)
+#. 7: pause (short)
+#. 8: pause (short)
+msgctxt "talk125"
+msgid ""
+"<1.so>New construction, <2.pa>house reduction,<3.pa>\n"
+"wall destruction, <4.pa>remodel-uction...<5.pa>\n"
+"♪Aaaaaaanything <6.pa>a house <7.pa>could <8.pa>need!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: pause (short)
+#. 7: pause (short)
+#. 8: pause (short)
+msgctxt "talk126"
+msgid ""
+"<1.so>♪With love, <2.pa>courage, <3.pa>and hopeful <4.pa>hearts,\n"
+"<5.pa>we give every <6.pa>house <7.pa>a new<8.pa> staaart!♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk127"
+msgid ""
+"<1.so>♪That name again is Bolson! Yeah, yeah!<2.pa>\n"
+"Buh-buh-buh-Bolson Construction.♪"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: text_size
+msgctxt "talk128"
+msgid "<1.te_si><2.so>Karson! <3.pa>Look lively!<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk13"
+msgid "<1.so>Which exterior feature?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: choice
+msgctxt "talk14"
+msgid ""
+"<1.so>That'll be <2.se_co>100 rupees<3.re_co>, OK?<4.pa>\n"
+"You can shell that out?<5.ch>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk15"
+msgid "<1.so>♪Okey-doo, payment's due up front.♪"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk16"
+msgid ""
+"<1.so>...But hold up. Hold it right there.<2.pa>\n"
+"You know what you DON'T have?\n"
+"<3.se_co>A hundred rupees<4.re_co>. Go make some money."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk17"
+msgid "<1.so>♪Okey-doo.♪"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk18"
+msgid "<1.so>Need something from me?<2.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: pause (short)
+#. 5: text_size
+#. 6: sound
+#. 7: pause (short)
+#. 8: pause (short)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+msgctxt "talk19"
+msgid ""
+"<1.te_si><2.so>AHH! <3.pa>YOU <4.pa>HOUSING MONSTER!<5.te_si>\n"
+"\n"
+"\n"
+"You got EVERYTHING?!\n"
+"\n"
+"\n"
+"<6.so>Ah, such is the way of youth...\n"
+"<7.pa>Driven! Even reckless, some might say.\n"
+"\n"
+"Well, since you bought everything,<8.pa>\n"
+"I threw in some free <9.se_co>furniture<10.re_co>! Yeah!\n"
+"Least I could do!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk20"
+msgid ""
+"<1.so>Well, I am TUCKERED. <2.pa>I couldn't swing a\n"
+"ball-peen hammer right now, let alone an\n"
+"axe... <3.pa>Break time, baby!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk21"
+msgid ""
+"<1.so>Come to think of it,<2.pa> we've had no word\n"
+"from Hudson, have we?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk22"
+msgid ""
+"<1.so>Hard to believe someone could get\n"
+"lost on a simple trip to <2.se_co>Lake Akkala<3.re_co>..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk23"
+msgid ""
+"<1.so>Yeah, he's probably living it up at\n"
+"<2.se_co>Lake Akkala<3.re_co>. I'm sure it's all good.\n"
+"Pretty sure..."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+msgctxt "talk24"
+msgid "<1.so>Need something from me?<2.ra>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (longer)
+msgctxt "talk25"
+msgid ""
+"<1.so>Oh, can't complain, you know? <2.pa>\n"
+"Though there is one thing...\n"
+"\n"
+"I just decided to retire as the luminary,\n"
+"president, architect, and design lead of\n"
+"Bolson Construction.<3.pa>\n"
+"Gonna travel and find me a spouse to\n"
+"settle down with. <4.so>How about you? <5.pa>\n"
+"Things to do, places to see, right?\n"
+"Better get on it.<6.pa> Time waits for no one."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: single_choice
+#. 5: pause (longer)
+#. 6: pause (longer)
+msgctxt "talk26"
+msgid ""
+"<1.so>Oh, you like this? \n"
+"\n"
+"\n"
+"It's an heirloom passed down through\n"
+"several generations of the Bolson fam.<2.pa>\n"
+"It's a necklace that brings happiness.\n"
+"<3.so>At the end of Hudson's wedding...did\n"
+"you see the showers of flower petals?<4.si_ch>\n"
+"\n"
+"Heh, I'm glad...<5.pa> Proves your quality.\n"
+"Those flower-petal showers can't be \n"
+"seen by the vapid or disenchanted.\n"
+"The infinite falling petals represent \n"
+"endless love.<6.pa> Gorgeous, right?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: single_choice
+msgctxt "talk27"
+msgid ""
+"<1.so>I asked Hudson to clear some land in the\n"
+"<2.se_co>Akkala<3.re_co> region.<4.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk28"
+msgid "<1.so>Time...<2.pa>for some construction instruction."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk29"
+msgid "<1.so>Hang on a sec. <2.pa>Gotta get my mind right."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk30"
+msgid "<1.so>Okey-doo... <2.pa>House, I'm coming for you."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk31"
+msgid "<1.so>This work ain't doing itself."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (short)
+msgctxt "talk32"
+msgid ""
+"<1.so>Good old Hudson...<2.pa> Wonder if everything\n"
+"is OK with him up <3.se_co>Akkala <4.re_co>way.\n"
+"\n"
+"It's a nice enough region.<5.pa> But maybe all\n"
+"that cargo was a bit too heavy to travel\n"
+"with, even for him..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk33"
+msgid ""
+"<1.so>Yep... <2.pa>About time to head for <3.se_co>Akkala<4.re_co>. \n"
+"Time to expand the business.\n"
+"\n"
+"If you want details, you should ask the\n"
+"guy in charge."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk34"
+msgid ""
+"<1.so>Yeah, I got it. <2.pa>Hudson's wedding\n"
+"ceremony, right?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk35"
+msgid ""
+"<1.so>Yup... <2.pa>Business expansion, y'know.\n"
+"I'll probably have him head out soon.<3.pa>\n"
+"\n"
+"If you want to say anything to Hudson,\n"
+"better catch him before he leaves."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk36"
+msgid "<1.so>Sorry, but it's sleep time, baby!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: text_size
+#. 5: text_size
+msgctxt "talk37"
+msgid "<1.so>Snrrk... <2.pa>Hnnk... <3.pa><4.te_si>Buh-buh-buh...<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: text_size
+#. 5: text_size
+msgctxt "talk38"
+msgid "<1.so>Snrrk... <2.pa>Hnnk... <3.pa><4.te_si>Hoo-wah... Hoo-wah...<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk39"
+msgid ""
+"<1.so>House is absolutely perfect...<2.pa>\n"
+"Nothing else I can do to improve it."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: sound
+#. 9: set_colour (red)
+#. 10: reset_colour
+#. 11: pause (short)
+#. 12: set_colour (blue)
+#. 13: reset_colour
+msgctxt "talk40"
+msgid ""
+"<1.so>Thanks for the sweet investment.<2.so>\n"
+"Spending so much money on ANYTHING\n"
+"at your age... <3.pa>It's just so...<4.pa>studly!\n"
+"There's a <5.se_co>weapon mount<6.re_co> in there that \n"
+"never sold...<7.pa> Consider it a housewarming\n"
+"gift. Hope you get some use out of it.\n"
+"<8.so>So...next-job time, baby! What'd I have\n"
+"lined up again?\n"
+"\n"
+"Oh, yeah, <9.se_co>that's<10.re_co> what's next.<11.pa> I was going\n"
+"to send Hudson up <12.se_co>Akkala<13.re_co> way to clear\n"
+"some land!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk41"
+msgid "<1.so>Hudson! <2.pa>Karson! <3.pa>Stop what you're doing!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk42"
+msgid "<1.so>You got it!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "talk43"
+msgid ""
+"<1.so>Whoa, whoa, easy there, chatty.<2.pa>\n"
+"A little space? <3.pa>Lemme get where I'm\n"
+"going before you talk to me."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk44"
+msgid "<1.so>Been waiting!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk45"
+msgid "<1.so>Right on!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk46"
+msgid ""
+"<1.so>Karson! <2.pa>Recall that time you dazzled me?\n"
+"Well, it's dazzling time again, baby!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk47"
+msgid ""
+"<1.so>Karson, awaken your inner animal!<2.pa>\n"
+"We are BEASTS OF CONSTRUCTION!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk48"
+msgid ""
+"<1.so>Karson! <2.pa>Are we studs of studwork?\n"
+"YOU'RE DARN TOOTING WE ARE!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+#. 4: choice
+msgctxt "talk49"
+msgid ""
+"<1.so>In case it's not obvious,<2.pa> I'm demolishing\n"
+"a vacant house. Times are rough.<3.pa>\n"
+"Not a lot of buyers, y'know?\n"
+"So the villagers decided it was best to\n"
+"just tear it down.<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+msgctxt "talk50"
+msgid ""
+"<1.so>Me? \n"
+"\n"
+"\n"
+"<2.so>I'm the luminary, president, architect, \n"
+"and design lead of Bolson Construction. \n"
+"♪My name is Bolson.♪"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: pause (longer)
+#. 4: text_size
+msgctxt "talk51"
+msgid ""
+"<1.so><2.te_si>Whoa, get a load of young moneybags...<3.pa>\n"
+"Just wants to \"buy\" it, huh?<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+#. 4: pause (short)
+#. 5: pause (short)
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: sound
+#. 9: pause (short)
+#. 10: set_colour (red)
+#. 11: reset_colour
+#. 12: pause (short)
+#. 13: choice
+msgctxt "talk52"
+msgid ""
+"<1.so>Okey-doo...<2.pa> Let me lay it out for you.\n"
+"See this house?<3.pa> Been vacant for years.<4.pa>\n"
+"\n"
+"So the villagers had a meeting, argued,\n"
+"voted, and decided to tear it down.\n"
+"\n"
+"The demolition costs, with associated\n"
+"fees, permits, and other such details...<5.pa>\n"
+"come in at <6.se_co>50,000 rupees<7.re_co>.\n"
+"<8.so>So when you say you want to \"buy\" it,<9.pa>\n"
+"you're talking about <10.se_co>50,000 rupees<11.re_co>...<12.pa>\n"
+"You got that much on you?<13.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk53"
+msgid "<1.so>Need something from me?<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk54"
+msgid ""
+"<1.so>Would you mind getting out of my way?\n"
+"<2.pa>I need a little time to unwind.\n"
+"It's break time, baby!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (longer)
+#. 4: sound
+#. 5: pause (longer)
+#. 6: pause (short)
+msgctxt "talk55"
+msgid ""
+"<1.so>Huh? <2.pa>You don't know this dance?<3.pa>\n"
+"I thought it was all the rage with the kids\n"
+"these days. You must be out of the loop.\n"
+"<4.so>Anyway,<5.pa> if you don't need anything\n"
+"urgent,<6.pa> wanna gimme some space?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk56"
+msgid "<1.so>Did you get <2.se_co>3,000 rupees <3.re_co>together?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: choice
+msgctxt "talk57"
+msgid ""
+"<1.so>Seriously?! <2.so>You're really gonna give me\n"
+"<3.se_co>3,000 rupees<4.re_co>?<5.pa> Like, with three zeroes?\n"
+"You aren't just posturing?<6.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk58"
+msgid "<1.so>♪No way!♪<2.pa> Talk about studly!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk60"
+msgid "<1.so>Karson! <2.pa>We are ON!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk61"
+msgid ""
+"<1.so>Okey-doo...<2.pa> Come back if you change\n"
+"your mind."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk62"
+msgid "<1.so>♪I'll just take that off your hands.♪"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+msgctxt "talk63"
+msgid ""
+"<1.so>Ah, but you know what? You DON'T have\n"
+"that much money. <2.so>What a shocker.\n"
+"Go make a ton of money,<3.pa> then we'll talk."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk64"
+msgid ""
+"<1.so>Well...<2.pa> I guess a young buck like you\n"
+"wouldn't know anything about that."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (longer)
+#. 5: pause (short)
+msgctxt "talk65"
+msgid ""
+"<1.so>Well!<2.pa> Who would have thought?!\n"
+"\n"
+"<3.so>\n"
+"...Little go-getter, aren't you?<4.pa>\n"
+"\n"
+"\n"
+"Heh.<5.pa> Reminds me of me back in the day."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "talk66"
+msgid ""
+"<1.so>Heh... Figured.<2.pa> When I was your age,<3.pa>\n"
+"I had serious money problems too,\n"
+"so I know how it feels all too well..."
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (longer)
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (longer)
+#. 7: set_colour (red)
+#. 8: reset_colour
+#. 9: sound
+#. 10: text_size
+#. 11: sound
+#. 12: text_size
+#. 13: set_colour (red)
+#. 14: reset_colour
+#. 15: pause (short)
+#. 16: pause (short)
+#. 17: pause (short)
+msgctxt "talk67"
+msgid ""
+"<1.so>...\n"
+"\n"
+"\n"
+"...<2.so>All right.<3.pa> All right, look.\n"
+"\n"
+"\n"
+"<4.so>Here's the deal!<5.pa> Just for you!<6.pa> I'll cut you\n"
+"a special price of <7.se_co>3,000 rupees<8.re_co>.\n"
+"\n"
+"<9.so><10.te_si>BUT IN RETURN! \n"
+"\n"
+"\n"
+"<11.so><12.te_si>I'm going to need you to bring me <13.se_co>30\n"
+"wood bundles<14.re_co>.<15.pa> Building materials...\n"
+"You know how it is.\n"
+"Anyway, you understand the terms?<16.pa>\n"
+"Then get to it.<17.pa> And show me what you're\n"
+"built out of.\n"
+"...That's a construction joke."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: sound
+#. 6: pause (short)
+msgctxt "talk68"
+msgid ""
+"<1.so>Whoa, wait...<2.pa> That doesn't look like \n"
+"<3.se_co>30 wood bundles <4.re_co>to me.\n"
+"\n"
+"<5.so>Look, I'm cutting you a serious deal,<6.pa>\n"
+"so try to put a little effort in, huh?\n"
+"It's WOOD. It's EVERYWHERE."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk70"
+msgid "<1.so>Better commit that to memory, and soon."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk71"
+msgid "<1.so>Perfectly installed.<2.pa> Give it a look."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk72"
+msgid "<1.so>You ready to deliver <2.se_co>30 wood bundles<3.re_co>?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: pause (short)
+msgctxt "talk73"
+msgid ""
+"<1.so>Don't be a spoiled brat! <2.so>You're young!<3.pa>\n"
+"Life is full of hardship and toil!\n"
+"You gotta suffer for your rewards!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk74"
+msgid "<1.so>♪Okey-doo.♪<2.pa> I'll grab them from you."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (short)
+msgctxt "talk75"
+msgid ""
+"<1.so>All I needed to see...<2.pa> Good-faith wood.\n"
+"You're obviously serious about this, \n"
+"and now I know it.\n"
+"So, as promised,<3.pa> I'll sell you this old\n"
+"house for the low price of <4.se_co>3,000 rupees<5.re_co>.\n"
+"\n"
+"Once you've got the money together,<6.pa>\n"
+"come grab me."
+msgstr ""
+
+#. 1: sound2
+msgctxt "talk76"
+msgid "<1.so>♪Bolson! Da-da-da-Bollllllson!♪"
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: text_size
+#. 4: text_size
+#. 5: text_size
+#. 6: text_size
+#. 7: text_size
+msgctxt "talk77"
+msgid ""
+"<1.so>♪<2.te_si>Hoo-<3.te_si>WAH<4.te_si> "
+"hoo-<5.te_si>WAH<6.te_si>!<7.te_si>♪"
+msgstr ""
+
+#. 1: sound2
+#. 2: text_size
+#. 3: text_size
+msgctxt "talk78"
+msgid "<1.so><2.te_si>♪SHA-DING!♪<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+msgctxt "talk79"
+msgid ""
+"<1.so>Huh-what?<2.pa> This was your idea!\n"
+"<3.so>I mean, if you want me to wait, I'll wait..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk80"
+msgid "<1.so>Wait. What?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: choice
+msgctxt "talk81"
+msgid ""
+"<1.so>Hudson's wedding ceremony will be in\n"
+"<2.se_co>Tarrey Town<3.re_co>, right?<4.pa> Yeah, yeah.\n"
+"Didn't I hear that from you?\n"
+"Think I ought to go?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk82"
+msgid "<1.so>Sorry, sleep time, baby! <2.pa>See you later."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk83"
+msgid ""
+"<1.so>Well, I guess I'll get packed<2.pa> and head\n"
+"toward Hudson's place.<3.ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+#. 4: sound
+msgctxt "talk84"
+msgid ""
+"<1.te_si><2.so>Hudson's getting married?!<3.te_si>\n"
+"And he wants me to attend the wedding?\n"
+"<4.so>...Wow, good on him."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk85"
+msgid "<1.so>Heh... <2.pa>This'll be fun."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (short)
+#. 4: text_size
+msgctxt "talk86"
+msgid "<1.te_si><2.so>Karson, <3.pa>we're headed out!<4.te_si>"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk87"
+msgid "<1.so>Finally! We've been waiting for this day!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk88"
+msgid "<1.so>Yo!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk89"
+msgid "<1.so>I'm with you!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+msgctxt "talk90"
+msgid ""
+"<1.so>Okey-doo,<2.pa> I'm in. Wedding time, baby!<3.pa>\n"
+"Not like there's anything to do here,\n"
+"anyway..."
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk91"
+msgid "<1.so>That was a nice ceremony.<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk92"
+msgid ""
+"<1.so>I've known Hudson for a long time,<2.pa>\n"
+"and honestly? That was the happiest I've\n"
+"ever seen the guy. Warms the heart."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk93"
+msgid ""
+"<1.so>Well... <2.pa>Guess I should get back to work.\n"
+"If you need anything,<3.pa> come talk to me."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (longer)
+#. 6: pause (short)
+msgctxt "talk94"
+msgid ""
+"<1.so>If you're looking for Hudson,<2.pa> I'm pretty\n"
+"sure he's still in <3.se_co>Tarrey Town<4.re_co>, getting\n"
+"along nicely with Rhondson.\n"
+"Love... <5.pa>So bright, it blinds!<6.pa>\n"
+"A sanctuary for two that none can visit\n"
+"or violate!"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk96"
+msgid "<1.so>I've decided...<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: single_choice
+msgctxt "talk97"
+msgid "<1.so>I'm...<2.pa>going to retire.<3.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk98"
+msgid ""
+"<1.so>Yeah, I'm going to retire and set off on a\n"
+"journey to find me a spouse.<2.si_ch>"
+msgstr ""
+

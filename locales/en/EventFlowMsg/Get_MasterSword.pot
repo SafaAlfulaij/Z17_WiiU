@@ -1,0 +1,193 @@
+#. 1: sound2
+#. 2: pause (long)
+#. 3: sound2
+msgctxt "Deku_Cancel00"
+msgid ""
+"<1.so>A hundred years ago, you would have\n"
+"been able to pull out the sword easily.\n"
+"You have grown weak.\n"
+"You must find a way to become stronger.<2.pa>\n"
+"<3.so>Ho ho ho..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Deku_Cancel01"
+msgid ""
+"<1.so>It would seem you still lack the\n"
+"necessary strength for this task. \n"
+"You must recommit to your training."
+msgstr ""
+
+#. 1: pause (long)
+#. 2: sound2
+msgctxt "Deku_Cancel01_2"
+msgid ""
+"...However, you were quite close this\n"
+"time.<1.pa> <2.so>Ho ho ho..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Deku_Cancel02"
+msgid ""
+"<1.so>Ho ho ho...<2.pa> Why so fearful?\n"
+"\n"
+"\n"
+"Your strength is greater now than it was\n"
+"a century ago. All you need now is the\n"
+"determination to succeed."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: pause (long)
+#. 4: pause (long)
+#. 5: sound2
+msgctxt "Deku_Cancel03"
+msgid ""
+"<1.so>You still lack the necessary strength.<2.pa>\n"
+"But it doesn't look like you lack for\n"
+"training. No...\n"
+"Perhaps you imagine...<3.pa>that the\n"
+"containers given to you by the statues\n"
+"of the Goddess cannot be changed?\n"
+"Visit Hateno Village in the southeast of\n"
+"Hyrule. There you will find one who\n"
+"trades in such containers.\n"
+"Though...he is a bit wicked...<4.pa>\n"
+"<5.so>Ho ho ho..."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Deku_Cancel04"
+msgid ""
+"<1.so>You still lack the necessary strength.<2.pa>\n"
+"But it doesn't look like you lack for\n"
+"training. No...\n"
+"Offer a statue of the Goddess your\n"
+"Spirit Orbs, and try increasing the hearts\n"
+"that make up your true strength."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Deku_Cancel05"
+msgid ""
+"<1.so>You think you can pull out the sword\n"
+"while suffering such injuries?! Heal your\n"
+"wounds first, or you stand no chance."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Deku_Cancel06"
+msgid ""
+"<1.so>Ho ho...\n"
+"\n"
+"\n"
+"Why so fearful?<2.pa> Come back and try again\n"
+"once you've found your determination."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound2
+#. 10: pause (long)
+msgctxt "Deku_Finish01"
+msgid ""
+"<1.so>That blade has a name... <2.pa>\n"
+"It is the <3.se_co>Master Sword<4.re_co>.\n"
+"\n"
+"When used against <5.se_co>Calamity Ganon<6.re_co> or\n"
+"those tainted by his Malice, it<7.se_co> <8.re_co>will \n"
+"become suffused with holy light...\n"
+"At such times, the true power of the\n"
+"sword will manifest...<9.so>but be warned.\n"
+"Do not rely too much on its power.\n"
+"If you wield it without need, its power\n"
+"will be exhausted and it will no longer\n"
+"be of use to you.\n"
+"...Should this happen, you must wait for\n"
+"the sword to recover.\n"
+"\n"
+"It would be rash to rely on this sword\n"
+"alone to defeat Ganon...<10.pa> I suggest you\n"
+"free the Divine Beasts before facing him."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: sound2
+#. 10: sound2
+msgctxt "Deku_Finish02"
+msgid ""
+"<1.so>That blade has a name... <2.pa>\n"
+"It is the <3.se_co>Master Sword<4.re_co>.\n"
+"\n"
+"When used against <5.se_co>Calamity Ganon<6.re_co> or\n"
+"those tainted by his Malice, it<7.se_co> <8.re_co>will \n"
+"become suffused with holy light...\n"
+"At such times, the true power of the\n"
+"sword will manifest...<9.so>but be warned.\n"
+"Do not rely too much on its power.\n"
+"If you wield it without need, its power\n"
+"will be exhausted and it will no longer\n"
+"be of use to you.\n"
+"...Should this happen, you must wait for\n"
+"the sword to recover.\n"
+"\n"
+"<10.so>It was your partner a century ago...\n"
+"Use it with care... And wield it bravely\n"
+"for the one who waits for you..."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Deku_FirstFailure01"
+msgid ""
+"<1.so>You would have lost your life if you\n"
+"hadn't released your grip on the sword..."
+msgstr ""
+
+msgctxt "Deku_FirstFailure02"
+msgid ""
+"Prepare before you try again...for I will\n"
+"not stay your hand partway through\n"
+"the next time."
+msgstr ""
+
+#. 1: sound2
+msgctxt "Deku_Talk00"
+msgid ""
+"<1.so>If you hope to pull the sword from its\n"
+"resting place, you must use your true\n"
+"strength.\n"
+"Let us see whether or not you currently\n"
+"possess said power."
+msgstr ""
+
+#. 1: sound2
+#. 2: pause (long)
+msgctxt "Deku_Talk01"
+msgid ""
+"<1.so>The sword cares not for your physical\n"
+"might. It is moved by what lies within.\n"
+"\n"
+"It cuts through bravado and superficial\n"
+"enhancements. Only true strength can\n"
+"draw it from its resting place.\n"
+"The only way to know if you have what\n"
+"it takes...<2.pa>is to try."
+msgstr ""
+

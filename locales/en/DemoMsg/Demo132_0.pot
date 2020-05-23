@@ -1,0 +1,74 @@
+#. 1: raw
+#. 2: raw
+#. 3: raw
+msgctxt "Demo132_0_Text017"
+msgid ""
+"\"Be sure to take the time to soothe your mount...<1.ra>That's the only "
+"way it will know how you truly feel.\"<2.ra>Your advice was quite "
+"helpful—thank you. <3.ra>This little one and I are getting along quite "
+"well now."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo132_0_Text018"
+msgid ""
+"At first, I wasn't sure if I should outfit him with all of\n"
+"the royal gear. <1.ra>I thought maybe he should have to earn it "
+"first.<2.ra>But it works! He wears it like a true natural."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo132_0_Text019"
+msgid ""
+"I'm trying to be a bit more empathetic. <1.ra>Benefit of the doubt, you "
+"know?"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo132_0_Text020"
+msgid ""
+"See that mountain? <1.ra>That's Mt. Lanayru. <2.ra>It takes its name from"
+" the Goddess of Wisdom."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+#. 3: raw
+msgctxt "Demo132_0_Text022"
+msgid ""
+"I've prayed at the Spring of Courage\n"
+"and at the Spring of Power, <1.ra>yet neither awoke anything inside "
+"me.<2.ra>But maybe up there...<3.ra>Perhaps the Spring of Wisdom, the "
+"final of the three,\n"
+"will be the one."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo132_0_Text023"
+msgid ""
+"To be honest, I have no real reason to think\n"
+"that will be the case. <1.ra>But there's always the chance that the\n"
+"next moment will change everything."
+msgstr ""
+
+msgctxt "Demo132_0_Text024"
+msgid "Tomorrow...is my seventeenth birthday."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo132_0_Text025"
+msgid "So then I shall go...<1.ra>and make my way up the mountain."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo132_0_Text026"
+msgid ""
+"Lanayru's decree is very specific. <1.ra>It says: \"No one is allowed, "
+"under the age\n"
+"of seventeen...<2.ra>For only the wise are permitted a place\n"
+"upon the mountain.\""
+msgstr ""
+

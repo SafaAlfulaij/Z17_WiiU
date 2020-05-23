@@ -1,0 +1,185 @@
+msgctxt "0000"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "0001"
+msgid "Not a clue."
+msgstr ""
+
+msgctxt "0002"
+msgid "This sword here?"
+msgstr ""
+
+msgctxt "0003"
+msgid "I completely agree."
+msgstr ""
+
+msgctxt "near_0001"
+msgid "Oof! It's freezing..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: choice
+msgctxt "talk_0001"
+msgid ""
+"<1.so>It must be so great! <2.pa>You do know what\n"
+"I'm talking about, right?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk_0002"
+msgid ""
+"<1.so>I knew you would! It's every dreamer's\n"
+"dearest dream, isn't it?!\n"
+"\n"
+"Having a sword that shoots light all like\n"
+"WHAM and mows down all kinds of\n"
+"monsters like KAPOW would be amazing!\n"
+"<2.so>I mean, even the name—<3.se_co>the sword\n"
+"that seals the darkness<4.re_co>—is just the\n"
+"coolest thing ever!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (long)
+#. 6: pause (long)
+msgctxt "talk_0003"
+msgid ""
+"<1.so>I'm talking about <2.se_co>the sword that seals\n"
+"the darkness<3.re_co>, of course! Legend has it\n"
+"that it's hidden somewhere in Hyrule!\n"
+"<4.so>A single swing shoots out sacred light\n"
+"beams...<5.pa>mows down wicked monsters...<6.pa>\n"
+"and restores peace and stuff...\n"
+"Ahhhh, it's every dreamer's dearest\n"
+"dream come true, I tell ya!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "talk_0004"
+msgid ""
+"<1.so>What if I were the one to find <2.se_co>the sword\n"
+"that seals the darkness<3.re_co>?<4.pa> Yeah, what if?!\n"
+"That'd be swell...\n"
+"<5.so>I could use the sword's sacred light to\n"
+"beat the stuffing out of every single\n"
+"monster on the <6.se_co>Hebra Mountains<7.re_co>!"
+msgstr ""
+
+#. 1: sound
+#. 2: sound
+#. 3: set_colour (red)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk_0050"
+msgid ""
+"<1.so>I knew you would! It's every dreamer's\n"
+"dearest dream, isn't it?!\n"
+"\n"
+"Having a sword that shoots light all like\n"
+"WHAM and mows down all kinds of\n"
+"monsters like KAPOW would be amazing!\n"
+"<2.so>I mean, even the name—<3.se_co>the sword\n"
+"that seals the darkness<4.re_co>—is just the\n"
+"coolest thing ever!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (long)
+#. 6: pause (long)
+#. 7: choice
+msgctxt "talk_0051"
+msgid ""
+"<1.so>I'm talking about <2.se_co>the sword that seals\n"
+"the darkness<3.re_co>, of course! Legend has it\n"
+"that it's hidden somewhere in Hyrule!\n"
+"<4.so>A single swing shoots out sacred light\n"
+"beams...<5.pa>mows down wicked monsters...<6.pa>\n"
+"and restores peace and stuff...\n"
+"Ahhhh, it's every dreamer's dearest\n"
+"dream come true, I tell ya!<7.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: sound
+#. 5: pause (short)
+#. 6: pause (short)
+#. 7: sound
+#. 8: sound
+#. 9: pause (short)
+msgctxt "talk_0052"
+msgid ""
+"<1.so>HUH?! That's the <2.se_co>sword that seals \n"
+"the darkness<3.re_co>? I can't believe it!\n"
+"\n"
+"<4.so>Deep breaths... Deeeeep breaths...<5.pa>\n"
+"OK. I see, I see... <6.pa>Hmmm...\n"
+"\n"
+"<7.so>Honestly, it's a tad slimmer than\n"
+"I imagined.\n"
+"\n"
+"Since it's the legendary sword,\n"
+"I thought it would be as big as me!\n"
+"With, like...jewels everywhere.\n"
+"<8.so>Wow, it's still amazing, though. I can feel\n"
+"the power.<9.pa> Hey, thanks for showing that\n"
+"to me! I'll never forget this day!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk_0053"
+msgid "<1.so>I'd love to see it one day..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk_0054"
+msgid ""
+"<1.so>If the legends are true, the <2.se_co>sword that\n"
+"seals the darkness <3.re_co>is the blade of the\n"
+"chosen hero... <4.pa>Are YOU that hero?!\n"
+"If so, you'll likely face many hardships\n"
+"in your life...but never give up!\n"
+"Promise me that."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk_0100"
+msgid ""
+"<1.so>If you plan to roam the <2.se_co>Hebra Mountains<3.re_co>,\n"
+"you should make some food to help you\n"
+"withstand the extreme cold.\n"
+"Feel free to use my cooking pot outside.\n"
+"Going to a snowy mountain unprepared\n"
+"is unacceptable for a true adventurer!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound2
+#. 3: text_size
+msgctxt "talk_1000"
+msgid "<1.te_si><2.so>Sword that...seals the darkness... Zzz...<3.te_si>"
+msgstr ""
+

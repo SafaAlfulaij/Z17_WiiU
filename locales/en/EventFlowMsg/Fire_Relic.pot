@@ -1,0 +1,893 @@
+msgctxt "0003"
+msgid "Lookin' for Yunobo!"
+msgstr ""
+
+msgctxt "0012"
+msgid "I won't give up."
+msgstr ""
+
+msgctxt "0019"
+msgid "I wanna board Rudania."
+msgstr ""
+
+msgctxt "0033"
+msgid "With a cannon."
+msgstr ""
+
+msgctxt "0034"
+msgid "Wait a minute!"
+msgstr ""
+
+msgctxt "0035"
+msgid "A wink!"
+msgstr ""
+
+msgctxt "0036"
+msgid "A whistle!"
+msgstr ""
+
+msgctxt "0037"
+msgid "Mind powers!"
+msgstr ""
+
+msgctxt "0038"
+msgid "I give up."
+msgstr ""
+
+msgctxt "0039"
+msgid "Are you sure?!"
+msgstr ""
+
+msgctxt "0040"
+msgid "He's not coming."
+msgstr ""
+
+msgctxt "0041"
+msgid "His back hurts."
+msgstr ""
+
+msgctxt "near01"
+msgid "Oh, no...goro..."
+msgstr ""
+
+msgctxt "near04"
+msgid "..."
+msgstr ""
+
+msgctxt "near05"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "near06"
+msgid "Over here!"
+msgstr ""
+
+msgctxt "near08"
+msgid "Phew..."
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk00"
+msgid ""
+"<1.so>But what brought you all the way\n"
+"out here to begin with?<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: sound
+#. 7: pause (longer)
+msgctxt "talk01"
+msgid ""
+"<1.so>Oh!<2.pa> So that's it!<3.pa> <4.se_co>Boss <5.re_co>told you to "
+"come\n"
+"find me!\n"
+"\n"
+"<6.so>Phew, thank goodness. <7.pa>In any case,\n"
+"I sure am glad you saved me, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk100"
+msgid ""
+"<1.so>I think your telepathic signals may be\n"
+"crossed or malfunctioning, goro.<2.pa>\n"
+"I don't seem to be reading you."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk102"
+msgid ""
+"<1.so>I'm tellin' you, I won't be able to see\n"
+"a wink from that far away, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk103"
+msgid "<1.so>Hey! <2.pa>Where you going, goro?!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: choice
+msgctxt "talk104"
+msgid ""
+"<1.so>You really wanna give up tryin' to\n"
+"board <2.se_co>Rudania<3.re_co>, goro?<4.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk105"
+msgid "<1.so>OK then, goro. <2.pa>Let's get goin' again!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+msgctxt "talk106"
+msgid ""
+"<1.so>Oh, OK. I get it. <2.pa>When you're ready,\n"
+"please just come back here, goro."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "talk108"
+msgid ""
+"<1.se_co><2.so>Boss <3.re_co>is over here, goro!<4.pa>\n"
+"Come with me!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "talk109"
+msgid ""
+"<1.se_co><2.so>Boss <3.re_co>has somethin' he wants to talk to\n"
+"you about. <4.pa>I wonder what it is, goro..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk110"
+msgid ""
+"<1.so>OK! <2.pa>Let's hear what <3.se_co>Boss<4.re_co> has\n"
+"to say, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk111"
+msgid ""
+"<1.so>What did <2.se_co>Boss <3.re_co>want, goro?<4.pa>\n"
+"You should ask him directly!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk114"
+msgid ""
+"<1.so>OK. Let's hurry up and prepare\n"
+"the <2.se_co>cannon<3.re_co>, goro!"
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: sound
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk115"
+msgid "<1.se_co><2.so><3.re_co>Yeesh... <4.pa>My knees are shaking, goro..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk116"
+msgid "<1.so>We need to tread lightly, goro..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk117"
+msgid ""
+"<1.so>Next <2.se_co>cannon<3.re_co>... <4.pa>Next "
+"<5.se_co>cannon<6.re_co>..."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk118"
+msgid ""
+"<1.so>OK. It's not too terribly different from\n"
+"usual so far, goro."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk119"
+msgid "<1.so>OK. <2.pa>We just need to keep going, goro."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk120"
+msgid ""
+"<1.so>Just a little more <2.pa>and we can drive\n"
+"it off, goro..."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: animation
+#. 4: pause (longer)
+#. 5: text_size
+msgctxt "talk121"
+msgid "<1.te_si><2.so><3.an>Yaah! <4.pa>Someone, please help me!<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: pause (short)
+msgctxt "talk122"
+msgid ""
+"<1.so>WOW! <2.pa>You're crazy strong, goro!<3.pa>\n"
+"You saved me again!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (long)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: set_colour (red)
+#. 13: reset_colour
+#. 14: pause (short)
+msgctxt "talk123"
+msgid ""
+"<1.so>The problem is...good ol' Boss raised the\n"
+"<2.se_co>Bridge of Eldin<3.re_co><4.pa> to make sure that mean\n"
+"Divine Beast couldn't get over here.\n"
+"In order to get to where <5.se_co>Rudania<6.re_co> is,<7.pa>\n"
+"we'll have to find a way to get the\n"
+"<8.se_co>Bridge of Eldin <9.re_co>back down, goro.\n"
+"<10.se_co>Boss <11.re_co>would normally use the "
+"<12.se_co>cannon<13.re_co>\n"
+"to lower it... <14.pa>Ugh, we can't get across\n"
+"unless we figure somethin' out!"
+msgstr ""
+
+#. 1: sound
+#. 2: text_size
+#. 3: set_colour (grey)
+#. 4: reset_colour
+#. 5: text_size
+#. 6: sound
+msgctxt "talk13"
+msgid ""
+"<1.so>Hmm...\n"
+"\n"
+"\n"
+"HMMM...\n"
+"\n"
+"\n"
+"<2.te_si><3.se_co>Now that I've gotten a good look...\n"
+"Whoa! It's a Hylian!<4.re_co><5.te_si>\n"
+"\n"
+"<6.so>Were you the one who broke through\n"
+"that crag to rescue me, goro?\n"
+"Thanks, brother!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk143"
+msgid ""
+"<1.so>Eek! Help meeee!\n"
+"I'm scared, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: sound
+#. 8: pause (longer)
+#. 9: sound
+msgctxt "talk144"
+msgid ""
+"<1.so><2.an>Uh-oh. <3.pa>Yikes, goro. <4.pa>We can't keep goin'\n"
+"with those <5.se_co>sentries <6.re_co>in the way...\n"
+"\n"
+"<7.so>What should we do?<8.pa> How can we\n"
+"possibly move forward?\n"
+"\n"
+"<9.so>There must be a way, goro..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (short)
+msgctxt "talk148"
+msgid ""
+"<1.so>The name's <2.se_co>Yunobo<3.re_co>. Everyone calls me...\n"
+"<4.pa><5.se_co>Yunobo<6.re_co>. <7.pa>Makes sense, goro."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+msgctxt "talk149"
+msgid ""
+"<1.so>I came to get some painkillers for Boss,<2.pa>\n"
+"but a magma bomb caused a rock slide,\n"
+"sealing the entrance, goro."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: single_choice
+msgctxt "talk151"
+msgid ""
+"<1.so>By the way... <2.pa>How did you break those\n"
+"rocks at the entrance, goro?<3.si_ch>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: text_size
+#. 7: sound
+#. 8: pause (short)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+msgctxt "talk152"
+msgid ""
+"<1.te_si><2.so>Huh?<3.pa> You used <4.se_co>Boss<5.re_co>'s "
+"cannon?!<6.te_si>\n"
+"\n"
+"\n"
+"<7.so>That thing is so difficult to use.<8.pa> I thought\n"
+"only <9.se_co>Boss <10.re_co>could handle it!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (grey)
+#. 3: text_size
+#. 4: pause (short)
+#. 5: pause (longer)
+#. 6: text_size
+#. 7: reset_colour
+#. 8: sound
+#. 9: pause (longer)
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: pause (short)
+#. 13: set_colour (red)
+#. 14: reset_colour
+msgctxt "talk153"
+msgid ""
+"<1.so><2.se_co><3.te_si>Oops, I nearly forgot! <4.pa>This isn't the time "
+"to chat...<5.pa>\n"
+"I need to deliver these painkillers as soon\n"
+"as possible!<6.te_si><7.re_co>\n"
+"<8.so>Sorry, I've gotta run! <9.pa>But do come by and\n"
+"see the <10.se_co>Boss <11.re_co>later, OK? <12.pa>He may be gruff,\n"
+"but he always repays a favor.\n"
+"I'm sure there's a <13.se_co>reward <14.re_co>in it for you.\n"
+"OK then! Good-bye for now, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: pause (long)
+#. 6: single_choice
+msgctxt "talk154"
+msgid ""
+"<1.so>After we went through all that trouble to\n"
+"get them...<2.pa>the painkillers didn't even\n"
+"end up working, goro.\n"
+"Well, if <3.se_co>Boss <4.re_co>can't help, there's nothin'\n"
+"else we can do.<5.pa> I suppose I'll just head\n"
+"back now...<6.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: single_choice
+msgctxt "talk155"
+msgid ""
+"<1.so>Huh? You're not goin' back?!\n"
+"But why, goro?<2.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: text_size
+#. 6: sound
+#. 7: text_size
+#. 8: pause (short)
+msgctxt "talk156"
+msgid ""
+"<1.so>WHAT?! <2.pa>You're gonna try to board\n"
+"the Divine Beast?\n"
+"\n"
+"Who do you think you are...<3.se_co>Lord Daruk<4.re_co>?\n"
+"It's dangerous in there, goro!\n"
+"\n"
+"<5.te_si><6.so>Though I guess if you weakened it first,\n"
+"it might be possible...<7.te_si>\n"
+"\n"
+"But...<8.pa>why risk it?!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+#. 3: pause (short)
+msgctxt "talk158"
+msgid ""
+"<1.so>Hmm. <2.pa>Well, I don't really get it, <3.pa>but I'm\n"
+"sure you have your reasons, goro..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk159"
+msgid ""
+"<1.so>If <2.se_co>Boss <3.re_co>can't come down here, then he\n"
+"can't use the cannon to lower the bridge.<4.pa>\n"
+"That means we're out of luck, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: text_size
+#. 4: text_size
+msgctxt "talk16"
+msgid ""
+"<1.so>OK! Here we go!<2.pa>\n"
+"<3.te_si>Gosh, I'm nervous...goro.<4.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: text_size
+#. 5: text_size
+msgctxt "talk160"
+msgid ""
+"<1.so>Oh! <2.pa>It occurs to me that YOU know how\n"
+"to use the cannons! Don't you, goro?\n"
+"\n"
+"<3.so><4.te_si>Maybe we CAN get across after all...<5.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: single_choice
+msgctxt "talk162"
+msgid ""
+"<1.so>So let's just do what I do to help <2.se_co>Boss<3.re_co>\n"
+"sometimes. That means I'm gonna be the\n"
+"cannonball! <4.pa>And you'll launch me, goro!<5.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: sound
+#. 4: pause (long)
+#. 5: single_choice
+msgctxt "talk163"
+msgid ""
+"<1.so>Thanks for savin' me, brother!<2.pa> I would've\n"
+"been in real trouble if you hadn't shown\n"
+"up when you did, goro.\n"
+"<3.so>*sigh*<4.pa> Still no sign of Boss, eh?<5.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: single_choice
+msgctxt "talk164"
+msgid "<1.so>Huh? <2.pa>Not coming?<3.pa> But why, goro?!<4.si_ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "talk165"
+msgid ""
+"<1.so>I've got <2.se_co>Daruk's Protection<3.re_co>, goro!\n"
+"My ancestor's help can't possibly\n"
+"fail me!\n"
+"That means I can smash into anything\n"
+"and it won't hurt one bit, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (red)
+#. 7: reset_colour
+#. 8: set_colour (blue)
+#. 9: reset_colour
+#. 10: pause (short)
+msgctxt "talk166"
+msgid ""
+"<1.so>My ancestor, <2.se_co>Daruk<3.re_co>, was a big deal, goro.\n"
+"That's what <4.se_co>Boss <5.re_co>says, so it's just gotta\n"
+"be true!\n"
+"And I can use <6.se_co>Daruk's Protection<7.re_co> just like\n"
+"<8.se_co>Daruk<9.re_co> could! <10.pa>That means there's no need\n"
+"to worry, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: text_size
+#. 6: text_size
+msgctxt "talk167"
+msgid ""
+"<1.so>So rest easy, got it?<2.pa> Well, go on then!\n"
+"Take aim at the <3.se_co>Bridge of Eldin <4.re_co>and\n"
+"fire away, goro!\n"
+"<5.te_si>Just, y'know...be kinda gentle about it...<6.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: animation
+#. 4: pause (longer)
+#. 5: text_size
+msgctxt "talk168"
+msgid "<1.te_si><2.so><3.an>Owww... <4.pa>OUCH...<5.te_si>"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "talk169"
+msgid "<1.te_si><2.so>Take 'em out!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (longer)
+msgctxt "talk17"
+msgid ""
+"<1.so>The <2.se_co>Divine Beast Vah Rudania<3.re_co>...<4.pa>\n"
+"is out causing trouble again."
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: text_size
+msgctxt "talk170"
+msgid "<1.te_si><2.so>Eeeeek!<3.te_si>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: sound
+#. 9: pause (short)
+#. 10: sound
+msgctxt "talk171"
+msgid ""
+"<1.so>Ya know...<2.pa> While I was up there,<3.pa> I coulda\n"
+"sworn I saw <4.se_co>Lord Daruk <5.re_co>standin' on top\n"
+"of <6.se_co>Rudania<7.re_co>!\n"
+"<8.so>I wonder...<9.pa> Was that his ghost?!\n"
+"\n"
+"\n"
+"<10.so>I dunno how to explain it, but somehow\n"
+"I feel a lot braver now, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk172"
+msgid ""
+"<1.so>I'll follow your instructions—promise!<2.pa>\n"
+"Just <3.se_co>whistle <4.re_co>to let me know what\n"
+"I need to do, goro."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk173"
+msgid ""
+"<1.so>Each time you <2.se_co>whistle<3.re_co>,<4.pa> I'll either stop or\n"
+"start moving accordingly. OK?"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: pause (short)
+msgctxt "talk18"
+msgid ""
+"<1.so>The <2.se_co>Bridge of Eldin <3.re_co>is down...<4.pa>\n"
+"OK! <5.pa>Let's get across quickly, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (short)
+#. 5: pause (short)
+msgctxt "talk19"
+msgid ""
+"<1.so>My ancestor's power, <2.se_co>Daruk's Protection<3.re_co>,\n"
+"is amazing! <4.pa>OK then. <5.pa>Let's get across\n"
+"that bridge quickly, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (short)
+msgctxt "talk49"
+msgid ""
+"<1.so>OK, I'll leave the rest to you.<2.pa>\n"
+"I'll be watching from here, goro.\n"
+"\n"
+"If you feel like you need to prepare a bit\n"
+"more,<3.pa> you can always return to town."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+msgctxt "talk51"
+msgid ""
+"<1.so>Hey, it's you!<2.pa> But... Wait... Didn't you\n"
+"jump down? I coulda sworn you did...\n"
+"\n"
+"<3.so>Anyway, <4.pa>it looks like <5.se_co>Rudania <6.re_co>is still\n"
+"active down there.\n"
+"\n"
+"I really don't want him gettin' back up,\n"
+"goro. We've gotta do somethin'!\n"
+"\n"
+"But there's no way I'd survive if I jumped\n"
+"down from this high up, goro..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (longer)
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "talk52"
+msgid ""
+"<1.so>Hey! <2.pa>Brother!<3.pa> Thanks so much for\n"
+"appeasing <4.se_co>Rudania<5.re_co>, goro!"
+msgstr ""
+
+#. 1: text_size
+#. 2: sound
+#. 3: pause (short)
+#. 4: text_size
+#. 5: sound
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (short)
+#. 9: set_colour (blue)
+#. 10: reset_colour
+#. 11: pause (longer)
+msgctxt "talk53"
+msgid ""
+"<1.te_si><2.so>Oh! <3.pa>That's right!<4.te_si>\n"
+"\n"
+"\n"
+"<5.so>I talked to <6.se_co>Boss <7.re_co>about you,<8.pa> and he said\n"
+"to bring you to him!\n"
+"\n"
+"An order from <9.se_co>Boss<10.re_co> can't be refused.<11.pa>\n"
+"Move it, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: pause (short)
+msgctxt "talk58"
+msgid ""
+"<1.so>I don't exactly know what you were doin'\n"
+"in <2.se_co>Rudania<3.re_co>, but...\n"
+"\n"
+"Well...<4.pa>it seems to have calmed down,\n"
+"goro!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk66"
+msgid "<1.so>Let's hurry and cross the bridge, goro!"
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: pause (short)
+#. 4: pause (longer)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+#. 9: pause (short)
+#. 10: set_colour (blue)
+#. 11: reset_colour
+#. 12: sound
+#. 13: pause (short)
+#. 14: pause (short)
+#. 15: set_colour (blue)
+#. 16: reset_colour
+#. 17: set_colour (blue)
+#. 18: reset_colour
+#. 19: set_colour (blue)
+#. 20: reset_colour
+#. 21: pause (short)
+#. 22: set_colour (red)
+#. 23: reset_colour
+msgctxt "talk94"
+msgid ""
+"<1.so><2.an>Oh...<3.pa> Yikes...<4.pa> A <5.se_co>sentry <6.re_co>is "
+"always a\n"
+"nuisance, no matter where it is or\n"
+"how many of them there are.\n"
+"If one finds you, <7.se_co>Rudania <8.re_co>will go nuts,<9.pa>\n"
+"which will cause <10.se_co>Death Mountain<11.re_co>\n"
+"to erupt, goro.\n"
+"<12.so>I...<13.pa>always get spotted,<14.pa> and then\n"
+"<15.se_co>magma bombs<16.re_co> come raining down\n"
+"one after another.\n"
+"If <17.se_co>Boss<18.re_co> were here, he'd swat those\n"
+"<19.se_co>magma bombs <20.re_co>away like they were\n"
+"nothin' and force his way up!\n"
+"I don't think you'd be able to do that,\n"
+"goro. And I don't wanna cause you\n"
+"any trouble. <21.pa>Hmmm...\n"
+"Maybe the best idea is for you to give me\n"
+"a <22.se_co>signal <23.re_co>to let me know when I should\n"
+"stop and when I can move forward."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: choice
+msgctxt "talk95"
+msgid ""
+"<1.so>Let's hurry and decide what the <2.se_co>signal<3.re_co>\n"
+"will be, goro!<4.pa> Um, got any ideas?<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (longer)
+msgctxt "talk96"
+msgid ""
+"<1.so>A wink? <2.pa>Ummm...\n"
+"\n"
+"\n"
+"<3.so>Yeaaaah, I don't think I'd be able to see\n"
+"that from way off in the distance, goro.<4.pa>\n"
+"Try to think of somethin' better!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+#. 6: text_size
+#. 7: sound
+#. 8: text_size
+#. 9: pause (long)
+#. 10: text_size
+#. 11: set_colour (grey)
+#. 12: reset_colour
+#. 13: pause (long)
+#. 14: text_size
+#. 15: sound
+#. 16: pause (longer)
+msgctxt "talk98"
+msgid ""
+"<1.so>Mind powers?! Wow!<2.pa> You mean, like,\n"
+"real-life telepathy?\n"
+"\n"
+"<3.so>I didn't know you <4.se_co>Hylians <5.re_co>could do that\n"
+"sort of thing these days!\n"
+"\n"
+"<6.te_si><7.so><8.te_si>...<9.pa>\n"
+"<10.te_si><11.se_co>Are you transmitting yet, "
+"goro?<12.re_co><13.pa><14.te_si>\n"
+"...\n"
+"<15.so>What the? <16.pa>I'm not receiving anything\n"
+"over here!"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: sound
+#. 4: pause (short)
+#. 5: text_size
+#. 6: sound
+#. 7: text_size
+#. 8: set_colour (grey)
+#. 9: reset_colour
+#. 10: sound
+#. 11: pause (short)
+#. 12: pause (short)
+#. 13: set_colour (blue)
+#. 14: reset_colour
+msgctxt "talk99"
+msgid ""
+"<1.so>A whistle? <2.pa>Ah, that's a great idea, goro!\n"
+"\n"
+"\n"
+"<3.so>When I hear your whistle,<4.pa> I'll either stop\n"
+"in my tracks or start moving forward!\n"
+"I like it!\n"
+"<5.te_si><6.so>Even though it's kinda like calling a horse, "
+"goro...<7.te_si><8.se_co><9.re_co>\n"
+"\n"
+"\n"
+"<10.so>OK then. <11.pa>I'm counting on you and your\n"
+"whistles<12.pa> to make sure I'm not spotted\n"
+"by those awful <13.se_co>sentries<14.re_co>!"
+msgstr ""
+

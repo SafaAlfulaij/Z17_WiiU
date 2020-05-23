@@ -1,0 +1,30 @@
+msgctxt "Demo109_2_Text007"
+msgid ""
+"What you just saw happened where you stand\n"
+"100 years ago..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo109_2_Text008"
+msgid ""
+"After you were separated from the sword,\n"
+"the princess thought to bring it here,<1.ra>where she knew that it would "
+"be safe\n"
+"under my watch."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo109_2_Text009"
+msgid ""
+"She continues to fight, trapped deep within the\n"
+"confines of Hyrule Castle. <1.ra>Her heart cascades with faith that you "
+"will return."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo109_2_Text010"
+msgid ""
+"She has a smile like the sun... <1.ra>I would do much to feel its warmth\n"
+"upon me once again."
+msgstr ""
+

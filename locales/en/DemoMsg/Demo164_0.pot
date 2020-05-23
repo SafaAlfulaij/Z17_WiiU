@@ -1,0 +1,43 @@
+msgctxt "Demo164_0_Text002"
+msgid ""
+"You have been asleep\n"
+"for the past 100 years."
+msgstr ""
+
+#. 1: text_size
+#. 2: text_size
+msgctxt "Demo164_0_Text003"
+msgid "<1.te_si>Remember... <2.te_si>"
+msgstr ""
+
+msgctxt "Demo164_0_Text004"
+msgid "Try... Try to remember..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo164_0_Text005"
+msgid ""
+"The beast...<1.ra>When the beast regains its true power,\n"
+"this world will face its end."
+msgstr ""
+
+msgctxt "Demo164_0_Text006"
+msgid "Now then..."
+msgstr ""
+
+msgctxt "Demo164_0_Text007"
+msgid "You must hurry, Link."
+msgstr ""
+
+msgctxt "Demo164_0_Text008"
+msgid "Before it's too late..."
+msgstr ""
+
+msgctxt "Demo164_0_Text009"
+msgid "...urgh!"
+msgstr ""
+
+msgctxt "Demo164_0_Text010"
+msgid "Whoop..."
+msgstr ""
+
