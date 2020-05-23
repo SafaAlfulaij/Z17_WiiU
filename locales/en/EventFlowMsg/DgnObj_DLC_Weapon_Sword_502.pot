@@ -1,6 +1,0 @@
-msgctxt "Sleep"
-msgid ""
-"It has fulfilled its duty.\n"
-"It slumbers peacefully..."
-msgstr ""
-

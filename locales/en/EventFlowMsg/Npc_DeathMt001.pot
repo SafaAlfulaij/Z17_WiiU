@@ -1,8 +1,0 @@
-#. 1: sound
-msgctxt "Talk00"
-msgid ""
-"<1.so>I hope that someday I can capture the\n"
-"same majesty that Ozunda does in my\n"
-"own work."
-msgstr ""
-
