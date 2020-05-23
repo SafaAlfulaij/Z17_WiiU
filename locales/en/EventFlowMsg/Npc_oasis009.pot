@@ -1,7 +1,0 @@
-#. 1: sound
-msgctxt "Npc_oasis009_001"
-msgid ""
-"<1.so>I cannot allow a voe to go any farther.\n"
-"I must ask you to leave at once."
-msgstr ""
-

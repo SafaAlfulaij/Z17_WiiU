@@ -1,8 +1,0 @@
-#. 1: raw
-#. 2: raw
-msgctxt "Demo104_1_Text000"
-msgid ""
-"Link...<1.ra>You are our final hope. <2.ra>The fate of Hyrule rests with "
-"you."
-msgstr ""
-

@@ -1,5 +1,0 @@
-#. 1: raw
-msgctxt "Demo143_1_Text000"
-msgid "Let's go, little guy!<1.ra>Now! Open up wide, Ganon!"
-msgstr ""
-

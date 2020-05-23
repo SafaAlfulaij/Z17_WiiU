@@ -1,4 +1,0 @@
-msgctxt "Demo331_0_Text000"
-msgid "Haaah Haaah Haah Haa..."
-msgstr ""
-

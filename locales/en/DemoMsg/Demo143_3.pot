@@ -1,5 +1,0 @@
-#. 1: raw
-msgctxt "Demo143_3_Text001"
-msgid "This will be our final opportunity.<1.ra>We will not fail!"
-msgstr ""
-

@@ -1,7 +1,0 @@
-msgctxt "talk00"
-msgid ""
-"You who have reached this point...\n"
-"Proceed onward through the maze and\n"
-"you will receive a blessing as reward..."
-msgstr ""
-

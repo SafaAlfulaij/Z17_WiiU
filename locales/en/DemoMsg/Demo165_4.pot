@@ -1,8 +1,0 @@
-msgctxt "Demo165_4_Text001"
-msgid "The blood moon rises once again."
-msgstr ""
-
-msgctxt "Demo165_4_Text002"
-msgid "Please be careful, Link..."
-msgstr ""
-
