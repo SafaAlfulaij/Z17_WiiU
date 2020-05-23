@@ -1,7 +1,0 @@
-msgctxt "talk00"
-msgid ""
-"This feature can be used only with the\n"
-"Wii U GamePad. Switch to the Wii U\n"
-"GamePad to play."
-msgstr ""
-

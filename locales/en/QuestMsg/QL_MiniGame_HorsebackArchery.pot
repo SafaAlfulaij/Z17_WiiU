@@ -1,8 +1,0 @@
-msgctxt "QL_MiniGame_HorsebackArchery_Finish"
-msgid "<NO_STRING>"
-msgstr ""
-
-msgctxt "QL_MiniGame_HorsebackArchery_Game"
-msgid "<NO_STRING>"
-msgstr ""
-

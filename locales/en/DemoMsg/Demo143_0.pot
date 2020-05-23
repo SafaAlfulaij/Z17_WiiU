@@ -1,7 +1,0 @@
-#. 1: raw
-msgctxt "Demo143_0_Text000"
-msgid ""
-"Now my moment has finally come. <1.ra>Brace yourself, Ganon, for the "
-"sting of my revenge!"
-msgstr ""
-

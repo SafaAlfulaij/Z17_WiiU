@@ -1,8 +1,0 @@
-msgctxt "QL_MiniGame100enemy_Battle"
-msgid "<NO_STRING>"
-msgstr ""
-
-msgctxt "QL_MiniGame100enemy_Finish"
-msgid "<NO_STRING>"
-msgstr ""
-

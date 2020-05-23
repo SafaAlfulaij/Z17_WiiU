@@ -1,5 +1,0 @@
-#. 1: auto_advance
-msgctxt "Talk00"
-msgid "Beware, fool, the eye of the Yiga.<1.au_ad>"
-msgstr ""
-

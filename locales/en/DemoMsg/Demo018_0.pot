@@ -1,6 +1,0 @@
-#. 1: sound
-#. 2: animation
-msgctxt "talk00"
-msgid "<1.so><2.an>Where are you off to?!"
-msgstr ""
-
