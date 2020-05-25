@@ -1,22 +1,31 @@
+# 
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-25 05:51+0000\n"
+"Last-Translator: صفا <safa1996alfulaij@gmail.com>\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+"X-Generator: Pontoon\n"
+
 msgctxt "0000"
 msgid "Continue"
-msgstr ""
+msgstr "واصل"
 
 msgctxt "0001"
 msgid "New Game"
-msgstr ""
+msgstr "لعبة جديدة"
 
 msgctxt "0002"
 msgid "Options"
-msgstr ""
+msgstr "الخيارات"
 
 msgctxt "0003"
 msgid "amiibo"
-msgstr ""
+msgstr "الأميبو"
 
 msgctxt "0004"
 msgid "Downloadable Content"
-msgstr ""
+msgstr "محتويات للتنزيل"
 
 msgctxt "0005"
 msgid "DLC Purchased"
@@ -49,4 +58,3 @@ msgstr ""
 msgctxt "T_DummyText_00"
 msgid "Master Mode"
 msgstr ""
-
