@@ -1,0 +1,9 @@
+msgctxt "Talk01"
+msgid ""
+"Only the one who possesses the\n"
+"One-Hit Obliterator may enter\n"
+"this shrine.\n"
+"Return to the Shrine of Resurrection\n"
+"and take hold of this weapon."
+msgstr ""
+

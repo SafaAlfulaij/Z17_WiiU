@@ -1,0 +1,145 @@
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk000"
+msgid ""
+"<1.au_ad>I knew ya could do it, little guy!\n"
+"Now you can use Daruk's Protection\n"
+"more than ever."
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk010"
+msgid ""
+"<1.au_ad>If ya see that Ganon jerk, give him a\n"
+"message for me... \"Good riddance,\n"
+"bacon-breath!\""
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk100"
+msgid ""
+"<1.au_ad>Hey, little guy! So ya came to test\n"
+"your skills again, huh?"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk110"
+msgid ""
+"<1.au_ad>With the strength you've mustered,\n"
+"I'm sure beating down Calamity Ganon\n"
+"will be a piece of slate!"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk200"
+msgid ""
+"<1.au_ad>Little guy! Can ya pass along a message\n"
+"to the youngster for me?"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk210"
+msgid ""
+"<1.au_ad>Tell him, when I was young, nobody gave\n"
+"me the time o' day. I was green as grass\n"
+"and timid as a mouse!"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk220"
+msgid ""
+"<1.au_ad>Just work hard, watch out for your\n"
+"brothers, and eat lots of tasty rocks.\n"
+"Do that, and you'll be stronger than me!"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk230"
+msgid ""
+"<1.au_ad>It'd be great if you could tell him that\n"
+"for me, brother."
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk300"
+msgid ""
+"<1.au_ad>Hey there, little guy! Say, do ya\n"
+"remember when we first met?"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk310"
+msgid ""
+"<1.au_ad>Honestly... I never thought I'd find a\n"
+"Hylian strong enough to be considered\n"
+"a true brother!"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk320"
+msgid ""
+"<1.au_ad>I was so shocked, bet I had a dopey look\n"
+"on my face. Maybe it's best if ya don't\n"
+"remember that part."
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk400"
+msgid ""
+"<1.au_ad>Little guy! I'm guessing your memory's\n"
+"still scrambled, yeah? Well..."
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk410"
+msgid ""
+"<1.au_ad>Maybe it'd help if you'd read that thing\n"
+"about our memories. Ya know, the one\n"
+"from back in the good ol' days."
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk420"
+msgid ""
+"<1.au_ad>What's that thing? Oh, yeah, my diary.\n"
+"I mean...my training journal. I bet it's\n"
+"still around."
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk430"
+msgid ""
+"<1.au_ad>What? Surprised I kept a journal?\n"
+"If you're curious, try to find it!"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk500"
+msgid ""
+"<1.au_ad>Hey, little guy! Listen, I'm trusting ya\n"
+"to keep a secret, OK?"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk510"
+msgid ""
+"<1.au_ad>Between you and me, there was once a\n"
+"monster I just couldn't beat. I hated that\n"
+"stupid thing!"
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk520"
+msgid ""
+"<1.au_ad>When I was young, I stepped on its tail,\n"
+"and it went \"ARP!\" and \"RUFF!\"\n"
+"and \"GRRRR!\" Nasty critter."
+msgstr ""
+
+#. 1: auto_advance
+msgctxt "Npc_Goron_Hero_talk530"
+msgid ""
+"<1.au_ad>I can still see its awful face and sharp\n"
+"fangs. Facing your fears is certainly no\n"
+"walk in the bark. I mean...park."
+msgstr ""
+

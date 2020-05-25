@@ -1,0 +1,84 @@
+#. 1: raw
+msgctxt "Demo105_0_Text040"
+msgid ""
+"The history of the royal family of Hyrule\n"
+"is also the history of Calamity Ganon, <1.ra>a primal evil that has "
+"endured over the ages."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo105_0_Text041"
+msgid ""
+"This evil has been turned back time and time again<1.ra>by a warrior "
+"wielding the soul of a hero, and a\n"
+"princess who carries the blood of the Goddess."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo105_0_Text042"
+msgid ""
+"With the passage of time, each conflict\n"
+"with Ganon faded into legend.<1.ra>So listen closely as I tell you of "
+"this\n"
+"\"legend\" that occurred 10,000 years ago."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo105_0_Text043"
+msgid ""
+"Hyrule was then blossoming as\n"
+"a highly advanced civilization.<1.ra>Even the most powerful monsters "
+"posed\n"
+"little threat to the denizens of the realm."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo105_0_Text044"
+msgid ""
+"The people thought it wise to utilize\n"
+"their technological prowess<1.ra>to ensure the safety of the land,\n"
+"should Calamity Ganon ever return."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo105_0_Text045"
+msgid ""
+"They constructed four mechanical wonders\n"
+"that came to be known as the Divine Beasts.<1.ra>They also built a legion"
+" of autonomous\n"
+"weapons called Guardians."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo105_0_Text046"
+msgid ""
+"The Divine Beasts were piloted by four individuals\n"
+"of exceptional skill from across the land.<1.ra>And thus, the plan to "
+"neutralize Ganon was forged."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo105_0_Text047"
+msgid ""
+"Upon Ganon's inevitable return to Hyrule, <1.ra>the princess and the hero"
+" fought alongside these\n"
+"four Champions against this ancient evil."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo105_0_Text048"
+msgid ""
+"The Guardians were tasked with protecting the hero<1.ra>as the Divine "
+"Beasts unleashed a furious attack upon\n"
+"their terrible foe."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo105_0_Text049"
+msgid ""
+"And when the hero wielding the sword that\n"
+"seals the darkness delivered his final blow...<1.ra>The princess used her"
+" sacred power\n"
+"to seal away Calamity Ganon."
+msgstr ""
+

@@ -1,0 +1,146 @@
+msgctxt "Npc_DungeonPriest_HeroZoraRelief_001"
+msgid ""
+"I applaud your courage in coming here.\n"
+"\n"
+"\n"
+"The locations that will be revealed to\n"
+"you are of trials that will enhance\n"
+"the power sleeping within.\n"
+"Do not let your guard down..."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: pause (long)
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_001"
+msgid ""
+"<1.so>Hm? Fellow traveler...<2.pa>\n"
+"What brings you here?<3.pa>"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_002"
+msgid ""
+"<1.so>I suppose everyone has their own\n"
+"reasons for traveling."
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_004"
+msgid ""
+"<1.so><2.an>Ah, sweet joy! How glorious to sing this\n"
+"song in the very land it describes..."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: sound
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: auto_advance
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_005"
+msgid ""
+"<1.au_ad><2.so>The song my teacher left behind...\n"
+"There's <3.se_co>a verse<4.re_co> about the trials that\n"
+"<5.se_co>Champion Mipha <6.re_co>overcame.\n"
+"<7.au_ad>Allow me to sing it for you..."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (63f)
+#. 5: set_colour (blue)
+#. 6: reset_colour
+#. 7: pause (long)
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_100"
+msgid ""
+"<1.au_ad><2.ra>♪Reaching skyward <3.pa>from waters blue.<4.pa>\n"
+"<5.se_co>Ruta<6.re_co>'s Champion <7.pa>a heart true.♪"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: pause (93f)
+#. 5: pause (long)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_101"
+msgid ""
+"<1.au_ad><2.ra>♪The hero's power <3.pa>shall grow.<4.pa>\n"
+"Seek trials <5.pa><6.se_co>monuments<7.re_co> show.♪"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (99f)
+#. 7: pause (long)
+#. 8: set_colour (red)
+#. 9: reset_colour
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_102"
+msgid ""
+"<1.au_ad><2.ra>♪One, <3.pa><4.se_co>find what the light's path "
+"shows<5.re_co>.<6.pa>\n"
+"Two, <7.pa><8.se_co>conquer the ancient foes<9.re_co>.♪"
+msgstr ""
+
+#. 1: auto_advance
+#. 2: raw
+#. 3: pause (long)
+#. 4: set_colour (red)
+#. 5: reset_colour
+#. 6: pause (84f)
+#. 7: pause (long)
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_103"
+msgid ""
+"<1.au_ad><2.ra>♪Three, <3.pa><4.se_co>chase rings of the "
+"waterfall<5.re_co>.<6.pa>\n"
+"Champion, <7.pa>the trials call!♪"
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_201"
+msgid ""
+"<1.so>I can feel it... My teacher surely sang\n"
+"this very verse from this very spot..."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_202"
+msgid ""
+"<1.so>I wish nothing more than to carry on my\n"
+"teacher's dream to complete and perform\n"
+"this special song."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_203"
+msgid ""
+"<1.so>To do so, I must learn all there is to know\n"
+"about the Champions of old..."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_204"
+msgid ""
+"<1.so>Thankfully, <2.se_co>the Zora king and prince<3.re_co>\n"
+"shared memories of their Champion\n"
+"with me."
+msgstr ""
+
+#. 1: sound
+msgctxt "Npc_Musician_AoC_HeroZoraRelief_205"
+msgid ""
+"<1.so>To sing the completed song under this\n"
+"sky that my teacher so loved...that is\n"
+"the end goal of this long journey."
+msgstr ""
+

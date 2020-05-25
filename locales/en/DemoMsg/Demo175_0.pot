@@ -1,0 +1,13 @@
+#. 1: raw
+msgctxt "Demo175_0_Text000"
+msgid "Oh man, oh man, oh man...<1.ra>What am I gonna do?"
+msgstr ""
+
+msgctxt "Demo175_0_Text001"
+msgid "Monsters! They're here! They found me! Help!"
+msgstr ""
+
+msgctxt "Demo175_0_Text002"
+msgid " "
+msgstr ""
+

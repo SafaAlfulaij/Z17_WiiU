@@ -1,0 +1,26 @@
+msgctxt "Demo645_0_Text000"
+msgid ""
+"That which you have obtained...\n"
+"is a masterpiece of innovation,\n"
+"created for the one true hero."
+msgstr ""
+
+#. 1: animation
+#. 2: pause (longer)
+msgctxt "Demo645_0_Text001"
+msgid ""
+"<1.an>Sheikah Slate authenticated.<2.pa>\n"
+"Distilling rune..."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo645_0_Text002"
+msgid "<1.an>Rune extracted."
+msgstr ""
+
+msgctxt "Demo645_0_Text003"
+msgid ""
+"Hero of Hyrule... May the Goddess\n"
+"smile upon you."
+msgstr ""
+

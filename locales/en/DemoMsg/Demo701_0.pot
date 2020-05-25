@@ -1,0 +1,32 @@
+#. 1: auto_advance
+#. 2: pause (60f)
+#. 3: pause (60f)
+#. 4: pause (60f)
+#. 5: pause (125f)
+msgctxt "OP_DRC05"
+msgid ""
+"<1.au_ad>Link...<2.pa> You are the light—<3.pa>our light—<4.pa>that\n"
+"must shine upon Hyrule once again.<5.pa>\n"
+"Now, go..."
+msgstr ""
+
+#. 1: animation
+msgctxt "talk00"
+msgid "<1.an>Authenticating..."
+msgstr ""
+
+#. 1: animation
+msgctxt "talk01"
+msgid "<1.an>Sheikah Slate confirmed."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: pause (105f)
+#. 4: pause (142f)
+msgctxt "talk02"
+msgid ""
+"Hold the <1.se_co>Sheikah Slate<2.re_co> up to the\n"
+"pedestal. <3.pa>That will show you the way.<4.pa>"
+msgstr ""
+

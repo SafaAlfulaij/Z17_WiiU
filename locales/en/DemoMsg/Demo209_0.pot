@@ -1,0 +1,66 @@
+#. 1: animation
+msgctxt "Demo209_0_Text000"
+msgid ""
+"<1.an>Hm? What's this? A voice beckoned you\n"
+"here? I see. So the time has come."
+msgstr ""
+
+msgctxt "Demo209_0_Text001"
+msgid ""
+"I shall now tell you all I know about the\n"
+"arduous trial that awaits you."
+msgstr ""
+
+msgctxt "Demo209_0_Text002"
+msgid ""
+"This trial shall test your courage to\n"
+"ensure you are worthy of this splendor."
+msgstr ""
+
+msgctxt "Demo209_0_Text003"
+msgid ""
+"Once you have tempered your soul and\n"
+"proven your wisdom and courage by\n"
+"completing the Trial of the Sword..."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo209_0_Text004"
+msgid ""
+"<1.an>That sword you have reunited with...\n"
+"the Master Sword...it has yet to realize\n"
+"its true splendor."
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo209_0_Text005"
+msgid ""
+"<1.an>All of your weapons and armor will be\n"
+"sealed away. You must face your enemies\n"
+"without the tools you've come to rely on."
+msgstr ""
+
+msgctxt "Demo209_0_Text006"
+msgid ""
+"It is called the Trial of the Sword.\n"
+"It will challenge you as you have\n"
+"never been challenged before."
+msgstr ""
+
+msgctxt "Demo209_0_Text007"
+msgid "the Master Sword shall truly be yours!"
+msgstr ""
+
+msgctxt "Demo209_0_Text009"
+msgid ""
+"...Hm. Unless my eyes deceive me,\n"
+"you seem quite willing to take on this\n"
+"trial. A hero through and through!"
+msgstr ""
+
+msgctxt "Demo209_0_Text010"
+msgid ""
+"Now, Link... Place the Master Sword\n"
+"in its pedestal."
+msgstr ""
+

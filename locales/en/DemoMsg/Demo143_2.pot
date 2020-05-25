@@ -1,0 +1,7 @@
+#. 1: raw
+msgctxt "Demo143_2_Text001"
+msgid ""
+"A hundred years in the making...<1.ra>Hold on, Princess. Our moment has "
+"arrived!"
+msgstr ""
+

@@ -1,0 +1,94 @@
+#. 1: raw
+msgctxt "Demo154_2_Text054"
+msgid "That princess was my own daughter...<1.ra>My dear Zelda."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_2_Text055"
+msgid ""
+"And the courageous knight who protected her\n"
+"right up to the very end... <1.ra>That knight was none other than you, "
+"Link."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_2_Text056"
+msgid ""
+"You fought valiantly when your fate took an\n"
+"unfortunate turn.<1.ra>And then, you were taken to the Shrine of\n"
+"Resurrection. Here you now stand revitalized, 100\n"
+"years later."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_2_Text057"
+msgid ""
+"The words of guidance you have been hearing since\n"
+"your awakening are from Princess Zelda herself.<1.ra>Even now, as she "
+"works to restrain Ganon from\n"
+"within Hyrule Castle, she calls out for your help."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_2_Text058"
+msgid ""
+"However, my daughter's power will\n"
+"soon be exhausted. <1.ra>Once that happens, Ganon will freely\n"
+"regenerate himself and nothing will stop\n"
+"him from consuming our land. "
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_2_Text059"
+msgid ""
+"Considering that I could not save my own kingdom,<1.ra>I have no right to"
+" ask this of you, Link... "
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_2_Text061"
+msgid ""
+"Somehow, Ganon has maintained control over all\n"
+"four Divine Beasts,<1.ra>as well as those Guardians swarming around\n"
+"Hyrule Castle."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_2_Text062"
+msgid ""
+"I believe it would be quite reckless for you to head\n"
+"directly to the castle at this point.<1.ra>I suggest...that you make your"
+" way east, out to\n"
+"one of the villages in the wilderness."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo154_2_Text063"
+msgid ""
+"Follow the road out to Kakariko Village.<1.ra>There you will find the "
+"elder, Impa. <2.ra>She will tell you more about the path that lies ahead."
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo154_2_Text064"
+msgid ""
+"Consult the map on your Sheikah Slate for the\n"
+"precise location of Kakariko Village. <1.ra>Make your way past the twin "
+"summits\n"
+"of the Dueling Peaks.<2.ra>From there, follow the road as it proceeds "
+"north..."
+msgstr ""
+
+msgctxt "Demo154_2_Text065"
+msgid "But I am powerless here..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo154_2_Text066"
+msgid ""
+"You must save her...my daughter. <1.ra>And do whatever it takes to "
+"annihilate Ganon."
+msgstr ""
+

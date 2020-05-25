@@ -1,0 +1,70 @@
+#. 1: raw
+msgctxt "Demo135_0_Text000"
+msgid ""
+"I come seeking help...<1.ra>regarding this power that has been\n"
+"handed down over time..."
+msgstr ""
+
+msgctxt "Demo135_0_Text001"
+msgid "Prayer will awaken my power to seal Ganon away..."
+msgstr ""
+
+msgctxt "Demo135_0_Text002"
+msgid "Or so I've been told all my life..."
+msgstr ""
+
+msgctxt "Demo135_0_Text003"
+msgid " "
+msgstr ""
+
+msgctxt "Demo135_0_Text004"
+msgid "And yet..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo135_0_Text005"
+msgid ""
+"Grandmother heard them—the voices from\n"
+"the spirit realm. <1.ra>And Mother said her own power would\n"
+"develop within me."
+msgstr ""
+
+msgctxt "Demo135_0_Text006"
+msgid "But I don't hear...or feel anything!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo135_0_Text007"
+msgid ""
+"Father has told me time and time again... <1.ra>He always says, \"Quit "
+"wasting your time\n"
+"playing at being a scholar!\""
+msgstr ""
+
+msgctxt "Demo135_0_Text012"
+msgid "Please just tell me..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo135_0_Text013"
+msgid "What is it...? <1.ra>What's wrong with me?!"
+msgstr ""
+
+msgctxt "Demo135_0_Text014"
+msgid "I've spent every day of my life dedicated to praying!"
+msgstr ""
+
+msgctxt "Demo135_0_Text016"
+msgid ""
+"And still the holy powers have proven\n"
+"deaf to my devotion."
+msgstr ""
+
+msgctxt "Demo135_0_Text019"
+msgid "Curse you..."
+msgstr ""
+
+msgctxt "Demo135_0_Text023"
+msgid "I've pleaded to the spirits tied to the ancient gods..."
+msgstr ""
+

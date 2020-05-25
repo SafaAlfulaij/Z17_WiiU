@@ -1,0 +1,140 @@
+msgctxt "Demo662_0_Text000"
+msgid ""
+"So, Princess... May I ask who the other\n"
+"chosen Champions are?"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo662_0_Text001"
+msgid ""
+"Goron vigilance, Daruk.\n"
+"Rito confidence, Revali.\n"
+"Gerudo spirit, Urbosa.<1.ra>And also..."
+msgstr ""
+
+msgctxt "Demo662_0_Text002"
+msgid "the Hylian with the sword that seals the darkness."
+msgstr ""
+
+msgctxt "Demo662_0_Text003"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text004"
+msgid "Link."
+msgstr ""
+
+msgctxt "Demo662_0_Text005"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "Demo662_0_Text006"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text007"
+msgid "Sidon! Hurry and swim up here!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo662_0_Text008"
+msgid ""
+"Mipha...<1.ra>Perhaps he is still too young to swim up\n"
+"this big waterfall."
+msgstr ""
+
+msgctxt "Demo662_0_Text010"
+msgid "to face my fate with Ruta."
+msgstr ""
+
+msgctxt "Demo662_0_Text011"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text012"
+msgid "Join me."
+msgstr ""
+
+msgctxt "Demo662_0_Text013"
+msgid "We'll go together so you can get a feel for it."
+msgstr ""
+
+msgctxt "Demo662_0_Text014"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text015"
+msgid "Let's go!"
+msgstr ""
+
+msgctxt "Demo662_0_Text016"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text017"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text018"
+msgid "Sweet Sidon. Should fate ever part us..."
+msgstr ""
+
+msgctxt "Demo662_0_Text020"
+msgid " "
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo662_0_Text022"
+msgid "I believe in you.<1.ra>Now, shall we try one more time?"
+msgstr ""
+
+msgctxt "Demo662_0_Text024"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text025"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text026"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text028"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text029"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text030"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text031"
+msgid " "
+msgstr ""
+
+msgctxt "Demo662_0_Text032"
+msgid "One day, Princess..."
+msgstr ""
+
+msgctxt "Demo662_0_Text033"
+msgid "I must leave him..."
+msgstr ""
+
+msgctxt "Demo662_0_Text034"
+msgid ""
+"I'm counting on you to protect our\n"
+"beloved home from harm."
+msgstr ""
+
+msgctxt "Demo662_0_Text035"
+msgid "Understood?"
+msgstr ""
+
+msgctxt "Demo662_0_Text036"
+msgid " "
+msgstr ""
+

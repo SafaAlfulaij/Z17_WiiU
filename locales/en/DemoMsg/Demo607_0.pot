@@ -1,0 +1,60 @@
+#. 1: sound
+#. 2: auto_advance
+#. 3: raw
+#. 4: pause (longer)
+#. 5: pause (84f)
+#. 6: pause (longer)
+#. 7: auto_advance
+#. 8: raw
+#. 9: pause (102f)
+#. 10: pause (66f)
+#. 11: auto_advance
+#. 12: raw
+#. 13: pause (72f)
+#. 14: pause (69f)
+#. 15: raw
+#. 16: pause (72f)
+msgctxt "Talk05"
+msgid ""
+"<1.so><2.au_ad><3.ra>♪The flames crawl, <4.pa>the waters rise,<5.pa>\n"
+"the lightning strikes, <6.pa>the wind sighs.\n"
+"\n"
+"<7.au_ad><8.ra>♪A beast beyond the divine four<9.pa>\n"
+"awaits a hero <10.pa>forevermore\n"
+"\n"
+"<11.au_ad><12.ra>♪Let not the sound <13.pa>leave horses riled.<14.pa>\n"
+"<15.ra>Breathe in the breath <16.pa>of the wild."
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+#. 3: sound
+msgctxt "Talk06"
+msgid ""
+"<1.so>Curious, indeed. As it were, I perused\n"
+"my teacher's old notes...and found\n"
+"that song there.\n"
+"<2.an>Hmm, what sort of sound could alarm\n"
+"a horse so effectively?\n"
+"\n"
+"Kabam? Kapow? Rumble, rumble?\n"
+"Honestly, I haven't a clue.\n"
+"\n"
+"<3.so>It certainly helps to visit the locations\n"
+"that inspired the song. Yes, it helps\n"
+"open my mind to inspiration.\n"
+"Those notes had other interesting\n"
+"songs too... I plan to visit those\n"
+"locations as well."
+msgstr ""
+
+#. 1: sound
+#. 2: raw
+#. 3: pause (short)
+msgctxt "Talk07"
+msgid ""
+"<1.so><2.ra>Thank you, kind traveler! <3.pa>Now then...\n"
+"please open your ears and your heart\n"
+"to my song..."
+msgstr ""
+

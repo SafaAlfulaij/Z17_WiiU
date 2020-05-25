@@ -1,0 +1,108 @@
+#. 1: raw
+msgctxt "Demo163_0_Text017"
+msgid "Hello, Link. <1.ra>Because of your courage, my spirit is now free."
+msgstr ""
+
+msgctxt "Demo163_0_Text018"
+msgid "And Ruta, as well."
+msgstr ""
+
+msgctxt "Demo163_0_Text019"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "Demo163_0_Text020"
+msgid "For I am now allowed by this freedom..."
+msgstr ""
+
+msgctxt "Demo163_0_Text021"
+msgid "to be with you once again."
+msgstr ""
+
+msgctxt "Demo163_0_Text022"
+msgid "Since I am now a spirit,"
+msgstr ""
+
+msgctxt "Demo163_0_Text023"
+msgid "my healing power would be wasted on me."
+msgstr ""
+
+msgctxt "Demo163_0_Text024"
+msgid "I have no need of it."
+msgstr ""
+
+msgctxt "Demo163_0_Text025"
+msgid "So therefore...I would like you to have it."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo163_0_Text026"
+msgid "Please accept...<1.ra>Mipha's Grace."
+msgstr ""
+
+msgctxt "Demo163_0_Text027"
+msgid "Yesterday, I was awash in a pool of tears."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo163_0_Text028"
+msgid ""
+"I had nearly given up hope and resigned\n"
+"myself to being trapped here, as a spirit, <1.ra>for the rest of eternity."
+msgstr ""
+
+msgctxt "Demo163_0_Text029"
+msgid "But now you're here."
+msgstr ""
+
+msgctxt "Demo163_0_Text030"
+msgid "All this time, my hope..."
+msgstr ""
+
+msgctxt "Demo163_0_Text031"
+msgid "was to see you once more."
+msgstr ""
+
+msgctxt "Demo163_0_Text032"
+msgid ""
+"Promise me that you will not hesitate to call upon my\n"
+"power if you ever find yourself in need."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo163_0_Text033"
+msgid "Knowing that...<1.ra>will let my spirit rest in peace."
+msgstr ""
+
+msgctxt "Demo163_0_Text034"
+msgid "I must go."
+msgstr ""
+
+msgctxt "Demo163_0_Text035"
+msgid "Ruta and I have our roles to fulfill."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo163_0_Text036"
+msgid ""
+"We are both honored to be able to play\n"
+"the role of support.<1.ra>We'll annihilate Ganon together."
+msgstr ""
+
+msgctxt "Demo163_0_Text037"
+msgid "Farewell."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo163_0_Text038"
+msgid "Save her, Link.<1.ra>Save the princess..."
+msgstr ""
+
+msgctxt "Demo163_0_Text039"
+msgid "Save Princess Zelda..."
+msgstr ""
+
+msgctxt "Demo163_0_Text040"
+msgid " "
+msgstr ""
+

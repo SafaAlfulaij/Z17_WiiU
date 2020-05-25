@@ -1,0 +1,62 @@
+#. 1: raw
+msgctxt "Demo109_1_Text001"
+msgid ""
+"Your master will come for you.<1.ra>Until then, you shall rest safely "
+"here."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo109_1_Text002"
+msgid ""
+"Although the Slumber of Restoration will\n"
+"most certainly deprive him of his memories,<1.ra>please trust me when I "
+"say that I know\n"
+"he will arrive before you yet again."
+msgstr ""
+
+msgctxt "Demo109_1_Text004"
+msgid "I sense there is great strength in your dedication."
+msgstr ""
+
+msgctxt "Demo109_1_Text016"
+msgid ""
+"Great Deku Tree, I ask of you, when he returns,\n"
+"can you please relay this message..."
+msgstr ""
+
+msgctxt "Demo109_1_Text017"
+msgid "Tell him I—"
+msgstr ""
+
+msgctxt "Demo109_1_Text018"
+msgid ""
+"If I may be so bold...what is it that you\n"
+"are planning to do next, Princess?"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo109_1_Text022"
+msgid "The Master Sword...<1.ra>I heard it speak to me."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo109_1_Text023"
+msgid ""
+"It seems that my role is unfinished.<1.ra>There is still something I must"
+" do."
+msgstr ""
+
+msgctxt "Demo109_1_Text024"
+msgid "Now, then..."
+msgstr ""
+
+msgctxt "Demo109_1_Text025"
+msgid ""
+"Words intended for him would sound much better in\n"
+"the tones of your voice, don't you think?"
+msgstr ""
+
+msgctxt "Demo109_1_Text026"
+msgid "Yes."
+msgstr ""
+

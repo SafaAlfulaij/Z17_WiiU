@@ -1,0 +1,140 @@
+#. 1: sound
+#. 2: pause (short)
+msgctxt "Demo646_0_Text000"
+msgid "<1.so>Hm? <2.pa>Ah, it's you."
+msgstr ""
+
+#. 1: sound
+msgctxt "Demo646_0_Text001"
+msgid ""
+"<1.so>I can't put my feather on it, but I get the\n"
+"feeling you're even more accomplished\n"
+"than you were when last we met.\n"
+"I happen to have the perfect song for\n"
+"someone as esteemed as you.\n"
+"I would love to sing it for you."
+msgstr ""
+
+#. 1: set_colour (blue)
+#. 2: reset_colour
+#. 3: sound
+#. 4: set_colour (blue)
+#. 5: reset_colour
+msgctxt "Demo646_0_Text002"
+msgid ""
+"My teacher's <1.se_co>unfinished song<2.re_co>...\n"
+"the one I told you about...\n"
+"\n"
+"<3.so>I finally completed the <4.se_co>key verses<5.re_co>!"
+msgstr ""
+
+#. 1: animation
+#. 2: animation
+msgctxt "Demo646_0_Text003"
+msgid ""
+"<1.an>After this ceremony, they would all\n"
+"forever be known as Champions.\n"
+"\n"
+"My teacher always advised me to write\n"
+"songs that transport the listener to the\n"
+"moment in time you're singing of.\n"
+"<2.an>Now...I finally feel I understand what he\n"
+"meant...and the true power of music."
+msgstr ""
+
+#. 1: sound
+#. 2: animation
+msgctxt "Demo646_0_Text004"
+msgid ""
+"<1.so>By the way, I found this when I was\n"
+"looking through my teacher's notes.\n"
+"\n"
+"I was thinking...you should be the one\n"
+"to keep it.\n"
+"\n"
+"<2.an>Your courageous heart reminds me of the\n"
+"indomitable spirit of the Champions.\n"
+"I know you'll treasure it."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: auto_advance
+msgctxt "Demo646_0_Text005"
+msgid ""
+"<1.au_ad>A final thought...\n"
+"\n"
+"\n"
+"<2.au_ad>May the souls of the Champions who\n"
+"watch over Hyrule rest in peace."
+msgstr ""
+
+#. 1: animation
+#. 2: set_colour (blue)
+#. 3: reset_colour
+msgctxt "Demo646_0_Text006"
+msgid ""
+"<1.an>This lofty location is the perfect stage\n"
+"to sing this special song.\n"
+"\n"
+"It takes place 100 years ago...\n"
+"at <2.se_co>Hyrule Castle<3.re_co>.\n"
+"\n"
+"Yes, the very castle you can still see\n"
+"over yonder. It's about the magnificent\n"
+"inauguration of the chosen Champions."
+msgstr ""
+
+msgctxt "Demo646_0_Text007"
+msgid ""
+"If you would, please listen to this\n"
+"special song...\n"
+"\n"
+"The Champions' Ballad..."
+msgstr ""
+
+#. 1: auto_advance
+#. 2: text_size
+#. 3: text_size
+#. 4: text_size
+#. 5: auto_advance
+#. 6: text_size
+#. 7: text_size
+#. 8: auto_advance
+#. 9: text_size
+#. 10: text_size
+#. 11: auto_advance
+#. 12: text_size
+#. 13: text_size
+#. 14: auto_advance
+#. 15: text_size
+#. 16: text_size
+#. 17: auto_advance
+#. 18: text_size
+msgctxt "Demo646_0_Text011"
+msgid ""
+"<1.au_ad><2.te_si>...<3.te_si><4.te_si>\n"
+"\n"
+"\n"
+"<5.au_ad>Link...<6.te_si><7.te_si>\n"
+"\n"
+"\n"
+"<8.au_ad><9.te_si>Link...\n"
+"\n"
+"\n"
+"<10.te_si><11.au_ad><12.te_si>I have watched your journey. Every step.\n"
+"You have overcome every challenge with\n"
+"great courage.\n"
+"<13.te_si><14.au_ad><15.te_si>With the power that you have attained...\n"
+"\n"
+"\n"
+"<16.te_si><17.au_ad><18.te_si>I am certain you can defeat\n"
+"Calamity Ganon."
+msgstr ""
+
+#. 1: text_size
+#. 2: auto_advance
+#. 3: text_size
+msgctxt "Demo646_0_Text012"
+msgid "<1.te_si><2.au_ad><3.te_si>Truly..."
+msgstr ""
+

@@ -1,0 +1,18 @@
+msgctxt "Demo681_0_Text000"
+msgid ""
+"You faced that challenge with\n"
+"great courage."
+msgstr ""
+
+msgctxt "Demo681_0_Text001"
+msgid ""
+"You have erased all doubt from my mind.\n"
+"You are a true hero."
+msgstr ""
+
+msgctxt "Demo681_0_Text002"
+msgid ""
+"As such, you were destined to take hold\n"
+"of this ancient masterpiece..."
+msgstr ""
+

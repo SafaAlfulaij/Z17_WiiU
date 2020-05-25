@@ -1,0 +1,192 @@
+msgctxt "0000"
+msgid "Let's go."
+msgstr ""
+
+msgctxt "0001"
+msgid "I need to prepare."
+msgstr ""
+
+msgctxt "0002"
+msgid "Back to Flight Range."
+msgstr ""
+
+msgctxt "0003"
+msgid "Let's go back."
+msgstr ""
+
+msgctxt "0004"
+msgid "Let's keep going."
+msgstr ""
+
+#. 1: sound
+msgctxt "talk00"
+msgid ""
+"<1.so>All right. It's showtime.\n"
+"\n"
+"\n"
+"Man, even I feel like I'm going to freeze\n"
+"up here!"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (blue)
+#. 3: reset_colour
+#. 4: sound
+#. 5: animation
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: pause (longer)
+#. 9: pause (longer)
+msgctxt "talk01"
+msgid ""
+"<1.so>There's <2.se_co>Divine Beast Vah Medoh<3.re_co>.\n"
+"\n"
+"\n"
+"<4.so><5.an>It has its <6.se_co>barrier<7.re_co> up again.<8.pa>\n"
+"What a pain...\n"
+"\n"
+"What's wrong, Link?<9.pa>\n"
+"Too scared to talk?\n"
+"\n"
+"Let's go over the plan."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (red)
+#. 4: reset_colour
+msgctxt "talk02"
+msgid "<1.so>All right. <2.pa>Now go blow up those <3.se_co>cannons<4.re_co>!"
+msgstr ""
+
+#. 1: sound
+msgctxt "talk03"
+msgid "<1.so>Hnnn. Keep it together."
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "talk04"
+msgid ""
+"<1.so>Are you sure?<2.pa> You really want to go\n"
+"back?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (long)
+msgctxt "talk05"
+msgid ""
+"<1.so>Understood.<2.pa> Let's head back to the \n"
+"ground for a bit."
+msgstr ""
+
+#. 1: sound
+#. 2: choice
+msgctxt "talk06"
+msgid "<1.so>We can move whenever you're ready!<2.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: choice
+msgctxt "talk07"
+msgid "<1.so>You ready? <2.pa>Let's go.<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (short)
+#. 3: choice
+msgctxt "talk08"
+msgid "<1.so>You...<2.pa>still good to go?<3.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+msgctxt "talk09"
+msgid ""
+"<1.so>Last time could have gone better, but\n"
+"we've got it this time.<2.pa> Are you all good\n"
+"on <3.se_co>bomb arrows<4.re_co>?"
+msgstr ""
+
+#. 1: sound
+#. 2: pause (longer)
+#. 3: set_colour (blue)
+#. 4: reset_colour
+#. 5: choice
+msgctxt "talk10"
+msgid ""
+"<1.so>But, man, it's cold.<2.pa> Make sure you eat\n"
+"<3.se_co>something that will warm you up <4.re_co>before\n"
+"you go!<5.ch>"
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: pause (longer)
+#. 6: set_colour (blue)
+#. 7: reset_colour
+#. 8: set_colour (red)
+#. 9: reset_colour
+#. 10: set_colour (red)
+#. 11: pause (longer)
+#. 12: reset_colour
+#. 13: set_colour (red)
+#. 14: reset_colour
+#. 15: set_colour (red)
+#. 16: reset_colour
+#. 17: set_colour (blue)
+#. 18: reset_colour
+#. 19: pause (longer)
+#. 20: sound
+#. 21: pause (longer)
+#. 22: pause (short)
+#. 23: set_colour (blue)
+#. 24: reset_colour
+msgctxt "talk12"
+msgid ""
+"<1.so>You see those <2.se_co>cannons<3.re_co>?<4.pa> I'll draw their\n"
+"fire.<5.pa>\n"
+"\n"
+"While I'm doing that, use your\n"
+"<6.se_co>bomb arrows <7.re_co>to <8.se_co>destroy the "
+"cannons<9.re_co>.<10.se_co><11.pa><12.re_co>\n"
+"Got it so far?\n"
+"If you need to withdraw for a bit, just\n"
+"<13.se_co>spread your cloth<14.re_co> and float <15.se_co>straight "
+"up<16.re_co>\n"
+"in the updraft for a while.\n"
+"I'll take that as a sign that we need to\n"
+"regroup.\n"
+"\n"
+"Don't bother aiming for anything covered\n"
+"by <17.se_co>Medoh's barrier<18.re_co>. It's impenetrable.<19.pa>\n"
+"\n"
+"And whatever you do, don't get close\n"
+"enough to touch it.\n"
+"\n"
+"<20.so>And finally—<21.pa>I know I've said this a few\n"
+"times already,<22.pa> but don't forget your <23.se_co>cold\n"
+"protection<24.re_co>."
+msgstr ""
+
+#. 1: sound
+#. 2: set_colour (red)
+#. 3: reset_colour
+#. 4: pause (longer)
+#. 5: set_colour (red)
+#. 6: reset_colour
+#. 7: set_colour (blue)
+#. 8: reset_colour
+msgctxt "talk13"
+msgid ""
+"<1.so>I'll draw the <2.se_co>cannon <3.re_co>fire.<4.pa> Meanwhile, you\n"
+"<5.se_co>destroy the cannons<6.re_co> with your\n"
+"<7.se_co>bomb arrows<8.re_co>. And be quick about it."
+msgstr ""
+

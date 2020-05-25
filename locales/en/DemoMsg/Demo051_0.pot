@@ -1,0 +1,32 @@
+#. 1: auto_advance
+#. 2: text_size
+#. 3: text_size
+#. 4: auto_advance
+#. 5: text_size
+#. 6: text_size
+#. 7: text_size
+#. 8: auto_advance
+#. 9: text_size
+#. 10: auto_advance
+#. 11: auto_advance
+#. 12: auto_advance
+msgctxt "sinjyu_demo_after_00"
+msgid ""
+"<1.au_ad>...<2.te_si>\n"
+"\n"
+"\n"
+"<3.te_si><4.au_ad><5.te_si>Link...<6.te_si><7.te_si>\n"
+"\n"
+"\n"
+"<8.au_ad><9.te_si>Link.\n"
+"\n"
+"\n"
+"<10.au_ad>That Divine Beast was taken over by\n"
+"Ganon 100 years ago...\n"
+"\n"
+"<11.au_ad>You must find a way inside in order to\n"
+"free it from Ganon's Malice.\n"
+"\n"
+"<12.au_ad>I believe in you, Link."
+msgstr ""
+

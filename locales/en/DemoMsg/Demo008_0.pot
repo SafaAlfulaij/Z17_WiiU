@@ -1,0 +1,17 @@
+#. 1: animation
+#. 2: auto_advance
+msgctxt "Demo008_0_Text003"
+msgid "<1.an>Sheikah Slate confirmed.<2.au_ad>"
+msgstr ""
+
+#. 1: animation
+msgctxt "Demo008_0_Text004"
+msgid "<1.an>Travel Gate registered to map."
+msgstr ""
+
+#. 1: animation
+#. 2: auto_advance
+msgctxt "Demo008_0_Text005"
+msgid "<1.an>Access granted.<2.au_ad>"
+msgstr ""
+

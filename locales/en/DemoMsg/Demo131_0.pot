@@ -1,0 +1,85 @@
+#. 1: raw
+msgctxt "Demo131_0_Text000"
+msgid "There's one!<1.ra>Oh! And another!"
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo131_0_Text001"
+msgid ""
+"The flowers we have in Hyrule aren't just beautiful...<1.ra>They're also "
+"quite useful as ingredients for a\n"
+"variety of things."
+msgstr ""
+
+msgctxt "Demo131_0_Text016"
+msgid "...Ah..."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo131_0_Text017"
+msgid ""
+"This one here is called the silent princess.<1.ra>It's a rare, endangered"
+" species."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo131_0_Text018"
+msgid ""
+"Despite our efforts, we can't get them to grow\n"
+"domestically yet. <1.ra>The princess can only thrive out here in the wild."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo131_0_Text019"
+msgid ""
+"All that we can hope...<1.ra>is that the species will be strong enough\n"
+"to prosper, on its own."
+msgstr ""
+
+msgctxt "Demo131_0_Text020"
+msgid " "
+msgstr ""
+
+msgctxt "Demo131_0_Text021"
+msgid "Is that what I think it is?! Look at this!"
+msgstr ""
+
+#. 1: raw
+#. 2: raw
+msgctxt "Demo131_0_Text022"
+msgid ""
+"I don't believe it, but I actually caught one! <1.ra>This delicacy is "
+"known to have very, very potent\n"
+"effects under the proper circumstances. <2.ra>Ta-da!"
+msgstr ""
+
+msgctxt "Demo131_0_Text023"
+msgid ""
+"Research from the castle shows ingesting one of\n"
+"these can actually augment certain abilities."
+msgstr ""
+
+#. 1: raw
+msgctxt "Demo131_0_Text024"
+msgid ""
+"We wouldn't be in a controlled environment out here,\n"
+"and with your level of physical fitness...<1.ra>you'd be a perfect "
+"candidate for the study!"
+msgstr ""
+
+msgctxt "Demo131_0_Text025"
+msgid "Go on!"
+msgstr ""
+
+msgctxt "Demo131_0_Text026"
+msgid "Uh-mm……"
+msgstr ""
+
+msgctxt "Demo131_0_Text027"
+msgid "Taste it!"
+msgstr ""
+
+msgctxt "Demo131_0_Text028"
+msgid "Err……"
+msgstr ""
+
