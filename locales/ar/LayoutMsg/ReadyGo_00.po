@@ -1,0 +1,20 @@
+msgctxt "0000"
+msgid "START!"
+msgstr ""
+
+msgctxt "0001"
+msgid "GO!"
+msgstr ""
+
+msgctxt "T_1_00"
+msgid "1"
+msgstr ""
+
+msgctxt "T_2_00"
+msgid "2"
+msgstr ""
+
+msgctxt "T_3_00"
+msgid "3"
+msgstr ""
+

@@ -1,0 +1,4 @@
+msgctxt "T_Name_00"
+msgid "Wolf Link"
+msgstr ""
+

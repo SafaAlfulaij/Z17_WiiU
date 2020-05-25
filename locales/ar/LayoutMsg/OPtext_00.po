@@ -1,0 +1,12 @@
+msgctxt "T_Text_00"
+msgid "Nintendo Presents"
+msgstr ""
+
+msgctxt "T_Text_01"
+msgid "The Legend of Zelda"
+msgstr ""
+
+msgctxt "T_Text_02"
+msgid "Breath of the Wild"
+msgstr ""
+

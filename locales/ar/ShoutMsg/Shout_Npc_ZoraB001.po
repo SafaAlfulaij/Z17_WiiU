@@ -1,0 +1,210 @@
+#. 1: animation
+msgctxt "Approach_00"
+msgid "<1.an>We're getting closer!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Approach_01"
+msgid "<1.an>Here you go!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Approach_02"
+msgid "<1.an>Get those shock arrows..."
+msgstr ""
+
+#. 1: animation
+msgctxt "Approach_03"
+msgid "<1.an>Any shock arrows?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Approach_04"
+msgid "<1.an>Shock arrows ready?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Jump_00"
+msgid "<1.an>Here we go!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Jump_01"
+msgid "<1.an>Going up!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Jump_02"
+msgid "<1.an>Upward!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Jump_03"
+msgid "<1.an>Link, go!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Jump_04"
+msgid "<1.an>Swim!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Jump_05"
+msgid "<1.an>Now go!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Jump_06"
+msgid "<1.an>All right, go!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Jump_07"
+msgid "<1.an>Now fly!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Jump_08"
+msgid "<1.an>All right, go!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Leave_00"
+msgid "<1.an>Let's find an opening!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Leave_01"
+msgid "<1.an>Can we get rid of that ice?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Leave_02"
+msgid "<1.an>Break that ice!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Leave_03"
+msgid "<1.an>Watch that ice!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Leave_04"
+msgid "<1.an>You must break that ice!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Restart_00"
+msgid "<1.an>We move now!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Restart_01"
+msgid "<1.an>Right! Let's go!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Restart_02"
+msgid "<1.an>Don't get thrown off!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Restart_03"
+msgid "<1.an>Hold on tight!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Restart_04"
+msgid "<1.an>One more time!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Return_00"
+msgid "<1.an>Don't drown!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Return_01"
+msgid "<1.an>I'll save you!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Return_02"
+msgid "<1.an>I'll always save you!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Return_03"
+msgid "<1.an>Let's start over!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Return_04"
+msgid "<1.an>Just in time somehow..."
+msgstr ""
+
+#. 1: animation
+msgctxt "Return_05"
+msgid "<1.an>Are you all right, Link?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Return_06"
+msgid "<1.an>As many times as it takes!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Return_07"
+msgid "<1.an>You all right, Link?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Success_00"
+msgid "<1.an>Marvelous!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Success_01"
+msgid "<1.an>You did it, Link!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Success_02"
+msgid "<1.an>I knew you were good!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Success_03"
+msgid "<1.an>Incredible!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Success_04"
+msgid "<1.an>That's it!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Worry_00"
+msgid "<1.an>Are you all right?"
+msgstr ""
+
+#. 1: animation
+msgctxt "Worry_01"
+msgid "<1.an>Get on quick!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Worry_02"
+msgid "<1.an>Are you hurt?!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Worry_03"
+msgid "<1.an>Get it together!"
+msgstr ""
+
+#. 1: animation
+msgctxt "Worry_04"
+msgid "<1.an>Don't give up!"
+msgstr ""
+

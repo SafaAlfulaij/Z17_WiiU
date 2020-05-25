@@ -1,0 +1,57 @@
+# 
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-25 05:49+0000\n"
+"Last-Translator: صفا <safa1996alfulaij@gmail.com>\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+"X-Generator: Pontoon\n"
+
+msgctxt "0000"
+msgid "OK"
+msgstr "موافق"
+
+msgctxt "0001"
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgctxt "0002"
+msgid "Use amiibo"
+msgstr "استخدم الأميبو"
+
+msgctxt "0003"
+msgid "Do not use amiibo"
+msgstr "لا تستخدم الأميبو"
+
+msgctxt "0004"
+msgid ""
+"You cannot use amiibo until you've reached\n"
+"a certain point in the game. Try again after\n"
+"you've made some progress."
+msgstr ""
+
+msgctxt "0005"
+msgid ""
+"This game is compatible with amiibo.\n"
+"Would you like to enable amiibo functionality?"
+msgstr ""
+
+msgctxt "0006"
+msgid ""
+"Your current settings allow the use of the amiibo rune.\n"
+"Would you like to disable the use of the amiibo rune?"
+msgstr ""
+
+msgctxt "0007"
+msgid ""
+"You can now use the amiibo rune with the\n"
+"Sheikah Slate. You can change this setting\n"
+"on the Options screen at any time."
+msgstr ""
+
+msgctxt "0008"
+msgid ""
+"You can no longer use the amiibo rune.\n"
+"You can change this setting on the Options\n"
+"screen at any time. "
+msgstr ""

@@ -1,0 +1,20 @@
+#. 1: icon
+#. 2: set_colour (red)
+#. 3: reset_colour
+msgctxt "0001"
+msgid ""
+"Press <1.ic> on an active\n"
+"quest to display its\n"
+"<2.se_co>waypoints <3.re_co>on the map."
+msgstr ""
+
+#. 1: set_colour (red)
+#. 2: reset_colour
+#. 3: icon
+msgctxt "0002"
+msgid ""
+"<1.se_co>Hero's Path mode<2.re_co> unlocked.\n"
+"Press <3.ic> on the map screen to\n"
+"see your journey's path thus far."
+msgstr ""
+

@@ -1,0 +1,4 @@
+msgctxt "T_BigText_00"
+msgid "Thank you for playing!"
+msgstr ""
+

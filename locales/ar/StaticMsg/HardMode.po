@@ -1,0 +1,16 @@
+msgctxt "0001"
+msgid "OK"
+msgstr ""
+
+msgctxt "0002"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "0003"
+msgid "Would you like to play in Master Mode?"
+msgstr ""
+
+msgctxt "0005"
+msgid "Would you like to play in Normal Mode?"
+msgstr ""
+

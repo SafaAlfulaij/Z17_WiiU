@@ -1,0 +1,2816 @@
+msgctxt "AagetoMt"
+msgid "Mount Agaat"
+msgstr ""
+
+msgctxt "AdeyaLake"
+msgid "Deya Lake"
+msgstr ""
+
+msgctxt "AdeyaVillage"
+msgid "Deya Village Ruins"
+msgstr ""
+
+msgctxt "AgePlateau"
+msgid "Jia Highlands"
+msgstr ""
+
+msgctxt "AgunaiLake"
+msgid "Darunia Lake"
+msgstr ""
+
+msgctxt "AkazaMt"
+msgid "Lanayru Range"
+msgstr ""
+
+msgctxt "AkkareBigBridge"
+msgid "Akkala Span"
+msgstr ""
+
+msgctxt "AkkareBridge"
+msgid "Akkala Span"
+msgstr ""
+
+msgctxt "AkkareGarrison"
+msgid "Akkala Parade Ground Ruins"
+msgstr ""
+
+msgctxt "AkkareZhai"
+msgid "Akkala Citadel Ruins"
+msgstr ""
+
+msgctxt "AkkareZhaiBridge"
+msgid "Akkala Bridge Ruins"
+msgstr ""
+
+msgctxt "AmimePlateau"
+msgid "Nette Plateau"
+msgstr ""
+
+msgctxt "AmonenePlateau"
+msgid "Ralis Pond"
+msgstr ""
+
+msgctxt "AnbonBeach"
+msgid "Martha's Landing"
+msgstr ""
+
+msgctxt "AnchoBeach"
+msgid "Toronbo Beach"
+msgstr ""
+
+msgctxt "AncientLabo"
+msgid "Akkala Ancient Tech Lab"
+msgstr ""
+
+msgctxt "AnoleLake"
+msgid "Gorko Lake"
+msgstr ""
+
+msgctxt "AnoleTunnel"
+msgid "Gorko Tunnel"
+msgstr ""
+
+msgctxt "ArafuraPlain"
+msgid "Fural Plain"
+msgstr ""
+
+msgctxt "AraisoBeach"
+msgid "Aris Beach"
+msgstr ""
+
+msgctxt "Assassin"
+msgid "Yiga Clan Hideout"
+msgstr ""
+
+msgctxt "AzimetosPlateau"
+msgid "Mystathi's Shelf"
+msgstr ""
+
+msgctxt "BachimakuMt"
+msgid "Solewood Range"
+msgstr ""
+
+msgctxt "BaconCliff"
+msgid "Gortram Cliff"
+msgstr ""
+
+msgctxt "BameHill"
+msgid "Passer Hill"
+msgstr ""
+
+msgctxt "BanmezaLake"
+msgid "Harker Lake"
+msgstr ""
+
+msgctxt "BantaValley"
+msgid "Breach of Demise"
+msgstr ""
+
+msgctxt "BarakkiPlain"
+msgid "Dalite Forest"
+msgstr ""
+
+msgctxt "BarumePlain"
+msgid "Barula Plain"
+msgstr ""
+
+msgctxt "BigBrotherBridge"
+msgid "Big Twin Bridge"
+msgstr ""
+
+msgctxt "BigTree"
+msgid "Ancient Tree Stump"
+msgstr ""
+
+msgctxt "BigalLake"
+msgid "Medingo Pool"
+msgstr ""
+
+msgctxt "BiginaTrees"
+msgid "Ginner Woods"
+msgstr ""
+
+msgctxt "BiridinHill"
+msgid "Birida Lookout"
+msgstr ""
+
+msgctxt "BironSnow"
+msgid "Biron Snowshelf"
+msgstr ""
+
+msgctxt "BituoValley"
+msgid "Tobio's Hollow"
+msgstr ""
+
+msgctxt "BlindForest"
+msgid "Thyphlo Ruins"
+msgstr ""
+
+msgctxt "BlizzarValley"
+msgid "Coldsnap Hollow"
+msgstr ""
+
+msgctxt "BokoboLake"
+msgid "Gero Pond"
+msgstr ""
+
+msgctxt "BonrasForest"
+msgid "Bronas Forest"
+msgstr ""
+
+msgctxt "BoraraCape"
+msgid "Tarm Point"
+msgstr ""
+
+msgctxt "BottuBay"
+msgid "Spool Bight"
+msgstr ""
+
+msgctxt "BraveFountain"
+msgid "Spring of Courage"
+msgstr ""
+
+msgctxt "BrosRock"
+msgid "Warbler's Nest"
+msgstr ""
+
+msgctxt "BrostarPlain"
+msgid "Samasa Plain"
+msgstr ""
+
+msgctxt "BuhaIslands"
+msgid "Broca Island"
+msgstr ""
+
+msgctxt "BuibuiTrees"
+msgid "Bubinga Forest"
+msgstr ""
+
+msgctxt "BuichadaPlateau"
+msgid "Tumlea Heights"
+msgstr ""
+
+msgctxt "BuidaLake"
+msgid "Rassla Lake"
+msgstr ""
+
+msgctxt "BumiPlain"
+msgid "Windvane Meadow"
+msgstr ""
+
+msgctxt "BuramuPlateau"
+msgid "Popla Foothills"
+msgstr ""
+
+msgctxt "CastleTownMark"
+msgid "Hyrule Castle Town Ruins"
+msgstr ""
+
+msgctxt "CelebrationPark"
+msgid "Sacred Ground Ruins"
+msgstr ""
+
+msgctxt "CentralExchange"
+msgid "Exchange Ruins"
+msgstr ""
+
+msgctxt "ChagaraMt"
+msgid "Gogobi Shores"
+msgstr ""
+
+msgctxt "ChirakaVillage"
+msgid "Goponga Village Ruins"
+msgstr ""
+
+msgctxt "ChuonoPond"
+msgid "Zelkoa Pond"
+msgstr ""
+
+msgctxt "Cohorint"
+msgid "Eventide Island"
+msgstr ""
+
+msgctxt "Cokiri"
+msgid "Korok Forest"
+msgstr ""
+
+msgctxt "Corosseo"
+msgid "Coliseum Ruins"
+msgstr ""
+
+msgctxt "CresiaPeninsula"
+msgid "Cape Cresia"
+msgstr ""
+
+msgctxt "DamzelForest"
+msgid "Damel Forest"
+msgstr ""
+
+msgctxt "DanioPlain"
+msgid "Ukuku Plains"
+msgstr ""
+
+msgctxt "DarinoPond"
+msgid "Nirvata Lake"
+msgstr ""
+
+msgctxt "DasukidaMt"
+msgid "Mount Dunsel"
+msgstr ""
+
+msgctxt "DasukidaPlateau"
+msgid "Dunsel Plateau"
+msgstr ""
+
+msgctxt "DatsuPlain"
+msgid "Parache Plains"
+msgstr ""
+
+msgctxt "DeathCaldera"
+msgid "Death Caldera"
+msgstr ""
+
+msgctxt "DeathMountainHatago"
+msgid "Foothill Stable"
+msgstr ""
+
+msgctxt "DeathMountain_Entrance"
+msgid "Maw of Death Mountain"
+msgstr ""
+
+msgctxt "DekamuPlain"
+msgid "Marblod Plain"
+msgstr ""
+
+msgctxt "DodoraBridge"
+msgid "Luto's Crossing"
+msgstr ""
+
+msgctxt "DokamamaPlain"
+msgid "Sahasra Slope"
+msgstr ""
+
+msgctxt "DokuroPond"
+msgid "Skull Lake"
+msgstr ""
+
+msgctxt "DonLake"
+msgid "Lulu Lake"
+msgstr ""
+
+msgctxt "DotiBeach"
+msgid "Rimba Beach"
+msgstr ""
+
+msgctxt "DragonMarsh"
+msgid "Dragon Bone Mire"
+msgstr ""
+
+msgctxt "DragonsFar"
+msgid "Dragon's Exile"
+msgstr ""
+
+msgctxt "Dungeon000"
+msgid "Tah Muhl Shrine"
+msgstr ""
+
+msgctxt "Dungeon001"
+msgid "Jee Noh Shrine"
+msgstr ""
+
+msgctxt "Dungeon002"
+msgid "Sah Dahaj Shrine"
+msgstr ""
+
+msgctxt "Dungeon003"
+msgid "Hawa Koth Shrine"
+msgstr ""
+
+msgctxt "Dungeon004"
+msgid "Zalta Wa Shrine"
+msgstr ""
+
+msgctxt "Dungeon005"
+msgid "Ne'ez Yohma Shrine"
+msgstr ""
+
+msgctxt "Dungeon006"
+msgid "Yah Rin Shrine"
+msgstr ""
+
+msgctxt "Dungeon007"
+msgid "Bosh Kala Shrine"
+msgstr ""
+
+msgctxt "Dungeon008"
+msgid "Bareeda Naag Shrine"
+msgstr ""
+
+msgctxt "Dungeon009"
+msgid "Owa Daim Shrine"
+msgstr ""
+
+msgctxt "Dungeon010"
+msgid "Kay Noh Shrine"
+msgstr ""
+
+msgctxt "Dungeon011"
+msgid "Monya Toma Shrine"
+msgstr ""
+
+msgctxt "Dungeon012"
+msgid "Voo Lota Shrine"
+msgstr ""
+
+msgctxt "Dungeon013"
+msgid "Katosa Aug Shrine"
+msgstr ""
+
+msgctxt "Dungeon014"
+msgid "Kam Urog Shrine"
+msgstr ""
+
+msgctxt "Dungeon015"
+msgid "Toto Sah Shrine"
+msgstr ""
+
+msgctxt "Dungeon016"
+msgid "Rucco Maag Shrine"
+msgstr ""
+
+msgctxt "Dungeon017"
+msgid "Shee Vaneer Shrine"
+msgstr ""
+
+msgctxt "Dungeon018"
+msgid "Rok Uwog Shrine"
+msgstr ""
+
+msgctxt "Dungeon019"
+msgid "Dow Na'eh Shrine"
+msgstr ""
+
+msgctxt "Dungeon020"
+msgid "Sheem Dagoze Shrine"
+msgstr ""
+
+msgctxt "Dungeon021"
+msgid "Toh Yahsa Shrine"
+msgstr ""
+
+msgctxt "Dungeon022"
+msgid "Keo Ruug Shrine"
+msgstr ""
+
+msgctxt "Dungeon023"
+msgid "Sheh Rata Shrine"
+msgstr ""
+
+msgctxt "Dungeon024"
+msgid "Mezza Lo Shrine"
+msgstr ""
+
+msgctxt "Dungeon025"
+msgid "Kayra Mah Shrine"
+msgstr ""
+
+msgctxt "Dungeon026"
+msgid "Shae Mo'sah Shrine"
+msgstr ""
+
+msgctxt "Dungeon027"
+msgid "Rota Ooh Shrine"
+msgstr ""
+
+msgctxt "Dungeon028"
+msgid "Shora Hah Shrine"
+msgstr ""
+
+msgctxt "Dungeon029"
+msgid "Hila Rao Shrine"
+msgstr ""
+
+msgctxt "Dungeon030"
+msgid "Joloo Nah Shrine"
+msgstr ""
+
+msgctxt "Dungeon031"
+msgid "Mo'a Keet Shrine"
+msgstr ""
+
+msgctxt "Dungeon032"
+msgid "Dako Tah Shrine"
+msgstr ""
+
+msgctxt "Dungeon033"
+msgid "Daka Tuss Shrine"
+msgstr ""
+
+msgctxt "Dungeon034"
+msgid "Kah Yah Shrine"
+msgstr ""
+
+msgctxt "Dungeon035"
+msgid "Akh Va'quot Shrine"
+msgstr ""
+
+msgctxt "Dungeon036"
+msgid "Sho Dantu Shrine"
+msgstr ""
+
+msgctxt "Dungeon037"
+msgid "Shae Loya Shrine"
+msgstr ""
+
+msgctxt "Dungeon038"
+msgid "Oman Au Shrine"
+msgstr ""
+
+msgctxt "Dungeon039"
+msgid "Myahm Agana Shrine"
+msgstr ""
+
+msgctxt "Dungeon040"
+msgid "Kaam Ya'tak Shrine"
+msgstr ""
+
+msgctxt "Dungeon041"
+msgid "Ja Baij Shrine"
+msgstr ""
+
+msgctxt "Dungeon042"
+msgid "Rin Oyaa Shrine"
+msgstr ""
+
+msgctxt "Dungeon043"
+msgid "Kuh Takkar Shrine"
+msgstr ""
+
+msgctxt "Dungeon044"
+msgid "Shee Venath Shrine"
+msgstr ""
+
+msgctxt "Dungeon045"
+msgid "Ha Dahamar Shrine"
+msgstr ""
+
+msgctxt "Dungeon046"
+msgid "Shada Naw Shrine"
+msgstr ""
+
+msgctxt "Dungeon047"
+msgid "Ree Dahee Shrine"
+msgstr ""
+
+msgctxt "Dungeon048"
+msgid "Ze Kasho Shrine"
+msgstr ""
+
+msgctxt "Dungeon049"
+msgid "Kaya Wan Shrine"
+msgstr ""
+
+msgctxt "Dungeon050"
+msgid "Shai Utoh Shrine"
+msgstr ""
+
+msgctxt "Dungeon051"
+msgid "Maka Rah Shrine"
+msgstr ""
+
+msgctxt "Dungeon052"
+msgid "Gee Ha'rah Shrine"
+msgstr ""
+
+msgctxt "Dungeon053"
+msgid "Sha Warvo Shrine"
+msgstr ""
+
+msgctxt "Dungeon054"
+msgid "Ka'o Makagh Shrine"
+msgstr ""
+
+msgctxt "Dungeon055"
+msgid "Dunba Taag Shrine"
+msgstr ""
+
+msgctxt "Dungeon056"
+msgid "Mirro Shaz Shrine"
+msgstr ""
+
+msgctxt "Dungeon057"
+msgid "Wahgo Katta Shrine"
+msgstr ""
+
+msgctxt "Dungeon058"
+msgid "Mogg Latan Shrine"
+msgstr ""
+
+msgctxt "Dungeon059"
+msgid "Kah Okeo Shrine"
+msgstr ""
+
+msgctxt "Dungeon060"
+msgid "Daqo Chisay Shrine"
+msgstr ""
+
+msgctxt "Dungeon061"
+msgid "Shoda Sah Shrine"
+msgstr ""
+
+msgctxt "Dungeon062"
+msgid "Sha Gehma Shrine"
+msgstr ""
+
+msgctxt "Dungeon063"
+msgid "Kema Zoos Shrine"
+msgstr ""
+
+msgctxt "Dungeon064"
+msgid "Daqa Koh Shrine"
+msgstr ""
+
+msgctxt "Dungeon065"
+msgid "Keh Namut Shrine"
+msgstr ""
+
+msgctxt "Dungeon066"
+msgid "Kah Mael Shrine"
+msgstr ""
+
+msgctxt "Dungeon067"
+msgid "Qua Raym Shrine"
+msgstr ""
+
+msgctxt "Dungeon068"
+msgid "Ya Naga Shrine"
+msgstr ""
+
+msgctxt "Dungeon069"
+msgid "Ishto Soh Shrine"
+msgstr ""
+
+msgctxt "Dungeon070"
+msgid "Soh Kofi Shrine"
+msgstr ""
+
+msgctxt "Dungeon071"
+msgid "Pumaag Nitae Shrine"
+msgstr ""
+
+msgctxt "Dungeon072"
+msgid "Dah Kaso Shrine"
+msgstr ""
+
+msgctxt "Dungeon073"
+msgid "Katah Chuki Shrine"
+msgstr ""
+
+msgctxt "Dungeon074"
+msgid "Noya Neha Shrine"
+msgstr ""
+
+msgctxt "Dungeon075"
+msgid "Dah Hesho Shrine"
+msgstr ""
+
+msgctxt "Dungeon076"
+msgid "Sasa Kai Shrine"
+msgstr ""
+
+msgctxt "Dungeon077"
+msgid "Ke'nai Shakah Shrine"
+msgstr ""
+
+msgctxt "Dungeon078"
+msgid "Mijah Rokee Shrine"
+msgstr ""
+
+msgctxt "Dungeon079"
+msgid "Namika Ozz Shrine"
+msgstr ""
+
+msgctxt "Dungeon080"
+msgid "Shoqa Tatone Shrine"
+msgstr ""
+
+msgctxt "Dungeon081"
+msgid "Muwo Jeem Shrine"
+msgstr ""
+
+msgctxt "Dungeon082"
+msgid "Chaas Qeta Shrine"
+msgstr ""
+
+msgctxt "Dungeon083"
+msgid "Tena Ko'sah Shrine"
+msgstr ""
+
+msgctxt "Dungeon084"
+msgid "Tutsuwa Nima Shrine"
+msgstr ""
+
+msgctxt "Dungeon085"
+msgid "Kema Kosassa Shrine"
+msgstr ""
+
+msgctxt "Dungeon086"
+msgid "Goma Asaagh Shrine"
+msgstr ""
+
+msgctxt "Dungeon087"
+msgid "Mozo Shenno Shrine"
+msgstr ""
+
+msgctxt "Dungeon088"
+msgid "Hia Miu Shrine"
+msgstr ""
+
+msgctxt "Dungeon089"
+msgid "Saas Ko'sah Shrine"
+msgstr ""
+
+msgctxt "Dungeon090"
+msgid "Suma Sahma Shrine"
+msgstr ""
+
+msgctxt "Dungeon091"
+msgid "Gorae Torr Shrine"
+msgstr ""
+
+msgctxt "Dungeon092"
+msgid "Maag No'rah Shrine"
+msgstr ""
+
+msgctxt "Dungeon093"
+msgid "Raqa Zunzo Shrine"
+msgstr ""
+
+msgctxt "Dungeon094"
+msgid "Tho Kayu Shrine"
+msgstr ""
+
+msgctxt "Dungeon095"
+msgid "Kuhn Sidajj Shrine"
+msgstr ""
+
+msgctxt "Dungeon096"
+msgid "Qukah Nata Shrine"
+msgstr ""
+
+msgctxt "Dungeon097"
+msgid "Korgu Chideh Shrine"
+msgstr ""
+
+msgctxt "Dungeon098"
+msgid "Daag Chokah Shrine"
+msgstr ""
+
+msgctxt "Dungeon099"
+msgid "Ta'loh Naeg Shrine"
+msgstr ""
+
+msgctxt "Dungeon100"
+msgid "Keeha Yoog Shrine"
+msgstr ""
+
+msgctxt "Dungeon101"
+msgid "Dagah Keek Shrine"
+msgstr ""
+
+msgctxt "Dungeon102"
+msgid "Zuna Kai Shrine"
+msgstr ""
+
+msgctxt "Dungeon103"
+msgid "Dila Maag Shrine"
+msgstr ""
+
+msgctxt "Dungeon104"
+msgid "Lanno Kooh Shrine"
+msgstr ""
+
+msgctxt "Dungeon105"
+msgid "Tu Ka'loh Shrine"
+msgstr ""
+
+msgctxt "Dungeon106"
+msgid "Maag Halan Shrine"
+msgstr ""
+
+msgctxt "Dungeon107"
+msgid "Misae Suma Shrine"
+msgstr ""
+
+msgctxt "Dungeon108"
+msgid "Ketoh Wawai Shrine"
+msgstr ""
+
+msgctxt "Dungeon109"
+msgid "Ritaag Zumo Shrine"
+msgstr ""
+
+msgctxt "Dungeon110"
+msgid "Korsh O'hu Shrine"
+msgstr ""
+
+msgctxt "Dungeon111"
+msgid "Tawa Jinn Shrine"
+msgstr ""
+
+msgctxt "Dungeon112"
+msgid "Lakna Rokee Shrine"
+msgstr ""
+
+msgctxt "Dungeon113"
+msgid "Shae Katha Shrine"
+msgstr ""
+
+msgctxt "Dungeon114"
+msgid "Shai Yota Shrine"
+msgstr ""
+
+msgctxt "Dungeon115"
+msgid "Rona Kachta Shrine"
+msgstr ""
+
+msgctxt "Dungeon116"
+msgid "Qaza Tokki Shrine"
+msgstr ""
+
+msgctxt "Dungeon117"
+msgid "Jitan Sa'mi Shrine"
+msgstr ""
+
+msgctxt "Dungeon118"
+msgid "To Quomo Shrine"
+msgstr ""
+
+msgctxt "Dungeon119"
+msgid "Tahno O'ah Shrine"
+msgstr ""
+
+msgctxt "EagleBridge"
+msgid "Kolami Bridge"
+msgstr ""
+
+msgctxt "EastDam"
+msgid "East Reservoir Lake"
+msgstr ""
+
+msgctxt "EastEunpoHighlands"
+msgid "East Deplian Badlands"
+msgstr ""
+
+msgctxt "EastGerudo"
+msgid "East Barrens"
+msgstr ""
+
+msgctxt "EastGerudoPlateau"
+msgid "East Gerudo Mesa"
+msgstr ""
+
+msgctxt "EastGerudoRuins"
+msgid "East Gerudo Ruins"
+msgstr ""
+
+msgctxt "EastPostTownRuin"
+msgid "East Post Ruins"
+msgstr ""
+
+msgctxt "EastShrine"
+msgid "Eastern Abbey"
+msgstr ""
+
+msgctxt "ElegLake"
+msgid "Nabi Lake"
+msgstr ""
+
+msgctxt "EnRiver"
+msgid "Menoat River"
+msgstr ""
+
+msgctxt "EquePlateau"
+msgid "Angel Peak"
+msgstr ""
+
+msgctxt "ErumedaPlateau"
+msgid "Meadela's Mantle"
+msgstr ""
+
+msgctxt "EunpoHighlands"
+msgid "Deplian Badlands"
+msgstr ""
+
+msgctxt "Execution"
+msgid "Castle Town Prison"
+msgstr ""
+
+msgctxt "ExpaTrees"
+msgid "Retsam Forest"
+msgstr ""
+
+msgctxt "EzzuBridge"
+msgid "Eagus Bridge"
+msgstr ""
+
+msgctxt "FairyForest"
+msgid "Forest of Spirits"
+msgstr ""
+
+msgctxt "FaronHatago000"
+msgid "Dueling Peaks Stable"
+msgstr ""
+
+msgctxt "FaronHatago001"
+msgid "Lakeside Stable"
+msgstr ""
+
+msgctxt "FaronHatago002"
+msgid "Highland Stable"
+msgstr ""
+
+msgctxt "FenaMt"
+msgid "Mount Nabooru"
+msgstr ""
+
+msgctxt "FeoreRiver"
+msgid "Lake Mekar"
+msgstr ""
+
+msgctxt "FinalTrial"
+msgid "Final Trial"
+msgstr ""
+
+msgctxt "FinrasForest"
+msgid "Finra Woods"
+msgstr ""
+
+msgctxt "FironeForestEntrance"
+msgid "Faron Woods"
+msgstr ""
+
+msgctxt "FlamingoSpa"
+msgid "Goflam's Secret Hot Spring"
+msgstr ""
+
+msgctxt "FlogPond"
+msgid "Hopper Pond"
+msgstr ""
+
+msgctxt "FloriaBridge"
+msgid "Floria Bridge"
+msgstr ""
+
+msgctxt "FloriaFalls"
+msgid "Floria Falls"
+msgstr ""
+
+msgctxt "FloriaRiver"
+msgid "Floria River"
+msgstr ""
+
+msgctxt "FlowerSandbank"
+msgid "Floret Sandbar"
+msgstr ""
+
+msgctxt "ForestHatago"
+msgid "Woodland Stable"
+msgstr ""
+
+msgctxt "FrontGatePosttown"
+msgid "Gatepost Town Ruins"
+msgstr ""
+
+msgctxt "FuruboLake"
+msgid "Lake Intenoch"
+msgstr ""
+
+msgctxt "GakanakkyoPlain"
+msgid "West Hyrule Plains"
+msgstr ""
+
+msgctxt "GameBalling"
+msgid "Pondo's Lodge"
+msgstr ""
+
+msgctxt "GameBitalockGolf"
+msgid "Tanagar Canyon Course"
+msgstr ""
+
+msgctxt "GameGutsCriff"
+msgid "Gut Check Rock"
+msgstr ""
+
+msgctxt "GameMarathon"
+msgid "Footrace Check-In"
+msgstr ""
+
+msgctxt "GameShiledSurf"
+msgid "Selmie's Spot"
+msgstr ""
+
+msgctxt "GameYabusame"
+msgid "Mounted Archery Camp"
+msgstr ""
+
+msgctxt "GameZarashiRace"
+msgid "Sand-Seal Rally"
+msgstr ""
+
+msgctxt "GamettaPlateau"
+msgid "Cliffs of Quince"
+msgstr ""
+
+msgctxt "GaneLake"
+msgid "Purifier Lake"
+msgstr ""
+
+msgctxt "GarakishiPass"
+msgid "Shadow Pass"
+msgstr ""
+
+msgctxt "GarakishiVillage"
+msgid "Shadow Hamlet Ruins"
+msgstr ""
+
+msgctxt "GasemaDam"
+msgid "Rutala Dam"
+msgstr ""
+
+msgctxt "GasemaRiver"
+msgid "Rutala River"
+msgstr ""
+
+msgctxt "GashamaHill"
+msgid "Crenel Hills"
+msgstr ""
+
+msgctxt "GashamahiMt"
+msgid "Crenel Peak"
+msgstr ""
+
+msgctxt "GatakaraGarrison"
+msgid "Kolomo Garrison Ruins"
+msgstr ""
+
+msgctxt "GatakaraPond"
+msgid "Lake Kolomo"
+msgstr ""
+
+msgctxt "GatinLake"
+msgid "Cephla Lake"
+msgstr ""
+
+msgctxt "GenLake"
+msgid "Lake Ferona"
+msgstr ""
+
+msgctxt "GeraRiver"
+msgid "Fir River"
+msgstr ""
+
+msgctxt "Gerudo"
+msgid "Gerudo Town"
+msgstr ""
+
+msgctxt "GerudoCanyon"
+msgid "Gerudo Canyon"
+msgstr ""
+
+msgctxt "GerudoCanyon_Entrance"
+msgid "Gerudo Canyon Pass"
+msgstr ""
+
+msgctxt "GerudoDesert_Entrance"
+msgid "Gerudo Desert Gateway"
+msgstr ""
+
+msgctxt "GerudoFossil"
+msgid "Gerudo Great Skeleton"
+msgstr ""
+
+msgctxt "GerudoHatago"
+msgid "Gerudo Canyon Stable"
+msgstr ""
+
+msgctxt "GerudoSummit"
+msgid "Gerudo Summit"
+msgstr ""
+
+msgctxt "GiankonIsland"
+msgid "Mekar Island"
+msgstr ""
+
+msgctxt "GibogaHill"
+msgid "Rok Woods"
+msgstr ""
+
+msgctxt "GibururuMt"
+msgid "Ruto Mountain"
+msgstr ""
+
+msgctxt "GigiLake"
+msgid "Boné Pond"
+msgstr ""
+
+msgctxt "GiminoPond"
+msgid "Lake Sumac"
+msgstr ""
+
+msgctxt "GimpoMt"
+msgid "Mount Floria"
+msgstr ""
+
+msgctxt "GisaHill"
+msgid "Nero Hill"
+msgstr ""
+
+msgctxt "GishiHill"
+msgid "Piper Ridge"
+msgstr ""
+
+msgctxt "GoanaValley"
+msgid "Gama Cove"
+msgstr ""
+
+msgctxt "GobyMt"
+msgid "Tuft Mountain"
+msgstr ""
+
+msgctxt "GoinaPlateau"
+msgid "Pierre Plateau"
+msgstr ""
+
+msgctxt "Goron"
+msgid "Goron City"
+msgstr ""
+
+msgctxt "GoronBridge"
+msgid "Stolock Bridge"
+msgstr ""
+
+msgctxt "GoronSpa"
+msgid "Goron Hot Springs"
+msgstr ""
+
+msgctxt "GoyoLake"
+msgid "Bloodleaf Lake"
+msgstr ""
+
+msgctxt "GumaroValley"
+msgid "Atun Valley"
+msgstr ""
+
+msgctxt "GutinizaPlain"
+msgid "Guchini Plain"
+msgstr ""
+
+msgctxt "GutinizaPlainTomb"
+msgid "Guchini Plain Barrows"
+msgstr ""
+
+msgctxt "GyunaIsland"
+msgid "Ankel Island"
+msgstr ""
+
+msgctxt "HachijoBridge"
+msgid "Owlan Bridge"
+msgstr ""
+
+msgctxt "HagoromoFalls"
+msgid "Lantern Falls"
+msgstr ""
+
+msgctxt "HagoromoLake"
+msgid "Lantern Lake"
+msgstr ""
+
+msgctxt "HamiyonPlain"
+msgid "Ovli Plain"
+msgstr ""
+
+msgctxt "HarayaLake"
+msgid "Haran Lake"
+msgstr ""
+
+msgctxt "HashibiroLake"
+msgid "Strock Lake"
+msgstr ""
+
+msgctxt "Hateno"
+msgid "Hateno Village"
+msgstr ""
+
+msgctxt "HatenoBay"
+msgid "Kitano Bay"
+msgstr ""
+
+msgctxt "HatenoBeach"
+msgid "Hateno Beach"
+msgstr ""
+
+msgctxt "HatenoGate"
+msgid "Fort Hateno"
+msgstr ""
+
+msgctxt "HatenoLabo"
+msgid "Hateno Ancient Tech Lab"
+msgstr ""
+
+msgctxt "HatenokoIsland"
+msgid "Tenoko Island"
+msgstr ""
+
+msgctxt "HawkMt"
+msgid "Cuho Mountain"
+msgstr ""
+
+msgctxt "HeburaEastSummit"
+msgid "Hebra East Summit"
+msgstr ""
+
+msgctxt "HeburaFossil"
+msgid "Hebra Great Skeleton"
+msgstr ""
+
+msgctxt "HeburaIcicle"
+msgid "Icefall Foothills"
+msgstr ""
+
+msgctxt "HeburaLodge"
+msgid "Hebra Trailhead Lodge"
+msgstr ""
+
+msgctxt "HeburaMt_North"
+msgid "Hebra North Crest"
+msgstr ""
+
+msgctxt "HeburaNorthSummit"
+msgid "Hebra North Summit"
+msgstr ""
+
+msgctxt "HeburaPeak"
+msgid "Hebra Peak"
+msgstr ""
+
+msgctxt "HeburaSouthSummit"
+msgid "Hebra South Summit"
+msgstr ""
+
+msgctxt "HeburaTundera"
+msgid "Hebra Tundra"
+msgstr ""
+
+msgctxt "HeburaWestSummit"
+msgid "Hebra West Summit"
+msgstr ""
+
+msgctxt "HemaHill"
+msgid "Hemaar's Descent"
+msgstr ""
+
+msgctxt "HesonaiValley"
+msgid "Yarna Valley"
+msgstr ""
+
+msgctxt "HigakkareBeach"
+msgid "East Akkala Beach"
+msgstr ""
+
+msgctxt "HigakkarePlain"
+msgid "East Akkala Plains"
+msgstr ""
+
+msgctxt "HigashinoBay"
+msgid "Deepback Bay"
+msgstr ""
+
+msgctxt "HimeidaMt"
+msgid "Meda Mountain"
+msgstr ""
+
+msgctxt "HopeBridge"
+msgid "Bank of Wishes"
+msgstr ""
+
+msgctxt "HopesPlateau"
+msgid "Great Plateau"
+msgstr ""
+
+msgctxt "HyliaMt"
+msgid "Mount Hylia"
+msgstr ""
+
+msgctxt "HyliaRiver"
+msgid "River of the Dead"
+msgstr ""
+
+msgctxt "HyralBridge"
+msgid "Bridge of Hylia"
+msgstr ""
+
+msgctxt "HyralIslands"
+msgid "Hylia Island"
+msgstr ""
+
+msgctxt "HyruleCastle"
+msgid "Hyrule Castle"
+msgstr ""
+
+msgctxt "HyruleCastle_Hall_0"
+msgid "Sanctum"
+msgstr ""
+
+msgctxt "HyruleCastle_Hall_1"
+msgid "Second Gatehouse"
+msgstr ""
+
+msgctxt "HyruleCastle_Hall_2"
+msgid "First Gatehouse"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_0"
+msgid "Observation Room"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_1"
+msgid "Dining Hall"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_10"
+msgid "East Passage"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_11"
+msgid "West Passage"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_2"
+msgid "Guards' Chamber"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_3"
+msgid "Library"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_5"
+msgid "Lockup"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_6"
+msgid "Princess Zelda's Room"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_7"
+msgid "Docks"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_8"
+msgid "Princess Zelda's Study"
+msgstr ""
+
+msgctxt "HyruleCastle_Room_9"
+msgid "King's Study"
+msgstr ""
+
+msgctxt "HyruleCentralPlace"
+msgid "Central Square"
+msgstr ""
+
+msgctxt "HyruleDepthHatago"
+msgid "Outskirt Stable"
+msgstr ""
+
+msgctxt "HyruleEastTown"
+msgid "East Castle Town"
+msgstr ""
+
+msgctxt "HyruleGarrison"
+msgid "Hyrule Garrison Ruins"
+msgstr ""
+
+msgctxt "HyruleGround"
+msgid "Hyrule Kingdom"
+msgstr ""
+
+msgctxt "HyruleLabo"
+msgid "Royal Ancient Lab Ruins"
+msgstr ""
+
+msgctxt "HyrulePark"
+msgid "Hyrule Forest Park"
+msgstr ""
+
+msgctxt "HyrulePlace"
+msgid "Military Training Camp"
+msgstr ""
+
+msgctxt "HyruleTemple"
+msgid "Hyrule Cathedral"
+msgstr ""
+
+msgctxt "HyruleTower"
+msgid "Castle Town Watchtower"
+msgstr ""
+
+msgctxt "HyruleWater"
+msgid "Water Reservoir"
+msgstr ""
+
+msgctxt "HyruleWestHatago"
+msgid "Serenne Stable"
+msgstr ""
+
+msgctxt "HyruleWestTown"
+msgid "West Castle Town"
+msgstr ""
+
+msgctxt "Hyrule_Out"
+msgid "Hyrule Castle Moat"
+msgstr ""
+
+msgctxt "IbaraPlateau"
+msgid "Ibara Butte"
+msgstr ""
+
+msgctxt "IceHouse"
+msgid "Northern Icehouse"
+msgstr ""
+
+msgctxt "IkokoPlateau"
+msgid "Talus Plateau"
+msgstr ""
+
+msgctxt "ImeruMt"
+msgid "Elma Knolls"
+msgstr ""
+
+msgctxt "IooValley"
+msgid "Trilby Valley"
+msgstr ""
+
+msgctxt "IrimoLake"
+msgid "Goronbi Lake"
+msgstr ""
+
+msgctxt "IrimoRiver"
+msgid "Goronbi River"
+msgstr ""
+
+msgctxt "IsakiCape"
+msgid "Soka Point"
+msgstr ""
+
+msgctxt "IsakuIslands"
+msgid "Millennio Sandbar"
+msgstr ""
+
+msgctxt "JedaPlateau"
+msgid "Koukot Plateau"
+msgstr ""
+
+msgctxt "JijigegeMt"
+msgid "Mount Rozudo"
+msgstr ""
+
+msgctxt "JiuRiver"
+msgid "Zora River"
+msgstr ""
+
+msgctxt "JogoBridge"
+msgid "Rebonae Bridge"
+msgstr ""
+
+msgctxt "JokuBridge"
+msgid "Proxim Bridge"
+msgstr ""
+
+msgctxt "KagossaMt"
+msgid "Zokassa Ridge"
+msgstr ""
+
+msgctxt "KaiyanPlain"
+msgid "Rabia Plain"
+msgstr ""
+
+msgctxt "KakamoLake"
+msgid "Telta Lake"
+msgstr ""
+
+msgctxt "KakaomePlain"
+msgid "Irch Plain"
+msgstr ""
+
+msgctxt "Kakariko"
+msgid "Kakariko Village"
+msgstr ""
+
+msgctxt "KakufusaPlain"
+msgid "Whistling Hill"
+msgstr ""
+
+msgctxt "KamasuPlateau"
+msgid "Kamah Plateau"
+msgstr ""
+
+msgctxt "KamutariPlateau"
+msgid "Phalian Highlands"
+msgstr ""
+
+msgctxt "KapporeMt"
+msgid "Mount Faloraa"
+msgstr ""
+
+msgctxt "KarimikiLake"
+msgid "Camphor Pond"
+msgstr ""
+
+msgctxt "KarusaValley"
+msgid "Karusa Valley"
+msgstr ""
+
+msgctxt "KasuraMt"
+msgid "Corvash Peak"
+msgstr ""
+
+msgctxt "KattoriPlateau"
+msgid "Farosh Hills"
+msgstr ""
+
+msgctxt "KaturaCastle"
+msgid "Sage Temple Ruins"
+msgstr ""
+
+msgctxt "KaturaRiver"
+msgid "Regencia River"
+msgstr ""
+
+msgctxt "KauLake"
+msgid "Hebra Plunge"
+msgstr ""
+
+msgctxt "KazanaDungeon"
+msgid "Tempest Gulch"
+msgstr ""
+
+msgctxt "KazuryuLake"
+msgid "Dracozu Lake"
+msgstr ""
+
+msgctxt "KazuryuRiver"
+msgid "Dracozu River"
+msgstr ""
+
+msgctxt "KazusuPass"
+msgid "Kaepora Pass"
+msgstr ""
+
+msgctxt "KibakkaSnow"
+msgid "Hebra Headspring"
+msgstr ""
+
+msgctxt "KibinaLake"
+msgid "Herin Lake"
+msgstr ""
+
+msgctxt "KihirePlain"
+msgid "Keelay Plain"
+msgstr ""
+
+msgctxt "KikinosaMt"
+msgid "Lindor's Brow"
+msgstr ""
+
+msgctxt "KikinosaPlain"
+msgid "Upland Lindor"
+msgstr ""
+
+msgctxt "KimarikaMt"
+msgid "Peak of Awakening"
+msgstr ""
+
+msgctxt "KimarikaPlateau"
+msgid "Nirvata Plateau"
+msgstr ""
+
+msgctxt "KingValley"
+msgid "Forgotten Temple"
+msgstr ""
+
+msgctxt "KingfisherSpa"
+msgid "Sherfin's Secret Hot Spring"
+msgstr ""
+
+msgctxt "KinmePlateau"
+msgid "Koholit Rock"
+msgstr ""
+
+msgctxt "KinshoiMt"
+msgid "Mount Daphnes"
+msgstr ""
+
+msgctxt "KirisasaPlateau"
+msgid "Lanayru Bluff"
+msgstr ""
+
+msgctxt "KiriyabuMt"
+msgid "Bonooru's Stand"
+msgstr ""
+
+msgctxt "KitakkareBeach"
+msgid "North Akkala Beach"
+msgstr ""
+
+msgctxt "KitakkarePlain"
+msgid "North Akkala Valley"
+msgstr ""
+
+msgctxt "KitakkarePlateau"
+msgid "North Akkala Foothill"
+msgstr ""
+
+msgctxt "KitanoBay"
+msgid "Hateno Bay"
+msgstr ""
+
+msgctxt "KiyanbaTrees"
+msgid "Minshi Woods"
+msgstr ""
+
+msgctxt "KochuBridge"
+msgid "Kakariko Bridge"
+msgstr ""
+
+msgctxt "KoganeyaLake"
+msgid "Keya Pond"
+msgstr ""
+
+msgctxt "KokuppiSnow"
+msgid "Kopeeki Drifts"
+msgstr ""
+
+msgctxt "KokuwaLake"
+msgid "Ash Swamp"
+msgstr ""
+
+msgctxt "KomoreBeach"
+msgid "Komo Shoreline"
+msgstr ""
+
+msgctxt "KondanaLake"
+msgid "Darb Pond"
+msgstr ""
+
+msgctxt "KoshaIsland"
+msgid "Davdi Island"
+msgstr ""
+
+msgctxt "KuhanLake"
+msgid "Hanu Pond"
+msgstr ""
+
+msgctxt "KukujaValley"
+msgid "Tanagar Canyon"
+msgstr ""
+
+msgctxt "KumPlateau"
+msgid "Sturnida Basin"
+msgstr ""
+
+msgctxt "KumSpa"
+msgid "Sturnida Secret Hot Spring"
+msgstr ""
+
+msgctxt "KunaiBridge"
+msgid "Aquame Bridge"
+msgstr ""
+
+msgctxt "KunaiLake"
+msgid "Aquame Lake"
+msgstr ""
+
+msgctxt "KurindaPrairie"
+msgid "Darybon Plains"
+msgstr ""
+
+msgctxt "KurisobeSnow"
+msgid "Risoka Snowfield"
+msgstr ""
+
+msgctxt "KuroidaPlateau"
+msgid "Breman Peak"
+msgstr ""
+
+msgctxt "KutenLake"
+msgid "Uten Marsh"
+msgstr ""
+
+msgctxt "KutiffMt"
+msgid "Mount Rhoam"
+msgstr ""
+
+msgctxt "LakeFloria"
+msgid "Lake Floria"
+msgstr ""
+
+msgctxt "LakeHylia"
+msgid "Lake Hylia"
+msgstr ""
+
+msgctxt "LanayruBay"
+msgid "Lanayru Bay"
+msgstr ""
+
+msgctxt "LanayruEastEntrance"
+msgid "Lanayru Road - East Gate"
+msgstr ""
+
+msgctxt "LanayruWestEntrance"
+msgid "Lanayru Road - West Gate"
+msgstr ""
+
+msgctxt "LaveBeach"
+msgid "Laverra Beach"
+msgstr ""
+
+msgctxt "LeMarbeBridge"
+msgid "Jeddo Bridge"
+msgstr ""
+
+msgctxt "LightningPlateau"
+msgid "Thundra Plateau"
+msgstr ""
+
+msgctxt "LittleBrotherBridge"
+msgid "Little Twin Bridge"
+msgstr ""
+
+msgctxt "LocationDungeon"
+msgid "Ancient Shrine"
+msgstr ""
+
+msgctxt "LomeiIslands"
+msgid "Lomei Labyrinth Island"
+msgstr ""
+
+msgctxt "LostForest"
+msgid "Lost Woods"
+msgstr ""
+
+msgctxt "MacusePeninsula"
+msgid "Rist Peninsula"
+msgstr ""
+
+msgctxt "MakuminoValley"
+msgid "Harfin Valley"
+msgstr ""
+
+msgctxt "ManbaLake"
+msgid "Goro Cove"
+msgstr ""
+
+msgctxt "MapArea_CentralHyrule"
+msgid "Hyrule Field"
+msgstr ""
+
+msgctxt "MapArea_DeathMountain"
+msgid "Death Mountain"
+msgstr ""
+
+msgctxt "MapArea_EastHateru"
+msgid "East Necluda"
+msgstr ""
+
+msgctxt "MapArea_EldinCanyon"
+msgid "Eldin Canyon"
+msgstr ""
+
+msgctxt "MapArea_EldinMountains"
+msgid "Eldin Mountains"
+msgstr ""
+
+msgctxt "MapArea_FironeGrassland"
+msgid "Faron Grasslands"
+msgstr ""
+
+msgctxt "MapArea_FironeSea"
+msgid "Faron Sea"
+msgstr ""
+
+msgctxt "MapArea_GerudoDesert"
+msgid "Gerudo Desert"
+msgstr ""
+
+msgctxt "MapArea_GerudoHighlands"
+msgid "Gerudo Highlands"
+msgstr ""
+
+msgctxt "MapArea_HateruSea"
+msgid "Necluda Sea"
+msgstr ""
+
+msgctxt "MapArea_HeburaMountains"
+msgid "Hebra Mountains"
+msgstr ""
+
+msgctxt "MapArea_HyliaLake"
+msgid "Lake Hylia"
+msgstr ""
+
+msgctxt "MapArea_HyruleForest"
+msgid "Great Hyrule Forest"
+msgstr ""
+
+msgctxt "MapArea_HyruleHill"
+msgid "Hyrule Ridge"
+msgstr ""
+
+msgctxt "MapArea_LanayruSea"
+msgid "Lanayru Sea"
+msgstr ""
+
+msgctxt "MapArea_LanayruWaterSources"
+msgid "Lanayru Great Spring"
+msgstr ""
+
+msgctxt "MapArea_LanayruWetlands"
+msgid "Lanayru Wetlands"
+msgstr ""
+
+msgctxt "MapArea_LiveMountain"
+msgid "Mount Lanayru"
+msgstr ""
+
+msgctxt "MapArea_TabantaFrontier"
+msgid "Tabantha Frontier"
+msgstr ""
+
+msgctxt "MapArea_TamulOutback"
+msgid "Deep Akkala"
+msgstr ""
+
+msgctxt "MapArea_TamulPlateau"
+msgid "Akkala Highlands"
+msgstr ""
+
+msgctxt "MapArea_TamulSea"
+msgid "Akkala Sea"
+msgstr ""
+
+msgctxt "MapArea_WestHateru"
+msgid "West Necluda"
+msgstr ""
+
+msgctxt "MapRegion_Eldin"
+msgid "Eldin"
+msgstr ""
+
+msgctxt "MapRegion_Firone"
+msgid "Faron"
+msgstr ""
+
+msgctxt "MapRegion_Gerudo"
+msgid "Gerudo"
+msgstr ""
+
+msgctxt "MapRegion_Hateru"
+msgid "Necluda"
+msgstr ""
+
+msgctxt "MapRegion_Hebura"
+msgid "Hebra"
+msgstr ""
+
+msgctxt "MapRegion_HyrulePrairie "
+msgid "Central Hyrule"
+msgstr ""
+
+msgctxt "MapRegion_Lanayru"
+msgid "Lanayru"
+msgstr ""
+
+msgctxt "MapRegion_Tamul"
+msgid "Akkala"
+msgstr ""
+
+msgctxt "MarittaHill"
+msgid "Salari Hill"
+msgstr ""
+
+msgctxt "MarittaPrairie"
+msgid "Salari Plain"
+msgstr ""
+
+msgctxt "MaronSpring"
+msgid "Malanya Spring"
+msgstr ""
+
+msgctxt "MarritaExchange"
+msgid "Maritta Exchange Ruins"
+msgstr ""
+
+msgctxt "MasazuBridge"
+msgid "Moat Bridge"
+msgstr ""
+
+msgctxt "MasazuRock"
+msgid "Quarry Ruins"
+msgstr ""
+
+msgctxt "MedakaValley"
+msgid "Ulria Grotto"
+msgstr ""
+
+msgctxt "MeganeRock"
+msgid "Spectacle Rock"
+msgstr ""
+
+msgctxt "MemeMt"
+msgid "Ploymus Mountain"
+msgstr ""
+
+msgctxt "MenadaBeach"
+msgid "Afromsia Coast"
+msgstr ""
+
+msgctxt "MerkayaLowTrees"
+msgid "Taobab Grassland"
+msgstr ""
+
+msgctxt "MezusuPass"
+msgid "Rospro Pass"
+msgstr ""
+
+msgctxt "MiddleTrees"
+msgid "Midla Woods"
+msgstr ""
+
+msgctxt "MihekoBay"
+msgid "Malin Bay"
+msgstr ""
+
+msgctxt "MinakkareBridge"
+msgid "Sokkala Bridge"
+msgstr ""
+
+msgctxt "MinakkareBridgeEast"
+msgid "East Sokkala Bridge"
+msgstr ""
+
+msgctxt "MinakkareBridgeWest"
+msgid "West Sokkala Bridge"
+msgstr ""
+
+msgctxt "MinakkareFalls"
+msgid "Akkala Falls"
+msgstr ""
+
+msgctxt "MinakkareLake"
+msgid "South Lake Akkala "
+msgstr ""
+
+msgctxt "MinakkarePlain"
+msgid "South Akkala Plains"
+msgstr ""
+
+msgctxt "MinaminoBay"
+msgid "Loshlo Harbor"
+msgstr ""
+
+msgctxt "Mine"
+msgid "Abandoned North Mine"
+msgstr ""
+
+msgctxt "MizemakuMt"
+msgid "Walnot Mountain"
+msgstr ""
+
+msgctxt "MomoMt"
+msgid "Scout's Hill"
+msgstr ""
+
+msgctxt "MoriMt"
+msgid "Ulri Mountain"
+msgstr ""
+
+msgctxt "MoroLake"
+msgid "Mikau Lake"
+msgstr ""
+
+msgctxt "MorudaMt"
+msgid "Daval Peak"
+msgstr ""
+
+msgctxt "MorugaMt"
+msgid "Mount Granajh"
+msgstr ""
+
+msgctxt "MuguriPlain"
+msgid "Blatchery Plain"
+msgstr ""
+
+msgctxt "NaganizaHill"
+msgid "Temto Hill"
+msgstr ""
+
+msgctxt "NagyuPlateau"
+msgid "Tal Tal Peak"
+msgstr ""
+
+msgctxt "NaierunPeninsula"
+msgid "Lodrum Headland"
+msgstr ""
+
+msgctxt "NanaimoPlain"
+msgid "Rowan Plain"
+msgstr ""
+
+msgctxt "NangoPond"
+msgid "Zelo Pond"
+msgstr ""
+
+msgctxt "NantanCastle"
+msgid "South Lomei Labyrinth"
+msgstr ""
+
+msgctxt "NaruguPeninsula"
+msgid "Mapla Point"
+msgstr ""
+
+msgctxt "NefraHill"
+msgid "Nephra Hill"
+msgstr ""
+
+msgctxt "NezuppoTrees"
+msgid "Pappetto Grove"
+msgstr ""
+
+msgctxt "NiiLake"
+msgid "Cora Lake"
+msgstr ""
+
+msgctxt "NikakaIsland"
+msgid "Isle of Rabac"
+msgstr ""
+
+msgctxt "NishakkarePlain"
+msgid "Kanalet Ridge"
+msgstr ""
+
+msgctxt "NishojiBridge"
+msgid "Gleeok Bridge"
+msgstr ""
+
+msgctxt "NitariBeach"
+msgid "Korne Beach"
+msgstr ""
+
+msgctxt "NomyPlain"
+msgid "Ludfo's Bog"
+msgstr ""
+
+msgctxt "NorthHatelHatago"
+msgid "Wetland Stable"
+msgstr ""
+
+msgctxt "NorthHugeStone"
+msgid "Great Cliffs"
+msgstr ""
+
+msgctxt "NutsLake"
+msgid "Lake Saria"
+msgstr ""
+
+msgctxt "Oasis"
+msgid "Kara Kara Bazaar"
+msgstr ""
+
+msgctxt "OkuAkkarePlain"
+msgid "Akkala Wilds"
+msgstr ""
+
+msgctxt "OkuwaLake"
+msgid "Lake Siela"
+msgstr ""
+
+msgctxt "OngiForest"
+msgid "Applean Forest"
+msgstr ""
+
+msgctxt "OoosePlain"
+msgid "Oseira Plains"
+msgstr ""
+
+msgctxt "OrdinBridge"
+msgid "Bridge of Eldin"
+msgstr ""
+
+msgctxt "OrdinFossil"
+msgid "Eldin Great Skeleton"
+msgstr ""
+
+msgctxt "OrupaPlateau"
+msgid "Laparoh Mesa"
+msgstr ""
+
+msgctxt "OsanjoBridge"
+msgid "Helmhead Bridge"
+msgstr ""
+
+msgctxt "OshoromaLake"
+msgid "Ruto Lake"
+msgstr ""
+
+msgctxt "OtsukoWet"
+msgid "Torin Wetland"
+msgstr ""
+
+msgctxt "PafaBeach"
+msgid "Puffer Beach"
+msgstr ""
+
+msgctxt "PaiyuBay"
+msgid "Horon Lagoon"
+msgstr ""
+
+msgctxt "PakanchiIsland"
+msgid "Knuckel Island"
+msgstr ""
+
+msgctxt "PaparaPlateau"
+msgid "Stalry Plateau"
+msgstr ""
+
+msgctxt "PearlWaste"
+msgid "Palu Wasteland"
+msgstr ""
+
+msgctxt "PeridoBarrier"
+msgid "Champion's Gate"
+msgstr ""
+
+msgctxt "PongagaMt"
+msgid "Ebon Mountain"
+msgstr ""
+
+msgctxt "PoponMt"
+msgid "Satori Mountain"
+msgstr ""
+
+msgctxt "PostTownRuin"
+msgid "Outpost Ruins"
+msgstr ""
+
+msgctxt "PowerFountain"
+msgid "Spring of Power"
+msgstr ""
+
+msgctxt "PstaLake"
+msgid "Mido Swamp"
+msgstr ""
+
+msgctxt "PukiroroMt"
+msgid "Zodobon Highlands"
+msgstr ""
+
+msgctxt "PukuntoMt"
+msgid "Bottomless Swamp"
+msgstr ""
+
+msgctxt "PupukoreFalls"
+msgid "Veiled Falls"
+msgstr ""
+
+msgctxt "Quilton"
+msgid "Fang and Bone"
+msgstr ""
+
+msgctxt "RaberaWet"
+msgid "Rabella Wetlands"
+msgstr ""
+
+msgctxt "RapikuruPlateau"
+msgid "Ja'Abu Ridge"
+msgstr ""
+
+msgctxt "RapinyaPlateau"
+msgid "Ruto Precipice"
+msgstr ""
+
+msgctxt "RaruLake"
+msgid "Calora Lake"
+msgstr ""
+
+msgctxt "RashamaPlain"
+msgid "North Hyrule Plain"
+msgstr ""
+
+msgctxt "RazezePlateau"
+msgid "Lanayru Heights"
+msgstr ""
+
+msgctxt "RemainsElectric"
+msgid "Divine Beast Vah Naboris"
+msgstr ""
+
+msgctxt "RemainsFire"
+msgid "Divine Beast Vah Rudania"
+msgstr ""
+
+msgctxt "RemainsWater"
+msgid "Divine Beast Vah Ruta"
+msgstr ""
+
+msgctxt "RemainsWind"
+msgid "Divine Beast Vah Medoh"
+msgstr ""
+
+msgctxt "RiaroTrees"
+msgid "Hickaly Woods"
+msgstr ""
+
+msgctxt "RiberaForest"
+msgid "Ebara Forest"
+msgstr ""
+
+msgctxt "RibuchaPlateau"
+msgid "Aldor Foothills"
+msgstr ""
+
+msgctxt "Rikona_Peninshra"
+msgid "Rikoka Hills"
+msgstr ""
+
+msgctxt "RinosPass"
+msgid "Dronoc's Pass"
+msgstr ""
+
+msgctxt "RirikendoBridge"
+msgid "Oren Bridge"
+msgstr ""
+
+msgctxt "RirimukuHighlands"
+msgid "Drenan Highlands"
+msgstr ""
+
+msgctxt "RirimukuMt"
+msgid "Mount Drena"
+msgstr ""
+
+msgctxt "RiritotoLake"
+msgid "Lake Totori"
+msgstr ""
+
+msgctxt "RishakutoPlateau"
+msgid "Pillars of Levia"
+msgstr ""
+
+msgctxt "Rito"
+msgid "Rito Village"
+msgstr ""
+
+msgctxt "RitoHatago"
+msgid "Rito Stable"
+msgstr ""
+
+msgctxt "RiverSideHatago"
+msgid "Riverside Stable"
+msgstr ""
+
+msgctxt "RodaiLake"
+msgid "Rodai Lake"
+msgstr ""
+
+msgctxt "RogyLake"
+msgid "Lake Jarrah"
+msgstr ""
+
+msgctxt "RokomakuMt"
+msgid "Madorna Mountain"
+msgstr ""
+
+msgctxt "RonronCity"
+msgid "Mabe Village Ruins"
+msgstr ""
+
+msgctxt "RonronFarm"
+msgid "Ranch Ruins"
+msgstr ""
+
+msgctxt "RonronRiver"
+msgid "Hylia River"
+msgstr ""
+
+msgctxt "RoshiganLake"
+msgid "South Nabi Lake"
+msgstr ""
+
+msgctxt "RosomaLake"
+msgid "Toto Lake"
+msgstr ""
+
+msgctxt "RuberaHill"
+msgid "Cliffs of Ruvara"
+msgstr ""
+
+msgctxt "RutesLake"
+msgid "Corta Lake"
+msgstr ""
+
+msgctxt "RutimaHill"
+msgid "Rutimala Hill"
+msgstr ""
+
+msgctxt "RutsuPlain"
+msgid "Rayne Highlands"
+msgstr ""
+
+msgctxt "SaiMt"
+msgid "Mount Gustaf"
+msgstr ""
+
+msgctxt "SaihokuCastle"
+msgid "North Lomei Labyrinth"
+msgstr ""
+
+msgctxt "SanaePlateau"
+msgid "Hills of Baumer"
+msgstr ""
+
+msgctxt "SanrosaLake"
+msgid "Pico Pond"
+msgstr ""
+
+msgctxt "SaohPoint"
+msgid "Ternio Trail"
+msgstr ""
+
+msgctxt "SaphiasPlateau"
+msgid "Sapphia's Table"
+msgstr ""
+
+msgctxt "SarjonBridge"
+msgid "Sarjon Bridge"
+msgstr ""
+
+msgctxt "SarjonForest"
+msgid "Sarjon Woods"
+msgstr ""
+
+msgctxt "SasamuroBeach"
+msgid "Clarnet Coast"
+msgstr ""
+
+msgctxt "ShariverMt"
+msgid "Talonto Peak"
+msgstr ""
+
+msgctxt "ShichijoBridge"
+msgid "Horwell Bridge"
+msgstr ""
+
+msgctxt "ShigonDam"
+msgid "Lanayru Promenade"
+msgstr ""
+
+msgctxt "ShijoBridge"
+msgid "Orsedd Bridge"
+msgstr ""
+
+msgctxt "ShikuriIslands"
+msgid "Wintre Island"
+msgstr ""
+
+msgctxt "ShimukaPlateau"
+msgid "Robred Dropoff"
+msgstr ""
+
+msgctxt "ShinikkyoForest"
+msgid "Giant's Forest"
+msgstr ""
+
+msgctxt "ShinyarkiPlateau"
+msgid "Rauru Hillside"
+msgstr ""
+
+msgctxt "ShinyarkiVillage"
+msgid "Rauru Settlement Ruins"
+msgstr ""
+
+msgctxt "ShitanoPond"
+msgid "Firly Pond"
+msgstr ""
+
+msgctxt "SnowStatue"
+msgid "Statue of the Eighth Heroine"
+msgstr ""
+
+msgctxt "SojijiHill"
+msgid "Safula Hill"
+msgstr ""
+
+msgctxt "SojijiPark"
+msgid "Sanidin Park Ruins"
+msgstr ""
+
+msgctxt "SonoPrairie"
+msgid "Trilby Plain"
+msgstr ""
+
+msgctxt "SoridaPeninsula"
+msgid "Tingel Island"
+msgstr ""
+
+msgctxt "SotonkaBridge"
+msgid "Manhala Bridge"
+msgstr ""
+
+msgctxt "SouthGerudoLegacy"
+msgid "Arbiter's Grounds"
+msgstr ""
+
+msgctxt "SouthGerudoRuins"
+msgid "Southern Oasis"
+msgstr ""
+
+msgctxt "SouthMine"
+msgid "Southern Mine"
+msgstr ""
+
+msgctxt "StartPoint"
+msgid "Shrine of Resurrection"
+msgstr ""
+
+msgctxt "StonePillers"
+msgid "Ancient Columns"
+msgstr ""
+
+msgctxt "SugrantForest"
+msgid "Pagos Woods"
+msgstr ""
+
+msgctxt "SusonoLake"
+msgid "Rutile Lake"
+msgstr ""
+
+msgctxt "SusonoPlain"
+msgid "Illumeni Plateau"
+msgstr ""
+
+msgctxt "SusonoPond"
+msgid "Lake Illumeni"
+msgstr ""
+
+msgctxt "SusonoRiver"
+msgid "Tamio River"
+msgstr ""
+
+msgctxt "SusukadiBridge"
+msgid "Inogo Bridge"
+msgstr ""
+
+msgctxt "SwanLake"
+msgid "Hebra Falls"
+msgstr ""
+
+msgctxt "TabantaBridge"
+msgid "Tabantha Great Bridge"
+msgstr ""
+
+msgctxt "TabantaBridgeHatago"
+msgid "Tabantha Bridge Stable"
+msgstr ""
+
+msgctxt "TabantaCrater"
+msgid "Gisa Crater"
+msgstr ""
+
+msgctxt "TabantaHatago"
+msgid "Snowfield Stable"
+msgstr ""
+
+msgctxt "TabantaHill"
+msgid "Tabantha Hills"
+msgstr ""
+
+msgctxt "TabantaSnow"
+msgid "Tabantha Tundra"
+msgstr ""
+
+msgctxt "TabantaSnow_North"
+msgid "N. Tabantha Snowfield"
+msgstr ""
+
+msgctxt "TabantaSnow_South"
+msgid "S. Tabantha Snowfield"
+msgstr ""
+
+msgctxt "TabantaVillage"
+msgid "Tabantha Village Ruins"
+msgstr ""
+
+msgctxt "TafeaHill"
+msgid "Taafei Hill"
+msgstr ""
+
+msgctxt "TagonaTrees"
+msgid "Tabahl Woods"
+msgstr ""
+
+msgctxt "TakkikaPlain"
+msgid "Nima Plain"
+msgstr ""
+
+msgctxt "TamaLake"
+msgid "Tama Pond"
+msgstr ""
+
+msgctxt "TamourHatago"
+msgid "East Akkala Stable"
+msgstr ""
+
+msgctxt "TamulPlain"
+msgid "Ordorac Quarry"
+msgstr ""
+
+msgctxt "TamurulHatago_02"
+msgid "South Akkala Stable"
+msgstr ""
+
+msgctxt "TargarPlain"
+msgid "Brynna Plain"
+msgstr ""
+
+msgctxt "TaruhoPlateau"
+msgid "Firly Plateau"
+msgstr ""
+
+msgctxt "TaserakaBridge"
+msgid "Thims Bridge"
+msgstr ""
+
+msgctxt "TatsubaLake"
+msgid "Batrea Lake"
+msgstr ""
+
+msgctxt "Taura"
+msgid "Lurelin Village"
+msgstr ""
+
+msgctxt "TeguriPlain"
+msgid "Grinnden Plains"
+msgstr ""
+
+msgctxt "TehotaWet"
+msgid "Nautelle Wetlands"
+msgstr ""
+
+msgctxt "TennoMt"
+msgid "Washa's Bluff"
+msgstr ""
+
+msgctxt "TeraPlain"
+msgid "Mabe Prairie"
+msgstr ""
+
+msgctxt "TerumeMt"
+msgid "Mount Taran"
+msgstr ""
+
+msgctxt "TerumePass"
+msgid "Taran Pass"
+msgstr ""
+
+msgctxt "TimesShrine"
+msgid "Temple of Time"
+msgstr ""
+
+msgctxt "TohikiLake"
+msgid "Koto Pond"
+msgstr ""
+
+msgctxt "TomiyoPlateau"
+msgid "Trotter's Downfall"
+msgstr ""
+
+msgctxt "TompoPlain"
+msgid "Romani Plains"
+msgstr ""
+
+msgctxt "ToriaBridge"
+msgid "Boneyard Bridge"
+msgstr ""
+
+msgctxt "TorumaDesert"
+msgid "Toruma Dunes"
+msgstr ""
+
+msgctxt "TotenLake"
+msgid "Oakle's Navel"
+msgstr ""
+
+msgctxt "TotsugeBridge"
+msgid "Carok Bridge"
+msgstr ""
+
+msgctxt "Tower01"
+msgid "Hebra Tower"
+msgstr ""
+
+msgctxt "Tower02"
+msgid "Tabantha Tower"
+msgstr ""
+
+msgctxt "Tower03"
+msgid "Gerudo Tower"
+msgstr ""
+
+msgctxt "Tower04"
+msgid "Wasteland Tower"
+msgstr ""
+
+msgctxt "Tower05"
+msgid "Woodland Tower"
+msgstr ""
+
+msgctxt "Tower06"
+msgid "Central Tower"
+msgstr ""
+
+msgctxt "Tower07"
+msgid "Great Plateau Tower"
+msgstr ""
+
+msgctxt "Tower08"
+msgid "Dueling Peaks Tower"
+msgstr ""
+
+msgctxt "Tower09"
+msgid "Lake Tower"
+msgstr ""
+
+msgctxt "Tower10"
+msgid "Eldin Tower"
+msgstr ""
+
+msgctxt "Tower11"
+msgid "Akkala Tower"
+msgstr ""
+
+msgctxt "Tower12"
+msgid "Lanayru Tower"
+msgstr ""
+
+msgctxt "Tower13"
+msgid "Hateno Tower"
+msgstr ""
+
+msgctxt "Tower14"
+msgid "Faron Tower"
+msgstr ""
+
+msgctxt "Tower15"
+msgid "Ridgeland Tower"
+msgstr ""
+
+msgctxt "TrakaIsland"
+msgid "Linebeck Island"
+msgstr ""
+
+msgctxt "TrakaIsland_Big"
+msgid "Mercay Island"
+msgstr ""
+
+msgctxt "TrakaIsland_Center"
+msgid "Goponga Island"
+msgstr ""
+
+msgctxt "TrakaIsland_East"
+msgid "Kincean Island"
+msgstr ""
+
+msgctxt "TrakaIsland_New"
+msgid "Molida Island"
+msgstr ""
+
+msgctxt "TrakaIsland_North"
+msgid "Shrine Island"
+msgstr ""
+
+msgctxt "TrakaIsland_Small"
+msgid "Bannan Island"
+msgstr ""
+
+msgctxt "TrakaIsland_South"
+msgid "Zauz Island"
+msgstr ""
+
+msgctxt "TrakaIsland_West"
+msgid "Wes Island"
+msgstr ""
+
+msgctxt "TryCape"
+msgid "Shatterback Point"
+msgstr ""
+
+msgctxt "TsukaiePlateau"
+msgid "Stinger Cliffs"
+msgstr ""
+
+msgctxt "TuaboSnow"
+msgid "Vatorsa Snowfield"
+msgstr ""
+
+msgctxt "TunbriPlain"
+msgid "Courage Steppe"
+msgstr ""
+
+msgctxt "TurasuBridge"
+msgid "Horse God Bridge"
+msgstr ""
+
+msgctxt "TurasuLake"
+msgid "Lake of the Horse God"
+msgstr ""
+
+msgctxt "TutukikiSnow"
+msgid "Pikida Stonegrove"
+msgstr ""
+
+msgctxt "TwinsMountain"
+msgid "Dueling Peaks"
+msgstr ""
+
+msgctxt "UMiiVillage"
+msgid "Tarrey Town"
+msgstr ""
+
+msgctxt "UbotsuPlateau"
+msgid "Ubota Point"
+msgstr ""
+
+msgctxt "UchoPlateau"
+msgid "Mable Ridge"
+msgstr ""
+
+msgctxt "UkkoPond"
+msgid "Lake Kilsie"
+msgstr ""
+
+msgctxt "Unknown"
+msgid "N/A"
+msgstr ""
+
+msgctxt "UraitoLake"
+msgid "Riola Spring"
+msgstr ""
+
+msgctxt "UrokoCape"
+msgid "Cape Cales"
+msgstr ""
+
+msgctxt "VPlateau"
+msgid "Zirco Mesa"
+msgstr ""
+
+msgctxt "ValleyVillage"
+msgid "Flight Range"
+msgstr ""
+
+msgctxt "WabiLake"
+msgid "Lake Akkala"
+msgstr ""
+
+msgctxt "WatakaPlateau"
+msgid "Quatta's Shelf"
+msgstr ""
+
+msgctxt "WeaponCureSpring"
+msgid "Great Fairy Fountain"
+msgstr ""
+
+msgctxt "WestEunpoHighlands"
+msgid "West Deplian Badlands"
+msgstr ""
+
+msgctxt "WestGerudo"
+msgid "West Barrens"
+msgstr ""
+
+msgctxt "WestGerudoRuins"
+msgid "West Gerudo Ruins"
+msgstr ""
+
+msgctxt "WetGarrison"
+msgid "Moor Garrison Ruins"
+msgstr ""
+
+msgctxt "WhiteZora"
+msgid "Zora's Domain"
+msgstr ""
+
+msgctxt "WiseFountain"
+msgid "Spring of Wisdom"
+msgstr ""
+
+msgctxt "XehaPlateau"
+msgid "Upland Zorana"
+msgstr ""
+
+msgctxt "XekuBridge"
+msgid "Digdogg Suspension Bridge"
+msgstr ""
+
+msgctxt "YamabiLake"
+msgid "Yambi Lake"
+msgstr ""
+
+msgctxt "YamariRiver"
+msgid "Squabble River"
+msgstr ""
+
+msgctxt "YarimoRiver"
+msgid "Golow River"
+msgstr ""
+
+msgctxt "YashinoBeach"
+msgid "Palmorae Beach"
+msgstr ""
+
+msgctxt "YashinoLegacy"
+msgid "Palmorae Ruins"
+msgstr ""
+
+msgctxt "YuaSnow"
+msgid "Naydra Snowfield"
+msgstr ""
+
+msgctxt "ZamaPlain"
+msgid "Seres Scablands"
+msgstr ""
+
+msgctxt "ZaridoLake"
+msgid "Lake Darman"
+msgstr ""
+
+msgctxt "ZaridoPlateau"
+msgid "Eldin's Flank"
+msgstr ""
+
+msgctxt "ZifForest"
+msgid "Forest of Time"
+msgstr ""
+
+msgctxt "ZitoGreens"
+msgid "Passeri Greenbelt"
+msgstr ""
+
+msgctxt "ZonauLegacy"
+msgid "Zonai Ruins"
+msgstr ""
+
+msgctxt "ZoraBridge"
+msgid "Great Zora Bridge"
+msgstr ""
+

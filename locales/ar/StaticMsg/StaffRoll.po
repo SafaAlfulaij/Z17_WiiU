@@ -1,0 +1,4868 @@
+msgctxt "0000"
+msgid "DIRECTOR"
+msgstr ""
+
+msgctxt "0"
+msgid "Hidemaro Fujibayashi"
+msgstr ""
+
+msgctxt "0000_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0001"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "4096"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0001_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0002"
+msgid "ASSISTANT DIRECTOR"
+msgstr ""
+
+msgctxt "8192"
+msgid "Daiki Iwamoto"
+msgstr ""
+
+msgctxt "0002_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0003"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "12288"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0003_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0004"
+msgid "GAME DESIGN"
+msgstr ""
+
+msgctxt "16384"
+msgid "Kentaro Tominaga"
+msgstr ""
+
+msgctxt "16385"
+msgid "Hiroaki Tamura"
+msgstr ""
+
+msgctxt "16386"
+msgid "Yohei Fujino"
+msgstr ""
+
+msgctxt "16387"
+msgid "Hiroshi Sakasai"
+msgstr ""
+
+msgctxt "16388"
+msgid "Yasutaka Takeuchi"
+msgstr ""
+
+msgctxt "16389"
+msgid "Eiji Mukao"
+msgstr ""
+
+msgctxt "16390"
+msgid "Yuya Sato"
+msgstr ""
+
+msgctxt "16391"
+msgid "Yutaka Hiramuki"
+msgstr ""
+
+msgctxt "0004_0008"
+msgid "Takayuki Ikkaku"
+msgstr ""
+
+msgctxt "0004_0009"
+msgid "Shinichi Ikematu"
+msgstr ""
+
+msgctxt "16392"
+msgid "Mari Shirakawa"
+msgstr ""
+
+msgctxt "16393"
+msgid "Yoichi Yamada"
+msgstr ""
+
+msgctxt "16394"
+msgid "Kanae Nakayama"
+msgstr ""
+
+msgctxt "16395"
+msgid "Hiroshi Ando"
+msgstr ""
+
+msgctxt "16396"
+msgid "Naoto Murakami"
+msgstr ""
+
+msgctxt "16397"
+msgid "Tomonori Kawazoe"
+msgstr ""
+
+msgctxt "16398"
+msgid "Kohei Kawazoe"
+msgstr ""
+
+msgctxt "16399"
+msgid "Yuichiro Tsumita"
+msgstr ""
+
+msgctxt "0004_0018"
+msgid "Emi Takano"
+msgstr ""
+
+msgctxt "0004_0019"
+msgid "Makoto Shimamoto"
+msgstr ""
+
+msgctxt "16400"
+msgid "Erina Shimamoto"
+msgstr ""
+
+msgctxt "16401"
+msgid "Takahito Sekimoto"
+msgstr ""
+
+msgctxt "16402"
+msgid "Yuya Imagawa"
+msgstr ""
+
+msgctxt "16403"
+msgid "Hiroshi Konishi"
+msgstr ""
+
+msgctxt "0004_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0005"
+msgid "SCRIPT SUPERVISOR"
+msgstr ""
+
+msgctxt "20480"
+msgid "Akihito Toda"
+msgstr ""
+
+msgctxt "0005_SPACE_02"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0006"
+msgid "TECHNICAL DIRECTOR"
+msgstr ""
+
+msgctxt "24576"
+msgid "Takuhiro Dohta"
+msgstr ""
+
+msgctxt "0006_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0007"
+msgid "SYSTEM ARCHITECT"
+msgstr ""
+
+msgctxt "28672"
+msgid "Yuichiro Okamura"
+msgstr ""
+
+msgctxt "0007_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0008"
+msgid "PROGRAMMING LEAD"
+msgstr ""
+
+msgctxt "0008_1000"
+msgid "Kenji Matsutani"
+msgstr ""
+
+msgctxt "0009"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0009_1000"
+msgid "Hiroshi Umemiya"
+msgstr ""
+
+msgctxt "0009_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0010"
+msgid "PLAYER PROGRAMMING"
+msgstr ""
+
+msgctxt "32768"
+msgid "Junya Okamoto"
+msgstr ""
+
+msgctxt "0010_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0011"
+msgid "CAMERA PROGRAMMING"
+msgstr ""
+
+msgctxt "36864"
+msgid "Minoru Hamaura"
+msgstr ""
+
+msgctxt "0011_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0012"
+msgid "ENEMY PROGRAMMING"
+msgstr ""
+
+msgctxt "40960"
+msgid "Yosuke Sakooka"
+msgstr ""
+
+msgctxt "40961"
+msgid "Takuma Deguchi"
+msgstr ""
+
+msgctxt "40962"
+msgid "Chihiro Okada"
+msgstr ""
+
+msgctxt "40963"
+msgid "Mahito Idehara"
+msgstr ""
+
+msgctxt "40964"
+msgid "Kazuki Misu"
+msgstr ""
+
+msgctxt "40965"
+msgid "Hiroki Omosako"
+msgstr ""
+
+msgctxt "0012_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0013"
+msgid "OBJECT PROGRAMMING"
+msgstr ""
+
+msgctxt "45056"
+msgid "Hiroyuki Kira"
+msgstr ""
+
+msgctxt "0013_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0014"
+msgid "WILDLIFE PROGRAMMING"
+msgstr ""
+
+msgctxt "49664"
+msgid "Shogo Kihara"
+msgstr ""
+
+msgctxt "0015"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "53760"
+msgid "Corey Bunnell"
+msgstr ""
+
+msgctxt "0015_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0016"
+msgid "NPC PROGRAMMING"
+msgstr ""
+
+msgctxt "57856"
+msgid "Hiroto Kurano"
+msgstr ""
+
+msgctxt "0017"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "61952"
+msgid "Nobuhiro Matsumura"
+msgstr ""
+
+msgctxt "0017_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0018"
+msgid "EVENT PROGRAMMING"
+msgstr ""
+
+msgctxt "0018_1000"
+msgid "Nobuhiro Sumiyoshi"
+msgstr ""
+
+msgctxt "0019"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0019_1000"
+msgid "Tadashi Sakamoto"
+msgstr ""
+
+msgctxt "0020"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "66048"
+msgid "Hiroki Taguchi"
+msgstr ""
+
+msgctxt "0020_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0021"
+msgid "UI PROGRAMMING"
+msgstr ""
+
+msgctxt "69632"
+msgid "Shigetoshi Kitayama"
+msgstr ""
+
+msgctxt "69633"
+msgid "Shinji Okuda"
+msgstr ""
+
+msgctxt "69634"
+msgid "Yuki Tanaka"
+msgstr ""
+
+msgctxt "69635"
+msgid "Saki Nakashima"
+msgstr ""
+
+msgctxt "69636"
+msgid "Hiroyuki Kato"
+msgstr ""
+
+msgctxt "69637"
+msgid "Tatsuya Shinada"
+msgstr ""
+
+msgctxt "69638"
+msgid "Naonari Fukumoto"
+msgstr ""
+
+msgctxt "0021_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0022"
+msgid "ENVIRONMENT PROGRAMMING"
+msgstr ""
+
+msgctxt "73728"
+msgid "Makoto Sasaki"
+msgstr ""
+
+msgctxt "0022_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0023"
+msgid "PHYSICS PROGRAMMING"
+msgstr ""
+
+msgctxt "78336"
+msgid "Katsuhisa Sato"
+msgstr ""
+
+msgctxt "0024"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "82432"
+msgid "Takahiro Takayama"
+msgstr ""
+
+msgctxt "0024_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0025"
+msgid "AI NAVIGATION PROGRAMMING"
+msgstr ""
+
+msgctxt "86016"
+msgid "Takahiro Okuda"
+msgstr ""
+
+msgctxt "0025_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0026"
+msgid "FRAMEWORK PROGRAMMING"
+msgstr ""
+
+msgctxt "90624"
+msgid "Masashi Masuoka"
+msgstr ""
+
+msgctxt "0027"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "94720"
+msgid "Hiroyuki Taniwa"
+msgstr ""
+
+msgctxt "0027_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0028"
+msgid "GRAPHICS/TERRAIN PROGRAMMING"
+msgstr ""
+
+msgctxt "0028_1000"
+msgid "Tomohisa Saito"
+msgstr ""
+
+msgctxt "0029"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0029_1000"
+msgid "Atsushi Asakura"
+msgstr ""
+
+msgctxt "0030"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "98816"
+msgid "Takanori Nishino"
+msgstr ""
+
+msgctxt "0030_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0031"
+msgid "VFX PROGRAMMING"
+msgstr ""
+
+msgctxt "102400"
+msgid "Nao Ueda"
+msgstr ""
+
+msgctxt "0031_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0032"
+msgid "SOUND PROGRAMMING"
+msgstr ""
+
+msgctxt "106496"
+msgid "Junya Osada"
+msgstr ""
+
+msgctxt "106497"
+msgid "Masafumi Kawamura"
+msgstr ""
+
+msgctxt "106498"
+msgid "Mitsuhiro Kida"
+msgstr ""
+
+msgctxt "106499"
+msgid "Kota Wada"
+msgstr ""
+
+msgctxt "106500"
+msgid "Takumi Sekino"
+msgstr ""
+
+msgctxt "106501"
+msgid "Shun Hayami"
+msgstr ""
+
+msgctxt "0032_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0033"
+msgid "SYSTEM TOOL DEVELOPMENT"
+msgstr ""
+
+msgctxt "111104"
+msgid "Masatoshi Ogawa"
+msgstr ""
+
+msgctxt "0034"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "115200"
+msgid "Toshihiro Taguchi"
+msgstr ""
+
+msgctxt "0035"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "119296"
+msgid "Daiki Kimura"
+msgstr ""
+
+msgctxt "0035_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0036"
+msgid "GAME TOOL DEVELOPMENT"
+msgstr ""
+
+msgctxt "122880"
+msgid "Ryota Maruko"
+msgstr ""
+
+msgctxt "122881"
+msgid "Hisashi Sekoguchi"
+msgstr ""
+
+msgctxt "122882"
+msgid "Toyoki Kataoka"
+msgstr ""
+
+msgctxt "122883"
+msgid "Hitoshi Kanetani"
+msgstr ""
+
+msgctxt "122884"
+msgid "Yoji Okudera"
+msgstr ""
+
+msgctxt "122885"
+msgid "Yoshihiko Sakuraba"
+msgstr ""
+
+msgctxt "0036_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0037"
+msgid "PIPELINE ENGINEERING"
+msgstr ""
+
+msgctxt "126976"
+msgid "Kazuya Sumaki"
+msgstr ""
+
+msgctxt "0037_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0038"
+msgid "QA ENGINEERING"
+msgstr ""
+
+msgctxt "0038_0000"
+msgid "Takuma Oiso"
+msgstr ""
+
+msgctxt "0038_SPACE_02"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0039"
+msgid "ART DIRECTOR"
+msgstr ""
+
+msgctxt "0039_0000"
+msgid "Satoru Takizawa"
+msgstr ""
+
+msgctxt "0039_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0040"
+msgid "SENIOR LEAD ARTISTS  <1.se_co>ANIMATION<2.re_co>"
+msgstr ""
+
+msgctxt "131072"
+msgid "Ryuji Kobayashi"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0041"
+msgid "<1.se_co>CHARACTER / ITEM<2.re_co>"
+msgstr ""
+
+msgctxt "135168"
+msgid "Yoshiyuki Oyama"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0042"
+msgid "<1.se_co>LANDSCAPE<2.re_co>"
+msgstr ""
+
+msgctxt "139264"
+msgid "Makoto Yonezu"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0043"
+msgid "<1.se_co>VFX / TECHNICAL<2.re_co>"
+msgstr ""
+
+msgctxt "143360"
+msgid "Keijiro Inoue"
+msgstr ""
+
+msgctxt "0043_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0044"
+msgid "LEAD ARTISTS  <1.se_co>STRUCTURAL<2.re_co>"
+msgstr ""
+
+msgctxt "147968"
+msgid "Manabu Takehara"
+msgstr ""
+
+msgctxt "0045"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "152064"
+msgid "Kei Watanabe"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0046"
+msgid "<1.se_co>DUNGEON<2.re_co>"
+msgstr ""
+
+msgctxt "156160"
+msgid "Yasutomo Nishibe"
+msgstr ""
+
+msgctxt "0047"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "160256"
+msgid "Bungo Takahashi"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0048"
+msgid "<1.se_co>ENEMY<2.re_co>"
+msgstr ""
+
+msgctxt "0048_0000"
+msgid "Takafumi Kiuchi"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0049"
+msgid "<1.se_co>NPC<2.re_co>"
+msgstr ""
+
+msgctxt "0049_0000"
+msgid "Hirohito Shinoda"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0050"
+msgid "<1.se_co>ANIMATION<2.re_co>"
+msgstr ""
+
+msgctxt "163840"
+msgid "Yasuhiro Fujita"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0051"
+msgid "<1.se_co>CHARACTER<2.re_co>"
+msgstr ""
+
+msgctxt "168448"
+msgid "Hiroki Omote"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0052"
+msgid "<1.se_co>PRODUCTION<2.re_co>"
+msgstr ""
+
+msgctxt "172544"
+msgid "Takafumi Hori"
+msgstr ""
+
+#. 1: set_colour (light_grey)
+#. 2: reset_colour
+msgctxt "0053"
+msgid "<1.se_co>UI<2.re_co>"
+msgstr ""
+
+msgctxt "176128"
+msgid "Takahiro Nagaya"
+msgstr ""
+
+msgctxt "0053_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0054"
+msgid "TECHNICAL ARTIST"
+msgstr ""
+
+msgctxt "180224"
+msgid "Yoshiyuki Sawada"
+msgstr ""
+
+msgctxt "0054_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0055"
+msgid "PLAYER ACTION"
+msgstr ""
+
+msgctxt "184320"
+msgid "Mizuki Okunaka"
+msgstr ""
+
+msgctxt "0055_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0056"
+msgid "CHARACTER ACTION"
+msgstr ""
+
+msgctxt "188416"
+msgid "Kengo Inoue"
+msgstr ""
+
+msgctxt "188417"
+msgid "Minechika Kitai"
+msgstr ""
+
+msgctxt "188418"
+msgid "Chizue Utazu"
+msgstr ""
+
+msgctxt "188419"
+msgid "Nami Shimura"
+msgstr ""
+
+msgctxt "188420"
+msgid "Shinji Koide"
+msgstr ""
+
+msgctxt "0056_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0057"
+msgid "CHARACTER RIGGING"
+msgstr ""
+
+msgctxt "193024"
+msgid "Daisuke Nobori"
+msgstr ""
+
+msgctxt "0058"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0058_1000"
+msgid "Toru Hombu"
+msgstr ""
+
+msgctxt "0058_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0059"
+msgid "ENEMY ART"
+msgstr ""
+
+msgctxt "0059_0000"
+msgid "Kazunori Fujii"
+msgstr ""
+
+msgctxt "0059_0001"
+msgid "Yuki Hamada"
+msgstr ""
+
+msgctxt "0059_0002"
+msgid "Satomi Usui"
+msgstr ""
+
+msgctxt "0059_0003"
+msgid "Masafumi Naito"
+msgstr ""
+
+msgctxt "0059_0004"
+msgid "Tatsuo Oshima"
+msgstr ""
+
+msgctxt "0059_0005"
+msgid "Nobuhiko Okayasu"
+msgstr ""
+
+msgctxt "0059_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0060"
+msgid "ITEM / WEAPON / OBJECT ART"
+msgstr ""
+
+msgctxt "197120"
+msgid "Hikari Harada"
+msgstr ""
+
+msgctxt "0061"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "201216"
+msgid "Tetsuya Taniyama"
+msgstr ""
+
+msgctxt "0062"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "205312"
+msgid "Akiyoshi Tamanoi"
+msgstr ""
+
+msgctxt "0062_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0063"
+msgid "WILDLIFE ART"
+msgstr ""
+
+msgctxt "208896"
+msgid "Aya Shida"
+msgstr ""
+
+msgctxt "208897"
+msgid "Hideki Tanaka"
+msgstr ""
+
+msgctxt "208898"
+msgid "Shuichi Murata"
+msgstr ""
+
+msgctxt "208899"
+msgid "Asami Fujita"
+msgstr ""
+
+msgctxt "0063_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0064"
+msgid "NPC ART"
+msgstr ""
+
+msgctxt "212992"
+msgid "Manabu Hiraoka"
+msgstr ""
+
+msgctxt "212993"
+msgid "Yuko Miyakawa"
+msgstr ""
+
+msgctxt "212994"
+msgid "Shoko Fukuchi"
+msgstr ""
+
+msgctxt "212995"
+msgid "Seiichi Hishinuma"
+msgstr ""
+
+msgctxt "212996"
+msgid "Taro Nakamura"
+msgstr ""
+
+msgctxt "212997"
+msgid "Tokuhiro Yumoto"
+msgstr ""
+
+msgctxt "212998"
+msgid "Masatake Kaneoka"
+msgstr ""
+
+msgctxt "212999"
+msgid "Tadahiro Usuda"
+msgstr ""
+
+msgctxt "0064_0008"
+msgid "Kouhei Toda"
+msgstr ""
+
+msgctxt "0064_0009"
+msgid "Tatsunobu Imoto"
+msgstr ""
+
+msgctxt "0064_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0065"
+msgid "LANDSCAPE ART"
+msgstr ""
+
+msgctxt "217088"
+msgid "Yohei Izumi"
+msgstr ""
+
+msgctxt "217089"
+msgid "Sei Hashimoto"
+msgstr ""
+
+msgctxt "217090"
+msgid "Moe Shirataki"
+msgstr ""
+
+msgctxt "217091"
+msgid "Noriko Uono"
+msgstr ""
+
+msgctxt "217092"
+msgid "Jun Kitaoka"
+msgstr ""
+
+msgctxt "217093"
+msgid "Takafumi Shimotamari"
+msgstr ""
+
+msgctxt "217094"
+msgid "Shinji Yato"
+msgstr ""
+
+msgctxt "217095"
+msgid "Rika Aoki"
+msgstr ""
+
+msgctxt "0065_0008"
+msgid "Sanae Matsuo"
+msgstr ""
+
+msgctxt "0065_0009"
+msgid "Toshiyuki Hiroe"
+msgstr ""
+
+msgctxt "217096"
+msgid "Kanako Uno"
+msgstr ""
+
+msgctxt "217097"
+msgid "Yousuke Asahara"
+msgstr ""
+
+msgctxt "217098"
+msgid "Eri Morimoto"
+msgstr ""
+
+msgctxt "0065_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0066"
+msgid "STRUCTURAL ART"
+msgstr ""
+
+msgctxt "221184"
+msgid "Yoshikazu Hara"
+msgstr ""
+
+msgctxt "221185"
+msgid "Wataru Inata"
+msgstr ""
+
+msgctxt "221186"
+msgid "Kazue Hiramoto"
+msgstr ""
+
+msgctxt "221187"
+msgid "Ikuko Matsumoto"
+msgstr ""
+
+msgctxt "221188"
+msgid "Masato Adachi"
+msgstr ""
+
+msgctxt "221189"
+msgid "Satoko Nishio"
+msgstr ""
+
+msgctxt "221190"
+msgid "Tetsuya Amabiki"
+msgstr ""
+
+msgctxt "221191"
+msgid "Koh Arai"
+msgstr ""
+
+msgctxt "0066_0008"
+msgid "Takaaki Koido"
+msgstr ""
+
+msgctxt "0066_0009"
+msgid "Sayaka Matsuzawa"
+msgstr ""
+
+msgctxt "221192"
+msgid "Satoko Iwase"
+msgstr ""
+
+msgctxt "0066_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0067"
+msgid "DUNGEON ART"
+msgstr ""
+
+msgctxt "225280"
+msgid "Atsushi Domoto"
+msgstr ""
+
+msgctxt "225281"
+msgid "Subaru Ganbe"
+msgstr ""
+
+msgctxt "225282"
+msgid "Chee Wai Lim"
+msgstr ""
+
+msgctxt "225283"
+msgid "Takehiko Kegasa"
+msgstr ""
+
+msgctxt "225284"
+msgid "Hiroko Kiyonari"
+msgstr ""
+
+msgctxt "225285"
+msgid "Ayumi Takata"
+msgstr ""
+
+msgctxt "0067_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0068"
+msgid "VEGETATION ART"
+msgstr ""
+
+msgctxt "0068_1000"
+msgid "Shinko Takeshita"
+msgstr ""
+
+msgctxt "0069"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0069_1000"
+msgid "Yoko Maruta"
+msgstr ""
+
+msgctxt "0069_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0070"
+msgid "PRODUCTION ART"
+msgstr ""
+
+msgctxt "229376"
+msgid "Takeshi Okui"
+msgstr ""
+
+msgctxt "229377"
+msgid "Mariko Hirokane"
+msgstr ""
+
+msgctxt "229378"
+msgid "Momoko Konno"
+msgstr ""
+
+msgctxt "229379"
+msgid "Kento Higa"
+msgstr ""
+
+msgctxt "229380"
+msgid "Atsuko Kato"
+msgstr ""
+
+msgctxt "229381"
+msgid "Taro Yamazaki"
+msgstr ""
+
+msgctxt "229382"
+msgid "Shinya Asanuma"
+msgstr ""
+
+msgctxt "229383"
+msgid "Motohiro Sasaki"
+msgstr ""
+
+msgctxt "0070_0008"
+msgid "Akihiro Kawashima"
+msgstr ""
+
+msgctxt "0070_0009"
+msgid "Keisuke Asaba"
+msgstr ""
+
+msgctxt "229384"
+msgid "Mariko Kawasaki"
+msgstr ""
+
+msgctxt "229385"
+msgid "Rianti Hidayat"
+msgstr ""
+
+msgctxt "229386"
+msgid "Shougo Nokura"
+msgstr ""
+
+msgctxt "229387"
+msgid "Sou Nozawa"
+msgstr ""
+
+msgctxt "229388"
+msgid "Shotaro Yabashi"
+msgstr ""
+
+msgctxt "229389"
+msgid "Wataru Kawahara"
+msgstr ""
+
+msgctxt "229390"
+msgid "Kanako Ishibashi"
+msgstr ""
+
+msgctxt "229391"
+msgid "Urara Kato"
+msgstr ""
+
+msgctxt "0070_0018"
+msgid "Raimu Hidaka"
+msgstr ""
+
+msgctxt "0070_0019"
+msgid "Davina Midori Hendroff"
+msgstr ""
+
+msgctxt "229392"
+msgid "Midori Kojo"
+msgstr ""
+
+msgctxt "0070_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0071"
+msgid "GAMEPLAY ANIMATION"
+msgstr ""
+
+msgctxt "233472"
+msgid "Yukiko Yoneyama"
+msgstr ""
+
+msgctxt "233473"
+msgid "Yasuhide Hino"
+msgstr ""
+
+msgctxt "233474"
+msgid "Makoto Yamamoto"
+msgstr ""
+
+msgctxt "233475"
+msgid "Kazuki Kobayashi"
+msgstr ""
+
+msgctxt "233476"
+msgid "Tomokazu Yoshida"
+msgstr ""
+
+msgctxt "233477"
+msgid "Kazuaki Toya"
+msgstr ""
+
+msgctxt "233478"
+msgid "Jun Takada"
+msgstr ""
+
+msgctxt "233479"
+msgid "Masato Mori"
+msgstr ""
+
+msgctxt "0071_0008"
+msgid "Ai Matsumura"
+msgstr ""
+
+msgctxt "0071_0009"
+msgid "Mizuki Fujita"
+msgstr ""
+
+msgctxt "233480"
+msgid "Asuka Yamato"
+msgstr ""
+
+msgctxt "233481"
+msgid "Airi Nagano"
+msgstr ""
+
+msgctxt "233482"
+msgid "Yuki Takahashi"
+msgstr ""
+
+msgctxt "233483"
+msgid "Midzuki Suyama"
+msgstr ""
+
+msgctxt "233484"
+msgid "Nami Ohsaku"
+msgstr ""
+
+msgctxt "233485"
+msgid "Hidefumi Takeda"
+msgstr ""
+
+msgctxt "233486"
+msgid "Kanae Yanagawa"
+msgstr ""
+
+msgctxt "233487"
+msgid "Hiroaki Miura"
+msgstr ""
+
+msgctxt "0071_0018"
+msgid "Takaya Iwamoto"
+msgstr ""
+
+msgctxt "0071_0019"
+msgid "Shun Matsumoto"
+msgstr ""
+
+msgctxt "233488"
+msgid "Mizuki Hasegawa"
+msgstr ""
+
+msgctxt "233489"
+msgid "Mizuki Tachi"
+msgstr ""
+
+msgctxt "233490"
+msgid "Kentarou Narimatsu"
+msgstr ""
+
+msgctxt "233491"
+msgid "Aya Yamaguchi"
+msgstr ""
+
+msgctxt "233492"
+msgid "Taeko Ebina"
+msgstr ""
+
+msgctxt "233493"
+msgid "Sachiko Matsui"
+msgstr ""
+
+msgctxt "233494"
+msgid "Nagisa Miyagawa"
+msgstr ""
+
+msgctxt "233495"
+msgid "Jean-Baptiste Bongrand"
+msgstr ""
+
+msgctxt "0071_0028"
+msgid "Kentaro Kusumi"
+msgstr ""
+
+msgctxt "0071_0029"
+msgid "Mana Shoji"
+msgstr ""
+
+msgctxt "233496"
+msgid "Daisuke Kaneko"
+msgstr ""
+
+msgctxt "233497"
+msgid "Yuko Morise"
+msgstr ""
+
+msgctxt "233498"
+msgid "Tomoyo Matsuda"
+msgstr ""
+
+msgctxt "233499"
+msgid "Shota Fukuzawa"
+msgstr ""
+
+msgctxt "233500"
+msgid "Shuto Yonemura"
+msgstr ""
+
+msgctxt "233501"
+msgid "Takashi Yamamoto"
+msgstr ""
+
+msgctxt "0071_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0072"
+msgid "CHARACTER MODELING"
+msgstr ""
+
+msgctxt "237568"
+msgid "Atsuki Nakazato"
+msgstr ""
+
+msgctxt "237569"
+msgid "Shunsuke Yamamoto"
+msgstr ""
+
+msgctxt "237570"
+msgid "Hitomi Sato"
+msgstr ""
+
+msgctxt "237571"
+msgid "Ryo Takahashi"
+msgstr ""
+
+msgctxt "237572"
+msgid "Mitsuru Sumiyama"
+msgstr ""
+
+msgctxt "237573"
+msgid "Yukiko Izuo"
+msgstr ""
+
+msgctxt "237574"
+msgid "Tomoko Miyaoka"
+msgstr ""
+
+msgctxt "237575"
+msgid "Naoto Tsuboi"
+msgstr ""
+
+msgctxt "0072_0008"
+msgid "Daigoro Ishikawa"
+msgstr ""
+
+msgctxt "0072_0009"
+msgid "Yuki Takasu"
+msgstr ""
+
+msgctxt "237576"
+msgid "Keisuke Hirose"
+msgstr ""
+
+msgctxt "237577"
+msgid "Arisa Takahashi"
+msgstr ""
+
+msgctxt "237578"
+msgid "Daisuke Amakawa"
+msgstr ""
+
+msgctxt "237579"
+msgid "Hiroto Jinnouchi"
+msgstr ""
+
+msgctxt "237580"
+msgid "Takanori Mitsuhashi"
+msgstr ""
+
+msgctxt "237581"
+msgid "Takeshi Mayumi"
+msgstr ""
+
+msgctxt "237582"
+msgid "Yuta Yamada"
+msgstr ""
+
+msgctxt "237583"
+msgid "Hiroshi Kiyota"
+msgstr ""
+
+msgctxt "0072_0018"
+msgid "Mitsuhiro Ohmori"
+msgstr ""
+
+msgctxt "0072_0019"
+msgid "Naohiko Zaitsu"
+msgstr ""
+
+msgctxt "237584"
+msgid "Rina Imado"
+msgstr ""
+
+msgctxt "237585"
+msgid "Yuki Ozawa"
+msgstr ""
+
+msgctxt "237586"
+msgid "Takuya Matsuda"
+msgstr ""
+
+msgctxt "237587"
+msgid "Kazuaki Yamamoto"
+msgstr ""
+
+msgctxt "237588"
+msgid "Takumi Oniki"
+msgstr ""
+
+msgctxt "237589"
+msgid "Akane Tamura"
+msgstr ""
+
+msgctxt "237590"
+msgid "Daisuke Nakano"
+msgstr ""
+
+msgctxt "237591"
+msgid "Hiroki Nara"
+msgstr ""
+
+msgctxt "0072_0028"
+msgid "Toshiya Tomita"
+msgstr ""
+
+msgctxt "0072_0029"
+msgid "Yuki Yoshida"
+msgstr ""
+
+msgctxt "237592"
+msgid "Sosuke Saito"
+msgstr ""
+
+msgctxt "237593"
+msgid "Hiroki Sakano"
+msgstr ""
+
+msgctxt "0072_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0073"
+msgid "LANDSCAPE MODELING"
+msgstr ""
+
+msgctxt "241664"
+msgid "Tadatsugu Motomiya"
+msgstr ""
+
+msgctxt "241665"
+msgid "Rie Kanetake"
+msgstr ""
+
+msgctxt "241666"
+msgid "Kohei Magome"
+msgstr ""
+
+msgctxt "241667"
+msgid "Rie Motonari"
+msgstr ""
+
+msgctxt "241668"
+msgid "Rieko Kano"
+msgstr ""
+
+msgctxt "241669"
+msgid "Keihan Fujii"
+msgstr ""
+
+msgctxt "241670"
+msgid "Motoko Tohyama"
+msgstr ""
+
+msgctxt "241671"
+msgid "Runa Sugiyama"
+msgstr ""
+
+msgctxt "0073_0008"
+msgid "Keiichi Watanabe"
+msgstr ""
+
+msgctxt "0073_0009"
+msgid "Mitsumasa Okamoto"
+msgstr ""
+
+msgctxt "241672"
+msgid "Takashi Mikami"
+msgstr ""
+
+msgctxt "241673"
+msgid "Megumi Yasue"
+msgstr ""
+
+msgctxt "241674"
+msgid "Hideki Sato"
+msgstr ""
+
+msgctxt "241675"
+msgid "Hideaki Kato"
+msgstr ""
+
+msgctxt "241676"
+msgid "Kazumasa Kawamoto"
+msgstr ""
+
+msgctxt "241677"
+msgid "Yuri Suga"
+msgstr ""
+
+msgctxt "241678"
+msgid "Kazuyuki Hagiya"
+msgstr ""
+
+msgctxt "241679"
+msgid "Satsuki Nakamura"
+msgstr ""
+
+msgctxt "0073_0018"
+msgid "Ayaka Kaneko"
+msgstr ""
+
+msgctxt "0073_0019"
+msgid "Tatsuya Shimamura"
+msgstr ""
+
+msgctxt "241680"
+msgid "Mari Oguchi"
+msgstr ""
+
+msgctxt "241681"
+msgid "Makiko Yamamoto"
+msgstr ""
+
+msgctxt "241682"
+msgid "Tatsuya Ogawa"
+msgstr ""
+
+msgctxt "241683"
+msgid "Tomomichi Higashi"
+msgstr ""
+
+msgctxt "241684"
+msgid "Miho Mashimo"
+msgstr ""
+
+msgctxt "241685"
+msgid "Hiromi Koda"
+msgstr ""
+
+msgctxt "241686"
+msgid "Yusuke Suzuki"
+msgstr ""
+
+msgctxt "241687"
+msgid "Rena Takahashi"
+msgstr ""
+
+msgctxt "0073_0028"
+msgid "Tomomi Hampton"
+msgstr ""
+
+msgctxt "0073_0029"
+msgid "Olarn Bantukul"
+msgstr ""
+
+msgctxt "241688"
+msgid "Daiki Moroi"
+msgstr ""
+
+msgctxt "241689"
+msgid "Takashi Tatezawa"
+msgstr ""
+
+msgctxt "241690"
+msgid "Masato Sekiguchi"
+msgstr ""
+
+msgctxt "241691"
+msgid "Yoshie Ishimaru"
+msgstr ""
+
+msgctxt "241692"
+msgid "Kanae Yanai"
+msgstr ""
+
+msgctxt "241693"
+msgid "Mari Tachibana"
+msgstr ""
+
+msgctxt "241694"
+msgid "Mariko Murakami"
+msgstr ""
+
+msgctxt "241695"
+msgid "Daichi Shinohara"
+msgstr ""
+
+msgctxt "0073_0038"
+msgid "Ryuji Tamura"
+msgstr ""
+
+msgctxt "0073_0039"
+msgid "Hiromine Okura"
+msgstr ""
+
+msgctxt "241696"
+msgid "Ryota Unzai"
+msgstr ""
+
+msgctxt "241697"
+msgid "Masanori Kitao"
+msgstr ""
+
+msgctxt "241698"
+msgid "Makoto Tateishi"
+msgstr ""
+
+msgctxt "241699"
+msgid "Makiko Nihari"
+msgstr ""
+
+msgctxt "241700"
+msgid "Saki Fujimoto"
+msgstr ""
+
+msgctxt "241701"
+msgid "Rina Yamaguchi"
+msgstr ""
+
+msgctxt "241702"
+msgid "Daisuke Yoshioka"
+msgstr ""
+
+msgctxt "241703"
+msgid "Hiroko Morita"
+msgstr ""
+
+msgctxt "0073_0048"
+msgid "Sho Midorikawa"
+msgstr ""
+
+msgctxt "0073_0049"
+msgid "Maki Takano"
+msgstr ""
+
+msgctxt "241704"
+msgid "Yuka Horikawa"
+msgstr ""
+
+msgctxt "241705"
+msgid "Kazue Miyahara"
+msgstr ""
+
+msgctxt "241706"
+msgid "Makoto Kayano"
+msgstr ""
+
+msgctxt "0073_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0074"
+msgid "VFX DESIGN"
+msgstr ""
+
+msgctxt "246272"
+msgid "Sosuke Takada"
+msgstr ""
+
+msgctxt "0075"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "250368"
+msgid "Keisuke Nishikawa"
+msgstr ""
+
+msgctxt "0075_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0076"
+msgid "UI DESIGN"
+msgstr ""
+
+msgctxt "254464"
+msgid "Daigo Shimizu"
+msgstr ""
+
+msgctxt "0077"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "258560"
+msgid "Hiroko Nishibe"
+msgstr ""
+
+msgctxt "0077_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0078"
+msgid "TITLE LOGO DESIGN"
+msgstr ""
+
+msgctxt "0078_0000"
+msgid "Kazuya Yoshioka"
+msgstr ""
+
+msgctxt "0078_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0079"
+msgid "ZELDA GLYPHS FONT DESIGN"
+msgstr ""
+
+msgctxt "0079_1000"
+msgid "Norio Asakura"
+msgstr ""
+
+msgctxt "0080"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0080_1000"
+msgid "Kazuya Kikkawa"
+msgstr ""
+
+msgctxt "0080_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0081"
+msgid "GANON BATTLE ILLUSTRATION"
+msgstr ""
+
+msgctxt "0081_0000"
+msgid "Yusuke Nakano"
+msgstr ""
+
+msgctxt "0081_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0082"
+msgid "TITLE SCREEN ILLUSTRATION"
+msgstr ""
+
+msgctxt "0082_0000"
+msgid "Takumi Wada"
+msgstr ""
+
+msgctxt "0082_SPACE_02"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0083"
+msgid "CINEMATIC DIRECTOR"
+msgstr ""
+
+msgctxt "0083_0000"
+msgid "Hiroki Hirano"
+msgstr ""
+
+msgctxt "0083_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0084"
+msgid "ASSISTANT CINEMATIC DIRECTOR"
+msgstr ""
+
+msgctxt "0084_1000"
+msgid "Daiki Hayashidani"
+msgstr ""
+
+msgctxt "0085"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0085_1000"
+msgid "Hiroshi Shirai"
+msgstr ""
+
+msgctxt "0085_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0086"
+msgid "CINEMATIC DESIGN"
+msgstr ""
+
+msgctxt "0086_1000"
+msgid "Naoki Mori"
+msgstr ""
+
+msgctxt "0087"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0087_1000"
+msgid "Takumi Kawagoe"
+msgstr ""
+
+msgctxt "0088"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0088_1000"
+msgid "Tomoe Aratani"
+msgstr ""
+
+msgctxt "0088_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0089"
+msgid "CINEMATIC STORYBOARD ART"
+msgstr ""
+
+msgctxt "0089_1000"
+msgid "Yusuke Kubo"
+msgstr ""
+
+msgctxt "0090"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0090_1000"
+msgid "Kazuya Miura"
+msgstr ""
+
+msgctxt "0091"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0091_1000"
+msgid "Kiyoto Nakajima"
+msgstr ""
+
+msgctxt "0091_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0092"
+msgid "CINEMATIC ANIMATION"
+msgstr ""
+
+msgctxt "0092_0000"
+msgid "Kentaroh Honma"
+msgstr ""
+
+msgctxt "0092_0001"
+msgid "Hidehito Yamamoto"
+msgstr ""
+
+msgctxt "0092_0002"
+msgid "Maya Ishige"
+msgstr ""
+
+msgctxt "0092_0003"
+msgid "Takuto Chino"
+msgstr ""
+
+msgctxt "0092_0004"
+msgid "Kanami Izumi"
+msgstr ""
+
+msgctxt "0092_0005"
+msgid "Masuyo Esaka"
+msgstr ""
+
+msgctxt "0092_0006"
+msgid "Tetsuya Kouzuma"
+msgstr ""
+
+msgctxt "0092_0007"
+msgid "Yasumasa Sekine"
+msgstr ""
+
+msgctxt "0092_0008"
+msgid "Hiromitsu Miyashita"
+msgstr ""
+
+msgctxt "0092_0009"
+msgid "Shun Katori"
+msgstr ""
+
+msgctxt "0092_0010"
+msgid "Koji Nakahata"
+msgstr ""
+
+msgctxt "0092_0011"
+msgid "Kosuke Araki"
+msgstr ""
+
+msgctxt "0092_0012"
+msgid "Megumi Ueno"
+msgstr ""
+
+msgctxt "0092_0013"
+msgid "Ayako Ohnishi"
+msgstr ""
+
+msgctxt "0092_0014"
+msgid "Yasuko Motoki"
+msgstr ""
+
+msgctxt "0092_0015"
+msgid "Haruka Uchiumi"
+msgstr ""
+
+msgctxt "0092_0016"
+msgid "Youko Uemura"
+msgstr ""
+
+msgctxt "0092_0017"
+msgid "Yuji Sato"
+msgstr ""
+
+msgctxt "0092_0018"
+msgid "Daisuke Shimizu"
+msgstr ""
+
+msgctxt "0092_0019"
+msgid "Toshimitsu Yanai"
+msgstr ""
+
+msgctxt "0092_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0093"
+msgid "MOTION CAPTURE"
+msgstr ""
+
+msgctxt "0093_0000"
+msgid "Yoshio Miyaki"
+msgstr ""
+
+msgctxt "0093_0001"
+msgid "Haruka Shibai"
+msgstr ""
+
+msgctxt "0093_0002"
+msgid "Sanshiro Wada"
+msgstr ""
+
+msgctxt "0093_0003"
+msgid "Naomi Taniyama"
+msgstr ""
+
+msgctxt "0093_SPACE_02"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0094"
+msgid "SOUND DIRECTOR"
+msgstr ""
+
+msgctxt "0094_0000"
+msgid "Hajime Wakai"
+msgstr ""
+
+msgctxt "0094_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0095"
+msgid "MUSIC"
+msgstr ""
+
+msgctxt "0095_1000"
+msgid "Manaka Kataoka"
+msgstr ""
+
+msgctxt "0096"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0096_1000"
+msgid "Yasuaki Iwata"
+msgstr ""
+
+msgctxt "0096_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0097"
+msgid "SOUND DESIGN"
+msgstr ""
+
+msgctxt "0097_0000"
+msgid "Mitsuhiro Hikino"
+msgstr ""
+
+msgctxt "0097_0001"
+msgid "Taro Bando"
+msgstr ""
+
+msgctxt "0097_0002"
+msgid "Yohei Miyagawa"
+msgstr ""
+
+msgctxt "0097_0003"
+msgid "Riyu Tamura"
+msgstr ""
+
+msgctxt "0097_0004"
+msgid "Takuro Yasuda"
+msgstr ""
+
+msgctxt "0097_0005"
+msgid "Eiji Nakamura"
+msgstr ""
+
+msgctxt "0097_0006"
+msgid "Chiharu Minekawa"
+msgstr ""
+
+msgctxt "0097_0007"
+msgid "Hiroki Taniguchi"
+msgstr ""
+
+msgctxt "0097_0008"
+msgid "Kensuke Matsui"
+msgstr ""
+
+msgctxt "0097_0009"
+msgid "Shunsuke Hongo"
+msgstr ""
+
+msgctxt "0097_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0098"
+msgid "JAPANESE VOICE"
+msgstr ""
+
+msgctxt "0098_0000"
+msgid "Kengo Takanashi"
+msgstr ""
+
+msgctxt "0098_0001"
+msgid "Yu Shimamura"
+msgstr ""
+
+msgctxt "0098_0002"
+msgid "Kouji Takeda"
+msgstr ""
+
+msgctxt "0098_0003"
+msgid "Noboru Yamaguchi"
+msgstr ""
+
+msgctxt "0098_0004"
+msgid "Mayu Isshiki"
+msgstr ""
+
+msgctxt "0098_0005"
+msgid "Rei Shimoda"
+msgstr ""
+
+msgctxt "0098_0006"
+msgid "Hiroshi Naka"
+msgstr ""
+
+msgctxt "0098_0007"
+msgid "Showko Tsuda"
+msgstr ""
+
+msgctxt "0098_0008"
+msgid "Hideaki Nonaka"
+msgstr ""
+
+msgctxt "0098_0009"
+msgid "Kumiko Watanabe"
+msgstr ""
+
+msgctxt "0098_0010"
+msgid "Takuya Masumoto"
+msgstr ""
+
+msgctxt "0098_0011"
+msgid "Kousuke Oonishi"
+msgstr ""
+
+msgctxt "0098_0012"
+msgid "Arisa Sakuraba"
+msgstr ""
+
+msgctxt "0098_0013"
+msgid "Atsuyoshi Miyazaki"
+msgstr ""
+
+msgctxt "0098_0014"
+msgid "Kousuke Takaguchi"
+msgstr ""
+
+msgctxt "0098_0015"
+msgid "Go Shinomiya"
+msgstr ""
+
+msgctxt "0098_0016"
+msgid "Yoshimasa Kawata"
+msgstr ""
+
+msgctxt "0098_0017"
+msgid "Natsuki Aikawa"
+msgstr ""
+
+msgctxt "0098_0018"
+msgid "Miho Hino"
+msgstr ""
+
+msgctxt "0098_0019"
+msgid "Yuka Maruyama"
+msgstr ""
+
+msgctxt "0098_0020"
+msgid "Tsuguo Mogami"
+msgstr ""
+
+msgctxt "0098_0021"
+msgid "Ayano Shibuya"
+msgstr ""
+
+msgctxt "0098_0022"
+msgid "Ryo Iwasaki"
+msgstr ""
+
+msgctxt "0098_0023"
+msgid "Osamu Hosoi"
+msgstr ""
+
+msgctxt "0098_0024"
+msgid "Ayumi Yonemaru"
+msgstr ""
+
+msgctxt "0098_0025"
+msgid "Yukiko Mizuochi"
+msgstr ""
+
+msgctxt "0098_0026"
+msgid "Mai Kawabata"
+msgstr ""
+
+msgctxt "0098_0027"
+msgid "Kyoko Yamaguchi"
+msgstr ""
+
+msgctxt "0098_0028"
+msgid "Haruka Shimizu"
+msgstr ""
+
+msgctxt "0098_0029"
+msgid "Chie Horikoshi"
+msgstr ""
+
+msgctxt "0098_0030"
+msgid "Nikray Farahnaz"
+msgstr ""
+
+msgctxt "0098_0031"
+msgid "Kazuhiro Fusegawa"
+msgstr ""
+
+msgctxt "0098_0032"
+msgid "Kensuke Tamura"
+msgstr ""
+
+msgctxt "0098_0033"
+msgid "Wakana Sube"
+msgstr ""
+
+msgctxt "0098_0034"
+msgid "Iho Matsukubo"
+msgstr ""
+
+msgctxt "0098_0035"
+msgid "Daichi Hayashi"
+msgstr ""
+
+msgctxt "0098_0036"
+msgid "Toshihiro Okubo"
+msgstr ""
+
+msgctxt "0098_0037"
+msgid "Natsuki Mori"
+msgstr ""
+
+msgctxt "0098_0038"
+msgid "Satoru Inoue"
+msgstr ""
+
+msgctxt "0098_0039"
+msgid "Mari Hagai"
+msgstr ""
+
+msgctxt "0098_0040"
+msgid "Sayaka Aida"
+msgstr ""
+
+msgctxt "0098_0041"
+msgid "Yukiko Monden"
+msgstr ""
+
+msgctxt "0098_0042"
+msgid "Aki Unone"
+msgstr ""
+
+msgctxt "0098_SPACE_02"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0099"
+msgid "TECHNICAL SUPPORT"
+msgstr ""
+
+msgctxt "0099_0000"
+msgid "Yasuhiro Kawaguchi"
+msgstr ""
+
+msgctxt "0099_0001"
+msgid "Yoshito Yasuda"
+msgstr ""
+
+msgctxt "0099_0002"
+msgid "Mitsuo Iwamoto"
+msgstr ""
+
+msgctxt "0099_0003"
+msgid "Hideaki Hirose"
+msgstr ""
+
+msgctxt "0099_0004"
+msgid "Takehiro Yoshida"
+msgstr ""
+
+msgctxt "0099_0005"
+msgid "Yoshitaka Sakamoto"
+msgstr ""
+
+msgctxt "0099_0006"
+msgid "Shinji Yamada"
+msgstr ""
+
+msgctxt "0099_0007"
+msgid "Kouichirou Hayashi"
+msgstr ""
+
+msgctxt "0099_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0100"
+msgid "TESTING"
+msgstr ""
+
+msgctxt "262144"
+msgid "Masashi Onishi"
+msgstr ""
+
+msgctxt "262145"
+msgid "Yuhei Ariyama"
+msgstr ""
+
+msgctxt "262146"
+msgid "Yasunori Shibayama"
+msgstr ""
+
+msgctxt "262147"
+msgid "Masaharu Shima"
+msgstr ""
+
+msgctxt "262148"
+msgid "Takeshi Tamura"
+msgstr ""
+
+msgctxt "262149"
+msgid "Narimasa Hakodate"
+msgstr ""
+
+msgctxt "262150"
+msgid "Yukiko Miyamoto"
+msgstr ""
+
+msgctxt "262151"
+msgid "Shigeo Takada"
+msgstr ""
+
+msgctxt "0100_0008"
+msgid "Hideki Nakajima"
+msgstr ""
+
+msgctxt "0100_0009"
+msgid "Rika Imaeda"
+msgstr ""
+
+msgctxt "262152"
+msgid "Masahiro Hara"
+msgstr ""
+
+msgctxt "262153"
+msgid "Yuki Suenaga"
+msgstr ""
+
+msgctxt "262154"
+msgid "Aimi Ayashiro"
+msgstr ""
+
+msgctxt "262155"
+msgid "Kenichi Maeda"
+msgstr ""
+
+msgctxt "262156"
+msgid "Genji Kurita"
+msgstr ""
+
+msgctxt "262157"
+msgid "Shoji Matsuyoshi"
+msgstr ""
+
+msgctxt "262158"
+msgid "Mitsutoshi Asai"
+msgstr ""
+
+msgctxt "262159"
+msgid "Keisuke Kaneko"
+msgstr ""
+
+msgctxt "0100_0018"
+msgid "Koji Hosokawa"
+msgstr ""
+
+msgctxt "0100_0019"
+msgid "Saya Mizusawa"
+msgstr ""
+
+msgctxt "262160"
+msgid "Makoto Takeyama"
+msgstr ""
+
+msgctxt "262161"
+msgid "Masashi Fujioka"
+msgstr ""
+
+msgctxt "262162"
+msgid "Daisuke Nishikawa"
+msgstr ""
+
+msgctxt "262163"
+msgid "Ryohei Otani"
+msgstr ""
+
+msgctxt "262164"
+msgid "Tatsuro Sawada"
+msgstr ""
+
+msgctxt "262165"
+msgid "Shohei Zenjo"
+msgstr ""
+
+msgctxt "262166"
+msgid "Munehiro Matsuda"
+msgstr ""
+
+msgctxt "262167"
+msgid "Ao Masuda"
+msgstr ""
+
+msgctxt "0100_0028"
+msgid "Megumi Shano"
+msgstr ""
+
+msgctxt "0100_0029"
+msgid "Seitaro Torigoe"
+msgstr ""
+
+msgctxt "262168"
+msgid "Atsushi Yoshida"
+msgstr ""
+
+msgctxt "262169"
+msgid "Takahiko Kono"
+msgstr ""
+
+msgctxt "262170"
+msgid "Satomi Kakiuchi"
+msgstr ""
+
+msgctxt "262171"
+msgid "Ayato Maruo"
+msgstr ""
+
+msgctxt "262172"
+msgid "Akihiro Yoshida"
+msgstr ""
+
+msgctxt "262173"
+msgid "Yoshihiro Hirai"
+msgstr ""
+
+msgctxt "262174"
+msgid "Hideaki Fukushima"
+msgstr ""
+
+msgctxt "262175"
+msgid "Asuka Sakai"
+msgstr ""
+
+msgctxt "0100_0038"
+msgid "Akiko Matsumoto"
+msgstr ""
+
+msgctxt "0100_0039"
+msgid "Aiko Takami"
+msgstr ""
+
+msgctxt "262176"
+msgid "Kazuhiro Umeda"
+msgstr ""
+
+msgctxt "262177"
+msgid "Mami Koguchi"
+msgstr ""
+
+msgctxt "262178"
+msgid "Akie Sogo"
+msgstr ""
+
+msgctxt "262179"
+msgid "Satoe Kunikata"
+msgstr ""
+
+msgctxt "262180"
+msgid "Kaori Kushima"
+msgstr ""
+
+msgctxt "262181"
+msgid "Mariko Ariga"
+msgstr ""
+
+msgctxt "262182"
+msgid "Toshihiro Kuze"
+msgstr ""
+
+msgctxt "262183"
+msgid "Yuhei Adachi"
+msgstr ""
+
+msgctxt "0100_0048"
+msgid "Shota Taniguchi"
+msgstr ""
+
+msgctxt "0100_0049"
+msgid "Koichi Maruyama"
+msgstr ""
+
+msgctxt "262184"
+msgid "Kenta Aoki"
+msgstr ""
+
+msgctxt "262185"
+msgid "Shinpei Otowa"
+msgstr ""
+
+msgctxt "262186"
+msgid "Shinichiro Takahashi"
+msgstr ""
+
+msgctxt "262187"
+msgid "Junya Kobayashi"
+msgstr ""
+
+msgctxt "262188"
+msgid "Takuo Inagaki"
+msgstr ""
+
+msgctxt "262189"
+msgid "Hironori Saito"
+msgstr ""
+
+msgctxt "262190"
+msgid "Ryo Nakamura"
+msgstr ""
+
+msgctxt "262191"
+msgid "Junnosuke Tamaya"
+msgstr ""
+
+msgctxt "0100_0058"
+msgid "Masashi Asahi"
+msgstr ""
+
+msgctxt "0100_0059"
+msgid "Satoshi Togawa"
+msgstr ""
+
+msgctxt "262192"
+msgid "Ai Kinami"
+msgstr ""
+
+msgctxt "262193"
+msgid "Keiji Nakamura"
+msgstr ""
+
+msgctxt "262194"
+msgid "Ibuki Furukawa"
+msgstr ""
+
+msgctxt "262195"
+msgid "Kenta Okamoto"
+msgstr ""
+
+msgctxt "262196"
+msgid "Ryo Yamamoto"
+msgstr ""
+
+msgctxt "262197"
+msgid "Masayuki Wada"
+msgstr ""
+
+msgctxt "262198"
+msgid "Yoshiteru Onogi"
+msgstr ""
+
+msgctxt "262199"
+msgid "Hiroki Kitagawa"
+msgstr ""
+
+msgctxt "0100_0068"
+msgid "Yuya Kimura"
+msgstr ""
+
+msgctxt "0100_0069"
+msgid "Hirotsugu Horiuchi"
+msgstr ""
+
+msgctxt "262200"
+msgid "Atsuki Tamura"
+msgstr ""
+
+msgctxt "262201"
+msgid "Tsuyoshi Sawada"
+msgstr ""
+
+msgctxt "262202"
+msgid "Yuma Shirao"
+msgstr ""
+
+msgctxt "262203"
+msgid "Hideyoshi Sasaki"
+msgstr ""
+
+msgctxt "262204"
+msgid "Yuta Inoue"
+msgstr ""
+
+msgctxt "262205"
+msgid "Tatsunori Kito"
+msgstr ""
+
+msgctxt "262206"
+msgid "Keishin Toyokawa"
+msgstr ""
+
+msgctxt "262207"
+msgid "Kouhei Terakawa"
+msgstr ""
+
+msgctxt "0100_0078"
+msgid "Tomomi Kakisako"
+msgstr ""
+
+msgctxt "0100_0079"
+msgid "Keito Umehara"
+msgstr ""
+
+msgctxt "0100_0080"
+msgid "Kouki Kunihiro"
+msgstr ""
+
+msgctxt "0100_0081"
+msgid "Ryosuke Fujita"
+msgstr ""
+
+msgctxt "0100_0082"
+msgid "Kiyonobu Yoneda"
+msgstr ""
+
+msgctxt "0100_0083"
+msgid "Tomoo Kobayashi"
+msgstr ""
+
+msgctxt "0100_0084"
+msgid "Kazuya Fukuda"
+msgstr ""
+
+msgctxt "0100_0085"
+msgid "Hiroshi Matsushita"
+msgstr ""
+
+msgctxt "0100_0086"
+msgid "Atsushi Sakurai"
+msgstr ""
+
+msgctxt "0100_0087"
+msgid "Norihiro Furutani"
+msgstr ""
+
+msgctxt "0100_0088"
+msgid "Osamu Akitomi"
+msgstr ""
+
+msgctxt "0100_0089"
+msgid "Asuka Kondo"
+msgstr ""
+
+msgctxt "0100_0090"
+msgid "Hiroyoshi Toshimori"
+msgstr ""
+
+msgctxt "0100_0091"
+msgid "Kasumi Yui"
+msgstr ""
+
+msgctxt "0100_0092"
+msgid "Soshi Yagyu"
+msgstr ""
+
+msgctxt "0100_0093"
+msgid "Nozomi Murota"
+msgstr ""
+
+msgctxt "0100_0094"
+msgid "Kazuhiro Tanisako"
+msgstr ""
+
+msgctxt "0100_0095"
+msgid "Takahiro Ueda"
+msgstr ""
+
+msgctxt "0100_0096"
+msgid "Yuki Tanigawa"
+msgstr ""
+
+msgctxt "0100_0097"
+msgid "Go Fukuma"
+msgstr ""
+
+msgctxt "0100_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0101"
+msgid "NOA LOCALIZATION MANAGEMENT"
+msgstr ""
+
+msgctxt "266240"
+msgid "Nate Bihldorff"
+msgstr ""
+
+msgctxt "266241"
+msgid "Ann Lin"
+msgstr ""
+
+msgctxt "266242"
+msgid "Reiko Ninomiya"
+msgstr ""
+
+msgctxt "266243"
+msgid "Rich Amtower"
+msgstr ""
+
+msgctxt "266244"
+msgid "Scot Ritchey"
+msgstr ""
+
+msgctxt "266245"
+msgid "Tim O'Leary"
+msgstr ""
+
+msgctxt "0101_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0102"
+msgid "NOA LOCALIZATION"
+msgstr ""
+
+msgctxt "270336"
+msgid "Álex Zarza"
+msgstr ""
+
+msgctxt "270337"
+msgid "Ana Celeste Ascanio"
+msgstr ""
+
+msgctxt "270338"
+msgid "Audrey Drake"
+msgstr ""
+
+msgctxt "270339"
+msgid "Billy Carroll"
+msgstr ""
+
+msgctxt "270340"
+msgid "César Pérez"
+msgstr ""
+
+msgctxt "270341"
+msgid "Dutch Hixenbaugh"
+msgstr ""
+
+msgctxt "270342"
+msgid "Ed Murray"
+msgstr ""
+
+msgctxt "270343"
+msgid "Eric Smith"
+msgstr ""
+
+msgctxt "0102_0008"
+msgid "Erika Webright Arlot"
+msgstr ""
+
+msgctxt "0102_0009"
+msgid "Galia Rodríguez Hornedo"
+msgstr ""
+
+msgctxt "270344"
+msgid "Grant Hanlon"
+msgstr ""
+
+msgctxt "270345"
+msgid "Jose Mejino"
+msgstr ""
+
+msgctxt "270346"
+msgid "Kay Cal"
+msgstr ""
+
+msgctxt "270347"
+msgid "Kindra Timmerwilke"
+msgstr ""
+
+msgctxt "270348"
+msgid "Michael Benedetto"
+msgstr ""
+
+msgctxt "270349"
+msgid "Nich Maragos"
+msgstr ""
+
+msgctxt "270350"
+msgid "Owen Cooney"
+msgstr ""
+
+msgctxt "270351"
+msgid "Raymond Elliget"
+msgstr ""
+
+msgctxt "0102_0018"
+msgid "Rob Tunstall"
+msgstr ""
+
+msgctxt "0102_0019"
+msgid "Ryan Kelley"
+msgstr ""
+
+msgctxt "270352"
+msgid "Scott Willson"
+msgstr ""
+
+msgctxt "270353"
+msgid "Thaddée Wiseur"
+msgstr ""
+
+msgctxt "270354"
+msgid "Tim McCaughan"
+msgstr ""
+
+msgctxt "270355"
+msgid "Yoriko Marusich"
+msgstr ""
+
+msgctxt "0102_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0103"
+msgid "NOA PRODUCT TESTING"
+msgstr ""
+
+msgctxt "274432"
+msgid "Adali Arana"
+msgstr ""
+
+msgctxt "274433"
+msgid "Adam Henderson"
+msgstr ""
+
+msgctxt "274434"
+msgid "Alec Mohs-Hale"
+msgstr ""
+
+msgctxt "274435"
+msgid "Amber Shephard"
+msgstr ""
+
+msgctxt "274436"
+msgid "Antone Franich"
+msgstr ""
+
+msgctxt "274437"
+msgid "Benjamin Nutu"
+msgstr ""
+
+msgctxt "274438"
+msgid "Brette Levitan"
+msgstr ""
+
+msgctxt "274439"
+msgid "Brian Carlson"
+msgstr ""
+
+msgctxt "0103_0008"
+msgid "Carlos Gutierrez"
+msgstr ""
+
+msgctxt "0103_0009"
+msgid "Cassandra Dillhoff"
+msgstr ""
+
+msgctxt "274440"
+msgid "Catherine Hoffman"
+msgstr ""
+
+msgctxt "274441"
+msgid "Charles Clute"
+msgstr ""
+
+msgctxt "274442"
+msgid "Chelsea Staab"
+msgstr ""
+
+msgctxt "274443"
+msgid "Clinton Newcombe"
+msgstr ""
+
+msgctxt "274444"
+msgid "Colin McLoughlin"
+msgstr ""
+
+msgctxt "274445"
+msgid "Conner Howard"
+msgstr ""
+
+msgctxt "274446"
+msgid "Craig So"
+msgstr ""
+
+msgctxt "274447"
+msgid "Daijiro Imoto"
+msgstr ""
+
+msgctxt "0103_0018"
+msgid "Daniel Peterson"
+msgstr ""
+
+msgctxt "0103_0019"
+msgid "Danny Morris"
+msgstr ""
+
+msgctxt "274448"
+msgid "David Chan"
+msgstr ""
+
+msgctxt "274449"
+msgid "David Drake"
+msgstr ""
+
+msgctxt "274450"
+msgid "David Foy"
+msgstr ""
+
+msgctxt "274451"
+msgid "Douglas Lynn"
+msgstr ""
+
+msgctxt "274452"
+msgid "Dylan Rondeau"
+msgstr ""
+
+msgctxt "274453"
+msgid "Eladio Bazaldua"
+msgstr ""
+
+msgctxt "274454"
+msgid "Eric Bush"
+msgstr ""
+
+msgctxt "274455"
+msgid "Eric Compton"
+msgstr ""
+
+msgctxt "0103_0028"
+msgid "Evan Wright"
+msgstr ""
+
+msgctxt "0103_0029"
+msgid "Frank Caraan"
+msgstr ""
+
+msgctxt "274456"
+msgid "Garrett Higgins"
+msgstr ""
+
+msgctxt "274457"
+msgid "Gary Meads"
+msgstr ""
+
+msgctxt "274458"
+msgid "Gene Pencil"
+msgstr ""
+
+msgctxt "274459"
+msgid "Grant Brownlee"
+msgstr ""
+
+msgctxt "274460"
+msgid "Hitoshi Nishizawa"
+msgstr ""
+
+msgctxt "274461"
+msgid "Israel Cruz-Morales"
+msgstr ""
+
+msgctxt "274462"
+msgid "Jack Malametz"
+msgstr ""
+
+msgctxt "274463"
+msgid "James Dillon"
+msgstr ""
+
+msgctxt "0103_0038"
+msgid "Jeffrey Storbo"
+msgstr ""
+
+msgctxt "0103_0039"
+msgid "Jérôme Dufermont"
+msgstr ""
+
+msgctxt "274464"
+msgid "Jesse Olaguez"
+msgstr ""
+
+msgctxt "274465"
+msgid "Josh Mueller"
+msgstr ""
+
+msgctxt "274466"
+msgid "Josh Yagi-Stanton"
+msgstr ""
+
+msgctxt "274467"
+msgid "Justin Dyke"
+msgstr ""
+
+msgctxt "274468"
+msgid "Kentaro Nishimura"
+msgstr ""
+
+msgctxt "274469"
+msgid "Kevin Stone"
+msgstr ""
+
+msgctxt "274470"
+msgid "Krystle Russell"
+msgstr ""
+
+msgctxt "274471"
+msgid "Madison Levitan"
+msgstr ""
+
+msgctxt "0103_0048"
+msgid "Mairo Small"
+msgstr ""
+
+msgctxt "0103_0049"
+msgid "Mark Glass"
+msgstr ""
+
+msgctxt "274472"
+msgid "Matthew Nunn"
+msgstr ""
+
+msgctxt "274473"
+msgid "Mel Marselle"
+msgstr ""
+
+msgctxt "274474"
+msgid "Micah Kenworthy"
+msgstr ""
+
+msgctxt "274475"
+msgid "Michael Sahlin"
+msgstr ""
+
+msgctxt "274476"
+msgid "Miyuki Matsunaga"
+msgstr ""
+
+msgctxt "274477"
+msgid "Nathan Hutchens"
+msgstr ""
+
+msgctxt "274478"
+msgid "Niels Skvarch"
+msgstr ""
+
+msgctxt "274479"
+msgid "Ondrej Lang"
+msgstr ""
+
+msgctxt "0103_0058"
+msgid "Pablo Reyes"
+msgstr ""
+
+msgctxt "0103_0059"
+msgid "Patricio Legras"
+msgstr ""
+
+msgctxt "274480"
+msgid "Q Dequina"
+msgstr ""
+
+msgctxt "274481"
+msgid "Rodrigo Bristol"
+msgstr ""
+
+msgctxt "274482"
+msgid "Ryan Christopherson"
+msgstr ""
+
+msgctxt "274483"
+msgid "Scott Bicknell"
+msgstr ""
+
+msgctxt "274484"
+msgid "Sean Egan"
+msgstr ""
+
+msgctxt "274485"
+msgid "Sean Taylor"
+msgstr ""
+
+msgctxt "274486"
+msgid "Seth Hanser"
+msgstr ""
+
+msgctxt "274487"
+msgid "Stephanie Fulsom"
+msgstr ""
+
+msgctxt "0103_0068"
+msgid "Stephen Langford"
+msgstr ""
+
+msgctxt "0103_0069"
+msgid "Taylor Simmons"
+msgstr ""
+
+msgctxt "274488"
+msgid "Tim Casey"
+msgstr ""
+
+msgctxt "274489"
+msgid "Tom Hanusa"
+msgstr ""
+
+msgctxt "274490"
+msgid "Tomoko Mikami"
+msgstr ""
+
+msgctxt "274491"
+msgid "Yuta O'Leary"
+msgstr ""
+
+msgctxt "274492"
+msgid "Zac Evans"
+msgstr ""
+
+msgctxt "0103_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0104"
+msgid "NOA COPY EDITING"
+msgstr ""
+
+msgctxt "278528"
+msgid "Alain Dautricourt"
+msgstr ""
+
+msgctxt "278529"
+msgid "Carolina Quesada"
+msgstr ""
+
+msgctxt "278530"
+msgid "Cristina Jauregui"
+msgstr ""
+
+msgctxt "278531"
+msgid "Erin Peterson"
+msgstr ""
+
+msgctxt "278532"
+msgid "Isaac Nickerson"
+msgstr ""
+
+msgctxt "278533"
+msgid "Julia Ryer"
+msgstr ""
+
+msgctxt "278534"
+msgid "Lorena Robinson"
+msgstr ""
+
+msgctxt "278535"
+msgid "Ludovic Tientcheu Ponkin"
+msgstr ""
+
+msgctxt "0104_0008"
+msgid "Michelle Astengo"
+msgstr ""
+
+msgctxt "0104_0009"
+msgid "Nicko Gonzalez De Santiago"
+msgstr ""
+
+msgctxt "278536"
+msgid "Sam AbouHarb"
+msgstr ""
+
+msgctxt "278537"
+msgid "Sara Hoad"
+msgstr ""
+
+msgctxt "278538"
+msgid "Sol Plata Loera"
+msgstr ""
+
+msgctxt "0104_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0105"
+msgid "ENGLISH VOICE DIRECTOR"
+msgstr ""
+
+msgctxt "282624"
+msgid "Jamie Mortellaro"
+msgstr ""
+
+msgctxt "0106"
+msgid "ENGLISH VOICE"
+msgstr ""
+
+msgctxt "286720"
+msgid "Amelia Gotham"
+msgstr ""
+
+msgctxt "286721"
+msgid "Andi Gibson"
+msgstr ""
+
+msgctxt "286722"
+msgid "Bill Rogers"
+msgstr ""
+
+msgctxt "286723"
+msgid "Elizabeth Maxwell"
+msgstr ""
+
+msgctxt "286724"
+msgid "Joe Hernandez"
+msgstr ""
+
+msgctxt "286725"
+msgid "Patricia Summersett"
+msgstr ""
+
+msgctxt "286726"
+msgid "Sean Chiplock"
+msgstr ""
+
+msgctxt "0106_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0107"
+msgid "NOA SPANISH VOICE DIRECTOR"
+msgstr ""
+
+msgctxt "290816"
+msgid "Xóchitl Ugarte"
+msgstr ""
+
+msgctxt "0108"
+msgid "NOA SPANISH VOICE"
+msgstr ""
+
+msgctxt "0108_0000"
+msgid "Alan Velázquez"
+msgstr ""
+
+msgctxt "0108_0001"
+msgid "Alondra Hidalgo"
+msgstr ""
+
+msgctxt "0108_0002"
+msgid "Edson Matus"
+msgstr ""
+
+msgctxt "0108_0003"
+msgid "Enzo Fortuny"
+msgstr ""
+
+msgctxt "0108_0004"
+msgid "Jessica Ángeles"
+msgstr ""
+
+msgctxt "0108_0005"
+msgid "Kerygma Flores"
+msgstr ""
+
+msgctxt "0108_0006"
+msgid "Monserrat Mendoza González"
+msgstr ""
+
+msgctxt "0108_0007"
+msgid "Octavio Rojas"
+msgstr ""
+
+msgctxt "0108_0008"
+msgid "Pepe Toño Macías"
+msgstr ""
+
+msgctxt "0108_0009"
+msgid "Ricardo Tejedo"
+msgstr ""
+
+msgctxt "0108_0010"
+msgid "Rubén Moya"
+msgstr ""
+
+msgctxt "0108_0011"
+msgid "Yolanda Vidal"
+msgstr ""
+
+msgctxt "0108_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0109"
+msgid "NOE LOCALISATION MANAGEMENT"
+msgstr ""
+
+msgctxt "0109_1000"
+msgid "Takashi Katagiri"
+msgstr ""
+
+msgctxt "0110"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "295424"
+msgid "William Romick"
+msgstr ""
+
+msgctxt "0110_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0111"
+msgid "NOE LOCALISATION PRODUCERS"
+msgstr ""
+
+msgctxt "299520"
+msgid "Fabrizio Cattaneo"
+msgstr ""
+
+msgctxt "0112"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "303616"
+msgid "Giaime Carbonara"
+msgstr ""
+
+msgctxt "0113"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "307712"
+msgid "Kevin Murray"
+msgstr ""
+
+msgctxt "0114"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "311808"
+msgid "Naiara Ordorika Ibarguengoitia"
+msgstr ""
+
+msgctxt "0114_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0115"
+msgid "NOE TRANSLATION"
+msgstr ""
+
+msgctxt "315392"
+msgid "Araceli Mazón Figueroa"
+msgstr ""
+
+msgctxt "315393"
+msgid "Daniel Idoine-Shirai"
+msgstr ""
+
+msgctxt "315394"
+msgid "Grace Yon"
+msgstr ""
+
+msgctxt "315395"
+msgid "Claudia Smith"
+msgstr ""
+
+msgctxt "315396"
+msgid "Greg T. Sadownik"
+msgstr ""
+
+msgctxt "315397"
+msgid "Anthony Fouillen"
+msgstr ""
+
+msgctxt "315398"
+msgid "Claire Stalter"
+msgstr ""
+
+msgctxt "315399"
+msgid "David Caussèque"
+msgstr ""
+
+msgctxt "0115_0008"
+msgid "Éric Primault"
+msgstr ""
+
+msgctxt "0115_0009"
+msgid "Gurvan Le Guen"
+msgstr ""
+
+msgctxt "315400"
+msgid "Jean-Paul Hausmann"
+msgstr ""
+
+msgctxt "315401"
+msgid "Laurent Godinot"
+msgstr ""
+
+msgctxt "315402"
+msgid "Natacha Faubert"
+msgstr ""
+
+msgctxt "315403"
+msgid "Pierre Galmiche"
+msgstr ""
+
+msgctxt "315404"
+msgid "Sabrina Jouillat"
+msgstr ""
+
+msgctxt "315405"
+msgid "Sylvain Gsell"
+msgstr ""
+
+msgctxt "315406"
+msgid "Véronique Schneider"
+msgstr ""
+
+msgctxt "315407"
+msgid "Adriano Antonini"
+msgstr ""
+
+msgctxt "0115_0018"
+msgid "Alessandro Pagano"
+msgstr ""
+
+msgctxt "0115_0019"
+msgid "Alessandro Tardito"
+msgstr ""
+
+msgctxt "315408"
+msgid "Anna Tarantini"
+msgstr ""
+
+msgctxt "315409"
+msgid "Barbara Pisani"
+msgstr ""
+
+msgctxt "315410"
+msgid "Bruno Gramigna"
+msgstr ""
+
+msgctxt "315411"
+msgid "Emanuele Tonetti"
+msgstr ""
+
+msgctxt "315412"
+msgid "Giacomo Iacumin"
+msgstr ""
+
+msgctxt "315413"
+msgid "Kent Robello"
+msgstr ""
+
+msgctxt "315414"
+msgid "Marco Morbin"
+msgstr ""
+
+msgctxt "315415"
+msgid "Mirko Capocelli"
+msgstr ""
+
+msgctxt "0115_0028"
+msgid "Vincenzo Russo"
+msgstr ""
+
+msgctxt "0115_0029"
+msgid "Arne Glinka"
+msgstr ""
+
+msgctxt "315416"
+msgid "Gunnar Friedrich"
+msgstr ""
+
+msgctxt "315417"
+msgid "Janine Wetherell"
+msgstr ""
+
+msgctxt "315418"
+msgid "Jessica Morandi"
+msgstr ""
+
+msgctxt "315419"
+msgid "Katharina Glowotz"
+msgstr ""
+
+msgctxt "315420"
+msgid "Katharina Mitteldorf"
+msgstr ""
+
+msgctxt "315421"
+msgid "Susanne Becker"
+msgstr ""
+
+msgctxt "315422"
+msgid "Sven Pötzl"
+msgstr ""
+
+msgctxt "315423"
+msgid "Ainhoa Bernad Hurtado"
+msgstr ""
+
+msgctxt "0115_0038"
+msgid "Álex Hernández-Puertas"
+msgstr ""
+
+msgctxt "0115_0039"
+msgid "Alfonso Díaz Jiménez"
+msgstr ""
+
+msgctxt "315424"
+msgid "Alicia Vega Lamela"
+msgstr ""
+
+msgctxt "315425"
+msgid "Ariel del Rio de Angelis"
+msgstr ""
+
+msgctxt "315426"
+msgid "Belén Wallace Puente"
+msgstr ""
+
+msgctxt "315427"
+msgid "Blanca Hueso Taulés"
+msgstr ""
+
+msgctxt "315428"
+msgid "Cristina Solà Picas"
+msgstr ""
+
+msgctxt "315429"
+msgid "Emilio Ros Casas"
+msgstr ""
+
+msgctxt "315430"
+msgid "Enrique Sánchez Rosa"
+msgstr ""
+
+msgctxt "315431"
+msgid "Jónatan Marcos Millán"
+msgstr ""
+
+msgctxt "0115_0048"
+msgid "Miguel Rodríguez Ramos"
+msgstr ""
+
+msgctxt "0115_0049"
+msgid "Pedro José Moreno Villar"
+msgstr ""
+
+msgctxt "315432"
+msgid "Raúl Guerrero Plaza"
+msgstr ""
+
+msgctxt "315433"
+msgid "Sara Sainz Nieto"
+msgstr ""
+
+msgctxt "315434"
+msgid "Carsten Harmans"
+msgstr ""
+
+msgctxt "315435"
+msgid "Christian Buter"
+msgstr ""
+
+msgctxt "315436"
+msgid "Marc Ambler"
+msgstr ""
+
+msgctxt "315437"
+msgid "Marijke Pustjens"
+msgstr ""
+
+msgctxt "315438"
+msgid "Mark Hoefsteders"
+msgstr ""
+
+msgctxt "315439"
+msgid "Patrick Koudstaal"
+msgstr ""
+
+msgctxt "0115_0058"
+msgid "Alexey Nikitin"
+msgstr ""
+
+msgctxt "0115_0059"
+msgid "Anton Ivanchikov"
+msgstr ""
+
+msgctxt "315440"
+msgid "Dmitrii Kaloev"
+msgstr ""
+
+msgctxt "315441"
+msgid "Elsa Jödicke"
+msgstr ""
+
+msgctxt "315442"
+msgid "Tatiana Dornbusch"
+msgstr ""
+
+msgctxt "315443"
+msgid "Victoria Valeria Becker"
+msgstr ""
+
+msgctxt "0115_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0116"
+msgid "NOE QUALITY ASSURANCE"
+msgstr ""
+
+msgctxt "319488"
+msgid "Oliver Müller"
+msgstr ""
+
+msgctxt "319489"
+msgid "Sebastian Donnerstag"
+msgstr ""
+
+msgctxt "319490"
+msgid "Patrick Thorenz"
+msgstr ""
+
+msgctxt "319491"
+msgid "Ángel Moreno Colmena"
+msgstr ""
+
+msgctxt "319492"
+msgid "Andrew Hall"
+msgstr ""
+
+msgctxt "319493"
+msgid "Anne-Rachel Ward"
+msgstr ""
+
+msgctxt "319494"
+msgid "Ben Howard-Hale"
+msgstr ""
+
+msgctxt "319495"
+msgid "Christopher Hannah"
+msgstr ""
+
+msgctxt "0116_0008"
+msgid "Christopher Stewart"
+msgstr ""
+
+msgctxt "0116_0009"
+msgid "David Green"
+msgstr ""
+
+msgctxt "319496"
+msgid "Paul Churchyard"
+msgstr ""
+
+msgctxt "319497"
+msgid "Damien Brichard"
+msgstr ""
+
+msgctxt "319498"
+msgid "Guillaume Deschamps"
+msgstr ""
+
+msgctxt "319499"
+msgid "Julien Llopart"
+msgstr ""
+
+msgctxt "319500"
+msgid "Laurence Uhlen"
+msgstr ""
+
+msgctxt "319501"
+msgid "Laurent Siddi"
+msgstr ""
+
+msgctxt "319502"
+msgid "Mathieu Springinsfeld"
+msgstr ""
+
+msgctxt "319503"
+msgid "Olivier Jacquemin-Guillaume"
+msgstr ""
+
+msgctxt "0116_0018"
+msgid "Yannick Carrey"
+msgstr ""
+
+msgctxt "0116_0019"
+msgid "Alessandro Crosa"
+msgstr ""
+
+msgctxt "319504"
+msgid "Andrea Marino"
+msgstr ""
+
+msgctxt "319505"
+msgid "Daniele Albrito"
+msgstr ""
+
+msgctxt "319506"
+msgid "Fabio Brignoli"
+msgstr ""
+
+msgctxt "319507"
+msgid "Matteo Marras"
+msgstr ""
+
+msgctxt "319508"
+msgid "Pasquale Gianluca Miceli"
+msgstr ""
+
+msgctxt "319509"
+msgid "Rita Di Lascio"
+msgstr ""
+
+msgctxt "319510"
+msgid "Veronica Casi"
+msgstr ""
+
+msgctxt "319511"
+msgid "Christina Stoffel"
+msgstr ""
+
+msgctxt "0116_0028"
+msgid "Edwin Kirschenmann"
+msgstr ""
+
+msgctxt "0116_0029"
+msgid "Hannah Siebert"
+msgstr ""
+
+msgctxt "319512"
+msgid "Peter Eiselt"
+msgstr ""
+
+msgctxt "319513"
+msgid "Sandra Pommer"
+msgstr ""
+
+msgctxt "319514"
+msgid "Sarah Nist"
+msgstr ""
+
+msgctxt "319515"
+msgid "Sebastian Jende"
+msgstr ""
+
+msgctxt "319516"
+msgid "Swen Harder"
+msgstr ""
+
+msgctxt "319517"
+msgid "Ángeles Garrido"
+msgstr ""
+
+msgctxt "319518"
+msgid "Jesús Gordo Martín"
+msgstr ""
+
+msgctxt "319519"
+msgid "Jorge Heras García"
+msgstr ""
+
+msgctxt "0116_0038"
+msgid "Julio Manzaneda Medina"
+msgstr ""
+
+msgctxt "0116_0039"
+msgid "Laura Soto Toral"
+msgstr ""
+
+msgctxt "319520"
+msgid "Lorena Gívica Pita"
+msgstr ""
+
+msgctxt "319521"
+msgid "Mercedes Dólera Hernández"
+msgstr ""
+
+msgctxt "319522"
+msgid "Miguel Ángel Carnero Calderón"
+msgstr ""
+
+msgctxt "319523"
+msgid "Joachim Lust"
+msgstr ""
+
+msgctxt "319524"
+msgid "Kristof Deboel"
+msgstr ""
+
+msgctxt "319525"
+msgid "Nils De Jonghe"
+msgstr ""
+
+msgctxt "319526"
+msgid "Nynke van der Sluis - Hemelrijk"
+msgstr ""
+
+msgctxt "319527"
+msgid "Roy van Landschoot"
+msgstr ""
+
+msgctxt "0116_0048"
+msgid "Roy van Zitteren"
+msgstr ""
+
+msgctxt "0116_0049"
+msgid "Stijn Lebon"
+msgstr ""
+
+msgctxt "319528"
+msgid "Alla Zinevych"
+msgstr ""
+
+msgctxt "319529"
+msgid "Anna Grunwald"
+msgstr ""
+
+msgctxt "319530"
+msgid "Ihar Havenka"
+msgstr ""
+
+msgctxt "319531"
+msgid "Inna Talalay"
+msgstr ""
+
+msgctxt "319532"
+msgid "Luba Dubilina"
+msgstr ""
+
+msgctxt "319533"
+msgid "Margarita Jabner"
+msgstr ""
+
+msgctxt "0116_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0117"
+msgid "NOE FRENCH VOICE DIRECTOR"
+msgstr ""
+
+msgctxt "323584"
+msgid "Nathalie Sionneau"
+msgstr ""
+
+msgctxt "0118"
+msgid "NOE FRENCH VOICE"
+msgstr ""
+
+msgctxt "0118_0000"
+msgid "Adeline Chetail"
+msgstr ""
+
+msgctxt "0118_0001"
+msgid "Benoît Dupac"
+msgstr ""
+
+msgctxt "0118_0002"
+msgid "Brigitte Aubry"
+msgstr ""
+
+msgctxt "0118_0003"
+msgid "Bruno Méyère"
+msgstr ""
+
+msgctxt "0118_0004"
+msgid "Caroline Mozzone"
+msgstr ""
+
+msgctxt "0118_0005"
+msgid "Charlyne Pestel"
+msgstr ""
+
+msgctxt "0118_0006"
+msgid "Donald Reignoux"
+msgstr ""
+
+msgctxt "0118_0007"
+msgid "Gérard Dessalles"
+msgstr ""
+
+msgctxt "0118_0008"
+msgid "Hervé Grull"
+msgstr ""
+
+msgctxt "0118_0009"
+msgid "Jérémie Covillault"
+msgstr ""
+
+msgctxt "0118_0010"
+msgid "Laëtitia Lefebvre"
+msgstr ""
+
+msgctxt "0118_0011"
+msgid "Sylvain Lemarié"
+msgstr ""
+
+msgctxt "0118_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0119"
+msgid "NOE ITALIAN VOICE DIRECTOR"
+msgstr ""
+
+msgctxt "0119_0000"
+msgid "Alessandro Ricci"
+msgstr ""
+
+msgctxt "0120"
+msgid "NOE ITALIAN VOICE"
+msgstr ""
+
+msgctxt "327680"
+msgid "Alessandro Germano"
+msgstr ""
+
+msgctxt "327681"
+msgid "Elisabetta Cesone"
+msgstr ""
+
+msgctxt "327682"
+msgid "Marco Balbi"
+msgstr ""
+
+msgctxt "327683"
+msgid "Martina Felli"
+msgstr ""
+
+msgctxt "327684"
+msgid "Massimiliano Lotti"
+msgstr ""
+
+msgctxt "327685"
+msgid "Massimo Di Benedetto"
+msgstr ""
+
+msgctxt "327686"
+msgid "Natale Ciravolo"
+msgstr ""
+
+msgctxt "327687"
+msgid "Paolo De Santis"
+msgstr ""
+
+msgctxt "0120_0008"
+msgid "Pietro Ubaldi"
+msgstr ""
+
+msgctxt "0120_0009"
+msgid "Sabrina Bonfitto"
+msgstr ""
+
+msgctxt "327688"
+msgid "Tania De Domenico"
+msgstr ""
+
+msgctxt "327689"
+msgid "Tiziana Martello"
+msgstr ""
+
+msgctxt "0120_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0121"
+msgid "NOE GERMAN VOICE DIRECTOR"
+msgstr ""
+
+msgctxt "331776"
+msgid "Sven Plate"
+msgstr ""
+
+msgctxt "0122"
+msgid "NOE GERMAN VOICE"
+msgstr ""
+
+msgctxt "335872"
+msgid "Christian Zeiger"
+msgstr ""
+
+msgctxt "335873"
+msgid "Cornelia Waibel"
+msgstr ""
+
+msgctxt "335874"
+msgid "Dirk Petrick"
+msgstr ""
+
+msgctxt "335875"
+msgid "Helmut Krauss"
+msgstr ""
+
+msgctxt "335876"
+msgid "Julia Casper"
+msgstr ""
+
+msgctxt "335877"
+msgid "Magdalena Turba"
+msgstr ""
+
+msgctxt "335878"
+msgid "Nic Romm"
+msgstr ""
+
+msgctxt "335879"
+msgid "Nora Jokhosha"
+msgstr ""
+
+msgctxt "0122_0008"
+msgid "Reinhard Scheunemann"
+msgstr ""
+
+msgctxt "0122_0009"
+msgid "René Dawn-Claude"
+msgstr ""
+
+msgctxt "335880"
+msgid "Silke Matthias"
+msgstr ""
+
+msgctxt "335881"
+msgid "Thomas Schmuckert"
+msgstr ""
+
+msgctxt "0122_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0123"
+msgid "NOE SPANISH VOICE DIRECTOR"
+msgstr ""
+
+msgctxt "339968"
+msgid "Guillermo Reinlein"
+msgstr ""
+
+msgctxt "0124"
+msgid "NOE SPANISH VOICE"
+msgstr ""
+
+msgctxt "344064"
+msgid "Carles Lladó"
+msgstr ""
+
+msgctxt "344065"
+msgid "Domènec Farell"
+msgstr ""
+
+msgctxt "344066"
+msgid "Joël Mulachs"
+msgstr ""
+
+msgctxt "344067"
+msgid "Laura Monedero"
+msgstr ""
+
+msgctxt "344068"
+msgid "Manel Gimeno"
+msgstr ""
+
+msgctxt "344069"
+msgid "Marcel Navarro"
+msgstr ""
+
+msgctxt "344070"
+msgid "Maria Luisa Maganya"
+msgstr ""
+
+msgctxt "344071"
+msgid "Marta Barbará"
+msgstr ""
+
+msgctxt "0124_0008"
+msgid "Nerea Alfonso"
+msgstr ""
+
+msgctxt "0124_0009"
+msgid "Pepe Antequera"
+msgstr ""
+
+msgctxt "344072"
+msgid "Ramón Canals"
+msgstr ""
+
+msgctxt "344073"
+msgid "Sergio Mesa"
+msgstr ""
+
+msgctxt "0124_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0125"
+msgid "NOE RUSSIAN VOICE DIRECTOR"
+msgstr ""
+
+msgctxt "348160"
+msgid "Anastasiya Biryukova"
+msgstr ""
+
+msgctxt "0126"
+msgid "NOE RUSSIAN VOICE"
+msgstr ""
+
+msgctxt "352256"
+msgid "Alexander Gruzdev"
+msgstr ""
+
+msgctxt "352257"
+msgid "Anastasiya Shestovskaya"
+msgstr ""
+
+msgctxt "352258"
+msgid "Elena Shulman"
+msgstr ""
+
+msgctxt "352259"
+msgid "Maria Ivaschenko"
+msgstr ""
+
+msgctxt "352260"
+msgid "Maxim Onischenko"
+msgstr ""
+
+msgctxt "352261"
+msgid "Natalya Gracheva"
+msgstr ""
+
+msgctxt "352262"
+msgid "Nikita Prozorovsky"
+msgstr ""
+
+msgctxt "352263"
+msgid "Nikolay Bystrov"
+msgstr ""
+
+msgctxt "0126_0008"
+msgid "Polina Tarasova"
+msgstr ""
+
+msgctxt "0126_0009"
+msgid "Prokhor Chekhovskoy"
+msgstr ""
+
+msgctxt "352264"
+msgid "Sergey Chikhachev"
+msgstr ""
+
+msgctxt "352265"
+msgid "Stanislav Tikunov"
+msgstr ""
+
+msgctxt "0126_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0127"
+msgid "CHINESE / KOREAN LOCALIZATION"
+msgstr ""
+
+msgctxt "356352"
+msgid "Jonghoon Park"
+msgstr ""
+
+msgctxt "356353"
+msgid "Keisuke Fukushima"
+msgstr ""
+
+msgctxt "356354"
+msgid "Yuan Jun"
+msgstr ""
+
+msgctxt "356355"
+msgid "Qiu Xiaochun"
+msgstr ""
+
+msgctxt "356356"
+msgid "Zhang Xi"
+msgstr ""
+
+msgctxt "356357"
+msgid "Xu Ming"
+msgstr ""
+
+msgctxt "356358"
+msgid "Zhang Jiong"
+msgstr ""
+
+msgctxt "356359"
+msgid "Yan Gang"
+msgstr ""
+
+msgctxt "0127_0008"
+msgid "Hu Huiming"
+msgstr ""
+
+msgctxt "0127_0009"
+msgid "Yan Deguang"
+msgstr ""
+
+msgctxt "356360"
+msgid "Ling Yayun"
+msgstr ""
+
+msgctxt "356361"
+msgid "Peng Yi"
+msgstr ""
+
+msgctxt "356362"
+msgid "Umemura Eiju"
+msgstr ""
+
+msgctxt "356363"
+msgid "Claudia Chan"
+msgstr ""
+
+msgctxt "356364"
+msgid "Sean Shen"
+msgstr ""
+
+msgctxt "356365"
+msgid "Jung Hyokjin"
+msgstr ""
+
+msgctxt "356366"
+msgid "Kim Soonil"
+msgstr ""
+
+msgctxt "356367"
+msgid "Kim Dongyeon"
+msgstr ""
+
+msgctxt "0127_0018"
+msgid "Yoo Jihyuen"
+msgstr ""
+
+msgctxt "0127_0019"
+msgid "Kim Jongeun"
+msgstr ""
+
+msgctxt "356368"
+msgid "Na Kyoungim"
+msgstr ""
+
+msgctxt "356369"
+msgid "Seoung Kiung"
+msgstr ""
+
+msgctxt "356370"
+msgid "Jerom Barnes"
+msgstr ""
+
+msgctxt "356371"
+msgid "Liu Shu"
+msgstr ""
+
+msgctxt "356372"
+msgid "Liu Tzu-yun"
+msgstr ""
+
+msgctxt "0127_SPACE_02"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0128"
+msgid "PRODUCTION ASSISTANTS"
+msgstr ""
+
+msgctxt "0128_0000"
+msgid "Takako Shijo"
+msgstr ""
+
+msgctxt "0128_0001"
+msgid "Keiko Fukushima"
+msgstr ""
+
+msgctxt "0128_0002"
+msgid "Hidenori Shimizu"
+msgstr ""
+
+msgctxt "0128_0003"
+msgid "Takahiro Tsuzuki"
+msgstr ""
+
+msgctxt "0128_0004"
+msgid "Yurie Ogasawara"
+msgstr ""
+
+msgctxt "0128_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0129"
+msgid "ASSOCIATE MANAGEMENT"
+msgstr ""
+
+msgctxt "0129_1000"
+msgid "Shigekazu Yamada"
+msgstr ""
+
+msgctxt "0130"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "360960"
+msgid "Norihiro Takami"
+msgstr ""
+
+msgctxt "0131"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "365056"
+msgid "Hiroshi Uchiyama"
+msgstr ""
+
+msgctxt "0131_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0132"
+msgid "SUPERVISORS"
+msgstr ""
+
+msgctxt "368640"
+msgid "Takashi Tezuka"
+msgstr ""
+
+msgctxt "368641"
+msgid "Kenji Yamamoto"
+msgstr ""
+
+msgctxt "368642"
+msgid "Yoshiki Haruhana"
+msgstr ""
+
+msgctxt "368643"
+msgid "Toshihiko Nakago"
+msgstr ""
+
+msgctxt "368644"
+msgid "Toshio Iwawaki"
+msgstr ""
+
+msgctxt "368645"
+msgid "Kazuaki Morita"
+msgstr ""
+
+msgctxt "368646"
+msgid "Yuji Sawatani"
+msgstr ""
+
+msgctxt "0132_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0133"
+msgid "ASSISTANT PRODUCER"
+msgstr ""
+
+msgctxt "372736"
+msgid "Makoto Miyanaga"
+msgstr ""
+
+msgctxt "0133_SPACE_02"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0134"
+msgid "SPECIAL THANKS"
+msgstr ""
+
+msgctxt "376832"
+msgid "Ryoji Yoshitomi"
+msgstr ""
+
+msgctxt "376833"
+msgid "Mahito Yokota"
+msgstr ""
+
+msgctxt "376834"
+msgid "Megumi Inoue"
+msgstr ""
+
+msgctxt "376835"
+msgid "Kunio Watanabe"
+msgstr ""
+
+msgctxt "376836"
+msgid "Tokihiko Toyoda"
+msgstr ""
+
+msgctxt "376837"
+msgid "Michiko Iwasawa"
+msgstr ""
+
+msgctxt "376838"
+msgid "Atsushi Haneda"
+msgstr ""
+
+msgctxt "376839"
+msgid "Yasushi Ebisawa"
+msgstr ""
+
+msgctxt "0134_0008"
+msgid "Yuya Takezawa"
+msgstr ""
+
+msgctxt "0134_0009"
+msgid "Yoshimi Matsukawa"
+msgstr ""
+
+msgctxt "376840"
+msgid "Hirohide Sugiura"
+msgstr ""
+
+msgctxt "376841"
+msgid "Tomohiro Hagiwara"
+msgstr ""
+
+msgctxt "376842"
+msgid "Yasuyuki Honne"
+msgstr ""
+
+msgctxt "376843"
+msgid "Tadashi Nomura"
+msgstr ""
+
+msgctxt "376844"
+msgid "Haruyasu Akagi"
+msgstr ""
+
+msgctxt "376845"
+msgid "Jun Arai"
+msgstr ""
+
+msgctxt "376846"
+msgid "Hideyasu Ishihara"
+msgstr ""
+
+msgctxt "376847"
+msgid "Hiroshi Kasajima"
+msgstr ""
+
+msgctxt "0134_0018"
+msgid "Shigehiro Okita"
+msgstr ""
+
+msgctxt "0134_0019"
+msgid "Koichi Kishimoto"
+msgstr ""
+
+msgctxt "376848"
+msgid "Taiyo Sato"
+msgstr ""
+
+msgctxt "376849"
+msgid "Yasuhiko Samekawa"
+msgstr ""
+
+msgctxt "376850"
+msgid "Tomoyoshi Nagai"
+msgstr ""
+
+msgctxt "376851"
+msgid "Takumi Mizuno"
+msgstr ""
+
+msgctxt "376852"
+msgid "Hiroki Yoshioka"
+msgstr ""
+
+msgctxt "376853"
+msgid "Daisuke Yoneyama"
+msgstr ""
+
+msgctxt "376854"
+msgid "Jeff Miller"
+msgstr ""
+
+msgctxt "376855"
+msgid "Kosuke Yamashita"
+msgstr ""
+
+msgctxt "0134_0028"
+msgid "Hisashi Shibata"
+msgstr ""
+
+msgctxt "0134_0029"
+msgid "Takeshi Wakasugi"
+msgstr ""
+
+msgctxt "376856"
+msgid "Kazuto Shimizu"
+msgstr ""
+
+msgctxt "376857"
+msgid "Takeshi Kawasaki"
+msgstr ""
+
+msgctxt "0134_SPACE_01"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0135"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "381440"
+msgid "NintendoSDK Development Team"
+msgstr ""
+
+msgctxt "0136"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "385536"
+msgid "SRD Co., Ltd."
+msgstr ""
+
+msgctxt "0137"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "389632"
+msgid "MONOLITHSOFTWARE INC."
+msgstr ""
+
+msgctxt "0138"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0138_1000"
+msgid "anima Inc."
+msgstr ""
+
+msgctxt "0139"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0139_1000"
+msgid "AnimationCafe INC."
+msgstr ""
+
+msgctxt "0140"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "393728"
+msgid "AVANT Inc."
+msgstr ""
+
+msgctxt "0141"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "397824"
+msgid "charabans,inc."
+msgstr ""
+
+msgctxt "0142"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "401920"
+msgid "Digital Environment Creations Inc."
+msgstr ""
+
+msgctxt "0143"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "406016"
+msgid "Digital Frontier Inc."
+msgstr ""
+
+msgctxt "0144"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "410112"
+msgid "ENIGMAX? Co., Ltd."
+msgstr ""
+
+msgctxt "0145"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "414208"
+msgid "GART 3DCG STUDIO Inc."
+msgstr ""
+
+msgctxt "0146"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "418304"
+msgid "Graphinica, Inc."
+msgstr ""
+
+msgctxt "0147"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "422400"
+msgid "IMAGICA DIGITALSCAPE Co.,Ltd. / BAUHAUS ENTERTAINMENT"
+msgstr ""
+
+msgctxt "0148"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0148_1000"
+msgid "ModelingCafe INC."
+msgstr ""
+
+msgctxt "0149"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0149_1000"
+msgid "NAC Inc."
+msgstr ""
+
+msgctxt "0150"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "426496"
+msgid "Q'tron,Inc."
+msgstr ""
+
+msgctxt "0151"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "430592"
+msgid "quack-luck Inc."
+msgstr ""
+
+msgctxt "0152"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "434688"
+msgid "SEVEN DREAMS INC."
+msgstr ""
+
+msgctxt "0153"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "438784"
+msgid "TOSE CO., LTD."
+msgstr ""
+
+msgctxt "0154"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "442880"
+msgid "Twenty Eleven Co.Ltd."
+msgstr ""
+
+msgctxt "0155"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "446976"
+msgid "WITCHCRAFT Inc."
+msgstr ""
+
+msgctxt "0156"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "451072"
+msgid "Mario Club Co., Ltd."
+msgstr ""
+
+msgctxt "0157"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "455168"
+msgid "DIGITAL Hearts Co., Ltd."
+msgstr ""
+
+msgctxt "0158"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0158_1000"
+msgid "Kenproduction Co., Ltd."
+msgstr ""
+
+msgctxt "0159"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0159_1000"
+msgid "ARTSVISION Co.,Ltd."
+msgstr ""
+
+msgctxt "0160"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "459264"
+msgid "Sound Racer Ltd."
+msgstr ""
+
+msgctxt "0161"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "463360"
+msgid "Ventuno Inc."
+msgstr ""
+
+msgctxt "0162"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "467456"
+msgid "Face Music"
+msgstr ""
+
+msgctxt "0163"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "471552"
+msgid "Formosa Group"
+msgstr ""
+
+msgctxt "0164"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "475648"
+msgid "KiteTeam a Keywords Studio"
+msgstr ""
+
+msgctxt "0165"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "479744"
+msgid "SIDE UK"
+msgstr ""
+
+msgctxt "0166"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "483840"
+msgid "Keywords Studios"
+msgstr ""
+
+msgctxt "0167"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "487936"
+msgid "Pole To Win Korea Co., Ltd."
+msgstr ""
+
+msgctxt "0167_SPACE_03"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0168"
+msgid "PRODUCER"
+msgstr ""
+
+msgctxt "0168_0000"
+msgid "Eiji Aonuma"
+msgstr ""
+
+msgctxt "0168_SPACE_03"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0169"
+msgid "GENERAL PRODUCERS"
+msgstr ""
+
+msgctxt "0169_1000"
+msgid "Shigeru Miyamoto"
+msgstr ""
+
+msgctxt "0170"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "492032"
+msgid "Shinya Takahashi"
+msgstr ""
+
+msgctxt "0170_SPACE_03"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "0171"
+msgid "EXECUTIVE PRODUCERS"
+msgstr ""
+
+msgctxt "496128"
+msgid "Tatsumi Kimishima"
+msgstr ""
+
+msgctxt "0172"
+msgid "<NO_STRING>"
+msgstr ""
+
+msgctxt "500224"
+msgid "Satoru Iwata"
+msgstr ""
+

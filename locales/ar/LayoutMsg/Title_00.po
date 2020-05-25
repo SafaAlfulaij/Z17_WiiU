@@ -1,0 +1,52 @@
+msgctxt "0000"
+msgid "Continue"
+msgstr ""
+
+msgctxt "0001"
+msgid "New Game"
+msgstr ""
+
+msgctxt "0002"
+msgid "Options"
+msgstr ""
+
+msgctxt "0003"
+msgid "amiibo"
+msgstr ""
+
+msgctxt "0004"
+msgid "Downloadable Content"
+msgstr ""
+
+msgctxt "0005"
+msgid "DLC Purchased"
+msgstr ""
+
+msgctxt "0009"
+msgid "Play in Master Mode"
+msgstr ""
+
+msgctxt "0010"
+msgid "Play in Normal Mode"
+msgstr ""
+
+msgctxt "0011"
+msgid "In-Store Demo"
+msgstr ""
+
+msgctxt "0012"
+msgid "Start from Forest of Spirits"
+msgstr ""
+
+msgctxt "0013"
+msgid "Start from the beginning"
+msgstr ""
+
+msgctxt "T_C_01"
+msgid "©"
+msgstr ""
+
+msgctxt "T_DummyText_00"
+msgid "Master Mode"
+msgstr ""
+
