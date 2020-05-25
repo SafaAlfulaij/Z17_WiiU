@@ -1,3 +1,12 @@
+# 
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-25 05:58+0000\n"
+"Last-Translator: g.laureat <g.laureat@gmail.com>\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+"X-Generator: Pontoon\n"
+
 #. 1: text_size
 #. 2: font
 #. 3: font
@@ -12,7 +21,7 @@ msgstr ""
 #. 4: text_size
 msgctxt "0001"
 msgid "<1.te_si><2.fo>Lake Kolomo<3.fo><4.te_si>"
-msgstr ""
+msgstr "بحيرة كولومو"
 
 #. 1: text_size
 #. 2: font
@@ -99,4 +108,3 @@ msgid ""
 "The Sheikah Slate data has\n"
 "been damaged."
 msgstr ""
-
