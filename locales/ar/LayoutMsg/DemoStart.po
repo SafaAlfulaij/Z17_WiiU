@@ -1,4 +1,0 @@
-msgctxt "T_Start_00"
-msgid "Start"
-msgstr ""
-

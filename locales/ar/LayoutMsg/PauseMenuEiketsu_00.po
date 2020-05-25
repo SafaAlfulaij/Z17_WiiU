@@ -1,8 +1,0 @@
-msgctxt "Pa_Btn_00-T_Btn_00"
-msgid "Cancel"
-msgstr ""
-
-msgctxt "T_Text_00"
-msgid "Cannot be used now."
-msgstr ""
-

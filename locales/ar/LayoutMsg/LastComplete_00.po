@@ -1,4 +1,0 @@
-msgctxt "T_DummyText_00"
-msgid "Complete"
-msgstr ""
-

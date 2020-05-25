@@ -1,4 +1,0 @@
-msgctxt "T_Guide_00"
-msgid "Close"
-msgstr ""
-

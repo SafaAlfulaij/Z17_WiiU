@@ -1,4 +1,0 @@
-msgctxt "Pa_PickUpWin_00-T_Guide_00"
-msgid "Inventory"
-msgstr ""
-

@@ -1,4 +1,0 @@
-msgctxt "PorchFullText00"
-msgid "Your inventory is full."
-msgstr ""
-

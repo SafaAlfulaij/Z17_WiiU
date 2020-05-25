@@ -1,4 +1,0 @@
-msgctxt "T_Question_00"
-msgid "Name your horse."
-msgstr ""
-

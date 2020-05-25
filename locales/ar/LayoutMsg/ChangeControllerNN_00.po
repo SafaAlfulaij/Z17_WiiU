@@ -1,4 +1,0 @@
-msgctxt "T_Text_00"
-msgid "The Joy-Con grip accessory is recommended when playing."
-msgstr ""
-
